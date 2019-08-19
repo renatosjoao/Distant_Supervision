@@ -1,0 +1,59 @@
+tw_60.txt	joe torre	27	joe torre	0.7346417
+tw_117.txt	ebgp	54	border gateway protocol	0.69847775
+tw_169.txt	pretty little liars	31	pretty little liars	0.69528997
+tw_41.txt	sea inside	116	the sea inside	0.6918539
+tw_126.txt	marvin gaye	14	marvin gaye	0.6902
+tw_60.txt	don mattingly	0	don mattingly	0.6882333
+tw_160.txt	netflix	75	netflix	0.6827047
+tw_66.txt	xbox 360	0	xbox 360	0.68158
+tw_37.txt	yhoo.it	124	yahoo!	0.67560554
+tw_70.txt	mayday parade	0	mayday parade	0.66863
+tw_66.txt	playstation network	55	playstation network	0.66275
+tw_41.txt	rachel weisz	133	rachel weisz	0.65475
+tw_160.txt	time warner cable	0	time warner cable	0.65450996
+tw_139.txt	paris hilton	51	paris hilton	0.643135
+tw_18.txt	kings of leon	30	kings of leon	0.631375
+tw_47.txt	steve king	16	steve king	0.6279286
+tw_160.txt	epix	29	epix	0.6271545
+tw_117.txt	ibgp	45	border gateway protocol	0.6270492
+tw_36.txt	jermaine dupri	35	jermaine dupri	0.62656367
+tw_28.txt	ed miliband	71	ed miliband	0.625885
+tw_130.txt	soulja boy	0	soulja boy	0.62380713
+tw_130.txt	deandre way	38	soulja boy	0.62380713
+tw_97.txt	john henry newman	29	john henry newman	0.6217833
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	0.6204778
+tw_139.txt	miley cyrus	5	miley cyrus	0.620395
+tw_24.txt	fb.me	120	facebook	0.61911875
+tw_23.txt	brett favre	128	brett favre	0.61904997
+tw_181.txt	lady gaga	44	lady gaga	0.618235
+tw_115.txt	fb.me	45	facebook	0.611775
+tw_159.txt	30stm	29	thirty seconds to mars	0.61117
+tw_49.txt	family guy	27	family guy	0.61046666
+tw_11.txt	rick ross	32	rick ross	0.608815
+tw_124.txt	margaret hamburg	90	margaret hamburg	0.60653335
+tw_80.txt	fb.me	125	facebook	0.60412
+tw_66.txt	enslaved: odyssey to the west	10	enslaved: odyssey to the west	0.6
+tw_157.txt	justin bieber	42	justin bieber	0.599675
+tw_181.txt	kid cudi	0	kid cudi	0.59862
+tw_36.txt	mannie fresh	18	mannie fresh	0.59714997
+tw_44.txt	tell ' em steve dave	24	tell 'em steve-dave!	0.5941167
+tw_89.txt	miami heat	66	miami heat	0.59058
+tw_35.txt	three days grace	24	three days grace	0.5864889
+tw_131.txt	joaquin phoenix	3	joaquin phoenix	0.58645
+tw_41.txt	mar adentro	95	the sea inside	0.58209777
+tw_1.txt	fb.me	125	facebook	0.5819357
+tw_71.txt	htc desire z	21	htc desire z	0.58088124
+tw_143.txt	barbara boxer	50	barbara boxer	0.5796773
+tw_137.txt	fall out boy	52	fall out boy	0.57961
+tw_38.txt	ray rice	46	ray rice	0.57745
+tw_172.txt	sky news	41	sky news	0.5730926
+tw_55.txt	amzn	121	amazon.com	0.5728
+tw_118.txt	branchout	29	branchout	0.5707286
+tw_156.txt	serie a	29	serie a	0.5705875
+tw_55.txt	you get what you give	0	you get what you give (album)	0.56470627
+tw_158.txt	hyper v	41	hyper-v	0.5645512
+tw_55.txt	zac brown band	23	zac brown band	0.5644625
+tw_121.txt	ufc	112	ultimate fighting championship	0.5639539
+tw_7.txt	sun, sand, surf	59	surf culture	0.5632375
+tw_19.txt	piranha 3d	54	piranha 3d	0.55995
+tw_105.txt	fb.me	120	facebook	0.55918634

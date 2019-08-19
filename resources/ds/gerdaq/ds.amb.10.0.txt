@@ -1,0 +1,117 @@
+http:__gerdaq_gerdaq_trainingb.xml_99	singapore	34	singapore dollar	1.0
+http:__gerdaq_gerdaq_trainingb.xml_99	electricity consumption	4	electric energy consumption	1.0
+http:__gerdaq_gerdaq_trainingb.xml_97	merchandise	0	merchandising	1.0
+http:__gerdaq_gerdaq_trainingb.xml_96	exams	15	test (assessment)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	golf tournament	4	golf	1.0
+http:__gerdaq_gerdaq_trainingb.xml_9	hotels	8	hotel	1.0
+http:__gerdaq_gerdaq_trainingb.xml_89	rogers	0	rogers department store	1.0
+http:__gerdaq_gerdaq_trainingb.xml_86	wayland	0	wayland (display server protocol)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_83	birth control	14	birth control	1.0
+http:__gerdaq_gerdaq_trainingb.xml_78	lasik surgery	0	lasik	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	parts	17	south hampton roads	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	throwback	21	throwback uniform	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	landy	15	landy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_75	epoxide	0	epoxide	1.0
+http:__gerdaq_gerdaq_trainingb.xml_74	tavern	0	tavern	1.0
+http:__gerdaq_gerdaq_trainingb.xml_71	song lyrics	7	lyrics	1.0
+http:__gerdaq_gerdaq_trainingb.xml_70	cliff	6	cliff	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	wages	18	wage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_63	cottages	0	cottage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	tv show	10	television show	1.0
+http:__gerdaq_gerdaq_trainingb.xml_51	home health care	12	home care	1.0
+http:__gerdaq_gerdaq_trainingb.xml_44	dance connection	0	connection (dance)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_42	county school	5	community school (england and wales)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_41	commercial building	0	commercial building	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston	0	river oaks international tennis tournament	1.0
+http:__gerdaq_gerdaq_trainingb.xml_38	tgp	11	thumbnail gallery post	1.0
+http:__gerdaq_gerdaq_trainingb.xml_37	calender	9	calender	1.0
+http:__gerdaq_gerdaq_trainingb.xml_35	newspaper	10	newspaper	1.0
+http:__gerdaq_gerdaq_trainingb.xml_32	chad	0	chad (paper)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_31	rental	10	renting	1.0
+http:__gerdaq_gerdaq_trainingb.xml_29	clothing	0	clothing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_27	regency	0	subdivisions of indonesia	1.0
+http:__gerdaq_gerdaq_trainingb.xml_245	uzi	16	uzi	1.0
+http:__gerdaq_gerdaq_trainingb.xml_244	computer memory	0	computer memory	1.0
+http:__gerdaq_gerdaq_trainingb.xml_243	cattery	5	cattery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_242	radio frequency	0	radio frequency	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	subordinate	26	hierarchy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	recommendation letter	0	recommendation letter	1.0
+http:__gerdaq_gerdaq_trainingb.xml_24	bahia	0	brasil open	1.0
+http:__gerdaq_gerdaq_trainingb.xml_237	miles	0	knight	1.0
+http:__gerdaq_gerdaq_trainingb.xml_233	shaolin temple	8	shaolin monastery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_232	highschool	17	high school (north america)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_227	unsigned artist	0	unsigned artist	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	wichita	27	wichita language	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	marriott	13	marriott, saskatchewan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_225	silkscreens	16	screen printing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	danger	23	risk	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	air purifier	0	air purifier	1.0
+http:__gerdaq_gerdaq_trainingb.xml_215	planes	0	plane (geometry)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_214	valkyrie	8	valkyrie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_21	media buyer	0	media buying	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	motor vehicles	30	motor vehicle	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	dept	22	dept (medicine)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_205	weather station	22	weather station	1.0
+http:__gerdaq_gerdaq_trainingb.xml_204	driving	6	driving (horse)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_202	chainsaw	24	chainsaw	1.0
+http:__gerdaq_gerdaq_trainingb.xml_199	year	26	year	1.0
+http:__gerdaq_gerdaq_trainingb.xml_195	golf shirts	0	polo shirt	1.0
+http:__gerdaq_gerdaq_trainingb.xml_195	chicago	12	chicago house	1.0
+http:__gerdaq_gerdaq_trainingb.xml_194	biography	19	pulitzer prize for biography or autobiography	1.0
+http:__gerdaq_gerdaq_trainingb.xml_192	tornadoes	9	tornado	1.0
+http:__gerdaq_gerdaq_trainingb.xml_191	skeletons	17	skeleton (undead)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_189	clinics	16	clinic	1.0
+http:__gerdaq_gerdaq_trainingb.xml_185	custom car	0	custom car	1.0
+http:__gerdaq_gerdaq_trainingb.xml_183	health center	13	community health center	1.0
+http:__gerdaq_gerdaq_trainingb.xml_175	ford ranger	0	ford ranger (t6)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_173	handbag	11	handbag	1.0
+http:__gerdaq_gerdaq_trainingb.xml_172	turbine engines	6	turbine	1.0
+http:__gerdaq_gerdaq_trainingb.xml_171	benefits	19	insurance	1.0
+http:__gerdaq_gerdaq_trainingb.xml_17	rope	0	rope	1.0
+http:__gerdaq_gerdaq_trainingb.xml_17	beer	5	beer	1.0
+http:__gerdaq_gerdaq_trainingb.xml_167	prostate	0	prostate cancer	1.0
+http:__gerdaq_gerdaq_trainingb.xml_164	kindergarten	27	kindergarten	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	institute	4	institute	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	bce	0	bell canada	1.0
+http:__gerdaq_gerdaq_trainingb.xml_159	weddings	14	wedding	1.0
+http:__gerdaq_gerdaq_trainingb.xml_155	cramping	15	cramp	1.0
+http:__gerdaq_gerdaq_trainingb.xml_153	insurance companies	16	insurance	1.0
+http:__gerdaq_gerdaq_trainingb.xml_15	mobilehome	9	mobile home	1.0
+http:__gerdaq_gerdaq_trainingb.xml_148	apartments	5	apartment	1.0
+http:__gerdaq_gerdaq_trainingb.xml_147	driver license	10	driver's license	1.0
+http:__gerdaq_gerdaq_trainingb.xml_145	cheats	31	cheating in video games	1.0
+http:__gerdaq_gerdaq_trainingb.xml_142	rookies	9	rookie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_14	illness	13	disease	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	menagerie	56	menagerie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_137	fountain	24	sentosa musical fountain	1.0
+http:__gerdaq_gerdaq_trainingb.xml_130	places	6	location (geography)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_128	bottle top	0	bottle cap	1.0
+http:__gerdaq_gerdaq_trainingb.xml_124	medical maintenance	0	biomedical equipment technician	1.0
+http:__gerdaq_gerdaq_trainingb.xml_121	characteristics	0	characteristic (algebra)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_117	macc	0	master of accountancy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_11	moulding	10	molding (process)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_109	lithosphere	19	lithosphere	1.0
+http:__gerdaq_gerdaq_trainingb.xml_109	learning	10	machine learning	1.0
+http:__gerdaq_gerdaq_trainingb.xml_107	num	23	num (god)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_107	num	17	num (god)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_105	public library	14	public library	1.0
+http:__gerdaq_gerdaq_trainingb.xml_0	fan sites	21	fansite	1.0
+http:__gerdaq_gerdaq_traininga.xml_99	nasopharyngeal	14	nasopharyngeal airway	1.0
+http:__gerdaq_gerdaq_traininga.xml_97	resorts	12	resort	1.0
+http:__gerdaq_gerdaq_traininga.xml_93	mat	18	mat	1.0
+http:__gerdaq_gerdaq_traininga.xml_92	hopper	12	hopper car	1.0
+http:__gerdaq_gerdaq_traininga.xml_90	apartments	13	apartment	1.0
+http:__gerdaq_gerdaq_traininga.xml_9	army surplus	9	military surplus	1.0
+http:__gerdaq_gerdaq_traininga.xml_86	goverment	3	government	1.0
+http:__gerdaq_gerdaq_traininga.xml_81	documents	5	document	1.0
+http:__gerdaq_gerdaq_traininga.xml_80	values	7	value (ethics)	1.0
+http:__gerdaq_gerdaq_traininga.xml_79	yang	9	kao kalia yang	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	valentine	5	valentine, texas	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	photos	32	photograph	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	maker	20	god	1.0
+http:__gerdaq_gerdaq_traininga.xml_75	year	48	year	1.0
+http:__gerdaq_gerdaq_traininga.xml_75	jello	15	jell-o	1.0
+http:__gerdaq_gerdaq_traininga.xml_74	hall of fame	16	icc cricket hall of fame	1.0
+http:__gerdaq_gerdaq_traininga.xml_73	york	19	avro york	1.0
+http:__gerdaq_gerdaq_traininga.xml_70	newspapers	9	newspaper	1.0

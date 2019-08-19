@@ -1,0 +1,76 @@
+-docstart- (41 pol01)	ping-pong diplomacy	58	ping-pong diplomacy	0.78000003
+-docstart- (43 pol03)	enola gay	4	enola gay	0.7171625
+-docstart- (28 bus08)	pixar	0	pixar	0.7024625
+-docstart- (46 pol06)	man on the moon	24	moon landing	0.68863684
+-docstart- (20 mus10)	mayall's	59	rik mayall	0.63098
+-docstart- (37 spo07)	san siro	64	san siro	0.6293893
+-docstart- (19 mus09)	isle of wight festival	4	isle of wight festival 1969	0.6189113
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	0.5907811
+-docstart- (16 mus06)	american recordings	85	american recordings (record label)	0.56350505
+-docstart- (48 pol08)	macedonia	0	macedonia (greece)	0.5578034
+-docstart- (9 cel09)	the internet	61	library	0.54925627
+-docstart- (5 cel05)	madonna	0	madonna (entertainer)	0.5419767
+-docstart- (48 pol08)	greece	27	kingdom of greece	0.53860223
+-docstart- (36 spo06)	red bull	19	red bull racing	0.5203279
+-docstart- (46 pol06)	first man on the moon	18	neil armstrong	0.5137167
+-docstart- (17 mus07)	caligula	69	raziel (wrestler)	0.5
+-docstart- (46 pol06)	armstrong	0	neil armstrong	0.488948
+-docstart- (10 cel10)	mtv	68	mtv	0.48811933
+-docstart- (6 cel06)	madonna	17	madonna (entertainer)	0.47237664
+-docstart- (34 spo04)	hattrick	27	hat-trick	0.47083256
+-docstart- (41 pol01)	watergate	21	watergate scandal	0.46856558
+-docstart- (10 cel10)	twitter	76	twitter	0.4628306
+-docstart- (43 pol03)	second world war	45	world war ii	0.462817
+-docstart- (39 spo09)	aachen	15	aachen	0.45096648
+-docstart- (43 pol03)	hiroshima	21	atomic bombings of hiroshima and nagasaki	0.4497969
+-docstart- (22 bus02)	operating system	89	operating system	0.4493194
+-docstart- (29 bus09)	mars	0	mars, incorporated	0.43994194
+-docstart- (34 spo04)	england	44	england national football team	0.43476665
+-docstart- (19 mus09)	woodstock	75	woodstock	0.43451637
+-docstart- (22 bus02)	microsoft	47	microsoft	0.42021555
+-docstart- (23 bus03)	operating system	130	operating system	0.4200194
+-docstart- (36 spo06)	haug	0	norbert haug	0.40623215
+-docstart- (48 pol08)	province of greece	15	provinces of greece	0.39875716
+-docstart- (23 bus03)	microsoft	41	microsoft	0.39452913
+-docstart- (14 mus04)	science fiction	109	science fiction film	0.39080477
+-docstart- (19 mus09)	chicago	107	chicago (band)	0.38036978
+-docstart- (35 spo05)	munich	41	munich	0.3772129
+-docstart- (4 cel04)	us open	15	u.s. open (golf)	0.37441662
+-docstart- (40 spo10)	hertha	0	hertha bsc	0.37007308
+-docstart- (44 pol04)	raf	4	red army faction	0.36723197
+-docstart- (42 pol02)	greece	36	ancient greece	0.35408223
+-docstart- (26 bus06)	mango	39	mango	0.3493526
+-docstart- (30 bus10)	bosch	0	robert bosch gmbh	0.34821552
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	0.34405145
+-docstart- (23 bus03)	cairo	0	cairo (graphics)	0.3395671
+-docstart- (41 pol01)	nixon	0	presidency of richard nixon	0.33658236
+-docstart- (13 mus03)	beck	82	beck	0.33558977
+-docstart- (49 pol09)	jfk	42	john f. kennedy	0.33414087
+-docstart- (45 pol05)	kennedy	16	kennedy family	0.32318604
+-docstart- (44 pol04)	baader	37	andreas baader	0.3166505
+-docstart- (29 bus09)	chocolate	33	chocolate	0.30904666
+-docstart- (13 mus03)	clapton	73	eric clapton	0.30727312
+-docstart- (41 pol01)	nixon resigned	0	watergate scandal	0.30326426
+-docstart- (19 mus09)	mitchell	120	joni mitchell	0.30156025
+-docstart- (30 bus10)	home appliances	25	home appliance	0.30147868
+-docstart- (41 pol01)	china	83	china	0.29874283
+-docstart- (14 mus04)	emp	18	museum of pop culture	0.29765922
+-docstart- (39 spo09)	yabo	0	reinhold yabo	0.29412502
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	0.29329872
+-docstart- (40 spo10)	won	7	ji dong-won	0.29201254
+-docstart- (44 pol04)	schleyer	68	hanns martin schleyer	0.28926787
+-docstart- (41 pol01)	success	43	1954 guatemalan coup d'état	0.28274405
+-docstart- (15 mus05)	sony	140	sony music	0.28067467
+-docstart- (26 bus06)	apple	6	apple	0.27937883
+-docstart- (14 mus04)	seattle	25	seattle	0.2781011
+-docstart- (29 bus09)	bounty	18	bounty (chocolate bar)	0.2770196
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	0.275775
+-docstart- (15 mus05)	joel	96	billy joel	0.27325484
+-docstart- (6 cel06)	first lady	48	first lady of the united states	0.2709965
+-docstart- (15 mus05)	dylan	89	bob dylan	0.2647926
+-docstart- (1 cel01)	brooklyn	40	brooklyn	0.25732067
+-docstart- (19 mus09)	davis	100	miles davis	0.25565147
+-docstart- (15 mus05)	sinatra	80	frank sinatra	0.2554015
+-docstart- (13 mus03)	band	66	the band	0.2532967
+-docstart- (21 bus01)	apple	44	apple inc.	0.25019073
+-docstart- (20 mus10)	s band	66	s band	0.2447217

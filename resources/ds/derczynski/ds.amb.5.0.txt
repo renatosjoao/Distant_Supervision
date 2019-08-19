@@ -1,0 +1,6 @@
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	ap	57	associated press	1.0
+tw_83.txt	hattiesburg	359	hattiesburg, mississippi	1.0
+tw_73.txt	pepsi	48	pepsi	1.0

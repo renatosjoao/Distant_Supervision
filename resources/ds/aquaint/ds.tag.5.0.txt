@@ -1,0 +1,40 @@
+apw19981020_1367.htm	apollo 11	330	apollo 11	0.74718666
+apw19981020_1367.htm	roger chaffee	239	roger b. chaffee	0.7222291
+apw19981020_1367.htm	neil armstrong	345	neil armstrong	0.7202633
+apw19981020_1367.htm	buzz aldrin	367	buzz aldrin	0.71886873
+apw19981113_0729.htm	gaza strip	351	gaza strip	0.6972
+apw19981113_0500.htm	gaza strip	348	gaza strip	0.6972
+apw19990519_0141.htm	viking orbiter	954	viking program	0.69693124
+apw19981210_0433.htm	iran-iraq war	1503	iran–iraq war	0.69607776
+apw19980824_0827.htm	osama bin laden	745	osama bin laden	0.6900667
+apw19981020_1367.htm	gus grissom	200	gus grissom	0.6898409
+apw19980620_0458.htm	international committee of the red cross	798	international committee of the red cross	0.67904735
+apw19981020_1367.htm	alan shepard	65	alan shepard	0.6779417
+apw19981210_0433.htm	saddam hussein	42	saddam hussein	0.67774117
+apw19981109_1089.htm	west indies cricket board	238	west indies cricket board	0.6769625
+apw19981020_1367.htm	john glenn	132	john glenn	0.6769625
+apw19980614_0031.htm	international monetary fund	697	international monetary fund	0.67533684
+apw19981109_0152.htm	international court of justice	92	international court of justice	0.6712458
+apw19981109_0140.htm	international court of justice	86	international court of justice	0.6712458
+apw19981010_0354.htm	william cohen	83	william cohen	0.66934544
+apw19980713_0449.htm	lufthansa	630	lufthansa	0.656896
+apw19981109_1089.htm	carl hooper	321	carl hooper	0.65379685
+apw19980930_0284.htm	claude monet	572	claude monet	0.65294063
+apw19981026_0096.htm	african national congress	114	african national congress	0.65171564
+apw19980808_0196.htm	ruhollah khomeini	680	ruhollah khomeini	0.64946365
+apw19990519_0141.htm	hubble space telescope	306	hubble space telescope	0.6480375
+apw19980620_0458.htm	iran-iraq war	1255	iran–iraq war	0.6435119
+apw19980903_1073.htm	adolf hitler	1284	adolf hitler	0.6423
+apw19981109_1172.htm	west indies cricket board	307	west indies cricket board	0.64157
+apw19980624_0607.htm	iran-iraq war	1168	iran–iraq war	0.6389533
+apw19981120_1056.htm	truth comission	536	truth and reconciliation commission	0.638335
+apw19981109_1089.htm	west indies cricket board	678	west indies cricket board	0.63708746
+apw19981109_1172.htm	courtney walsh	76	courtney walsh	0.63697857
+apw19981109_1089.htm	brian lara	292	brian lara	0.63615
+apw19981001_0866.htm	the holocaust	1024	history of the jews in hungary	0.6354875
+apw19980620_0458.htm	iran-iraq war	704	iran–iraq war	0.6354059
+apw19981109_1172.htm	clive lloyd	877	clive lloyd	0.6352933
+apw19981020_1367.htm	hubble space telescope	710	hubble space telescope	0.63296247
+apw19981020_1367.htm	norman thagard	837	norman thagard	0.63284063
+apw19980824_0827.htm	benjamin netanyahu	283	benjamin netanyahu	0.63218236
+apw19980624_0436.htm	iran-iraq war	1174	iran–iraq war	0.63026875

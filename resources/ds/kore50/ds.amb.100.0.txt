@@ -1,0 +1,108 @@
+-docstart- (43 pol03)	hiroshima	21	hiroshima	1.0
+-docstart- (37 spo07)	san siro	54	san siro	1.0
+-docstart- (32 spo02)	emirates	47	emirates (airline)	1.0
+-docstart- (26 bus06)	apple	6	apple inc.	1.0
+-docstart- (17 mus07)	grohl	27	dave grohl	1.0
+-docstart- (28 bus08)	pixar	0	pixar	0.9805524866127291
+-docstart- (10 cel10)	mtv	68	mtv	0.9271841457669735
+-docstart- (17 mus07)	homme	20	josh homme	0.8849096920984445
+-docstart- (34 spo04)	england	34	england	0.8416738307818578
+-docstart- (17 mus07)	caligula	69	caligula	0.8332983163419772
+-docstart- (42 pol02)	the times	12	the times	0.8056944522191894
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	0.7414950062768051
+-docstart- (21 bus01)	apple	44	apple inc.	0.739115501711682
+-docstart- (14 mus04)	emp	18	electromagnetic pulse	0.708720502412984
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	0.6334652684394813
+-docstart- (49 pol09)	jfk	42	john f. kennedy	0.6206912380328754
+-docstart- (44 pol04)	schleyer	68	hanns martin schleyer	0.603768327145156
+-docstart- (39 spo09)	aachen	15	aachen	0.5800312730100431
+-docstart- (15 mus05)	dylan	89	bob dylan	0.5669622683218885
+-docstart- (2 cel02)	david	0	david beckham	0.5554190652757126
+-docstart- (5 cel05)	madonna	0	mary, mother of jesus	0.5544370242773502
+-docstart- (15 mus05)	joel	96	billy joel	0.5393280145183541
+-docstart- (42 pol02)	greece	36	greece	0.5198237509445449
+-docstart- (10 cel10)	stefani	8	lady gaga	0.4989690800933511
+-docstart- (44 pol04)	raf	4	red army faction	0.46873252665140613
+-docstart- (36 spo06)	red bull	19	red bull	0.4671119594861308
+-docstart- (13 mus03)	clapton	73	eric clapton	0.4619984463266506
+-docstart- (40 spo10)	dortmund	19	dortmund	0.4375774363538039
+-docstart- (9 cel09)	paris	0	paris hilton	0.4368391273687773
+-docstart- (19 mus09)	chicago	107	chicago (band)	0.43529443990189887
+-docstart- (3 cel03)	elin	54	elin nordegren	0.43476448874077656
+-docstart- (41 pol01)	nixon	0	richard nixon	0.4339137230148422
+-docstart- (1 cel01)	brooklyn	40	brooklyn	0.42684431944815443
+-docstart- (2 cel02)	victoria	10	victoria beckham	0.4212546213135509
+-docstart- (23 bus03)	cairo	0	cairo	0.420831854592806
+-docstart- (49 pol09)	obama	0	barack obama	0.41908318388237886
+-docstart- (11 mus01)	dylan	0	bob dylan	0.41871498323915646
+-docstart- (44 pol04)	baader	37	andreas baader	0.4155987346014999
+-docstart- (23 bus03)	microsoft	41	microsoft	0.4128119066348017
+-docstart- (1 cel01)	victoria	10	victoria beckham	0.4023216475545659
+-docstart- (15 mus05)	santana	106	santana (band)	0.3951483699412885
+-docstart- (30 bus10)	sharp	10	sharp corporation	0.389636543997874
+-docstart- (30 bus10)	bosch	0	robert bosch gmbh	0.38927031381567184
+-docstart- (20 mus10)	mayall	59	john mayall	0.38568683009911237
+-docstart- (19 mus09)	mitchell	120	joni mitchell	0.3798851776278863
+-docstart- (48 pol08)	greece	27	greece	0.37412266226860924
+-docstart- (21 bus01)	stanford	78	stanford university	0.36857399130557983
+-docstart- (14 mus04)	hendrix	67	jimi hendrix	0.3675159231417426
+-docstart- (16 mus06)	rubin	144	rick rubin	0.3670209733839826
+-docstart- (1 cel01)	david	0	david beckham	0.35855651772849906
+-docstart- (22 bus02)	microsoft	47	microsoft	0.35031121198425325
+-docstart- (19 mus09)	davis	100	miles davis	0.31472833196410366
+-docstart- (14 mus04)	seattle	25	seattle	0.2975892843334298
+-docstart- (35 spo05)	munich	41	munich	0.29226055152063757
+-docstart- (10 cel10)	justin	0	justin bieber	0.29223772423956323
+-docstart- (15 mus05)	sinatra	80	frank sinatra	0.29202849806954717
+-docstart- (23 bus03)	bill	180	bill gates	0.2775609204539112
+-docstart- (14 mus04)	dylan	79	bob dylan	0.2719478468846875
+-docstart- (18 mus08)	baez	9	joan baez	0.2673199974178192
+-docstart- (6 cel06)	madonna	17	madonna (entertainer)	0.2571623828560735
+-docstart- (5 cel05)	eva	15	annunciation	0.25695906959036596
+-docstart- (7 cel07)	jon	21	jon olsen	0.24883323882057615
+-docstart- (20 mus10)	eric	0	eric clapton	0.2487832165392818
+-docstart- (49 pol09)	merkel	15	angela merkel	0.23443309057873588
+-docstart- (13 mus03)	beck	82	jeff beck	0.22630133112666764
+-docstart- (9 cel09)	kim	10	kim kardashian	0.2196658184174373
+-docstart- (25 bus05)	karl	0	english language	0.2170434526536019
+-docstart- (24 bus04)	bill	7	bill maher	0.1964901725077079
+-docstart- (46 pol06)	armstrong	0	neil armstrong	0.195744684895228
+-docstart- (24 bus04)	steve	0	stephen colbert	0.1914335349322681
+-docstart- (38 spo08)	meijer	13	erik meijer (footballer)	0.18755490475711467
+-docstart- (1 cel01)	romeo	50	romeo and juliet	0.18675653570973666
+-docstart- (38 spo08)	landgraf	0	willi landgraf	0.18476558183950592
+-docstart- (24 bus04)	sergey	13	sergey brin	0.18178962039151736
+-docstart- (22 bus02)	stanford	30	stanford university	0.1797674283007359
+-docstart- (50 pol10)	kennedy	0	john f. kennedy	0.178519278527016
+-docstart- (31 spo01)	spurs	25	tottenham hotspur f.c.	0.1775626752975777
+-docstart- (24 bus04)	larry	25	larry david	0.17724394039436833
+-docstart- (15 mus05)	columbia	116	sony music	0.17344855410553311
+-docstart- (17 mus07)	jones	38	john paul jones (musician)	0.1717399822221987
+-docstart- (7 cel07)	brad	42	brad schumacher	0.16779900982222523
+-docstart- (45 pol05)	kennedy	16	john f. kennedy	0.1667388850050582
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	0.1648519763631014
+-docstart- (12 mus02)	harris	28	calvin harris	0.16320099607808822
+-docstart- (22 bus02)	steve	9	minecraft	0.15857852786957546
+-docstart- (18 mus08)	stanford	64	stanford university	0.15843861447370688
+-docstart- (35 spo05)	thomas	0	thomas mann	0.14612606435051115
+-docstart- (11 mus01)	carter	50	jay-z	0.14196594434874577
+-docstart- (8 cel08)	heidi	0	heidi klum	0.14192949737454247
+-docstart- (21 bus01)	steve	19	stephen colbert	0.1392374033383924
+-docstart- (48 pol08)	macedonia	0	republic of macedonia	0.13716406378200272
+-docstart- (28 bus08)	john	25	john mccain	0.12909557493657234
+-docstart- (19 mus09)	woodstock	75	woodstock	0.12759929569921205
+-docstart- (14 mus04)	allen	0	paul allen	0.1263705943212037
+-docstart- (47 pol07)	erich	0	erich honecker	0.125575266912437
+-docstart- (40 spo10)	hertha	0	hertha bsc	0.12399302860817826
+-docstart- (27 bus07)	sam	0	sam walton	0.11983785173271314
+-docstart- (5 cel05)	carlos	37	charles v, holy roman emperor	0.1096140008326195
+-docstart- (38 spo08)	tivoli	34	old tivoli	0.10922468009916791
+-docstart- (15 mus05)	sony	140	columbia records	0.10499934866732451
+-docstart- (41 pol01)	china	83	taiwan	0.10469564968695548
+-docstart- (12 mus02)	joey	47	joey demaio	0.09807784097973811
+-docstart- (1 cel01)	cruz	57	ted cruz	0.09649521610524449
+-docstart- (25 bus05)	theo	9	theo van gogh (art dealer)	0.09490665583627068
+-docstart- (10 cel10)	kate	21	kate bush	0.09378509105766303
+-docstart- (35 spo05)	mario	11	mario del monaco	0.04550394054901859
+-docstart- (36 spo06)	haug	0	norbert haug	0.04326337778662149
+-docstart- (8 cel08)	vegas	35	johnny vegas	0.017798495135070484

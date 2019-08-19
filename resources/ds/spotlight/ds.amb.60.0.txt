@@ -1,0 +1,31 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	spree river	231	spree	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence4	nets	7	brooklyn nets	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	mikhail d. prokhorov	152	mikhail prokhorov	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	hypertext markup language	39	html	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence2	international monetary fund	51	international monetary fund	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	timothy f. geithner	61	timothy geithner	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	canadian embassy	37	embassy of canada, washington, d.c.	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	rikers	261	rikers island	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence1	rikers island	90	rikers island	1.0
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	europe	87	europe	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence5	google	48	google	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence2	google	24	google	1.0
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	jennifer cole	32	jennifer cole	1.0
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	alice roosevelt longworth	71	alice roosevelt longworth	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	turku	196	turku	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	turku	128	turku	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	grand central terminal	201	grand central terminal	0.9793049186159015
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	turku	85	turku	0.937236484690641
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	guggenheim museum	23	solomon r. guggenheim museum	0.8797582688008407
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	europe	109	europe	0.7664087197990467
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	nets	4	brooklyn nets	0.6771126577684127
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	italy	135	italy	0.6733258098056258
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence5	greece	92	greece	0.6212385509165349
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	los angeles	65	los angeles open (tennis)	0.5399896162223381
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	obama	175	barack obama	0.5210312638531998
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	lombard street	27	lombard street (san francisco)	0.504313868040719
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	france	127	france	0.48775859194920657
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence5	waltz	202	venezuelan waltz	0.48762115780743154
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	japan	128	japan	0.4845925126137607

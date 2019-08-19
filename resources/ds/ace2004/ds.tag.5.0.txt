@@ -1,0 +1,74 @@
+apw20001207.2118.0838	origin of birds	978	origin of birds	0.73126113
+chtb_165.eng	tokyo mitsubishi bank	445	the bank of tokyo-mitsubishi ufj	0.7299454
+apw20001207.2118.0838	archaeopteryx	1919	archaeopteryx	0.7257375
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	0.72344565
+apw20001207.2118.0838	archaeopteryx	3731	archaeopteryx	0.72167003
+apw20001127.1346.0419	chicago white sox	1332	chicago white sox	0.71961
+apw20001127.1346.0419	los angeles dodgers	1351	los angeles dodgers	0.7196033
+apw20001001.2021.0521	hosni mubarak	120	hosni mubarak	0.71895665
+apw20001203.1456.0329	al gore	146	al gore	0.70480454
+nyt20001002.1754.0290	plankton	1120	plankton	0.69836664
+apw20001203.1456.0329	george w. bush	171	george w. bush	0.69547695
+20001115_afp_arb.0217.eng	boris yeltsin	716	boris yeltsin	0.69532305
+apw20001207.2118.0838	dino-bird	883	origin of birds	0.69466114
+20001115_afp_arb.0217.eng	asia-pacific economic cooperation	510	asia-pacific economic cooperation	0.692781
+apw20001207.2118.0838	microraptor	2086	microraptor	0.6911038
+apw20001127.1346.0419	new york mets	1372	new york mets	0.68954664
+nyt20001217.2241.0165	john wayne airport	1736	john wayne airport	0.6880964
+apw20001202.0257.0120	dallas cowboys	1912	dallas cowboys	0.68459284
+apw20001127.1346.0419	texas rangers	127	texas rangers (baseball)	0.6840944
+20001115_afp_arb.0089.eng	yasser arafat	829	yasser arafat	0.6812
+apw20001127.1346.0419	alex rodriguez	71	alex rodriguez	0.6808278
+20001115_afp_arb.0184.eng	yasser arafat	582	yasser arafat	0.67915523
+20001115_afp_arb.0212.eng	madeleine albright	136	madeleine albright	0.678925
+apw20001001.2021.0521	gaza strip	485	gaza strip	0.67451
+apw20001127.1346.0419	atlanta braves	1390	atlanta braves	0.6735967
+pri20001122.2000.0320	yasser arafat	35	yasser arafat	0.6722229
+apw20001202.0257.0120	dirk koetter	35	dirk koetter	0.6713423
+apw20001202.0257.0120	arena football league	1979	arena football league	0.67002857
+apw20001120.1450.0376	mohammed omar	512	mohammed omar	0.6688342
+nyt20001109.1946.0315	al gore	1378	al gore	0.66701174
+20001115_afp_arb.0089.eng	palestinian flag	856	palestinian flag	0.666775
+20001115_afp_arb.0184.eng	gaza strip	1296	gaza strip	0.66542894
+apw20001218.2221.0727	nws.noaa.gov	1956	national weather service	0.66392
+apw20001207.2118.0838	origin of birds	1562	origin of birds	0.66388685
+apw20001207.2118.0838	protopteryx	2019	protopteryx	0.663725
+20001115_afp_arb.0030.eng	gaza strip	175	gaza strip	0.663725
+20001115_afp_arb.0060.eng	asia-pacific economic cooperation	662	asia-pacific economic cooperation	0.66372085
+apw20001127.1346.0419	tom hicks	317	tom hicks	0.6622028
+nyt20001123.1511.0062	spin city	391	spin city	0.66209
+20001115_afp_arb.0013.eng	bill clinton	56	bill clinton	0.6613067
+nyt20001217.2241.0165	westchester county airport	1788	westchester county airport	0.6611083
+apw20001017.1313.0396	george w. bush	33	george w. bush	0.6610725
+apw20001001.2021.0521	golan heights	1975	golan heights	0.66069
+20001115_afp_arb.0093.eng	gaza strip	1750	gaza strip	0.6599765
+apw20001218.2221.0727	www.weather.com	2071	the weather channel	0.6594833
+20001115_afp_arb.0212.eng	bill clinton	599	bill clinton	0.6584
+voa20001129.2000.0364	george w bush	3664	george w. bush	0.65824705
+apw20001207.2118.0838	microraptor	1516	microraptor	0.65727365
+apw20001017.1313.0396	al gore	61	al gore	0.65647
+20001115_afp_arb.0093.eng	yasser arafat	120	yasser arafat	0.65612817
+apw20001208.1126.0362	vladimir lenin	530	vladimir lenin	0.6556674
+apw20001202.0257.0120	danny white	1870	danny white	0.6554321
+voa20001223.2000.0139	vojislav kostunica	40	vojislav koštunica	0.6548174
+apw20001017.1313.0396	joseph lieberman	1234	joe lieberman	0.65469736
+20001115_afp_arb.0089.eng	yasser arafat	1933	yasser arafat	0.65460384
+20001115_afp_arb.0217.eng	vladimir putin	430	vladimir putin	0.65451
+20001115_afp_arb.0060.eng	vladimir putin	189	vladimir putin	0.6543555
+20001115_afp_arb.0013.eng	al gore	507	al gore	0.6539684
+20001115_afp_arb.0061.eng	ehud barak	597	ehud barak	0.65335524
+20001115_afp_arb.0061.eng	yasser arafat	139	yasser arafat	0.6518528
+nyt20001124.2050.0257	international monetary fund	552	international monetary fund	0.6505643
+pri20001122.2000.0320	ehud barak	296	ehud barak	0.6503271
+20001115_afp_arb.0184.eng	ehud barak	370	ehud barak	0.65010834
+20001115_afp_arb.0013.eng	al gore	1159	al gore	0.650095
+20001115_afp_arb.0093.eng	asia-pacific economic cooperation	748	asia-pacific economic cooperation	0.6484765
+apw20001001.2021.0521	ehud barak	1798	ehud barak	0.64749163
+apw20001208.1126.0362	yabloko	1537	yabloko	0.64561844
+nyt20001106.1705.0187	al gore	940	al gore	0.64437366
+pri20001031.2000.1824	singapore airlines	62	singapore airlines	0.64357775
+apw20001225.2035.0477	america online	4347	aol	0.6404804
+apw20001203.1456.0329	strom thurmond	822	strom thurmond	0.64045525
+20001115_afp_arb.0060.eng	bill clinton	148	bill clinton	0.6395588
+apw20001127.1346.0419	scott boras	257	scott boras	0.63830334
+apw20001127.1346.0419	johnny oates	386	johnny oates	0.6378353

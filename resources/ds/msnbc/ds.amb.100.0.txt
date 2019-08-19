@@ -1,0 +1,591 @@
+wor16447201.txt	yamuna	620	yamuna	1.0
+wor16447201.txt	rama devi	2071	rama devi (bihar politician)	1.0
+wor16447201.txt	madhya pradesh	1816	madhya pradesh	1.0
+wor16447201.txt	india	375	tamil nadu	1.0
+wor16447201.txt	india	280	tamil nadu	1.0
+wor16447201.txt	india	135	tamil nadu	1.0
+wor16447201.txt	garuda	2663	garuda	1.0
+wor16447201.txt	garuda	2507	garuda	1.0
+wor16447201.txt	ganges	608	ganges	1.0
+wor16447201.txt	ganges	255	ganges	1.0
+wor16447201.txt	ganges	1847	ganges	1.0
+wor16447201.txt	ganges	17	ganges	1.0
+wor16447201.txt	ganges	1110	ganges	1.0
+wor13259309.txt	muqtada al-sadr	4114	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4089	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4080	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4071	muqtada al-sadr	1.0
+wor13259309.txt	mowaffak al-rubaie	422	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	2820	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	1872	mowaffak al-rubaie	1.0
+wor13259309.txt	mahdi army	4178	peace companies	1.0
+wor13259309.txt	al-sadr	4302	muqtada al-sadr	1.0
+usn16444287.txt	us airways	1397	us airways	1.0
+usn16444287.txt	u.s. immigration and customs enforcement	2874	u.s. immigration and customs enforcement	1.0
+usn16444287.txt	north las vegas	2646	north las vegas, nevada	1.0
+usn16444287.txt	feinstein	3182	dianne feinstein	1.0
+usn16444287.txt	dianne feinstein	3088	dianne feinstein	1.0
+usn16444287.txt	condor airlines	1791	condor flugdienst	1.0
+usn16444287.txt	california	666	california	1.0
+usn16444287.txt	california	581	california	1.0
+usn16444287.txt	calif.	133	california	1.0
+usn16444287.txt	border protection	860	border protection, anti-terrorism and illegal immigration control act of 2005	1.0
+usn16444287.txt	border protection	2495	border protection, anti-terrorism and illegal immigration control act of 2005	1.0
+usn16443053.txt	wyo	586	wyo, california	1.0
+usn16443053.txt	washington	480	united states	1.0
+usn16443053.txt	u.s.	765	united states	1.0
+usn16443053.txt	u.s.	2572	united states	1.0
+usn16443053.txt	u.s.	154	united states	1.0
+usn16443053.txt	u.s.	13	united states	1.0
+usn16443053.txt	sioux falls	547	sioux falls, south dakota	1.0
+usn16443053.txt	s.d.	560	south dakota	1.0
+usn16443053.txt	ohio	541	ohio	1.0
+usn16443053.txt	michael chertoff	1981	michael chertoff	1.0
+usn16443053.txt	laramie county	570	laramie county, wyoming	1.0
+usn16443053.txt	la.	653	louisiana	1.0
+usn16443053.txt	homeland security department	4299	united states department of homeland security	1.0
+usn16443053.txt	homeland security department	1193	united states department of homeland security	1.0
+usn16443053.txt	homeland security	1953	united states department of homeland security	1.0
+usn16443053.txt	homeland security	1833	united states department of homeland security	1.0
+usn16443053.txt	congress	4092	united states	1.0
+usn16443053.txt	congress	1275	united states	1.0
+usn16443053.txt	charles schumer	1720	chuck schumer	1.0
+usn16443053.txt	associated press	376	associated press	1.0
+tvn16442342.txt	w. va.	130	west virginia	1.0
+tvn16442342.txt	united mine workers of america	2173	united mine workers	1.0
+tvn16442342.txt	randal mccloy	371	sago mine disaster	1.0
+tvn16442342.txt	mine safety and health administration	1219	mine safety and health administration	1.0
+tvn16442287.txt	american journal of clinical nutrition	1276	the american journal of clinical nutrition	1.0
+tra16444229.txt	houston police	580	houston police department	1.0
+tra16444229.txt	george bush intercontinental airport	241	george bush intercontinental airport	1.0
+tra16444229.txt	bownds	1451	greg bownds	1.0
+tra16444229.txt	bownds	1020	greg bownds	1.0
+tec16454435.txt	jet propulsion laboratory	557	jet propulsion laboratory	1.0
+tec16451635.txt	xinhua news agency	452	xinhua news agency	1.0
+tec16451635.txt	state forestry administration	393	state forestry administration of the people's republic of china	1.0
+spo16455207.txt	stan van gundy	741	stan van gundy	1.0
+spo16455207.txt	shaquille o'neal	1387	shaquille o'neal	1.0
+spo16455207.txt	chicago tribune	1237	chicago tribune	1.0
+spo16417540.txt	russ grimm	2889	russ grimm	1.0
+spo16417540.txt	randy mueller	4438	randy mueller	1.0
+spo16417540.txt	norm chow	2844	norm chow	1.0
+spo16417540.txt	mike sherman	2700	mike sherman	1.0
+spo16417540.txt	don shula	2092	don shula	1.0
+spo16417540.txt	daunte culpepper	4080	daunte culpepper	1.0
+spo16417540.txt	dan marino	4230	dan marino	1.0
+spo16417540.txt	cam cameron	2755	cam cameron	1.0
+pol16452612.txt	schumer	3660	chuck schumer	1.0
+pol16452612.txt	evan bayh	1908	evan bayh	1.0
+pol16452612.txt	dan pfeiffer	2291	daniel pfeiffer	1.0
+pol16452612.txt	charles schumer	3469	chuck schumer	1.0
+pol16452612.txt	bill clinton	2954	bill clinton	1.0
+pol16452612.txt	bayh	2320	evan bayh	1.0
+pol16452612.txt	bayh	2223	evan bayh	1.0
+pol16447720.txt	washington national cathedral	1373	washington national cathedral	1.0
+pol16447720.txt	tom brokaw	2784	tom brokaw	1.0
+pol16447720.txt	richard norton smith	1073	richard norton smith	1.0
+pol16447720.txt	rancho mirage	4355	rancho mirage, california	1.0
+pol16447720.txt	norman rockwell	3155	norman rockwell	1.0
+pol16447720.txt	michigan national guard	2209	michigan national guard	1.0
+pol16447720.txt	kissinger	3758	henry kissinger	1.0
+pol16447720.txt	kissinger	3440	henry kissinger	1.0
+pol16447720.txt	jennifer granholm	1525	jennifer granholm	1.0
+pol16447720.txt	henry kissinger	2826	henry kissinger	1.0
+pol16447720.txt	gerald r. ford presidential library and museum	1764	gerald r. ford presidential museum	1.0
+pol16447720.txt	donald rumsfeld	833	donald rumsfeld	1.0
+pol16447720.txt	brokaw	3830	tom brokaw	1.0
+hea16451212.txt	medicaid	917	medicaid	1.0
+hea16451212.txt	highmark	4203	highmark	1.0
+hea16451212.txt	blue cross and blue shield of alabama	777	blue cross and blue shield of alabama	1.0
+hea16451212.txt	alabama	4354	alabama	1.0
+hea16451212.txt	alabama	346	alabama	1.0
+hea16451212.txt	alabama	2106	alabama	1.0
+hea16451212.txt	ala.	133	alabama	1.0
+hea16384904.txt	mayo clinic	1208	mayo clinic	1.0
+hea16384904.txt	goteborg university	2048	university of gothenburg	1.0
+ent16453733.txt	tara conner	1183	tara conner	1.0
+ent16453733.txt	barbara walters	127	barbara walters	1.0
+ent16453733.txt	barbara walters	0	barbara walters	1.0
+ent16444023.txt	veronica finn	752	innosense	1.0
+ent16444023.txt	lou pearlman	940	lou pearlman	1.0
+ent16444023.txt	justin timberlake	101	justin timberlake	1.0
+ent16444023.txt	cameron diaz	123	cameron diaz	1.0
+ent16444023.txt	britney spears	822	britney spears	1.0
+bus3683270.txt	wal-mart stores inc.	3411	walmart	1.0
+bus3683270.txt	wal-mart stores inc	315	walmart	1.0
+bus3683270.txt	wal-mart	3610	walmart	1.0
+bus3683270.txt	new york stock exchange	4546	new york stock exchange	1.0
+bus3683270.txt	new york mercantile exchange	2158	new york mercantile exchange	1.0
+bus3683270.txt	lennar corp.	4253	lennar corporation	1.0
+bus3683270.txt	lennar	4435	lennar corporation	1.0
+bus3683270.txt	institute for supply management	750	institute for supply management	1.0
+bus3683270.txt	home depot inc.	295	the home depot	1.0
+bus3683270.txt	home depot	69	the home depot	1.0
+bus3683270.txt	goodyear tire & rubber co.	4026	goodyear tire and rubber company	1.0
+bus3683270.txt	commerce department	2999	united states department of commerce	1.0
+bus3683270.txt	bob nardelli	3277	robert nardelli	1.0
+bus3683270.txt	automatic data processing inc	1741	automatic data processing	1.0
+bus3683270.txt	amgen inc.	3767	amgen	1.0
+bus3683270.txt	amgen	3820	amgen	1.0
+bus3683270.txt	adp	1772	automatic data processing	1.0
+bus3683270.txt	a.g. edwards	978	a. g. edwards	1.0
+bus16451112.txt	the home depot inc.	193	the home depot	1.0
+bus16451112.txt	the home depot	1883	the home depot	1.0
+bus16451112.txt	john l. clendenin	5017	john clendenin	1.0
+bus16451112.txt	jerry shields	812	jerry a. shields	1.0
+bus16451112.txt	home depot	791	the home depot	1.0
+bus16451112.txt	home depot	652	the home depot	1.0
+bus16451112.txt	home depot	5208	the home depot	1.0
+bus16451112.txt	home depot	4829	the home depot	1.0
+bus16451112.txt	home depot	3563	the home depot	1.0
+bus16451112.txt	home depot	3143	the home depot	1.0
+bus16451112.txt	home depot	2237	the home depot	1.0
+bus16451112.txt	home depot	1720	the home depot	1.0
+bus16451112.txt	home depot	1507	the home depot	1.0
+bus16451112.txt	georgia state university	2958	georgia state university	1.0
+bus16451112.txt	general electric co.	583	general electric	1.0
+bus16451112.txt	frank blake	699	frank blake	1.0
+bus16451112.txt	deangelo	3466	deangelo hall	1.0
+bus16451112.txt	blake	927	frank blake	1.0
+bus16451112.txt	blake	757	frank blake	1.0
+bus16451112.txt	blake	2763	frank blake	1.0
+bus16451112.txt	associated press	1234	associated press	1.0
+spo16417540.txt	joe bailey	3435	joe bailey (ice hockey)	0.9994505037742502
+ent16453733.txt	miss universe organization	1307	miss universe	0.9982292201737933
+wor13259309.txt	al-maliki	4370	nouri al-maliki	0.9975846009339409
+wor13259309.txt	al-maliki	3046	nouri al-maliki	0.9975846009339409
+wor13259309.txt	nouri al-maliki	1214	nouri al-maliki	0.9975846009339409
+wor13259309.txt	al-maliki	1309	nouri al-maliki	0.9975846009339409
+wor13259309.txt	al-maliki	0	nouri al-maliki	0.9975846009339409
+bus3683270.txt	nasdaq	1269	nasdaq	0.9969924368356886
+tra16454203.txt	british airways	411	british airways	0.9967424635270992
+wor13259309.txt	al-arabiya	3715	al arabiya	0.9966992357103164
+hea16384904.txt	stony brook university	1538	stony brook university	0.9964095167133507
+spo16455207.txt	pat riley	136	pat riley	0.9959078447914415
+spo16455207.txt	pat riley	1030	pat riley	0.9959078447914415
+tec16451635.txt	shaanxi	1071	shaanxi	0.9921919837097875
+hea16451212.txt	reuters	2819	reuters	0.9897739607302053
+pol16452612.txt	richard nixon	1258	richard nixon	0.9896202218822256
+pol16452612.txt	nixon	1315	richard nixon	0.9896202218822256
+pol16447720.txt	jimmy carter	973	jimmy carter	0.9891304238163408
+spo16417540.txt	ron rivera	2660	ron rivera	0.9889479662927085
+pol16452612.txt	jimmy carter	1379	jimmy carter	0.9886259776651691
+wor13259309.txt	msnbc	3852	msnbc	0.9879469181972358
+wor13259309.txt	associated press	2018	associated press	0.9873503838009461
+wor13259309.txt	associated press	1148	associated press	0.9873503838009461
+wor13259309.txt	ap	2950	associated press	0.9873503838009461
+tec16451635.txt	sichuan	721	sichuan	0.9843511224211489
+tec16451635.txt	sichuan	1035	sichuan	0.9843511224211489
+usn16444287.txt	fbi	2971	federal bureau of investigation	0.9840072298069875
+usn16444287.txt	fbi	2517	federal bureau of investigation	0.9840072298069875
+usn16444287.txt	san francisco international airport	1318	san francisco international airport	0.9838740523817234
+spo16417540.txt	shula	3876	mike shula	0.9780025858158179
+spo16417540.txt	mike shula	1607	mike shula	0.9780025858158179
+tvn16442342.txt	buckhannon	257	buckhannon, west virginia	0.9748605646486069
+tvn16442342.txt	buckhannon	118	buckhannon, west virginia	0.9748605646486069
+wor13259309.txt	times	2888	the new york times	0.9668831282482839
+wor13259309.txt	new york times	2577	the new york times	0.9668831282482839
+tra16454203.txt	heathrow airport	82	heathrow airport	0.9629671088551687
+tra16454203.txt	heathrow airport	243	heathrow airport	0.9629671088551687
+wor13259309.txt	nbc news	133	nbc news	0.9578645946120466
+hea16451212.txt	university of alabama	3521	university of alabama	0.9570084743452671
+ent16453733.txt	donald trump	926	donald trump	0.9563629182856362
+ent16453733.txt	donald trump	240	donald trump	0.9563629182856362
+spo16417540.txt	bama	148	2009 alabama crimson tide football team	0.9558175730326265
+tra16444229.txt	carlos osorio	726	carlos manuel arana osorio	0.9554769228065019
+usn16443053.txt	baton rouge	640	baton rouge, louisiana	0.9455982592978257
+usn16443053.txt	baton rouge	4660	baton rouge, louisiana	0.9455982592978257
+pol16447720.txt	east grand rapids	688	east grand rapids, michigan	0.9385652676552707
+usn16444287.txt	minneapolis	1420	minneapolis	0.9376108529603772
+tec16451635.txt	chongqing	917	chongqing	0.9358267041784437
+wor13259309.txt	maliki	2844	maliki	0.9349730518257484
+wor13259309.txt	baghdad	79	baghdad	0.9346215161539567
+wor13259309.txt	najaf	3064	najaf	0.9257594292415496
+pol16447720.txt	kalamazoo	2144	kalamazoo, michigan	0.9212677141399874
+spo16455207.txt	los angeles clippers	442	los angeles clippers	0.9182237984974955
+spo16417540.txt	rich rodriguez	2438	rich rodriguez	0.9085909903475329
+ent16444023.txt	colo.	271	colorado	0.8970658755064996
+wor13259309.txt	al-jazeera	2498	al-jazeera (jordan)	0.8896565514604646
+wor13259309.txt	al-jazeera	1059	al-jazeera (jordan)	0.8896565514604646
+bus3683270.txt	wall street	2382	wall street	0.8827920151723027
+spo16417540.txt	tennessee titans	2805	tennessee titans	0.8511883358987917
+pol16447720.txt	africa	3650	africa	0.848726670955252
+tec16451635.txt	beijing	96	beijing	0.8324403353088471
+spo16417540.txt	nfl	4384	national football league	0.8289783383657978
+spo16417540.txt	nfl	2276	national football league	0.8289783383657978
+wor13259309.txt	william caldwell	4416	william b. caldwell	0.8210375720556169
+wor13259309.txt	caldwell	5065	william b. caldwell	0.8210375720556169
+tec16454435.txt	nasa	588	nasa	0.8050299516166346
+spo16455207.txt	miami heat	119	miami heat	0.7969629475387557
+spo16455207.txt	miami heat	1013	miami heat	0.7969629475387557
+spo16417540.txt	jim caldwell	2791	jim caldwell (american football)	0.7889277983794334
+pol16447720.txt	egypt	3597	egypt	0.7807534881944627
+ent16453733.txt	nbc	1799	nbc	0.7776097722425938
+wor13259309.txt	united states	1534	united states	0.7718541836632652
+wor13259309.txt	us	4822	united states	0.7718541836632652
+wor13259309.txt	u.s.	4545	united states	0.7718541836632652
+wor13259309.txt	u.s.	4436	united states	0.7718541836632652
+wor13259309.txt	u.s.	4391	united states	0.7718541836632652
+wor13259309.txt	u.s.	3310	united states	0.7718541836632652
+wor13259309.txt	u.s.	1489	united states	0.7718541836632652
+pol16447720.txt	nbc	2772	nbc	0.7709882695285716
+spo16417540.txt	fla.	126	florida	0.7700138778034263
+tra16454203.txt	ba	468	bachelor of arts	0.7698984103514032
+tra16454203.txt	ba	817	bachelor of arts	0.769898410351403
+pol16447720.txt	calif	4370	california	0.7563129104673714
+usn16444287.txt	iraq	1513	iraq	0.7396714735727725
+tra16444229.txt	venegas	938	johan venegas	0.7364923005609185
+usn16444287.txt	u.s.	377	united states	0.7335233059718879
+usn16444287.txt	u.s.	3405	united states	0.7335233059718879
+usn16444287.txt	u.s.	2790	united states	0.7335233059718879
+usn16444287.txt	u.s.	1501	united states	0.7335233059718879
+usn16444287.txt	u.s.	12	united states	0.7335233059718879
+tvn16442342.txt	u.s.	0	united states	0.7320736815534571
+ent16453733.txt	conner	1500	tara conner	0.731740429598738
+bus3683270.txt	united states	2239	united states	0.7235442962899196
+bus3683270.txt	u.s.	4279	united states	0.7235442962899196
+bus3683270.txt	goldman	3194	goldman sachs	0.7174286248797405
+tra16454203.txt	heathrow	958	heathrow airport	0.7142797786372335
+tra16454203.txt	heathrow	598	heathrow airport	0.7142797786372334
+tra16454203.txt	heathrow	383	heathrow airport	0.7142797786372334
+tra16454203.txt	heathrow	1205	heathrow airport	0.7142797786372334
+pol16452612.txt	iraq	892	iraq	0.7090136102423144
+pol16452612.txt	iraq	751	iraq	0.7090136102423144
+bus3683270.txt	gerald r. ford	2366	gerald ford	0.7084787978308552
+hea16384904.txt	santa baby	453	santa baby	0.7074331741426036
+tec16454435.txt	red planet	420	mars	0.6977167482510946
+wor13259309.txt	iraq	95	iraq	0.6928936851401177
+wor13259309.txt	iraq	88	iraq	0.6928936851401177
+wor13259309.txt	iraq	4715	iraq	0.6928936851401177
+spo16417540.txt	pittsburgh steelers	2858	pittsburgh steelers	0.6906149956273615
+spo16417540.txt	chicago bears	2624	chicago bears	0.6664798595114393
+ent16453733.txt	donald	744	donald trump	0.6592985492324299
+usn16443053.txt	morton county	5036	morton county, north dakota	0.6568919554739534
+spo16417540.txt	indianapolis	2768	indianapolis	0.6559851890234575
+wor13259309.txt	saddam hussein	368	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam hussein	227	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	935	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	553	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	4756	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	4333	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	3998	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	3377	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	2550	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	1986	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	1442	saddam hussein	0.6543983283068057
+wor13259309.txt	saddam	1121	saddam hussein	0.6543983283068057
+wor13259309.txt	hussein	2733	saddam hussein	0.6543983283068057
+usn16444287.txt	u.s. customs	843	u.s. customs and border protection	0.6387686552046566
+usn16443053.txt	n.d.	666	north dakota	0.6133056104758782
+usn16443053.txt	n.d.	5051	north dakota	0.6133056104758782
+usn16443053.txt	n.d.	4771	north dakota	0.6133056104758782
+spo16417540.txt	saban	909	nick saban	0.6107615992110497
+spo16417540.txt	saban	762	nick saban	0.6107615992110497
+spo16417540.txt	saban	654	nick saban	0.6107615992110497
+spo16417540.txt	saban	511	nick saban	0.6107615992110497
+spo16417540.txt	saban	4360	nick saban	0.6107615992110497
+spo16417540.txt	saban	2986	nick saban	0.6107615992110497
+spo16417540.txt	saban	2610	nick saban	0.6107615992110497
+spo16417540.txt	saban	2365	nick saban	0.6107615992110497
+spo16417540.txt	saban	2342	nick saban	0.6107615992110497
+spo16417540.txt	saban	2238	nick saban	0.6107615992110497
+spo16417540.txt	saban	222	nick saban	0.6107615992110497
+spo16417540.txt	saban	1728	nick saban	0.6107615992110497
+spo16417540.txt	saban	1674	nick saban	0.6107615992110497
+spo16417540.txt	saban	1404	nick saban	0.6107615992110497
+spo16417540.txt	saban	1010	nick saban	0.6107615992110497
+spo16417540.txt	saban	0	nick saban	0.6107615992110497
+spo16417540.txt	nick saban	133	nick saban	0.6107615992110497
+pol16447720.txt	nixon	4011	richard nixon	0.5993008092505884
+bus3683270.txt	japan	4831	japan	0.5987938735072591
+hea16384904.txt	ohio state university	2619	ohio state university	0.5923130587782318
+spo16417540.txt	davie	119	bob davie (american football)	0.5870660020678911
+usn16443053.txt	san diego	498	los angeles clippers	0.5866591067517559
+usn16443053.txt	los angeles	3585	los angeles clippers	0.5866591067517559
+bus3683270.txt	dow jones	417	dow jones industrial average	0.5853735331463004
+tec16454435.txt	earth	715	earth	0.5795217757877714
+wor16447201.txt	uttar pradesh	2465	uttar pradesh	0.5780922693337444
+usn16443053.txt	san francisco	3736	golden state warriors	0.5749311656543925
+usn16444287.txt	cair	1698	cyprus airways	0.5728708937310426
+ent16444023.txt	spears	847	britney spears	0.5685146428961163
+usn16444287.txt	phoenix	1435	phoenix sky harbor international airport	0.546371330144229
+usn16444287.txt	frankfurt	488	frankfurt airport	0.5450866566543079
+usn16444287.txt	frankfurt	3864	frankfurt airport	0.5450866566543079
+ent16444023.txt	timberlake	706	justin timberlake	0.5436185110911685
+ent16444023.txt	timberlake	578	justin timberlake	0.5436185110911685
+ent16444023.txt	timberlake	284	justin timberlake	0.5436185110911685
+ent16444023.txt	timberlake	0	justin timberlake	0.5436185110911685
+ent16444023.txt	vail	265	vail, colorado	0.5400082311553214
+wor16447201.txt	west bengal	1597	west bengal	0.5387913145166064
+hea16384904.txt	university of missouri	2783	university of missouri	0.5307973346313385
+usn16444287.txt	alzenau	2296	alzenau	0.5234920538848854
+hea16451212.txt	rohling	642	august rohling	0.5182205767520311
+hea16451212.txt	rohling	630	august rohling	0.5182205767520311
+hea16451212.txt	rohling	4769	august rohling	0.5182205767520311
+hea16451212.txt	rohling	3420	august rohling	0.5182205767520311
+hea16451212.txt	rohling	324	august rohling	0.5182205767520311
+tec16454435.txt	mars	2040	mars	0.5133608792828314
+pol16452612.txt	john kerry	2864	john kerry	0.5043069445206965
+bus3683270.txt	france	4967	france	0.48890156171298677
+usn16443053.txt	cleveland	629	cleveland cavaliers	0.4730402738436413
+usn16443053.txt	cleveland	4646	cleveland cavaliers	0.4730402738436413
+usn16444287.txt	bakersfield	568	bakersfield, california	0.47257692534028956
+tra16444229.txt	perez	839	blas pérez	0.471122639101939
+pol16452612.txt	gerald ford	1203	gerald ford	0.4698728791426806
+pol16452612.txt	ford	1301	gerald ford	0.4698728791426806
+spo16417540.txt	wayne huizenga	433	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	971	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	847	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	629	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	526	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	4585	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	3748	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	3093	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	2922	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	2316	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	2026	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	1619	wayne huizenga	0.4623922655091019
+spo16417540.txt	huizenga	1211	wayne huizenga	0.4623922655091019
+tra16444229.txt	aguilar	810	joel aguilar	0.4580219594169523
+bus3683270.txt	treasury	1559	united states department of the treasury	0.45527602929948263
+usn16443053.txt	samoa	685	samoa	0.45197777479758205
+usn16443053.txt	samoa	4807	samoa	0.45197777479758205
+pol16452612.txt	senate	2103	united states senate	0.44727110111023866
+hea16384904.txt	sweden	2071	sweden	0.443977139938688
+hea16451212.txt	united states	1136	united states	0.4438930699100513
+hea16451212.txt	u.s.	291	united states	0.4438930699100513
+hea16451212.txt	u.s.	1589	united states	0.4438930699100513
+hea16451212.txt	u.s.	1105	united states	0.4438930699100513
+hea16451212.txt	congress	4291	united states	0.4438930699100513
+hea16451212.txt	congress	1594	united states	0.4438930699100513
+usn16443053.txt	chicago	620	chicago bulls	0.43874623123214845
+usn16443053.txt	chicago	4637	chicago bulls	0.43874623123214845
+spo16417540.txt	tuscaloosa	835	university of alabama	0.42959014192806216
+tec16454435.txt	callas	1533	maria callas	0.415189355919072
+tra16444229.txt	london	1267	the championships, wimbledon	0.41421346686825167
+ent16453733.txt	walters	686	barbara walters	0.4095735216762811
+ent16453733.txt	walters	622	barbara walters	0.4095735216762811
+ent16453733.txt	walters	547	barbara walters	0.4095735216762811
+ent16453733.txt	walters	257	barbara walters	0.4095735216762811
+ent16453733.txt	walters	1084	barbara walters	0.4095735216762811
+bus3683270.txt	britain	4879	united kingdom	0.398719726558734
+pol16447720.txt	university of michigan	4170	university of michigan	0.39576040460049333
+pol16447720.txt	university of michigan	1900	university of michigan	0.39576040460049333
+usn16443053.txt	paul	525	chris paul	0.3954937626112161
+wor16447201.txt	allahabad	2422	allahabad	0.3902872828021582
+bus3683270.txt	germany	4922	germany	0.3877126606449954
+tec16454435.txt	los angeles	112	los angeles	0.3867527834415915
+pol16447720.txt	grand rapids	4121	grand rapids, michigan	0.3856718021207416
+pol16447720.txt	grand rapids	2171	grand rapids, michigan	0.3856718021207416
+pol16447720.txt	grand rapids	2051	grand rapids, michigan	0.3856718021207416
+pol16447720.txt	grand rapids	1312	grand rapids, michigan	0.3856718021207416
+tra16444229.txt	united states	1140	us open (tennis)	0.38407407343190175
+ent16453733.txt	america	1654	united states	0.37573191243612747
+ent16453733.txt	abc	854	american broadcasting company	0.3729605831903909
+ent16453733.txt	abc	277	american broadcasting company	0.3729605831903909
+spo16417540.txt	atlanta falcons	3596	atlanta falcons	0.37207733814717053
+usn16444287.txt	mccarran international airport	1817	mccarran international airport	0.3648834938700782
+usn16444287.txt	las vegas	501	mccarran international airport	0.3648834938700782
+usn16444287.txt	las vegas	3000	mccarran international airport	0.3648834938700782
+usn16444287.txt	las vegas	270	mccarran international airport	0.3648834938700782
+usn16444287.txt	las vegas	1947	mccarran international airport	0.3648834938700782
+spo16417540.txt	miami dolphins	299	miami dolphins	0.3565259123916335
+spo16417540.txt	miami	421	miami dolphins	0.3565259123916335
+spo16417540.txt	miami	4161	miami dolphins	0.3565259123916335
+spo16417540.txt	miami	3898	miami dolphins	0.3565259123916335
+spo16417540.txt	miami	1971	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	4735	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	4528	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	3979	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	3649	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	3521	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	3004	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	1797	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	1471	miami dolphins	0.3565259123916335
+spo16417540.txt	dolphins	13	miami dolphins	0.3565259123916335
+ent16444023.txt	diaz	569	cameron diaz	0.3523844034756505
+ent16444023.txt	diaz	220	cameron diaz	0.3523844034756505
+ent16444023.txt	diaz	12	cameron diaz	0.3523844034756505
+spo16417540.txt	arizona cardinals	3574	arizona cardinals	0.3488664279680623
+pol16452612.txt	george w. bush	478	george w. bush	0.34399492134423026
+pol16452612.txt	bush	862	george w. bush	0.34399492134423026
+pol16452612.txt	bush	2885	george w. bush	0.34399492134423026
+pol16452612.txt	bush	2837	george w. bush	0.34399492134423026
+spo16417540.txt	jimmy johnson	2134	jimmy johnson (american football coach)	0.34099677555318986
+usn16443053.txt	mandan	658	mandan language	0.34043708672665846
+usn16443053.txt	mandan	5025	mandan language	0.34043708672665846
+usn16443053.txt	mandan	4763	mandan language	0.34043708672665846
+usn16444287.txt	shehadeh	983	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	902	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	464	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	3906	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	3578	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	3132	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	2714	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	2567	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	2236	raja shehadeh	0.3404063365581353
+usn16444287.txt	shehadeh	1738	raja shehadeh	0.3404063365581353
+bus16451112.txt	nardelli	979	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	668	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	611	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	4857	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	4682	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	3780	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	374	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	3550	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	2280	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1736	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1622	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1519	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	15	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1372	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1173	robert nardelli	0.3369302653648002
+bus16451112.txt	nardelli	1150	robert nardelli	0.3369302653648002
+bus16451112.txt	bob nardelli	117	robert nardelli	0.3369302653648002
+pol16447720.txt	grace episcopal church	662	grace church (manhattan)	0.33031550634370377
+pol16452612.txt	vietnam	2795	vietnam war	0.31841416690173435
+ent16453733.txt	miss teen usa	1363	miss teen usa 2007	0.3122890888966468
+ent16453733.txt	trump	62	donald trump	0.30956460635436167
+ent16453733.txt	trump	355	donald trump	0.30956460635436167
+ent16453733.txt	trump	1667	donald trump	0.30956460635436167
+ent16453733.txt	trump	1471	donald trump	0.30956460635436167
+ent16453733.txt	trump	1281	donald trump	0.30956460635436167
+ent16453733.txt	trump	1115	donald trump	0.30956460635436167
+pol16447720.txt	bush	3134	george h. w. bush	0.30953599039062585
+pol16447720.txt	bush	3099	george h. w. bush	0.30953599039062585
+pol16447720.txt	bush	3071	george h. w. bush	0.30953599039062585
+pol16447720.txt	bush	2730	george h. w. bush	0.30953599039062585
+usn16443053.txt	world trade center	2287	september 11 attacks	0.3059107815661524
+pol16447720.txt	michigan	4104	michigan	0.30297526913144907
+pol16447720.txt	michigan	1511	michigan	0.30297526913144907
+pol16447720.txt	michigan	12	michigan	0.30297526913144907
+pol16447720.txt	mich.	127	michigan	0.30297526913144907
+usn16444287.txt	washington	2451	washington dulles international airport	0.30278011617592976
+hea16384904.txt	london	2424	new york city	0.29484765263889356
+usn16443053.txt	d.c.	492	d.c. united	0.29312187447385585
+tvn16442342.txt	mcateer	1369	jason mcateer	0.2927194187654214
+ent16444023.txt	finn	838	finland	0.29151626292964106
+hea16451212.txt	birmingham	121	birmingham, alabama	0.28526865350482233
+pol16447720.txt	grand river	775	colorado	0.2820984937289704
+pol16447720.txt	grand river	1745	colorado	0.2820984937289704
+usn16443053.txt	new york	2603	new york knicks	0.2754937545175817
+usn16443053.txt	new york	2410	new york knicks	0.2754937545175817
+usn16443053.txt	new york	2106	new york knicks	0.2754937545175817
+tra16444229.txt	texas	13	houston	0.26376034325532904
+spo16417540.txt	ncaa	4892	ncaa division i football bowl subdivision	0.2611260096434294
+spo16455207.txt	riley	826	pat riley	0.2609314024433736
+spo16455207.txt	riley	685	pat riley	0.2609314024433736
+spo16455207.txt	riley	486	pat riley	0.2609314024433736
+spo16455207.txt	riley	1360	pat riley	0.2609314024433736
+spo16455207.txt	riley	1311	pat riley	0.2609314024433736
+spo16455207.txt	riley	1178	pat riley	0.2609314024433736
+spo16455207.txt	riley	0	pat riley	0.2609314024433736
+usn16443053.txt	columbus	531	columbus crew sc	0.26091540656906215
+bus16451112.txt	bush	2375	george w. bush	0.2597736619408438
+tvn16442342.txt	west virginia	701	west virginia	0.256759233349286
+tvn16442342.txt	west virginia	348	west virginia	0.256759233349286
+tvn16442342.txt	west virginia	1265	west virginia	0.256759233349286
+spo16417540.txt	green bay	2679	green bay packers	0.2544176589536398
+spo16455207.txt	espn	1301	espn	0.24760437369576635
+ent16453733.txt	new york	116	new york city	0.22859753312377984
+pol16447720.txt	israel	3586	israel	0.22770345082620758
+tra16454203.txt	london	73	london	0.22664295760322883
+tra16454203.txt	london	234	london	0.22664295760322883
+tra16454203.txt	london	124	london	0.22664295760322883
+usn16443053.txt	washington	126	washington wizards	0.21057205401072474
+spo16455207.txt	nba	541	national football league	0.20107395043071044
+spo16417540.txt	terry	1169	terry bowden	0.19862309400949235
+spo16417540.txt	terry	1030	terry bowden	0.19862309400949235
+hea16451212.txt	pittsburgh	3887	pittsburgh	0.19239601067159584
+ent16444023.txt	memphis	325	memphis international airport	0.19194779928346442
+spo16417540.txt	west virginia	2480	west virginia mountaineers football	0.1879307506342066
+tra16444229.txt	houston	354	houston	0.1867031181606051
+tra16444229.txt	houston	121	houston	0.1867031181606051
+pol16452612.txt	pfeiffer	3022	michelle pfeiffer	0.1855739624193319
+pol16452612.txt	pfeiffer	2810	michelle pfeiffer	0.1855739624193319
+pol16452612.txt	pfeiffer	2610	michelle pfeiffer	0.1855739624193319
+pol16447720.txt	washington	2683	united states	0.17693200104344076
+pol16447720.txt	washington	1629	united states	0.17693200104344076
+pol16447720.txt	america	3817	united states	0.17693200104344076
+pol16447720.txt	america	2919	united states	0.17693200104344076
+pol16447720.txt	america	2906	united states	0.17693200104344076
+tec16451635.txt	china	572	china	0.17330765344735996
+tec16451635.txt	china	526	china	0.17330765344735996
+tec16451635.txt	china	22	china	0.17330765344735996
+tec16451635.txt	china	189	china	0.17330765344735996
+tec16451635.txt	china	1018	china	0.17330765344735996
+spo16417540.txt	alabama	26	alabama crimson tide football	0.1665187527317546
+spo16417540.txt	alabama	2495	alabama crimson tide football	0.1665187527317546
+spo16417540.txt	alabama	2411	alabama crimson tide football	0.1665187527317546
+spo16417540.txt	alabama	241	alabama crimson tide football	0.1665187527317546
+spo16417540.txt	alabama	1833	alabama crimson tide football	0.1665187527317546
+spo16417540.txt	alabama	1765	alabama crimson tide football	0.1665187527317546
+ent16444023.txt	star	183	star alliance	0.16572263696787237
+hea16384904.txt	new york	1564	new york (state)	0.15840674670720079
+pol16452612.txt	washington	2250	washington, d.c.	0.14862250528554233
+pol16452612.txt	washington	1771	washington, d.c.	0.14862250528554233
+pol16452612.txt	washington	1694	washington, d.c.	0.14862250528554233
+pol16452612.txt	washington	1433	washington, d.c.	0.14862250528554233
+pol16452612.txt	washington	110	washington, d.c.	0.14862250528554233
+bus3683270.txt	new york	105	new york city	0.146715478524629
+spo16417540.txt	johnson	2184	marquis johnson	0.14539289594269814
+pol16447720.txt	gerald r. ford	242	gerald ford	0.1442307034018178
+pol16447720.txt	gerald ford	3775	gerald ford	0.1442307034018178
+pol16447720.txt	ford	864	gerald ford	0.1442307034018178
+pol16447720.txt	ford	591	gerald ford	0.1442307034018178
+pol16447720.txt	ford	492	gerald ford	0.1442307034018178
+pol16447720.txt	ford	4313	gerald ford	0.1442307034018178
+pol16447720.txt	ford	4255	gerald ford	0.1442307034018178
+pol16447720.txt	ford	4153	gerald ford	0.1442307034018178
+pol16447720.txt	ford	4039	gerald ford	0.1442307034018178
+pol16447720.txt	ford	3861	gerald ford	0.1442307034018178
+pol16447720.txt	ford	37	gerald ford	0.1442307034018178
+pol16447720.txt	ford	3466	gerald ford	0.1442307034018178
+pol16447720.txt	ford	3314	gerald ford	0.1442307034018178
+pol16447720.txt	ford	3267	gerald ford	0.1442307034018178
+pol16447720.txt	ford	3147	gerald ford	0.1442307034018178
+pol16447720.txt	ford	2799	gerald ford	0.1442307034018178
+pol16447720.txt	ford	2191	gerald ford	0.1442307034018178
+pol16447720.txt	ford	2079	gerald ford	0.1442307034018178
+pol16447720.txt	ford	1930	gerald ford	0.1442307034018178
+pol16447720.txt	ford	1551	gerald ford	0.1442307034018178
+pol16447720.txt	ford	1277	gerald ford	0.1442307034018178
+pol16447720.txt	ford	1130	gerald ford	0.1442307034018178
+pol16447720.txt	ford	1000	gerald ford	0.1442307034018178
+bus16451112.txt	shields	884	brooke shields	0.13959574791751955
+ent16453733.txt	miss usa	1350	miss usa 2009	0.12502764577968126
+pol16452612.txt	new york	3488	new york city	0.11827892603375377
+usn16444287.txt	mulligan	3364	carey mulligan	0.1164536176256133
+usn16444287.txt	mulligan	3167	carey mulligan	0.1164536176256133
+tra16444229.txt	manuel	694	juan manuel fangio	0.10574653717988508
+spo16455207.txt	miami	111	american airlines arena	0.10242783352091818
+spo16417540.txt	espn	341	espn college football	0.09205406029624526
+hea16451212.txt	kyle	2480	kyle busch	0.08385697564491851
+spo16417540.txt	san diego chargers	2714	los angeles chargers	0.07851558016709245
+pol16447720.txt	wolverines	1956	michigan wolverines football	0.0766725267970469
+spo16417540.txt	oklahoma state	2521	oklahoma state university–stillwater	0.07262240097013013
+hea16451212.txt	tolbert	1556	mike tolbert	0.06644181110133406
+spo16417540.txt	lsu	3018	lsu tigers football	0.0630881599454115
+spo16417540.txt	lsu	1445	lsu tigers football	0.0630881599454115
+hea16451212.txt	dana	2465	dana delany	0.06076152541945219
+hea16451212.txt	dana	2395	dana delany	0.06076152541945219
+spo16417540.txt	nick	1257	nick o'leary	0.056717970583727406
+spo16417540.txt	nick	1235	nick o'leary	0.056717970583727406
+spo16417540.txt	nick	1160	nick o'leary	0.056717970583727406
+spo16417540.txt	nick	1084	nick o'leary	0.056717970583727406
+hea16451212.txt	sharp	3377	scott sharp	0.05563783093578101
+hea16451212.txt	sharp	2901	scott sharp	0.05563783093578101
+hea16451212.txt	sharp	2808	scott sharp	0.05563783093578101
+hea16451212.txt	sharp	2590	scott sharp	0.05563783093578101
+hea16451212.txt	sharp	2521	scott sharp	0.05563783093578101
+ent16453733.txt	donnell	780	donnell whittenburg	0.03823079827886963
+ent16453733.txt	donnell	565	donnell whittenburg	0.03823079827886963
+ent16453733.txt	donnell	379	donnell whittenburg	0.03823079827886963
+ent16453733.txt	donnell	1695	donnell whittenburg	0.03823079827886963
+ent16453733.txt	donnell	1103	donnell whittenburg	0.03823079827886963
+bus16451112.txt	bob	3072	bob bryan	0.036017416887710436
+bus16451112.txt	bob	1929	bob bryan	0.036017416887710436
+bus16451112.txt	bob	1850	bob bryan	0.036017416887710436
+wor16447201.txt	shakuntala	1699	sakuntla devi	0.030298738172862553
+tra16444229.txt	osorio	828	carlos manuel arana osorio	0.02509775319879939
+pol16452612.txt	indiana	2075	indiana pacers	0.01767090035268702

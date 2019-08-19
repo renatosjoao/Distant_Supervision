@@ -1,0 +1,57 @@
+-docstart- (9 cel09)	tapes	52	tape (play)	1.0
+-docstart- (8 cel08)	husband	14	len sassaman	1.0
+-docstart- (8 cel08)	vegas	35	las vegas	1.0
+-docstart- (49 pol09)	jfk	42	john f. kennedy	1.0
+-docstart- (48 pol08)	province of greece	15	provinces of greece	1.0
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	1.0
+-docstart- (47 pol07)	erich	0	erich honecker	1.0
+-docstart- (46 pol06)	first man on the moon	18	neil armstrong	1.0
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	1.0
+-docstart- (45 pol05)	october 20	27	october 20	1.0
+-docstart- (45 pol05)	kennedy	16	john f. kennedy	1.0
+-docstart- (44 pol04)	raf	4	red army faction	1.0
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	1.0
+-docstart- (43 pol03)	second world	45	second world	1.0
+-docstart- (42 pol02)	euro	66	europe	1.0
+-docstart- (41 pol01)	watergate	21	watergate scandal	1.0
+-docstart- (41 pol01)	nixon resigned	0	watergate scandal	1.0
+-docstart- (40 spo10)	hertha	0	hertha bsc	1.0
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	1.0
+-docstart- (4 cel04)	tiger	0	tiger woods	1.0
+-docstart- (39 spo09)	yabo	0	reinhold yabo	1.0
+-docstart- (39 spo09)	aachen	15	alemannia aachen	1.0
+-docstart- (38 spo08)	tivoli	34	new tivoli	1.0
+-docstart- (38 spo08)	meijer	13	erik meijer (footballer)	1.0
+-docstart- (38 spo08)	landgraf	0	willi landgraf	1.0
+-docstart- (37 spo07)	match	40	2005 uefa champions league final	1.0
+-docstart- (37 spo07)	san siro	64	san siro	1.0
+-docstart- (36 spo06)	haug	0	jutta haug	1.0
+-docstart- (35 spo05)	munich	41	munich	1.0
+-docstart- (30 bus10)	bosch	0	robert bosch gmbh	1.0
+-docstart- (3 cel03)	woods	22	tiger woods	1.0
+-docstart- (3 cel03)	tiger	0	tiger woods	1.0
+-docstart- (3 cel03)	elin	54	elin nordegren	1.0
+-docstart- (29 bus09)	bounty	18	bounty (chocolate bar)	1.0
+-docstart- (28 bus08)	pixar	0	pixar	1.0
+-docstart- (27 bus07)	international	30	europe	1.0
+-docstart- (27 bus07)	equity international	23	equity international	1.0
+-docstart- (23 bus03)	bill	180	bill gates	1.0
+-docstart- (21 bus01)	stanford	78	stanford university	1.0
+-docstart- (21 bus01)	apple	44	apple inc.	1.0
+-docstart- (20 mus10)	mayall	59	john mayall	1.0
+-docstart- (18 mus08)	baez	9	joan baez	1.0
+-docstart- (17 mus07)	jones	38	john paul jones (musician)	1.0
+-docstart- (17 mus07)	homme	20	josh homme	1.0
+-docstart- (17 mus07)	grohl	27	dave grohl	1.0
+-docstart- (16 mus06)	country star	32	country star	1.0
+-docstart- (15 mus05)	decade	66	decade (neil young album)	1.0
+-docstart- (15 mus05)	sinatra	80	frank sinatra	1.0
+-docstart- (15 mus05)	dylan	89	bob dylan	1.0
+-docstart- (14 mus04)	hendrix	67	jimi hendrix	1.0
+-docstart- (12 mus02)	joey	47	joey (bob dylan song)	1.0
+-docstart- (12 mus02)	harris	28	emmylou harris	1.0
+-docstart- (12 mus02)	desire	0	desire (bob dylan album)	1.0
+-docstart- (11 mus01)	desire	73	desire (bob dylan album)	1.0
+-docstart- (11 mus01)	carter	50	rubin carter	1.0
+-docstart- (10 cel10)	kate	21	kate voegele	1.0
+-docstart- (19 mus09)	wight	12	isle of wight	0.967741935483871

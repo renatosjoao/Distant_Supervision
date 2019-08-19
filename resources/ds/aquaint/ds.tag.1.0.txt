@@ -1,0 +1,8 @@
+apw19981020_1367.htm	apollo 11	330	apollo 11	0.74718666
+apw19981020_1367.htm	roger chaffee	239	roger b. chaffee	0.7222291
+apw19981020_1367.htm	neil armstrong	345	neil armstrong	0.7202633
+apw19981020_1367.htm	buzz aldrin	367	buzz aldrin	0.71886873
+apw19981113_0729.htm	gaza strip	351	gaza strip	0.6972
+apw19981113_0500.htm	gaza strip	348	gaza strip	0.6972
+apw19990519_0141.htm	viking orbiter	954	viking program	0.69693124
+apw19981210_0433.htm	iran-iraq war	1503	iran–iraq war	0.69607776

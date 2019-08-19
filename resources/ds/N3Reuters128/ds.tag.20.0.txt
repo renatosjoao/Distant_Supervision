@@ -1,0 +1,178 @@
+http:__aksw.org_n3_reuters-128_65	angiotensin converting enzyme inhibitor	148	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	ace inhibitor	334	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	vaseretic	100	enalapril	0.74220234
+http:__aksw.org_n3_reuters-128_65	hydrodiuril	383	hydrochlorothiazide	0.7403333
+http:__aksw.org_n3_reuters-128_118	integrated services digital network	164	integrated services digital network	0.7214042
+http:__aksw.org_n3_reuters-128_65	merck and co inc	0	merck & co.	0.7173667
+http:__aksw.org_n3_reuters-128_51	hard disk drive	294	hard disk drive	0.70507085
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	0.6726929
+http:__aksw.org_n3_reuters-128_65	vasotec	322	enalapril	0.6707738
+http:__aksw.org_n3_reuters-128_65	diuretic	200	diuretic	0.6672349
+http:__aksw.org_n3_reuters-128_51	ibm personal system/2	136	ibm personal system/2	0.6577333
+http:__aksw.org_n3_reuters-128_24	international monetary fund	434	international monetary fund	0.65499765
+http:__aksw.org_n3_reuters-128_116	u.s. budget deficit	65	national debt of the united states	0.64865315
+http:__aksw.org_n3_reuters-128_115	federal trade commission	608	federal trade commission	0.64634943
+http:__aksw.org_n3_reuters-128_25	drexel burnham lambert	125	drexel burnham lambert	0.6453786
+http:__aksw.org_n3_reuters-128_49	cain chemical	406	occidental petroleum	0.64411664
+http:__aksw.org_n3_reuters-128_18	drexel burnham lambert	360	drexel burnham lambert	0.6428619
+http:__aksw.org_n3_reuters-128_118	advanced micro devices inc	0	advanced micro devices	0.63725
+http:__aksw.org_n3_reuters-128_33	buenos aires province	649	buenos aires province	0.63349247
+http:__aksw.org_n3_reuters-128_100	goldman, sachs	420	goldman sachs	0.6258577
+http:__aksw.org_n3_reuters-128_123	u.s. senate budget committee	4	united states senate committee on the budget	0.6220231
+http:__aksw.org_n3_reuters-128_10	new york stock exchange	79	new york stock exchange	0.62084675
+http:__aksw.org_n3_reuters-128_112	e.f. hutton co	27	e. f. hutton & co.	0.6206727
+http:__aksw.org_n3_reuters-128_46	shearson lehman brothers	232	shearson	0.62045
+http:__aksw.org_n3_reuters-128_101	nippon telegraph and telephone	94	nippon telegraph and telephone	0.6176421
+http:__aksw.org_n3_reuters-128_107	mir-hossein mousavi	102	mir-hossein mousavi	0.6171575
+http:__aksw.org_n3_reuters-128_37	federal funds rate	481	federal funds rate	0.6152235
+http:__aksw.org_n3_reuters-128_58	sydney futures exchange	258	australian securities exchange	0.61405
+http:__aksw.org_n3_reuters-128_60	zero-coupon bond	53	zero-coupon bond	0.61278147
+http:__aksw.org_n3_reuters-128_10	nv philips gloeilampenfabrieken	0	philips	0.61162406
+http:__aksw.org_n3_reuters-128_36	gerhard stoltenberg	215	gerhard stoltenberg	0.6084933
+http:__aksw.org_n3_reuters-128_85	shearson lehman brothers	178	shearson	0.6057533
+http:__aksw.org_n3_reuters-128_30	national cancer institute	1880	national cancer institute	0.60565996
+http:__aksw.org_n3_reuters-128_66	london international financial futures exchange	548	london international financial futures and options exchange	0.6056375
+http:__aksw.org_n3_reuters-128_100	first boston corp	401	first boston	0.60472274
+http:__aksw.org_n3_reuters-128_13	put option	429	put option	0.603924
+http:__aksw.org_n3_reuters-128_122	hambrecht and quist	124	hambrecht & quist	0.6036231
+http:__aksw.org_n3_reuters-128_96	donald trump	0	donald trump	0.5989739
+http:__aksw.org_n3_reuters-128_126	morgan stanley	101	morgan stanley	0.5982464
+http:__aksw.org_n3_reuters-128_105	chicago mercantile exchange	4	chicago mercantile exchange	0.59668463
+http:__aksw.org_n3_reuters-128_113	ministry of international trade and industry	235	ministry of international trade and industry	0.5962292
+http:__aksw.org_n3_reuters-128_118	isdn	204	integrated services digital network	0.5938281
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	0.5933088
+http:__aksw.org_n3_reuters-128_30	national cancer institute	2108	national cancer institute	0.5929834
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto-dominion bank	0.592837
+http:__aksw.org_n3_reuters-128_123	lawton chiles	145	lawton chiles	0.59110385
+http:__aksw.org_n3_reuters-128_55	japan air lines co ltd	76	japan airlines	0.59059
+http:__aksw.org_n3_reuters-128_95	drexel burnham lambert	258	drexel burnham lambert	0.5894656
+http:__aksw.org_n3_reuters-128_19	return on common equity	207	return on equity	0.58910555
+http:__aksw.org_n3_reuters-128_32	eurobond	51	eurobond	0.58710265
+http:__aksw.org_n3_reuters-128_67	reuters in	336	reuters	0.58442104
+http:__aksw.org_n3_reuters-128_79	rio grande do sul	630	rio grande do sul	0.5843883
+http:__aksw.org_n3_reuters-128_44	ford taurus	591	ford taurus	0.58431315
+http:__aksw.org_n3_reuters-128_112	initial public offering	115	initial public offering	0.5823349
+http:__aksw.org_n3_reuters-128_40	welsh, carson, anderson and stowe	122	welsh, carson, anderson & stowe	0.58223236
+http:__aksw.org_n3_reuters-128_44	mercury sable	607	mercury sable	0.58214736
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	0.58100176
+http:__aksw.org_n3_reuters-128_94	amsterdam bourse	925	amsterdam stock exchange	0.57857144
+http:__aksw.org_n3_reuters-128_13	salomon brothers	144	salomon brothers	0.578432
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	0.5784289
+http:__aksw.org_n3_reuters-128_87	republic airlines	74	republic airlines	0.5772306
+http:__aksw.org_n3_reuters-128_24	kenneth kaunda	379	kenneth kaunda	0.5764706
+http:__aksw.org_n3_reuters-128_87	employee stock ownership plan	280	employee stock ownership plan	0.57538056
+http:__aksw.org_n3_reuters-128_36	jacques de larosiere	341	jacques de larosière	0.57345384
+http:__aksw.org_n3_reuters-128_36	kiichi miyazawa	413	kiichi miyazawa	0.5730864
+http:__aksw.org_n3_reuters-128_101	central office switching	51	telephone exchange	0.57290876
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	0.5703942
+http:__aksw.org_n3_reuters-128_30	immunex	393	amgen	0.5703339
+http:__aksw.org_n3_reuters-128_115	darlington county, s.c	247	darlington county, south carolina	0.5696094
+http:__aksw.org_n3_reuters-128_93	office of management and budget	0	office of management and budget	0.5692957
+http:__aksw.org_n3_reuters-128_60	luxembourg stock exchange	298	luxembourg stock exchange	0.56906295
+http:__aksw.org_n3_reuters-128_103	lawton chiles	140	lawton chiles	0.568628
+http:__aksw.org_n3_reuters-128_125	western digital corp	0	western digital	0.5681375
+http:__aksw.org_n3_reuters-128_27	carnival cruise lines	118	carnival cruise line	0.5680932
+http:__aksw.org_n3_reuters-128_94	price earnings ratio	890	price–earnings ratio	0.56677777
+http:__aksw.org_n3_reuters-128_42	continental bank of canada	0	continental bank of canada	0.56588334
+http:__aksw.org_n3_reuters-128_77	j.p. morgan and co	0	j.p. morgan & co.	0.5651389
+http:__aksw.org_n3_reuters-128_26	first boston corp	112	first boston	0.5620318
+http:__aksw.org_n3_reuters-128_49	cain chemical	4150	occidental petroleum	0.56176364
+http:__aksw.org_n3_reuters-128_67	asher edelman	1236	asher edelman	0.561275
+http:__aksw.org_n3_reuters-128_13	eurobond	26	eurobond	0.558666
+http:__aksw.org_n3_reuters-128_1	key tronic	0	key tronic	0.55791
+http:__aksw.org_n3_reuters-128_45	edouard saouma	285	edouard saouma	0.5574654
+http:__aksw.org_n3_reuters-128_56	mci communications corp	92	mci communications	0.5568625
+http:__aksw.org_n3_reuters-128_117	colorado house of representatives	991	colorado house of representatives	0.55649376
+http:__aksw.org_n3_reuters-128_55	national transportation safety board	546	national transportation safety board	0.5546861
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	0.5527964
+http:__aksw.org_n3_reuters-128_16	eurobond	72	eurobond	0.5526022
+http:__aksw.org_n3_reuters-128_15	eurobond	72	eurobond	0.5526022
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	0.5522875
+http:__aksw.org_n3_reuters-128_106	jerzy urban	316	jerzy urban	0.55135
+http:__aksw.org_n3_reuters-128_126	s corp	357	s corporation	0.550668
+http:__aksw.org_n3_reuters-128_60	merrill lynch	150	merrill lynch	0.55046916
+http:__aksw.org_n3_reuters-128_49	leveraged buyout	4354	leveraged buyout	0.5504595
+http:__aksw.org_n3_reuters-128_66	u.s. securities and exchange commission	1024	u.s. securities and exchange commission	0.54980665
+http:__aksw.org_n3_reuters-128_107	british broadcasting corporation	461	bbc	0.5493175
+http:__aksw.org_n3_reuters-128_31	georgia public service commission	26	georgia public service commission	0.54841924
+http:__aksw.org_n3_reuters-128_117	colorado public utilities commission	551	colorado public utilities commission	0.5467306
+http:__aksw.org_n3_reuters-128_50	federal paper board	0	international paper	0.54579115
+http:__aksw.org_n3_reuters-128_86	wall street journal	380	the wall street journal	0.5443797
+http:__aksw.org_n3_reuters-128_107	basra	1028	basra	0.54349476
+http:__aksw.org_n3_reuters-128_81	merrill lynch	189	merrill lynch	0.543448
+http:__aksw.org_n3_reuters-128_107	iran	0	iran	0.5433421
+http:__aksw.org_n3_reuters-128_111	lucky stores	2977	lucky stores	0.5428682
+http:__aksw.org_n3_reuters-128_118	rockwell international	1378	rockwell international	0.54260844
+http:__aksw.org_n3_reuters-128_118	isdn	1763	integrated services digital network	0.54223007
+http:__aksw.org_n3_reuters-128_45	food and agriculture organisation	188	food and agriculture organization	0.5408009
+http:__aksw.org_n3_reuters-128_5	teradyne inc	0	teradyne	0.54010457
+http:__aksw.org_n3_reuters-128_107	basra	48	basra	0.539422
+http:__aksw.org_n3_reuters-128_16	toronto dominion bank	0	toronto-dominion bank	0.53913045
+http:__aksw.org_n3_reuters-128_15	toronto dominion bank	0	toronto-dominion bank	0.53913045
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	0.5390286
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	0	freeport-mcmoran	0.53889716
+http:__aksw.org_n3_reuters-128_42	lloyds bank canada	236	lloyds bank canada	0.53610003
+http:__aksw.org_n3_reuters-128_44	annual percentage rate	368	annual percentage rate	0.53557384
+http:__aksw.org_n3_reuters-128_30	cetus corp	335	cetus corporation	0.535481
+http:__aksw.org_n3_reuters-128_53	royalty trust	228	royalty trust	0.53455836
+http:__aksw.org_n3_reuters-128_22	national park, n.j	496	national park, new jersey	0.53455627
+http:__aksw.org_n3_reuters-128_111	asher edelman	323	asher edelman	0.5344045
+http:__aksw.org_n3_reuters-128_45	committee on world food security	251	committee on world food security	0.5342467
+http:__aksw.org_n3_reuters-128_124	murdochville, quebec	115	murdochville, quebec	0.53402
+http:__aksw.org_n3_reuters-128_57	u.s. district court in detroit	61	united states district court for the eastern district of michigan	0.5338682
+http:__aksw.org_n3_reuters-128_118	isdn	1483	integrated services digital network	0.5294301
+http:__aksw.org_n3_reuters-128_111	fieldcrest cannon inc	3160	cannon mills	0.5291794
+http:__aksw.org_n3_reuters-128_32	paine webber	166	paine webber	0.5287921
+http:__aksw.org_n3_reuters-128_36	giovanni goria	896	giovanni goria	0.5283577
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	0.5276694
+http:__aksw.org_n3_reuters-128_124	charles-eugene marin	313	charles-eugène marin	0.5269912
+http:__aksw.org_n3_reuters-128_49	dean witter reynolds	4820	dean witter reynolds	0.52549
+http:__aksw.org_n3_reuters-128_29	50 cent	152	50 cent	0.5249975
+http:__aksw.org_n3_reuters-128_107	iran	554	iran	0.5244905
+http:__aksw.org_n3_reuters-128_16	hambros bank	156	hambros bank	0.52438045
+http:__aksw.org_n3_reuters-128_15	hambros bank	156	hambros bank	0.52438045
+http:__aksw.org_n3_reuters-128_41	avnet inc	0	avnet	0.52415454
+http:__aksw.org_n3_reuters-128_61	first boston corp	0	first boston	0.5206357
+http:__aksw.org_n3_reuters-128_30	new england journal of medicine	171	the new england journal of medicine	0.5190794
+http:__aksw.org_n3_reuters-128_0	paxar	0	avery dennison	0.5189555
+http:__aksw.org_n3_reuters-128_62	guilder	228	dutch guilder	0.51821667
+http:__aksw.org_n3_reuters-128_31	georgia power	233	georgia power	0.5136014
+http:__aksw.org_n3_reuters-128_114	emerson radio corp	0	emerson radio	0.5134231
+http:__aksw.org_n3_reuters-128_105	leo melamed	1380	leo melamed	0.5133682
+http:__aksw.org_n3_reuters-128_94	liemt	239	pim van liemt	0.51327956
+http:__aksw.org_n3_reuters-128_94	liemt	671	pim van liemt	0.51270217
+http:__aksw.org_n3_reuters-128_107	ahvaz field	1178	ahvaz field	0.5126947
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	0.5122
+http:__aksw.org_n3_reuters-128_90	reverse stock split	57	reverse stock split	0.5106382
+http:__aksw.org_n3_reuters-128_65	antihypertensive	271	antihypertensive drug	0.50934166
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	0.5091842
+http:__aksw.org_n3_reuters-128_33	soybean	977	soybean	0.50865746
+http:__aksw.org_n3_reuters-128_124	to return	1510	volver	0.5081526
+http:__aksw.org_n3_reuters-128_96	alexanders inc	128	alexander's	0.5077587
+http:__aksw.org_n3_reuters-128_86	insider trading	101	insider trading	0.50767845
+http:__aksw.org_n3_reuters-128_54	superconductor	495	superconductivity	0.5073018
+http:__aksw.org_n3_reuters-128_120	to show	499	the t.o. show	0.50509834
+http:__aksw.org_n3_reuters-128_8	sugar beet	609	sugar beet	0.5049571
+http:__aksw.org_n3_reuters-128_30	cellular immune system	2736	cell-mediated immunity	0.504705
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	0.5041518
+http:__aksw.org_n3_reuters-128_116	japanese yen	895	japanese yen	0.5036231
+http:__aksw.org_n3_reuters-128_62	to show	64	the t.o. show	0.50359374
+http:__aksw.org_n3_reuters-128_38	best buy	0	best buy	0.5030026
+http:__aksw.org_n3_reuters-128_69	ghana	1540	ghana	0.5028316
+http:__aksw.org_n3_reuters-128_118	ibm	1992	ibm	0.5016661
+http:__aksw.org_n3_reuters-128_61	getty oil	655	getty oil	0.5015927
+http:__aksw.org_n3_reuters-128_3	solid perfume	334	solid perfume	0.5012417
+http:__aksw.org_n3_reuters-128_98	solid perfume	53	solid perfume	0.5
+http:__aksw.org_n3_reuters-128_92	ggfh	41	g.g.f.h.	0.5
+http:__aksw.org_n3_reuters-128_85	avx	0	advanced vector extensions	0.5
+http:__aksw.org_n3_reuters-128_84	time yesterday	192	time for yesterday	0.5
+http:__aksw.org_n3_reuters-128_84	the price	160	the price (angel)	0.5
+http:__aksw.org_n3_reuters-128_83	ccl industries inc	0	ccl industries	0.5
+http:__aksw.org_n3_reuters-128_75	highland superstores	0	highland superstores	0.5
+http:__aksw.org_n3_reuters-128_7	the price	170	the price (angel)	0.5
+http:__aksw.org_n3_reuters-128_62	pglo	32	pglo	0.5
+http:__aksw.org_n3_reuters-128_59	shopsmith inc	0	rlf brands	0.5
+http:__aksw.org_n3_reuters-128_57	reynolds and reynolds	0	reynolds and reynolds	0.5
+http:__aksw.org_n3_reuters-128_50	it it	88	laconic phrase	0.5
+http:__aksw.org_n3_reuters-128_48	fidelcor	0	fidelity trust company	0.5
+http:__aksw.org_n3_reuters-128_46	avx	0	avengers vs. x-men	0.5

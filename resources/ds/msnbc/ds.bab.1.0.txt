@@ -1,0 +1,16 @@
+wor16447201.txt	third river	642	third river (new jersey)	1.0
+wor16447201.txt	state of	2456	states of brazil	1.0
+wor16447201.txt	state of	1807	states of brazil	1.0
+wor16447201.txt	state of	1588	states of brazil	1.0
+wor16447201.txt	position of the sun	2887	position of the sun	1.0
+wor16447201.txt	midway point	2796	midway point, tasmania	1.0
+wor16447201.txt	men in saffron	544	history monks	1.0
+wor16447201.txt	day of	755	day of ashura	1.0
+wor16447201.txt	day of	310	day of ashura	1.0
+wor16447201.txt	acre  festival	3263	acco festival of alternative israeli theatre	1.0
+wor16447201.txt	naba	1523	naba bhuyan	1.0
+wor16447201.txt	maha kumbh mela	992	kumbh mela	1.0
+wor16447201.txt	maha kumbh mela	2969	kumbh mela	1.0
+wor16447201.txt	maha kumbh mela	2756	kumbh mela	1.0
+wor16447201.txt	maha kumbh	992	kumbh mela	1.0
+wor16447201.txt	maha kumbh	2969	kumbh mela	1.0

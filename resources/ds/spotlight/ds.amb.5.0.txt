@@ -1,0 +1,2 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	spree river	231	spree	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0

@@ -1,0 +1,7 @@
+-docstart- (9 cel09)	tapes	52	tape (play)	1.0
+-docstart- (8 cel08)	husband	14	len sassaman	1.0
+-docstart- (8 cel08)	vegas	35	las vegas	1.0
+-docstart- (49 pol09)	jfk	42	john f. kennedy	1.0
+-docstart- (48 pol08)	province of greece	15	provinces of greece	1.0
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	1.0
+-docstart- (47 pol07)	erich	0	erich honecker	1.0

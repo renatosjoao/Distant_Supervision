@@ -1,0 +1,35 @@
+http:__gerdaq_gerdaq_trainingb.xml_94	springs	9	spring byington	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference (ohsaa)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_90	ansi	0	windows-1252	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	glendale california	7	glendale, california	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	costco	0	costco	1.0
+http:__gerdaq_gerdaq_trainingb.xml_81	america	0	united states	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	memphis area	26	memphis, tennessee	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	corvette	0	general motors	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	micheal jordan	0	michael jordan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	micheal	0	micheal ray richardson	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	jordan	8	michael jordan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_73	venice	0	venice	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	rapids	6	grand rapids, ohio	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	grand rapids	0	grand rapids, ohio	1.0
+http:__gerdaq_gerdaq_trainingb.xml_60	central avenue	17	minnesota state highway 65	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	report	19	firestone firehawk 600	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	fort desoto	0	fort de soto park	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	fort	0	fort worth, texas	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	ll cool j	0	ll cool j	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	ll cool	0	ll cool j	1.0
+http:__gerdaq_gerdaq_trainingb.xml_56	era	30	era (musical project)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_51	piney	0	piney woods	1.0
+http:__gerdaq_gerdaq_trainingb.xml_5	bear hotel	5	bear hotel (oxfordshire)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_43	black history month	0	black history month (song)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_40	world of	0	discworld (world)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston police	0	houston police department	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston	0	houston police department	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	psychological examiners	24	school psychological examiner	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	new jersey state	0	new jersey	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	jersey state	4	new jersey	1.0
+http:__gerdaq_gerdaq_trainingb.xml_38	tgp	11	tokyo gore police	1.0
+http:__gerdaq_gerdaq_trainingb.xml_30	sms	20	short message service	1.0
+http:__gerdaq_gerdaq_trainingb.xml_3	mn	23	minnesota	1.0
+http:__gerdaq_gerdaq_trainingb.xml_3	duluth mn	16	duluth, minnesota	1.0
+http:__gerdaq_gerdaq_trainingb.xml_28	raymond poe	0	raymond poe	1.0

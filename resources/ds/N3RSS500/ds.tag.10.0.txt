@@ -1,0 +1,127 @@
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	0.803925
+http:__aksw.org_n3_rss-500_151	fa cup	16	fa cup	0.80367815
+http:__aksw.org_n3_rss-500_232	boomer esiason	22	boomer esiason	0.7750643
+http:__aksw.org_n3_rss-500_326	brandon belt	21	brandon belt	0.77451664
+http:__aksw.org_n3_rss-500_232	dan marino	64	dan marino	0.77450716
+http:__aksw.org_n3_rss-500_230	don mattingly	68	don mattingly	0.7647
+http:__aksw.org_n3_rss-500_467	peter o'malley	105	peter o'malley	0.7612875
+http:__aksw.org_n3_rss-500_353	hezbollah	27	hezbollah	0.7568538
+http:__aksw.org_n3_rss-500_261	manchester city	123	manchester city f.c.	0.74719
+http:__aksw.org_n3_rss-500_96	baltimore orioles	136	baltimore orioles	0.74057305
+http:__aksw.org_n3_rss-500_261	yaya toure	74	yaya touré	0.7352867
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	0.7330308
+http:__aksw.org_n3_rss-500_310	barack obama	115	barack obama	0.7324167
+http:__aksw.org_n3_rss-500_96	boston red sox	0	boston red sox	0.7322769
+http:__aksw.org_n3_rss-500_278	jerry rice	22	jerry rice	0.7320333
+http:__aksw.org_n3_rss-500_278	joe montana	122	joe montana	0.73093337
+http:__aksw.org_n3_rss-500_481	manchester city	112	manchester city f.c.	0.7306344
+http:__aksw.org_n3_rss-500_352	seattle mariners	22	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_287	seattle mariners	28	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_285	seattle mariners	28	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_280	michael irvin	120	michael irvin	0.72875
+http:__aksw.org_n3_rss-500_13	al shabaab	33	al-shabaab (militant group)	0.7284312
+http:__aksw.org_n3_rss-500_113	philadelphia 76ers	129	philadelphia 76ers	0.72638637
+http:__aksw.org_n3_rss-500_182	geno auriemma	51	geno auriemma	0.7257375
+http:__aksw.org_n3_rss-500_278	steve young	138	steve young	0.7244
+http:__aksw.org_n3_rss-500_26	andrea hlavackova	149	andrea hlaváčková	0.7214042
+http:__aksw.org_n3_rss-500_352	tampa bay rays	112	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_287	tampa bay rays	118	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_285	tampa bay rays	118	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_405	julia goerges	11	julia görges	0.7202542
+http:__aksw.org_n3_rss-500_261	gervinho	180	gervinho	0.7156867
+http:__aksw.org_n3_rss-500_279	michael irvin	99	michael irvin	0.7134357
+http:__aksw.org_n3_rss-500_405	casey dellacqua	131	casey dellacqua	0.71061665
+http:__aksw.org_n3_rss-500_481	carlos tevez	52	carlos tevez	0.71054065
+http:__aksw.org_n3_rss-500_18	alejandro mayorkas	11	alejandro mayorkas	0.7098
+http:__aksw.org_n3_rss-500_481	samir nasri	69	samir nasri	0.7088281
+http:__aksw.org_n3_rss-500_61	boston red sox	167	boston red sox	0.70868576
+http:__aksw.org_n3_rss-500_353	hassan nasrallah	50	hassan nasrallah	0.7073923
+http:__aksw.org_n3_rss-500_477	peyton manning	105	peyton manning	0.7070158
+http:__aksw.org_n3_rss-500_481	yaya toure	39	yaya touré	0.7069844
+http:__aksw.org_n3_rss-500_35	steve jobs	45	steve jobs	0.7056072
+http:__aksw.org_n3_rss-500_467	los angeles dodgers	79	los angeles dodgers	0.7049
+http:__aksw.org_n3_rss-500_113	tom thibodeau	38	tom thibodeau	0.7048136
+http:__aksw.org_n3_rss-500_255	windows phone 8	42	windows phone 8	0.70433784
+http:__aksw.org_n3_rss-500_189	brett favre	109	brett favre	0.7042
+http:__aksw.org_n3_rss-500_115	boomer esiason	16	boomer esiason	0.70274997
+http:__aksw.org_n3_rss-500_287	felix hernandez	0	félix hernández	0.7023182
+http:__aksw.org_n3_rss-500_285	felix hernandez	0	félix hernández	0.7023182
+http:__aksw.org_n3_rss-500_113	kenny smith	0	kenny smith	0.7014273
+http:__aksw.org_n3_rss-500_61	baltimore orioles	123	baltimore orioles	0.70112145
+http:__aksw.org_n3_rss-500_398	philipp kohlschreiber	339	philipp kohlschreiber	0.700626
+http:__aksw.org_n3_rss-500_386	philipp kohlschreiber	339	philipp kohlschreiber	0.700626
+http:__aksw.org_n3_rss-500_313	mitt romney	36	mitt romney	0.7001219
+http:__aksw.org_n3_rss-500_333	oakland athletics	63	oakland athletics	0.6986
+http:__aksw.org_n3_rss-500_261	sabri lamouchi	32	sabri lamouchi	0.6984233
+http:__aksw.org_n3_rss-500_26	bethanie mattek-sands	176	bethanie mattek-sands	0.69836664
+http:__aksw.org_n3_rss-500_398	lukasz kubot	105	łukasz kubot	0.698274
+http:__aksw.org_n3_rss-500_386	lukasz kubot	105	łukasz kubot	0.698274
+http:__aksw.org_n3_rss-500_398	andreas seppi	130	andreas seppi	0.69772804
+http:__aksw.org_n3_rss-500_386	andreas seppi	130	andreas seppi	0.69772804
+http:__aksw.org_n3_rss-500_182	u.s. women 's basketball team	123	united states women's national basketball team	0.6968125
+http:__aksw.org_n3_rss-500_398	yen-hsun lu	72	lu yen-hsun	0.696394
+http:__aksw.org_n3_rss-500_386	yen-hsun lu	72	lu yen-hsun	0.696394
+http:__aksw.org_n3_rss-500_12	affordable care act	7	patient protection and affordable care act	0.69604975
+http:__aksw.org_n3_rss-500_310	mitt romney	41	mitt romney	0.6949034
+http:__aksw.org_n3_rss-500_452	alberto contador	101	alberto contador	0.6943625
+http:__aksw.org_n3_rss-500_304	alberto contador	101	alberto contador	0.6943625
+http:__aksw.org_n3_rss-500_201	daniel yergin	20	daniel yergin	0.6936778
+http:__aksw.org_n3_rss-500_22	jeff bezos	74	jeff bezos	0.69327855
+http:__aksw.org_n3_rss-500_96	mike everitt	71	mike everitt (baseball)	0.69275385
+http:__aksw.org_n3_rss-500_434	roy williams	135	roy williams (coach)	0.69273996
+http:__aksw.org_n3_rss-500_41	martin e. dempsey	58	martin dempsey	0.691175
+http:__aksw.org_n3_rss-500_26	kiki bertens	79	kiki bertens	0.6911708
+http:__aksw.org_n3_rss-500_286	seattle mariners	64	seattle mariners	0.69098
+http:__aksw.org_n3_rss-500_284	bernard tomic	13	bernard tomic	0.69098
+http:__aksw.org_n3_rss-500_398	donald young	228	donald young (tennis)	0.6909
+http:__aksw.org_n3_rss-500_386	donald young	228	donald young (tennis)	0.6909
+http:__aksw.org_n3_rss-500_405	johanna larsson	97	johanna larsson (tennis)	0.69085413
+http:__aksw.org_n3_rss-500_72	fork union military academy	49	fork union military academy	0.690198
+http:__aksw.org_n3_rss-500_288	felix hernandez	26	félix hernández	0.690195
+http:__aksw.org_n3_rss-500_257	andrew strauss	87	andrew strauss	0.68865716
+http:__aksw.org_n3_rss-500_115	tim tebow	47	tim tebow	0.68823
+http:__aksw.org_n3_rss-500_26	sesil karatantcheva	32	sesil karatantcheva	0.6859458
+http:__aksw.org_n3_rss-500_383	football association of ireland	4	football association of ireland	0.68578124
+http:__aksw.org_n3_rss-500_201	peak oil	101	peak oil	0.6856111
+http:__aksw.org_n3_rss-500_95	boston red sox	0	boston red sox	0.684705
+http:__aksw.org_n3_rss-500_150	john terry	16	john terry	0.6843133
+http:__aksw.org_n3_rss-500_116	boomer esiason	42	boomer esiason	0.68306816
+http:__aksw.org_n3_rss-500_201	cambridge energy research associates	52	cambridge energy research associates	0.6830056
+http:__aksw.org_n3_rss-500_446	les miles	10	les miles	0.6814833
+http:__aksw.org_n3_rss-500_189	tony romo	88	tony romo	0.68123573
+http:__aksw.org_n3_rss-500_286	tampa bay rays	154	tampa bay rays	0.67948335
+http:__aksw.org_n3_rss-500_473	mlb network	21	mlb network	0.67880315
+http:__aksw.org_n3_rss-500_62	josh beckett	106	josh beckett	0.6779417
+http:__aksw.org_n3_rss-500_12	obamacare	43	patient protection and affordable care act	0.677907
+http:__aksw.org_n3_rss-500_95	baltimore orioles	106	baltimore orioles	0.676275
+http:__aksw.org_n3_rss-500_260	kevin pietersen	53	kevin pietersen	0.67542666
+http:__aksw.org_n3_rss-500_136	mike van diest	27	mike van diest	0.6753
+http:__aksw.org_n3_rss-500_357	hillary clinton	150	hillary clinton	0.6748154
+http:__aksw.org_n3_rss-500_398	jesse levine	210	jesse levine	0.674666
+http:__aksw.org_n3_rss-500_386	jesse levine	210	jesse levine	0.674666
+http:__aksw.org_n3_rss-500_117	leslie moonves	32	leslie moonves	0.67428887
+http:__aksw.org_n3_rss-500_154	chicago white sox	0	chicago white sox	0.67373
+http:__aksw.org_n3_rss-500_257	morne morkel	51	morné morkel	0.6735321
+http:__aksw.org_n3_rss-500_29	timea babos	28	tímea babos	0.671075
+http:__aksw.org_n3_rss-500_311	mitt romney	41	mitt romney	0.67086786
+http:__aksw.org_n3_rss-500_433	mitch mcconnell	171	mitch mcconnell	0.6692029
+http:__aksw.org_n3_rss-500_22	blue origin	0	blue origin	0.6677786
+http:__aksw.org_n3_rss-500_473	harold reynolds	41	harold reynolds	0.6677625
+http:__aksw.org_n3_rss-500_380	manny acta	65	manny acta	0.66666996
+http:__aksw.org_n3_rss-500_447	les miles	38	les miles	0.6663857
+http:__aksw.org_n3_rss-500_237	new york medical college	29	new york medical college	0.6658558
+http:__aksw.org_n3_rss-500_120	george tenet	45	george tenet	0.6655342
+http:__aksw.org_n3_rss-500_452	tour de france	79	2010 tour de france	0.6653187
+http:__aksw.org_n3_rss-500_304	tour de france	79	2010 tour de france	0.6653187
+http:__aksw.org_n3_rss-500_61	josh beckett	146	josh beckett	0.6640071
+http:__aksw.org_n3_rss-500_29	angelique kerber	6	angelique kerber	0.663725
+http:__aksw.org_n3_rss-500_432	mitch mcconnell	190	mitch mcconnell	0.6624139
+http:__aksw.org_n3_rss-500_204	mitch mcconnell	190	mitch mcconnell	0.6624139
+http:__aksw.org_n3_rss-500_154	kevin youkilis	32	kevin youkilis	0.66157
+http:__aksw.org_n3_rss-500_346	centers for disease control and prevention	147	centers for disease control and prevention	0.66150117
+http:__aksw.org_n3_rss-500_383	giovanni trapattoni	159	giovanni trapattoni	0.6612687
+http:__aksw.org_n3_rss-500_166	eric kearney	31	eric kearney	0.66106427
+http:__aksw.org_n3_rss-500_478	angel di maria	193	ángel di maría	0.66000336
+http:__aksw.org_n3_rss-500_477	tracy porter	217	tracy porter	0.6587184
+http:__aksw.org_n3_rss-500_286	felix hernandez	36	félix hernández	0.6585633
+http:__aksw.org_n3_rss-500_398	brian baker	317	brian baker (tennis)	0.65843

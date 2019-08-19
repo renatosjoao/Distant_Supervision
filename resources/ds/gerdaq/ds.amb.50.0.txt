@@ -1,0 +1,589 @@
+http:__gerdaq_gerdaq_trainingb.xml_99	singapore	34	singapore dollar	1.0
+http:__gerdaq_gerdaq_trainingb.xml_99	electricity consumption	4	electric energy consumption	1.0
+http:__gerdaq_gerdaq_trainingb.xml_97	merchandise	0	merchandising	1.0
+http:__gerdaq_gerdaq_trainingb.xml_96	exams	15	test (assessment)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	golf tournament	4	golf	1.0
+http:__gerdaq_gerdaq_trainingb.xml_9	hotels	8	hotel	1.0
+http:__gerdaq_gerdaq_trainingb.xml_89	rogers	0	rogers department store	1.0
+http:__gerdaq_gerdaq_trainingb.xml_86	wayland	0	wayland (display server protocol)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_83	birth control	14	birth control	1.0
+http:__gerdaq_gerdaq_trainingb.xml_78	lasik surgery	0	lasik	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	parts	17	south hampton roads	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	throwback	21	throwback uniform	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	landy	15	landy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_75	epoxide	0	epoxide	1.0
+http:__gerdaq_gerdaq_trainingb.xml_74	tavern	0	tavern	1.0
+http:__gerdaq_gerdaq_trainingb.xml_71	song lyrics	7	lyrics	1.0
+http:__gerdaq_gerdaq_trainingb.xml_70	cliff	6	cliff	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	wages	18	wage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_63	cottages	0	cottage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	tv show	10	television show	1.0
+http:__gerdaq_gerdaq_trainingb.xml_51	home health care	12	home care	1.0
+http:__gerdaq_gerdaq_trainingb.xml_44	dance connection	0	connection (dance)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_42	county school	5	community school (england and wales)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_41	commercial building	0	commercial building	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston	0	river oaks international tennis tournament	1.0
+http:__gerdaq_gerdaq_trainingb.xml_38	tgp	11	thumbnail gallery post	1.0
+http:__gerdaq_gerdaq_trainingb.xml_37	calender	9	calender	1.0
+http:__gerdaq_gerdaq_trainingb.xml_35	newspaper	10	newspaper	1.0
+http:__gerdaq_gerdaq_trainingb.xml_32	chad	0	chad (paper)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_31	rental	10	renting	1.0
+http:__gerdaq_gerdaq_trainingb.xml_29	clothing	0	clothing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_27	regency	0	subdivisions of indonesia	1.0
+http:__gerdaq_gerdaq_trainingb.xml_245	uzi	16	uzi	1.0
+http:__gerdaq_gerdaq_trainingb.xml_244	computer memory	0	computer memory	1.0
+http:__gerdaq_gerdaq_trainingb.xml_243	cattery	5	cattery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_242	radio frequency	0	radio frequency	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	subordinate	26	hierarchy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	recommendation letter	0	recommendation letter	1.0
+http:__gerdaq_gerdaq_trainingb.xml_24	bahia	0	brasil open	1.0
+http:__gerdaq_gerdaq_trainingb.xml_237	miles	0	knight	1.0
+http:__gerdaq_gerdaq_trainingb.xml_233	shaolin temple	8	shaolin monastery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_232	highschool	17	high school (north america)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_227	unsigned artist	0	unsigned artist	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	wichita	27	wichita language	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	marriott	13	marriott, saskatchewan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_225	silkscreens	16	screen printing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	danger	23	risk	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	air purifier	0	air purifier	1.0
+http:__gerdaq_gerdaq_trainingb.xml_215	planes	0	plane (geometry)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_214	valkyrie	8	valkyrie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_21	media buyer	0	media buying	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	motor vehicles	30	motor vehicle	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	dept	22	dept (medicine)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_205	weather station	22	weather station	1.0
+http:__gerdaq_gerdaq_trainingb.xml_204	driving	6	driving (horse)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_202	chainsaw	24	chainsaw	1.0
+http:__gerdaq_gerdaq_trainingb.xml_199	year	26	year	1.0
+http:__gerdaq_gerdaq_trainingb.xml_195	golf shirts	0	polo shirt	1.0
+http:__gerdaq_gerdaq_trainingb.xml_195	chicago	12	chicago house	1.0
+http:__gerdaq_gerdaq_trainingb.xml_194	biography	19	pulitzer prize for biography or autobiography	1.0
+http:__gerdaq_gerdaq_trainingb.xml_192	tornadoes	9	tornado	1.0
+http:__gerdaq_gerdaq_trainingb.xml_191	skeletons	17	skeleton (undead)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_189	clinics	16	clinic	1.0
+http:__gerdaq_gerdaq_trainingb.xml_185	custom car	0	custom car	1.0
+http:__gerdaq_gerdaq_trainingb.xml_183	health center	13	community health center	1.0
+http:__gerdaq_gerdaq_trainingb.xml_175	ford ranger	0	ford ranger (t6)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_173	handbag	11	handbag	1.0
+http:__gerdaq_gerdaq_trainingb.xml_172	turbine engines	6	turbine	1.0
+http:__gerdaq_gerdaq_trainingb.xml_171	benefits	19	insurance	1.0
+http:__gerdaq_gerdaq_trainingb.xml_17	rope	0	rope	1.0
+http:__gerdaq_gerdaq_trainingb.xml_17	beer	5	beer	1.0
+http:__gerdaq_gerdaq_trainingb.xml_167	prostate	0	prostate cancer	1.0
+http:__gerdaq_gerdaq_trainingb.xml_164	kindergarten	27	kindergarten	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	institute	4	institute	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	bce	0	bell canada	1.0
+http:__gerdaq_gerdaq_trainingb.xml_159	weddings	14	wedding	1.0
+http:__gerdaq_gerdaq_trainingb.xml_155	cramping	15	cramp	1.0
+http:__gerdaq_gerdaq_trainingb.xml_153	insurance companies	16	insurance	1.0
+http:__gerdaq_gerdaq_trainingb.xml_15	mobilehome	9	mobile home	1.0
+http:__gerdaq_gerdaq_trainingb.xml_148	apartments	5	apartment	1.0
+http:__gerdaq_gerdaq_trainingb.xml_147	driver license	10	driver's license	1.0
+http:__gerdaq_gerdaq_trainingb.xml_145	cheats	31	cheating in video games	1.0
+http:__gerdaq_gerdaq_trainingb.xml_142	rookies	9	rookie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_14	illness	13	disease	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	menagerie	56	menagerie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_137	fountain	24	sentosa musical fountain	1.0
+http:__gerdaq_gerdaq_trainingb.xml_130	places	6	location (geography)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_128	bottle top	0	bottle cap	1.0
+http:__gerdaq_gerdaq_trainingb.xml_124	medical maintenance	0	biomedical equipment technician	1.0
+http:__gerdaq_gerdaq_trainingb.xml_121	characteristics	0	characteristic (algebra)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_117	macc	0	master of accountancy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_11	moulding	10	molding (process)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_109	lithosphere	19	lithosphere	1.0
+http:__gerdaq_gerdaq_trainingb.xml_109	learning	10	machine learning	1.0
+http:__gerdaq_gerdaq_trainingb.xml_107	num	23	num (god)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_107	num	17	num (god)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_105	public library	14	public library	1.0
+http:__gerdaq_gerdaq_trainingb.xml_0	fan sites	21	fansite	1.0
+http:__gerdaq_gerdaq_traininga.xml_99	nasopharyngeal	14	nasopharyngeal airway	1.0
+http:__gerdaq_gerdaq_traininga.xml_97	resorts	12	resort	1.0
+http:__gerdaq_gerdaq_traininga.xml_93	mat	18	mat	1.0
+http:__gerdaq_gerdaq_traininga.xml_92	hopper	12	hopper car	1.0
+http:__gerdaq_gerdaq_traininga.xml_90	apartments	13	apartment	1.0
+http:__gerdaq_gerdaq_traininga.xml_9	army surplus	9	military surplus	1.0
+http:__gerdaq_gerdaq_traininga.xml_86	goverment	3	government	1.0
+http:__gerdaq_gerdaq_traininga.xml_81	documents	5	document	1.0
+http:__gerdaq_gerdaq_traininga.xml_80	values	7	value (ethics)	1.0
+http:__gerdaq_gerdaq_traininga.xml_79	yang	9	kao kalia yang	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	valentine	5	valentine, texas	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	photos	32	photograph	1.0
+http:__gerdaq_gerdaq_traininga.xml_76	maker	20	god	1.0
+http:__gerdaq_gerdaq_traininga.xml_75	year	48	year	1.0
+http:__gerdaq_gerdaq_traininga.xml_75	jello	15	jell-o	1.0
+http:__gerdaq_gerdaq_traininga.xml_74	hall of fame	16	icc cricket hall of fame	1.0
+http:__gerdaq_gerdaq_traininga.xml_73	york	19	avro york	1.0
+http:__gerdaq_gerdaq_traininga.xml_70	newspapers	9	newspaper	1.0
+http:__gerdaq_gerdaq_traininga.xml_69	contender	19	contender (dinghy)	1.0
+http:__gerdaq_gerdaq_traininga.xml_67	airzooka	22	air vortex cannon	1.0
+http:__gerdaq_gerdaq_traininga.xml_65	mi	22	myocardial infarction	1.0
+http:__gerdaq_gerdaq_traininga.xml_62	dreams	6	dream	1.0
+http:__gerdaq_gerdaq_traininga.xml_6	payroll	14	payroll	1.0
+http:__gerdaq_gerdaq_traininga.xml_58	hallmark	0	hallmark	1.0
+http:__gerdaq_gerdaq_traininga.xml_58	grandfather	9	grandfather clause	1.0
+http:__gerdaq_gerdaq_traininga.xml_56	livestock	24	livestock	1.0
+http:__gerdaq_gerdaq_traininga.xml_53	essays	12	essay (philately)	1.0
+http:__gerdaq_gerdaq_traininga.xml_52	barge	14	dry bulk cargo barge	1.0
+http:__gerdaq_gerdaq_traininga.xml_51	wheelbase	15	wheelbase	1.0
+http:__gerdaq_gerdaq_traininga.xml_45	minute	5	minute and second of arc	1.0
+http:__gerdaq_gerdaq_traininga.xml_42	bathroom	9	bathroom	1.0
+http:__gerdaq_gerdaq_traininga.xml_37	essays	25	essay (philately)	1.0
+http:__gerdaq_gerdaq_traininga.xml_32	knits	9	knitting	1.0
+http:__gerdaq_gerdaq_traininga.xml_31	yeast	12	baker's yeast	1.0
+http:__gerdaq_gerdaq_traininga.xml_3	aloha	0	aloha bowl	1.0
+http:__gerdaq_gerdaq_traininga.xml_3	airlines	6	airline	1.0
+http:__gerdaq_gerdaq_traininga.xml_247	houston	14	river oaks international tennis tournament	1.0
+http:__gerdaq_gerdaq_traininga.xml_237	rain	7	rain	1.0
+http:__gerdaq_gerdaq_traininga.xml_234	apartments	0	apartment	1.0
+http:__gerdaq_gerdaq_traininga.xml_232	rubber bands	14	rubber band	1.0
+http:__gerdaq_gerdaq_traininga.xml_228	damn	6	damnation	1.0
+http:__gerdaq_gerdaq_traininga.xml_226	houston	10	river oaks international tennis tournament	1.0
+http:__gerdaq_gerdaq_traininga.xml_225	sufficiency	5	self-sufficiency	1.0
+http:__gerdaq_gerdaq_traininga.xml_223	randy jackson	0	randy jackson (baseball)	1.0
+http:__gerdaq_gerdaq_traininga.xml_222	jag	0	judge advocate general's corps, united states army	1.0
+http:__gerdaq_gerdaq_traininga.xml_222	episode	4	televizní seriál	1.0
+http:__gerdaq_gerdaq_traininga.xml_217	pest control	0	pest control	1.0
+http:__gerdaq_gerdaq_traininga.xml_215	png	5	persona non grata	1.0
+http:__gerdaq_gerdaq_traininga.xml_215	lae	0	landing at lae	1.0
+http:__gerdaq_gerdaq_traininga.xml_212	sympathy	6	sympathy	1.0
+http:__gerdaq_gerdaq_traininga.xml_21	messenger	14	prophets and messengers in islam	1.0
+http:__gerdaq_gerdaq_traininga.xml_21	emotions	24	emotion	1.0
+http:__gerdaq_gerdaq_traininga.xml_209	nc	36	network computer	1.0
+http:__gerdaq_gerdaq_traininga.xml_205	arrow	21	arrow	1.0
+http:__gerdaq_gerdaq_traininga.xml_204	cassette player	5	cassette deck	1.0
+http:__gerdaq_gerdaq_traininga.xml_20	night	16	night	1.0
+http:__gerdaq_gerdaq_traininga.xml_199	james van der zee	13	james van der zee	1.0
+http:__gerdaq_gerdaq_traininga.xml_197	southern cal	7	usc trojans baseball	1.0
+http:__gerdaq_gerdaq_traininga.xml_191	health center	0	community health center	1.0
+http:__gerdaq_gerdaq_traininga.xml_19	pint	0	pint glass	1.0
+http:__gerdaq_gerdaq_traininga.xml_188	united kingdom	12	united kingdom	1.0
+http:__gerdaq_gerdaq_traininga.xml_187	f.	28	form (botany)	1.0
+http:__gerdaq_gerdaq_traininga.xml_186	luan	16	envoi	1.0
+http:__gerdaq_gerdaq_traininga.xml_182	pants	0	trousers	1.0
+http:__gerdaq_gerdaq_traininga.xml_182	butterflies	19	lepidoptera	1.0
+http:__gerdaq_gerdaq_traininga.xml_182	bees	10	bee (mythology)	1.0
+http:__gerdaq_gerdaq_traininga.xml_178	cornerstone church	0	cornerstone church (toledo)	1.0
+http:__gerdaq_gerdaq_traininga.xml_166	autobiography	10	autobiography	1.0
+http:__gerdaq_gerdaq_traininga.xml_159	toronto sound	0	toronto sound	1.0
+http:__gerdaq_gerdaq_traininga.xml_159	rentals	14	renting	1.0
+http:__gerdaq_gerdaq_traininga.xml_158	ng	0	velar nasal	1.0
+http:__gerdaq_gerdaq_traininga.xml_157	online games	8	online game	1.0
+http:__gerdaq_gerdaq_traininga.xml_157	mobster	0	american mafia	1.0
+http:__gerdaq_gerdaq_traininga.xml_153	north carolina	17	north carolina wine	1.0
+http:__gerdaq_gerdaq_traininga.xml_152	barnyard	0	barnyard	1.0
+http:__gerdaq_gerdaq_traininga.xml_151	tx	29	eldorado air force station	1.0
+http:__gerdaq_gerdaq_traininga.xml_151	rose garden	0	rose garden	1.0
+http:__gerdaq_gerdaq_traininga.xml_15	art work	14	work of art	1.0
+http:__gerdaq_gerdaq_traininga.xml_149	thermostat	15	thermostat	1.0
+http:__gerdaq_gerdaq_traininga.xml_146	snapdragon	12	qualcomm snapdragon	1.0
+http:__gerdaq_gerdaq_traininga.xml_146	facts	0	fact	1.0
+http:__gerdaq_gerdaq_traininga.xml_144	autos	10	auto rickshaw	1.0
+http:__gerdaq_gerdaq_traininga.xml_141	billing	21	invoice	1.0
+http:__gerdaq_gerdaq_traininga.xml_139	slippers	27	slipper	1.0
+http:__gerdaq_gerdaq_traininga.xml_137	telephone directory	19	telephone directory	1.0
+http:__gerdaq_gerdaq_traininga.xml_137	nevada	11	snow	1.0
+http:__gerdaq_gerdaq_traininga.xml_133	security policies	53	security policy	1.0
+http:__gerdaq_gerdaq_traininga.xml_133	security policies	25	security policy	1.0
+http:__gerdaq_gerdaq_traininga.xml_130	sickle cell	0	sickle-cell disease	1.0
+http:__gerdaq_gerdaq_traininga.xml_130	grants	12	grant (money)	1.0
+http:__gerdaq_gerdaq_traininga.xml_13	dvds	11	dvd	1.0
+http:__gerdaq_gerdaq_traininga.xml_129	clip art	0	clip art	1.0
+http:__gerdaq_gerdaq_traininga.xml_127	kennel club	9	kennel club	1.0
+http:__gerdaq_gerdaq_traininga.xml_125	birthday	4	birthday	1.0
+http:__gerdaq_gerdaq_traininga.xml_124	fibre channel	7	fibre channel	1.0
+http:__gerdaq_gerdaq_traininga.xml_122	miner	7	mining	1.0
+http:__gerdaq_gerdaq_traininga.xml_121	swastika	4	swastika	1.0
+http:__gerdaq_gerdaq_traininga.xml_120	cams	18	spring-loaded camming device	1.0
+http:__gerdaq_gerdaq_traininga.xml_119	rent	18	renting	1.0
+http:__gerdaq_gerdaq_traininga.xml_119	chippers	5	woodchipper	1.0
+http:__gerdaq_gerdaq_traininga.xml_118	fitzgerald	15	fitzgerald, georgia micropolitan area	1.0
+http:__gerdaq_gerdaq_traininga.xml_113	gorilla	12	gorilla	1.0
+http:__gerdaq_gerdaq_traininga.xml_11	cooking school	0	cooking school	1.0
+http:__gerdaq_gerdaq_traininga.xml_103	typing	0	typing	1.0
+http:__gerdaq_gerdaq_traininga.xml_100	automobiles	0	car	1.0
+http:__gerdaq_gerdaq_traininga.xml_1	metronome	0	metronome	1.0
+http:__gerdaq_gerdaq_test.xml_99	apocalypse	16	apocalypse	1.0
+http:__gerdaq_gerdaq_test.xml_94	dollies	14	dolly (trailer)	1.0
+http:__gerdaq_gerdaq_test.xml_93	cancer survival	12	cancer survival rates	1.0
+http:__gerdaq_gerdaq_test.xml_9	cholesterol	10	cholesterol	1.0
+http:__gerdaq_gerdaq_test.xml_89	allen	0	allen americans	1.0
+http:__gerdaq_gerdaq_test.xml_85	horoscope	4	horoscope	1.0
+http:__gerdaq_gerdaq_test.xml_79	tattoos	6	tattoo	1.0
+http:__gerdaq_gerdaq_test.xml_76	alternatives	6	alternatives	1.0
+http:__gerdaq_gerdaq_test.xml_7	nail	0	nail (fastener)	1.0
+http:__gerdaq_gerdaq_test.xml_69	fasteners	18	fastener	1.0
+http:__gerdaq_gerdaq_test.xml_68	cathedral	0	cathedral	1.0
+http:__gerdaq_gerdaq_test.xml_67	century	19	centuria	1.0
+http:__gerdaq_gerdaq_test.xml_66	tx	16	eldorado air force station	1.0
+http:__gerdaq_gerdaq_test.xml_65	bullets	0	bullet	1.0
+http:__gerdaq_gerdaq_test.xml_64	david crockett state park	0	david crockett state park	1.0
+http:__gerdaq_gerdaq_test.xml_6	pdf	28	panamanian public forces	1.0
+http:__gerdaq_gerdaq_test.xml_58	baseball hat	0	baseball cap	1.0
+http:__gerdaq_gerdaq_test.xml_57	poker rules	18	poker	1.0
+http:__gerdaq_gerdaq_test.xml_55	toddlers	17	toddler	1.0
+http:__gerdaq_gerdaq_test.xml_55	marital arts	0	martial arts	1.0
+http:__gerdaq_gerdaq_test.xml_53	shirts	13	poet shirt	1.0
+http:__gerdaq_gerdaq_test.xml_52	web mail	5	webmail	1.0
+http:__gerdaq_gerdaq_test.xml_50	coliform	15	coliform bacteria	1.0
+http:__gerdaq_gerdaq_test.xml_48	bayou	0	bayou	1.0
+http:__gerdaq_gerdaq_test.xml_48	apartments	14	apartment	1.0
+http:__gerdaq_gerdaq_test.xml_43	pictures	9	swank motion pictures	1.0
+http:__gerdaq_gerdaq_test.xml_4	hotels	6	hotel	1.0
+http:__gerdaq_gerdaq_test.xml_32	dealership	14	car dealership	1.0
+http:__gerdaq_gerdaq_test.xml_31	internet radio	7	internet radio	1.0
+http:__gerdaq_gerdaq_test.xml_28	lesson plans	5	lesson plan	1.0
+http:__gerdaq_gerdaq_test.xml_245	york	37	avro york	1.0
+http:__gerdaq_gerdaq_test.xml_243	greensburg	15	greensburg community high school	1.0
+http:__gerdaq_gerdaq_test.xml_240	shingles	12	roof shingle	1.0
+http:__gerdaq_gerdaq_test.xml_239	rental car	10	car rental	1.0
+http:__gerdaq_gerdaq_test.xml_224	monkey patch	0	monkey patch	1.0
+http:__gerdaq_gerdaq_test.xml_223	hilton	28	hilton hotels & resorts	1.0
+http:__gerdaq_gerdaq_test.xml_220	kayak	15	kayaking	1.0
+http:__gerdaq_gerdaq_test.xml_219	texas	32	oil	1.0
+http:__gerdaq_gerdaq_test.xml_214	tennessee	0	miss tennessee	1.0
+http:__gerdaq_gerdaq_test.xml_214	payments	24	payment	1.0
+http:__gerdaq_gerdaq_test.xml_208	eden	0	edin (sumerian term)	1.0
+http:__gerdaq_gerdaq_test.xml_202	infants	16	infant	1.0
+http:__gerdaq_gerdaq_test.xml_201	western maryland	0	mcdaniel green terror football	1.0
+http:__gerdaq_gerdaq_test.xml_2	john	25	john plessington	1.0
+http:__gerdaq_gerdaq_test.xml_195	rent	20	renting	1.0
+http:__gerdaq_gerdaq_test.xml_194	downs	0	downland	1.0
+http:__gerdaq_gerdaq_test.xml_191	math	13	mathematics	1.0
+http:__gerdaq_gerdaq_test.xml_19	night life	15	nightlife	1.0
+http:__gerdaq_gerdaq_test.xml_187	ahcccs	0	arizona health care cost containment system	1.0
+http:__gerdaq_gerdaq_test.xml_186	print server	17	print server	1.0
+http:__gerdaq_gerdaq_test.xml_184	promissory note	12	promissory note	1.0
+http:__gerdaq_gerdaq_test.xml_183	clergy	20	anglican ministry	1.0
+http:__gerdaq_gerdaq_test.xml_181	apron	6	apron	1.0
+http:__gerdaq_gerdaq_test.xml_18	role of women	26	gender role	1.0
+http:__gerdaq_gerdaq_test.xml_178	trips	8	trip valve gear	1.0
+http:__gerdaq_gerdaq_test.xml_177	pt6	0	pratt & whitney canada pt6	1.0
+http:__gerdaq_gerdaq_test.xml_168	updates	18	patch (computing)	1.0
+http:__gerdaq_gerdaq_test.xml_161	witch trials	0	witch-hunt	1.0
+http:__gerdaq_gerdaq_test.xml_16	weight loss	12	weight loss	1.0
+http:__gerdaq_gerdaq_test.xml_159	conversation	16	conversation	1.0
+http:__gerdaq_gerdaq_test.xml_158	pediatrics	0	pediatrics	1.0
+http:__gerdaq_gerdaq_test.xml_153	blender	5	blender	1.0
+http:__gerdaq_gerdaq_test.xml_151	aids	0	vassal	1.0
+http:__gerdaq_gerdaq_test.xml_149	charles street	0	charles street (manhattan)	1.0
+http:__gerdaq_gerdaq_test.xml_147	tires	11	bicycle tire	1.0
+http:__gerdaq_gerdaq_test.xml_142	specialist	19	generalist and specialist species	1.0
+http:__gerdaq_gerdaq_test.xml_142	employee retention	0	employee retention	1.0
+http:__gerdaq_gerdaq_test.xml_139	mississippi	0	lgbt rights in mississippi	1.0
+http:__gerdaq_gerdaq_test.xml_138	remix	18	remix	1.0
+http:__gerdaq_gerdaq_test.xml_136	manufacturing	35	space manufacturing	1.0
+http:__gerdaq_gerdaq_test.xml_135	movie clips	0	video clip	1.0
+http:__gerdaq_gerdaq_test.xml_132	web printing	13	offset printing	1.0
+http:__gerdaq_gerdaq_test.xml_131	cigarettes	49	cigarette	1.0
+http:__gerdaq_gerdaq_test.xml_131	cigarettes	29	cigarette	1.0
+http:__gerdaq_gerdaq_test.xml_131	cigarette	6	cigarette	1.0
+http:__gerdaq_gerdaq_test.xml_130	eyes	4	human eye	1.0
+http:__gerdaq_gerdaq_test.xml_125	fireworks	8	fireworks	1.0
+http:__gerdaq_gerdaq_test.xml_119	psychologist	10	psychologist	1.0
+http:__gerdaq_gerdaq_test.xml_117	jails	20	prison	1.0
+http:__gerdaq_gerdaq_test.xml_116	protein	23	protein	1.0
+http:__gerdaq_gerdaq_test.xml_116	enzyme	3	enzyme	1.0
+http:__gerdaq_gerdaq_test.xml_114	users	28	user (computing)	1.0
+http:__gerdaq_gerdaq_test.xml_111	william	0	william i. hitchcock	1.0
+http:__gerdaq_gerdaq_test.xml_110	wardrobe	14	wardrobe (clothing)	1.0
+http:__gerdaq_gerdaq_test.xml_11	bedroom	12	bedroom	1.0
+http:__gerdaq_gerdaq_test.xml_109	american west	0	american west conference	1.0
+http:__gerdaq_gerdaq_test.xml_105	heart attack	17	myocardial infarction	1.0
+http:__gerdaq_gerdaq_test.xml_104	barwon heads	0	barwon heads football club	1.0
+http:__gerdaq_gerdaq_devel.xml_88	taps	25	telephone tapping	1.0
+http:__gerdaq_gerdaq_devel.xml_88	lights	18	automotive lighting	1.0
+http:__gerdaq_gerdaq_devel.xml_85	pizza	14	new york-style pizza	1.0
+http:__gerdaq_gerdaq_devel.xml_84	bucket truck	0	aerial work platform	1.0
+http:__gerdaq_gerdaq_devel.xml_8	scout cookie	5	girl scout cookies	1.0
+http:__gerdaq_gerdaq_devel.xml_79	wife	0	marriage	1.0
+http:__gerdaq_gerdaq_devel.xml_78	spas	0	spa	1.0
+http:__gerdaq_gerdaq_devel.xml_73	pinout	10	pinout	1.0
+http:__gerdaq_gerdaq_devel.xml_68	girls	5	girl	1.0
+http:__gerdaq_gerdaq_devel.xml_67	chevy	0	chevrolet chevy malibu	1.0
+http:__gerdaq_gerdaq_devel.xml_59	lotion	17	lotion	1.0
+http:__gerdaq_gerdaq_devel.xml_57	email account	4	email	1.0
+http:__gerdaq_gerdaq_devel.xml_53	dragon man	0	zduhać	1.0
+http:__gerdaq_gerdaq_devel.xml_43	wholesale	10	wholesaling	1.0
+http:__gerdaq_gerdaq_devel.xml_42	alternative school	12	alternative school	1.0
+http:__gerdaq_gerdaq_devel.xml_4	fundraisers	0	fundraising	1.0
+http:__gerdaq_gerdaq_devel.xml_30	servicing	8	loan servicing	1.0
+http:__gerdaq_gerdaq_devel.xml_3	email	8	email	1.0
+http:__gerdaq_gerdaq_devel.xml_29	tv transmitter	0	television transmitter	1.0
+http:__gerdaq_gerdaq_devel.xml_29	ft	20	telegraphy	1.0
+http:__gerdaq_gerdaq_devel.xml_26	baby	0	infant	1.0
+http:__gerdaq_gerdaq_devel.xml_248	luxury	0	luxury goods	1.0
+http:__gerdaq_gerdaq_devel.xml_248	apartments	7	apartment	1.0
+http:__gerdaq_gerdaq_devel.xml_24	room	9	room	1.0
+http:__gerdaq_gerdaq_devel.xml_233	city library	9	public library	1.0
+http:__gerdaq_gerdaq_devel.xml_232	towing	22	towing	1.0
+http:__gerdaq_gerdaq_devel.xml_231	apartments	15	apartment	1.0
+http:__gerdaq_gerdaq_devel.xml_23	tucson	23	hyundai tucson	1.0
+http:__gerdaq_gerdaq_devel.xml_229	affiliate program	23	affiliate marketing	1.0
+http:__gerdaq_gerdaq_devel.xml_228	poke	0	peek and poke	1.0
+http:__gerdaq_gerdaq_devel.xml_228	drawings	10	plan (drawing)	1.0
+http:__gerdaq_gerdaq_devel.xml_225	playhouse	0	theater (structure)	1.0
+http:__gerdaq_gerdaq_devel.xml_225	balcony	10	balcony	1.0
+http:__gerdaq_gerdaq_devel.xml_224	bushings	13	bushing (electrical)	1.0
+http:__gerdaq_gerdaq_devel.xml_221	waterproof	0	waterproofing	1.0
+http:__gerdaq_gerdaq_devel.xml_218	key west	21	media in key west, florida	1.0
+http:__gerdaq_gerdaq_devel.xml_218	fl	30	western concert flute	1.0
+http:__gerdaq_gerdaq_devel.xml_211	disney	0	disney comics	1.0
+http:__gerdaq_gerdaq_devel.xml_20	props	15	theatrical property	1.0
+http:__gerdaq_gerdaq_devel.xml_2	pl	8	plural	1.0
+http:__gerdaq_gerdaq_devel.xml_196	carbohydrates	19	carbohydrate	1.0
+http:__gerdaq_gerdaq_devel.xml_192	cutters	17	cutter (boat)	1.0
+http:__gerdaq_gerdaq_devel.xml_19	ron	19	rum	1.0
+http:__gerdaq_gerdaq_devel.xml_189	stem cell research	0	stem cell	1.0
+http:__gerdaq_gerdaq_devel.xml_188	blood donor	0	blood donation	1.0
+http:__gerdaq_gerdaq_devel.xml_186	picture	0	image	1.0
+http:__gerdaq_gerdaq_devel.xml_18	anchorage	0	anchorage (orthodontics)	1.0
+http:__gerdaq_gerdaq_devel.xml_178	travel	7	travel	1.0
+http:__gerdaq_gerdaq_devel.xml_176	filippino language	0	filipino language	1.0
+http:__gerdaq_gerdaq_devel.xml_175	chandalier	25	chandelier	1.0
+http:__gerdaq_gerdaq_devel.xml_174	alumni	7	alumnus	1.0
+http:__gerdaq_gerdaq_devel.xml_172	meal	0	meal	1.0
+http:__gerdaq_gerdaq_devel.xml_170	modular homes	0	modular building	1.0
+http:__gerdaq_gerdaq_devel.xml_167	employment	38	labour law	1.0
+http:__gerdaq_gerdaq_devel.xml_165	acadamy awards	27	academy awards	1.0
+http:__gerdaq_gerdaq_devel.xml_161	corolla	0	petal	1.0
+http:__gerdaq_gerdaq_devel.xml_160	rosters	27	schedule (workplace)	1.0
+http:__gerdaq_gerdaq_devel.xml_16	badminton courts	0	badminton	1.0
+http:__gerdaq_gerdaq_devel.xml_157	cochlear implant	13	cochlear implant	1.0
+http:__gerdaq_gerdaq_devel.xml_156	pet shops	10	pet store	1.0
+http:__gerdaq_gerdaq_devel.xml_154	rite	5	rite	1.0
+http:__gerdaq_gerdaq_devel.xml_148	condos	9	condominium	1.0
+http:__gerdaq_gerdaq_devel.xml_146	repair	0	maintenance, repair and operations	1.0
+http:__gerdaq_gerdaq_devel.xml_141	bulk	11	bulk purchasing	1.0
+http:__gerdaq_gerdaq_devel.xml_141	aa battery	0	aa battery	1.0
+http:__gerdaq_gerdaq_devel.xml_138	move	15	relocation of professional sports teams	1.0
+http:__gerdaq_gerdaq_devel.xml_137	sales tax	3	sales taxes in the united states	1.0
+http:__gerdaq_gerdaq_devel.xml_135	headers	12	header (computing)	1.0
+http:__gerdaq_gerdaq_devel.xml_134	roseville	0	roseville college	1.0
+http:__gerdaq_gerdaq_devel.xml_131	middle school	12	middle school	1.0
+http:__gerdaq_gerdaq_devel.xml_130	transfers	12	transfer (association football)	1.0
+http:__gerdaq_gerdaq_devel.xml_130	heat	7	waste heat	1.0
+http:__gerdaq_gerdaq_devel.xml_126	dmv	0	department of motor vehicles	1.0
+http:__gerdaq_gerdaq_devel.xml_126	california	9	california state treasurer	1.0
+http:__gerdaq_gerdaq_devel.xml_12	arthritis	17	osteoarthritis	1.0
+http:__gerdaq_gerdaq_devel.xml_116	appraisal	0	economic appraisal	1.0
+http:__gerdaq_gerdaq_devel.xml_11	state park	14	state park	1.0
+http:__gerdaq_gerdaq_devel.xml_109	west virginia	0	united states presidential election in west virginia, 2016	1.0
+http:__gerdaq_gerdaq_devel.xml_109	clarksburg	26	north decatur junior-senior high school	1.0
+http:__gerdaq_gerdaq_devel.xml_102	baptist academy	17	baptist academy	1.0
+http:__gerdaq_gerdaq_devel.xml_101	tractor	15	tractor	1.0
+http:__gerdaq_gerdaq_devel.xml_1	buying land	0	conveyancing	1.0
+http:__gerdaq_gerdaq_devel.xml_0	candle	6	candle	1.0
+http:__gerdaq_gerdaq_trainingb.xml_196	ethernet	0	ethernet	0.9996350174854738
+http:__gerdaq_gerdaq_test.xml_87	iowa	27	iowa	0.9957215446584684
+http:__gerdaq_gerdaq_devel.xml_145	homepage	28	home page	0.9954805595679007
+http:__gerdaq_gerdaq_test.xml_15	september	0	september	0.9951961974614996
+http:__gerdaq_gerdaq_devel.xml_110	leaf	29	leaf	0.9949283486524028
+http:__gerdaq_gerdaq_traininga.xml_224	red bluff	19	quobba	0.9943803015029532
+http:__gerdaq_gerdaq_test.xml_102	leaves	12	leaf	0.9930396919733724
+http:__gerdaq_gerdaq_test.xml_92	room	7	room	0.9917550728114566
+http:__gerdaq_gerdaq_trainingb.xml_226	courtyard	0	courtyard	0.9908277796629719
+http:__gerdaq_gerdaq_traininga.xml_19	definition	5	definition	0.9904838100458176
+http:__gerdaq_gerdaq_traininga.xml_10	congressman	15	united states house of representatives	0.9899633680729387
+http:__gerdaq_gerdaq_trainingb.xml_30	email	24	email	0.9898283128642126
+http:__gerdaq_gerdaq_test.xml_211	restaurant	9	restaurant	0.987973063640571
+http:__gerdaq_gerdaq_trainingb.xml_47	shirts	6	poet shirt	0.9873301377077758
+http:__gerdaq_gerdaq_devel.xml_150	victoria	0	victoria	0.9862048106278838
+http:__gerdaq_gerdaq_trainingb.xml_134	furniture	19	furniture	0.9857961784871696
+http:__gerdaq_gerdaq_test.xml_114	wheelchair	17	wheelchair	0.9842008479342472
+http:__gerdaq_gerdaq_traininga.xml_109	mother	24	mother	0.9836583059007549
+http:__gerdaq_gerdaq_devel.xml_112	clinic	17	clinic	0.9809748659539634
+http:__gerdaq_gerdaq_traininga.xml_147	restaurant	19	restaurant	0.980117725270739
+http:__gerdaq_gerdaq_test.xml_15	october	10	october	0.9792973084988489
+http:__gerdaq_gerdaq_test.xml_89	calumet	12	ceremonial pipe	0.9791158370001014
+http:__gerdaq_gerdaq_test.xml_58	hooks	13	hook (music)	0.9787300614246003
+http:__gerdaq_gerdaq_test.xml_240	pricing	21	pricing	0.9772463624145561
+http:__gerdaq_gerdaq_test.xml_211	boat	25	boat	0.9767461562647393
+http:__gerdaq_gerdaq_traininga.xml_235	laut	19	laut	0.9766505379366508
+http:__gerdaq_gerdaq_test.xml_215	torches	21	flashlight	0.9753193003076813
+http:__gerdaq_gerdaq_test.xml_130	furniture	18	furniture	0.9727264774886016
+http:__gerdaq_gerdaq_test.xml_145	replica	0	replica	0.9724512776317017
+http:__gerdaq_gerdaq_traininga.xml_221	whales	26	cetacea	0.9721671770272796
+http:__gerdaq_gerdaq_test.xml_168	virus	12	computer virus	0.9716234778515878
+http:__gerdaq_gerdaq_devel.xml_140	cartoon	12	cartoon	0.9705623888284466
+http:__gerdaq_gerdaq_test.xml_242	blood	10	blood	0.9702269349374923
+http:__gerdaq_gerdaq_devel.xml_204	fruit	17	fruit	0.9661713140462871
+http:__gerdaq_gerdaq_devel.xml_40	price	0	price	0.9649165805759811
+http:__gerdaq_gerdaq_devel.xml_33	sapphire	5	sapphire	0.9641085826281345
+http:__gerdaq_gerdaq_traininga.xml_219	cemetery	3	cemetery	0.9633955244491088
+http:__gerdaq_gerdaq_trainingb.xml_107	song	10	song	0.9625502308454829
+http:__gerdaq_gerdaq_traininga.xml_86	grants	28	grant (money)	0.9622680897074062
+http:__gerdaq_gerdaq_test.xml_109	climate	14	climate	0.9609866311063847
+http:__gerdaq_gerdaq_traininga.xml_168	uk	27	uk albums chart	0.9607082880199244
+http:__gerdaq_gerdaq_traininga.xml_192	advertising	20	advertising	0.9562141419764714
+http:__gerdaq_gerdaq_devel.xml_157	price	0	price	0.9552821206435782
+http:__gerdaq_gerdaq_devel.xml_211	travel	7	travel	0.9535816441408901
+http:__gerdaq_gerdaq_test.xml_184	loan	7	loan	0.9534451662361544
+http:__gerdaq_gerdaq_devel.xml_220	copper	13	copper	0.9525466360150799
+http:__gerdaq_gerdaq_traininga.xml_14	feeding	32	feeding	0.9514330797378932
+http:__gerdaq_gerdaq_traininga.xml_194	economic development	28	economic development	0.9512395683619456
+http:__gerdaq_gerdaq_traininga.xml_187	civil rights	0	civil and political rights	0.9495412903847702
+http:__gerdaq_gerdaq_traininga.xml_155	revenue	14	revenue	0.9484735281462027
+http:__gerdaq_gerdaq_trainingb.xml_73	ship	13	ship	0.9465892209953187
+http:__gerdaq_gerdaq_trainingb.xml_91	import	14	import	0.9464104924293212
+http:__gerdaq_gerdaq_trainingb.xml_33	vehicle	16	vehicle	0.9446184735220721
+http:__gerdaq_gerdaq_trainingb.xml_4	police car	8	police car	0.9440525895279899
+http:__gerdaq_gerdaq_test.xml_113	garland	0	garland	0.9426233207179565
+http:__gerdaq_gerdaq_trainingb.xml_156	nationals	16	national party of australia	0.9416957565766989
+http:__gerdaq_gerdaq_trainingb.xml_168	mediation	11	mediation	0.9387837324088186
+http:__gerdaq_gerdaq_trainingb.xml_214	mercury	0	mercury (element)	0.9374068204226805
+http:__gerdaq_gerdaq_devel.xml_165	song	5	song	0.9373715286100313
+http:__gerdaq_gerdaq_devel.xml_165	song	19	song	0.9373715286100313
+http:__gerdaq_gerdaq_trainingb.xml_82	ammunition	51	ammunition	0.9369566491463135
+http:__gerdaq_gerdaq_trainingb.xml_117	mountain	8	mountain	0.9364063895979406
+http:__gerdaq_gerdaq_traininga.xml_195	mercy	9	mercy	0.9349897232768342
+http:__gerdaq_gerdaq_test.xml_0	mathematics	9	mathematics	0.933010402271828
+http:__gerdaq_gerdaq_devel.xml_123	song	13	song	0.9323514777739843
+http:__gerdaq_gerdaq_traininga.xml_49	peace	17	peace	0.9319859537725567
+http:__gerdaq_gerdaq_trainingb.xml_10	parole	20	parole	0.9312957155083773
+http:__gerdaq_gerdaq_trainingb.xml_76	tag	31	day	0.9283912016980052
+http:__gerdaq_gerdaq_traininga.xml_169	ping	0	ping (networking utility)	0.9280123155101484
+http:__gerdaq_gerdaq_traininga.xml_123	mic	11	microphone	0.9258396927345427
+http:__gerdaq_gerdaq_trainingb.xml_90	ansi	0	ansi art	0.9250000031013041
+http:__gerdaq_gerdaq_test.xml_141	altar	0	altar	0.9238277515143785
+http:__gerdaq_gerdaq_test.xml_145	watches	23	watch system	0.9205167576344931
+http:__gerdaq_gerdaq_traininga.xml_99	tissue	29	tissue (biology)	0.9197519288535043
+http:__gerdaq_gerdaq_test.xml_20	kc	0	aerial refueling	0.9174177527817291
+http:__gerdaq_gerdaq_test.xml_197	wedding	0	wedding	0.9138303515059627
+http:__gerdaq_gerdaq_trainingb.xml_183	missouri	39	lutheran church–missouri synod	0.9116505904769604
+http:__gerdaq_gerdaq_devel.xml_184	skin	7	skin	0.9093886560903722
+http:__gerdaq_gerdaq_trainingb.xml_105	books	30	book	0.9055451371919228
+http:__gerdaq_gerdaq_test.xml_222	food	0	food	0.9021427520293557
+http:__gerdaq_gerdaq_devel.xml_86	travel	0	travel	0.9013383497826128
+http:__gerdaq_gerdaq_trainingb.xml_145	hunt	14	dillon hunt	0.9005711148960439
+http:__gerdaq_gerdaq_traininga.xml_32	talbot	0	talbot-lago	0.8987065615867338
+http:__gerdaq_gerdaq_traininga.xml_183	daniel	0	book of daniel	0.8982187743130203
+http:__gerdaq_gerdaq_traininga.xml_110	information technology	12	information technology	0.8955967700583607
+http:__gerdaq_gerdaq_devel.xml_181	oil & gas	0	petroleum industry	0.8952217123142896
+http:__gerdaq_gerdaq_traininga.xml_75	flavor	5	flavor	0.8940612689698113
+http:__gerdaq_gerdaq_trainingb.xml_139	glass	50	glass	0.8925481942229414
+http:__gerdaq_gerdaq_devel.xml_116	data	10	data	0.891057348963677
+http:__gerdaq_gerdaq_trainingb.xml_202	blade	0	blade	0.8864133898526403
+http:__gerdaq_gerdaq_trainingb.xml_138	girls	13	girl	0.8853063562469817
+http:__gerdaq_gerdaq_traininga.xml_14	animal	25	animal	0.8844871480872344
+http:__gerdaq_gerdaq_devel.xml_74	guitar	13	guitar	0.883341583314452
+http:__gerdaq_gerdaq_devel.xml_40	guide	6	sighted guide	0.881955578668574
+http:__gerdaq_gerdaq_test.xml_22	breast	0	breast cancer	0.8817858383306231
+http:__gerdaq_gerdaq_test.xml_167	texas	0	oil	0.8797351073847929
+http:__gerdaq_gerdaq_traininga.xml_46	information systems	34	information system	0.8796010740750914
+http:__gerdaq_gerdaq_trainingb.xml_135	running	33	running	0.8793794267654786
+http:__gerdaq_gerdaq_trainingb.xml_134	fair	29	fair	0.8790169528229219
+http:__gerdaq_gerdaq_test.xml_69	torques	29	torc	0.8769465938030827
+http:__gerdaq_gerdaq_test.xml_220	ocean	9	ocean	0.8759545539305417
+http:__gerdaq_gerdaq_trainingb.xml_82	bible	15	bible	0.8730535349067232
+http:__gerdaq_gerdaq_devel.xml_19	cook	5	cook (profession)	0.8713602971010038
+http:__gerdaq_gerdaq_traininga.xml_103	india	23	india	0.8710187198661901
+http:__gerdaq_gerdaq_traininga.xml_248	ritter	0	knight	0.8701405801757708
+http:__gerdaq_gerdaq_traininga.xml_225	poverty	17	poverty	0.8660324366655823
+http:__gerdaq_gerdaq_trainingb.xml_200	pw	15	password	0.8626544174894553
+http:__gerdaq_gerdaq_trainingb.xml_201	basket	7	basket	0.8599788247750133
+http:__gerdaq_gerdaq_trainingb.xml_12	autos	0	auto rickshaw	0.859781343154236
+http:__gerdaq_gerdaq_trainingb.xml_138	love	8	love	0.8596596593001918
+http:__gerdaq_gerdaq_traininga.xml_39	dope	20	cannabis (drug)	0.8596089270765342
+http:__gerdaq_gerdaq_trainingb.xml_5	snow	0	snow	0.8573015999525527
+http:__gerdaq_gerdaq_trainingb.xml_236	energy efficient	13	efficient energy use	0.8566294116881187
+http:__gerdaq_gerdaq_devel.xml_8	sales	18	sales	0.8565199856565935
+http:__gerdaq_gerdaq_trainingb.xml_101	books	0	book	0.8546409355182955
+http:__gerdaq_gerdaq_trainingb.xml_112	pictures	23	swank motion pictures	0.8536779324055667
+http:__gerdaq_gerdaq_trainingb.xml_144	america	29	america (american automobile)	0.8532700742035139
+http:__gerdaq_gerdaq_traininga.xml_52	crescent	5	crescent (train)	0.8532545623569365
+http:__gerdaq_gerdaq_test.xml_6	power mac g5	0	power mac g5	0.8509750477402547
+http:__gerdaq_gerdaq_devel.xml_135	performance	0	performance art	0.8508376050037488
+http:__gerdaq_gerdaq_test.xml_167	physicians	23	physician	0.8504574009819226
+http:__gerdaq_gerdaq_traininga.xml_127	list	27	leaf	0.849106904754536
+http:__gerdaq_gerdaq_traininga.xml_227	texas	35	texas longhorns baseball	0.8449753810947817
+http:__gerdaq_gerdaq_trainingb.xml_154	custard	12	custard	0.8386385026967761
+http:__gerdaq_gerdaq_trainingb.xml_230	management	0	management	0.8373277230758815
+http:__gerdaq_gerdaq_traininga.xml_84	resort	14	resort	0.8338108844736424
+http:__gerdaq_gerdaq_traininga.xml_62	steel	0	steel	0.8334536927268634
+http:__gerdaq_gerdaq_trainingb.xml_165	ump	17	united midwestern promoters	0.8319805207764229
+http:__gerdaq_gerdaq_devel.xml_30	fort	18	fort	0.8280969301620237
+http:__gerdaq_gerdaq_devel.xml_46	rivers	29	river	0.8265925366081058
+http:__gerdaq_gerdaq_devel.xml_115	social security	10	social security	0.8219396027046777
+http:__gerdaq_gerdaq_test.xml_221	holder	27	cup holder	0.8205922882916746
+http:__gerdaq_gerdaq_traininga.xml_242	comic book	0	comic book	0.8198912518414765
+http:__gerdaq_gerdaq_devel.xml_181	wells	10	oil well	0.8154804867347097
+http:__gerdaq_gerdaq_trainingb.xml_222	ozone	17	ozone	0.8127808944372271
+http:__gerdaq_gerdaq_trainingb.xml_150	time	22	time	0.8111043454469304
+http:__gerdaq_gerdaq_devel.xml_96	telephone	8	telephone	0.8088987006530555
+http:__gerdaq_gerdaq_devel.xml_99	deck	0	deck (ship)	0.8074513634879175
+http:__gerdaq_gerdaq_trainingb.xml_22	social security	11	social security	0.807012029927436
+http:__gerdaq_gerdaq_devel.xml_185	weekly	6	weekly newspaper	0.8055488266019118
+http:__gerdaq_gerdaq_devel.xml_151	copy	8	cut, copy, and paste	0.8048204407347668
+http:__gerdaq_gerdaq_test.xml_34	cheats	9	cheating in video games	0.8026487064721796
+http:__gerdaq_gerdaq_traininga.xml_148	creek	22	muskogean languages	0.791670215198647
+http:__gerdaq_gerdaq_devel.xml_236	broadway	0	broadway theatre	0.7905226603481088
+http:__gerdaq_gerdaq_devel.xml_239	valley	6	valley	0.7883474649529559
+http:__gerdaq_gerdaq_traininga.xml_179	navigation	11	navigation	0.7852181117715347
+http:__gerdaq_gerdaq_trainingb.xml_203	business	0	business	0.7822654076765382
+http:__gerdaq_gerdaq_test.xml_56	yellow jackets	23	georgia tech yellow jackets men's basketball	0.7787472822508589
+http:__gerdaq_gerdaq_traininga.xml_5	motorcycles	9	motorcycle	0.7785866391731926
+http:__gerdaq_gerdaq_trainingb.xml_49	washington	13	washington referendum 74	0.7754310473068933
+http:__gerdaq_gerdaq_devel.xml_140	pictures	20	swank motion pictures	0.7738192199893268
+http:__gerdaq_gerdaq_test.xml_166	sales	8	sales	0.7714055291629602
+http:__gerdaq_gerdaq_test.xml_88	painting	26	painting	0.7678339279150488
+http:__gerdaq_gerdaq_test.xml_171	od	19	osteochondritis dissecans	0.7648514851485148
+http:__gerdaq_gerdaq_traininga.xml_202	shirts	4	poet shirt	0.7632342545961509
+http:__gerdaq_gerdaq_trainingb.xml_158	palisades	30	palisades sill	0.7631714859010061
+http:__gerdaq_gerdaq_traininga.xml_82	metal	0	metal	0.7586385535802499
+http:__gerdaq_gerdaq_trainingb.xml_82	guide	35	sighted guide	0.7564161132393326
+http:__gerdaq_gerdaq_devel.xml_85	chicago	20	chicago-style pizza	0.7550225648980722
+http:__gerdaq_gerdaq_test.xml_81	fishing	26	fishing	0.7518260273331163
+http:__gerdaq_gerdaq_test.xml_222	republic	20	republic	0.7514895599794776
+http:__gerdaq_gerdaq_traininga.xml_39	rap	11	rapping	0.7506768750904955
+http:__gerdaq_gerdaq_traininga.xml_127	breed	21	dog breed	0.7480730399765084
+http:__gerdaq_gerdaq_devel.xml_110	soil	20	soil	0.7452408676266844
+http:__gerdaq_gerdaq_traininga.xml_61	rice	17	rice	0.744881824391198
+http:__gerdaq_gerdaq_traininga.xml_10	business	33	business	0.7433922286083352
+http:__gerdaq_gerdaq_trainingb.xml_235	medication	0	pharmaceutical drug	0.7432299873987769
+http:__gerdaq_gerdaq_devel.xml_50	song	29	song	0.7420739530625613
+http:__gerdaq_gerdaq_trainingb.xml_219	education	0	education	0.7341763917936286
+http:__gerdaq_gerdaq_devel.xml_94	gt	0	grand tourer	0.7313645057764886
+http:__gerdaq_gerdaq_test.xml_214	child support	10	child support	0.7302932403267016
+http:__gerdaq_gerdaq_traininga.xml_155	department	0	departments of france	0.7283060408753683
+http:__gerdaq_gerdaq_test.xml_97	telephone	20	telephone	0.7278430599073711
+http:__gerdaq_gerdaq_devel.xml_176	translator	19	translator	0.7270941793955173
+http:__gerdaq_gerdaq_trainingb.xml_224	hair	0	hair	0.719039449090765
+http:__gerdaq_gerdaq_trainingb.xml_41	process model	20	process modeling	0.7177403298746522
+http:__gerdaq_gerdaq_traininga.xml_6	service providers	22	internet service provider	0.716943150746144
+http:__gerdaq_gerdaq_traininga.xml_199	education	0	education	0.7141159774814323
+http:__gerdaq_gerdaq_trainingb.xml_198	hair	8	hair	0.711784619051832
+http:__gerdaq_gerdaq_traininga.xml_170	alcohol	13	alcohol	0.7093121989481319
+http:__gerdaq_gerdaq_test.xml_25	othello	17	reversi	0.7086713571336586
+http:__gerdaq_gerdaq_trainingb.xml_22	cleveland	30	miss ohio	0.7072310405643739
+http:__gerdaq_gerdaq_devel.xml_33	pendant	14	pendant	0.7014215903574879
+http:__gerdaq_gerdaq_traininga.xml_165	lake	0	lake	0.6998888564271937
+http:__gerdaq_gerdaq_traininga.xml_138	hip hop	11	hip hop music	0.698134197554593
+http:__gerdaq_gerdaq_test.xml_198	recycling	13	recycling	0.6959661109589914
+http:__gerdaq_gerdaq_trainingb.xml_5	bear	5	grizzly bear	0.6949594018813333
+http:__gerdaq_gerdaq_devel.xml_234	dream	0	dream	0.6945534784931391
+http:__gerdaq_gerdaq_traininga.xml_52	lake	0	lake	0.6933659295372107
+http:__gerdaq_gerdaq_traininga.xml_15	jason	0	july 12	0.691931549987703
+http:__gerdaq_gerdaq_test.xml_4	downtown	16	downtown	0.6911974495893981
+http:__gerdaq_gerdaq_test.xml_6	developer	13	software developer	0.6887490389386279
+http:__gerdaq_gerdaq_trainingb.xml_155	foot	10	foot	0.6882090795596265
+http:__gerdaq_gerdaq_devel.xml_110	south africa	56	south africa	0.6881952240399731
+http:__gerdaq_gerdaq_devel.xml_109	real estate	14	real estate	0.6871450338144973
+http:__gerdaq_gerdaq_traininga.xml_46	rankings	0	ranking	0.6864193177243992
+http:__gerdaq_gerdaq_devel.xml_22	india	26	india	0.6843246573774768
+http:__gerdaq_gerdaq_traininga.xml_213	fashion	5	fashion	0.6822832614876683
+http:__gerdaq_gerdaq_devel.xml_103	real estate	20	real estate	0.6788390115074875
+http:__gerdaq_gerdaq_test.xml_156	fashion	15	fashion	0.6781833018978715
+http:__gerdaq_gerdaq_traininga.xml_213	website	23	website	0.6779695525741803
+http:__gerdaq_gerdaq_traininga.xml_190	navy	3	navy	0.6769018706973583
+http:__gerdaq_gerdaq_trainingb.xml_192	books	0	book	0.6743879232698903
+http:__gerdaq_gerdaq_traininga.xml_56	junior	8	junior (education)	0.6737772944318661
+http:__gerdaq_gerdaq_devel.xml_103	sale	36	contract of sale	0.673399915097461
+http:__gerdaq_gerdaq_test.xml_197	nc	13	network computer	0.6692091311850822
+http:__gerdaq_gerdaq_test.xml_100	spearhead	15	armoured spearhead	0.6689753233766225
+http:__gerdaq_gerdaq_trainingb.xml_244	southern california	27	usc trojans women's volleyball	0.6683124144905122
+http:__gerdaq_gerdaq_devel.xml_70	service	26	service (economics)	0.6681386184753484
+http:__gerdaq_gerdaq_trainingb.xml_150	lyric	0	lyrics	0.6656276817784664
+http:__gerdaq_gerdaq_devel.xml_34	art	0	species	0.6631175148179048
+http:__gerdaq_gerdaq_trainingb.xml_10	probation	10	probation	0.6619240344211212
+http:__gerdaq_gerdaq_test.xml_201	tourism	17	tourism	0.6569390131129994

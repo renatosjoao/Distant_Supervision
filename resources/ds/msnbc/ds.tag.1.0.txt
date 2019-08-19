@@ -1,0 +1,6 @@
+spo16417540.txt	san diego chargers	2714	san diego chargers	0.78941
+spo16417540.txt	tennessee titans	2805	tennessee titans	0.78324544
+spo16417540.txt	jim caldwell	2791	jim caldwell (american football)	0.767455
+spo16417540.txt	cam cameron	2755	cam cameron	0.76177
+spo16417540.txt	mike sherman	2700	mike sherman	0.75525904
+spo16417540.txt	chicago bears	2624	chicago bears	0.7292714

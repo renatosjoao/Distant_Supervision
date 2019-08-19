@@ -1,0 +1,12 @@
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	ap	57	associated press	1.0
+tw_83.txt	hattiesburg	359	hattiesburg, mississippi	1.0
+tw_73.txt	pepsi	48	pepsi	1.0
+tw_71.txt	htc	88	htc	1.0
+tw_71.txt	htc	21	htc	1.0
+tw_65.txt	giles deacon	27	giles deacon	1.0
+tw_65.txt	amber le bon	0	amber le bon	1.0
+tw_62.txt	christchurch	84	christchurch	1.0
+tw_60.txt	la dodgers	40	los angeles dodgers	1.0

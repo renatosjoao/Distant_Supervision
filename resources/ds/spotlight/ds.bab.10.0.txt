@@ -1,0 +1,17 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence5	terrace	153	michael terrace	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	den	78	denmark	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	german capital	36	berlin	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence3	dance troupe	37	dance troupe	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	space	159	space (ibiza nightclub)	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	brick gothic	195	brick gothic	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	waltz	6	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	proud	92	proud truth	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	delight	144	rapper's delight	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	dancer	7	gate dancer	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence3	young russians	123	mladorossi	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	mikhail d. prokhorov	152	mikhail prokhorov	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	part of	123	russian partition	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	web language	135	web language	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	html 5	183	html5	1.0

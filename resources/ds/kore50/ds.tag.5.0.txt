@@ -1,0 +1,9 @@
+-docstart- (41 pol01)	ping-pong diplomacy	58	ping-pong diplomacy	0.78000003
+-docstart- (43 pol03)	enola gay	4	enola gay	0.7171625
+-docstart- (28 bus08)	pixar	0	pixar	0.7024625
+-docstart- (46 pol06)	man on the moon	24	moon landing	0.68863684
+-docstart- (20 mus10)	mayall's	59	rik mayall	0.63098
+-docstart- (37 spo07)	san siro	64	san siro	0.6293893
+-docstart- (19 mus09)	isle of wight festival	4	isle of wight festival 1969	0.6189113
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	0.5907811
+-docstart- (16 mus06)	american recordings	85	american recordings (record label)	0.56350505

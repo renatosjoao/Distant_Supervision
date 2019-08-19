@@ -1,0 +1,29 @@
+wor16447201.txt	yamuna	620	yamuna	1.0
+wor16447201.txt	rama devi	2071	rama devi (bihar politician)	1.0
+wor16447201.txt	madhya pradesh	1816	madhya pradesh	1.0
+wor16447201.txt	india	375	tamil nadu	1.0
+wor16447201.txt	india	280	tamil nadu	1.0
+wor16447201.txt	india	135	tamil nadu	1.0
+wor16447201.txt	garuda	2663	garuda	1.0
+wor16447201.txt	garuda	2507	garuda	1.0
+wor16447201.txt	ganges	608	ganges	1.0
+wor16447201.txt	ganges	255	ganges	1.0
+wor16447201.txt	ganges	1847	ganges	1.0
+wor16447201.txt	ganges	17	ganges	1.0
+wor16447201.txt	ganges	1110	ganges	1.0
+wor13259309.txt	muqtada al-sadr	4114	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4089	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4080	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4071	muqtada al-sadr	1.0
+wor13259309.txt	mowaffak al-rubaie	422	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	2820	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	1872	mowaffak al-rubaie	1.0
+wor13259309.txt	mahdi army	4178	peace companies	1.0
+wor13259309.txt	al-sadr	4302	muqtada al-sadr	1.0
+usn16444287.txt	us airways	1397	us airways	1.0
+usn16444287.txt	u.s. immigration and customs enforcement	2874	u.s. immigration and customs enforcement	1.0
+usn16444287.txt	north las vegas	2646	north las vegas, nevada	1.0
+usn16444287.txt	feinstein	3182	dianne feinstein	1.0
+usn16444287.txt	dianne feinstein	3088	dianne feinstein	1.0
+usn16444287.txt	condor airlines	1791	condor flugdienst	1.0
+usn16444287.txt	california	666	california	1.0

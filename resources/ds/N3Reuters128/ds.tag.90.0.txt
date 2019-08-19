@@ -1,0 +1,803 @@
+http:__aksw.org_n3_reuters-128_65	angiotensin converting enzyme inhibitor	148	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	ace inhibitor	334	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	vaseretic	100	enalapril	0.74220234
+http:__aksw.org_n3_reuters-128_65	hydrodiuril	383	hydrochlorothiazide	0.7403333
+http:__aksw.org_n3_reuters-128_118	integrated services digital network	164	integrated services digital network	0.7214042
+http:__aksw.org_n3_reuters-128_65	merck and co inc	0	merck & co.	0.7173667
+http:__aksw.org_n3_reuters-128_51	hard disk drive	294	hard disk drive	0.70507085
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	0.6726929
+http:__aksw.org_n3_reuters-128_65	vasotec	322	enalapril	0.6707738
+http:__aksw.org_n3_reuters-128_65	diuretic	200	diuretic	0.6672349
+http:__aksw.org_n3_reuters-128_51	ibm personal system/2	136	ibm personal system/2	0.6577333
+http:__aksw.org_n3_reuters-128_24	international monetary fund	434	international monetary fund	0.65499765
+http:__aksw.org_n3_reuters-128_116	u.s. budget deficit	65	national debt of the united states	0.64865315
+http:__aksw.org_n3_reuters-128_115	federal trade commission	608	federal trade commission	0.64634943
+http:__aksw.org_n3_reuters-128_25	drexel burnham lambert	125	drexel burnham lambert	0.6453786
+http:__aksw.org_n3_reuters-128_49	cain chemical	406	occidental petroleum	0.64411664
+http:__aksw.org_n3_reuters-128_18	drexel burnham lambert	360	drexel burnham lambert	0.6428619
+http:__aksw.org_n3_reuters-128_118	advanced micro devices inc	0	advanced micro devices	0.63725
+http:__aksw.org_n3_reuters-128_33	buenos aires province	649	buenos aires province	0.63349247
+http:__aksw.org_n3_reuters-128_100	goldman, sachs	420	goldman sachs	0.6258577
+http:__aksw.org_n3_reuters-128_123	u.s. senate budget committee	4	united states senate committee on the budget	0.6220231
+http:__aksw.org_n3_reuters-128_10	new york stock exchange	79	new york stock exchange	0.62084675
+http:__aksw.org_n3_reuters-128_112	e.f. hutton co	27	e. f. hutton & co.	0.6206727
+http:__aksw.org_n3_reuters-128_46	shearson lehman brothers	232	shearson	0.62045
+http:__aksw.org_n3_reuters-128_101	nippon telegraph and telephone	94	nippon telegraph and telephone	0.6176421
+http:__aksw.org_n3_reuters-128_107	mir-hossein mousavi	102	mir-hossein mousavi	0.6171575
+http:__aksw.org_n3_reuters-128_37	federal funds rate	481	federal funds rate	0.6152235
+http:__aksw.org_n3_reuters-128_58	sydney futures exchange	258	australian securities exchange	0.61405
+http:__aksw.org_n3_reuters-128_60	zero-coupon bond	53	zero-coupon bond	0.61278147
+http:__aksw.org_n3_reuters-128_10	nv philips gloeilampenfabrieken	0	philips	0.61162406
+http:__aksw.org_n3_reuters-128_36	gerhard stoltenberg	215	gerhard stoltenberg	0.6084933
+http:__aksw.org_n3_reuters-128_85	shearson lehman brothers	178	shearson	0.6057533
+http:__aksw.org_n3_reuters-128_30	national cancer institute	1880	national cancer institute	0.60565996
+http:__aksw.org_n3_reuters-128_66	london international financial futures exchange	548	london international financial futures and options exchange	0.6056375
+http:__aksw.org_n3_reuters-128_100	first boston corp	401	first boston	0.60472274
+http:__aksw.org_n3_reuters-128_13	put option	429	put option	0.603924
+http:__aksw.org_n3_reuters-128_122	hambrecht and quist	124	hambrecht & quist	0.6036231
+http:__aksw.org_n3_reuters-128_96	donald trump	0	donald trump	0.5989739
+http:__aksw.org_n3_reuters-128_126	morgan stanley	101	morgan stanley	0.5982464
+http:__aksw.org_n3_reuters-128_105	chicago mercantile exchange	4	chicago mercantile exchange	0.59668463
+http:__aksw.org_n3_reuters-128_113	ministry of international trade and industry	235	ministry of international trade and industry	0.5962292
+http:__aksw.org_n3_reuters-128_118	isdn	204	integrated services digital network	0.5938281
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	0.5933088
+http:__aksw.org_n3_reuters-128_30	national cancer institute	2108	national cancer institute	0.5929834
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto-dominion bank	0.592837
+http:__aksw.org_n3_reuters-128_123	lawton chiles	145	lawton chiles	0.59110385
+http:__aksw.org_n3_reuters-128_55	japan air lines co ltd	76	japan airlines	0.59059
+http:__aksw.org_n3_reuters-128_95	drexel burnham lambert	258	drexel burnham lambert	0.5894656
+http:__aksw.org_n3_reuters-128_19	return on common equity	207	return on equity	0.58910555
+http:__aksw.org_n3_reuters-128_32	eurobond	51	eurobond	0.58710265
+http:__aksw.org_n3_reuters-128_67	reuters in	336	reuters	0.58442104
+http:__aksw.org_n3_reuters-128_79	rio grande do sul	630	rio grande do sul	0.5843883
+http:__aksw.org_n3_reuters-128_44	ford taurus	591	ford taurus	0.58431315
+http:__aksw.org_n3_reuters-128_112	initial public offering	115	initial public offering	0.5823349
+http:__aksw.org_n3_reuters-128_40	welsh, carson, anderson and stowe	122	welsh, carson, anderson & stowe	0.58223236
+http:__aksw.org_n3_reuters-128_44	mercury sable	607	mercury sable	0.58214736
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	0.58100176
+http:__aksw.org_n3_reuters-128_94	amsterdam bourse	925	amsterdam stock exchange	0.57857144
+http:__aksw.org_n3_reuters-128_13	salomon brothers	144	salomon brothers	0.578432
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	0.5784289
+http:__aksw.org_n3_reuters-128_87	republic airlines	74	republic airlines	0.5772306
+http:__aksw.org_n3_reuters-128_24	kenneth kaunda	379	kenneth kaunda	0.5764706
+http:__aksw.org_n3_reuters-128_87	employee stock ownership plan	280	employee stock ownership plan	0.57538056
+http:__aksw.org_n3_reuters-128_36	jacques de larosiere	341	jacques de larosière	0.57345384
+http:__aksw.org_n3_reuters-128_36	kiichi miyazawa	413	kiichi miyazawa	0.5730864
+http:__aksw.org_n3_reuters-128_101	central office switching	51	telephone exchange	0.57290876
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	0.5703942
+http:__aksw.org_n3_reuters-128_30	immunex	393	amgen	0.5703339
+http:__aksw.org_n3_reuters-128_115	darlington county, s.c	247	darlington county, south carolina	0.5696094
+http:__aksw.org_n3_reuters-128_93	office of management and budget	0	office of management and budget	0.5692957
+http:__aksw.org_n3_reuters-128_60	luxembourg stock exchange	298	luxembourg stock exchange	0.56906295
+http:__aksw.org_n3_reuters-128_103	lawton chiles	140	lawton chiles	0.568628
+http:__aksw.org_n3_reuters-128_125	western digital corp	0	western digital	0.5681375
+http:__aksw.org_n3_reuters-128_27	carnival cruise lines	118	carnival cruise line	0.5680932
+http:__aksw.org_n3_reuters-128_94	price earnings ratio	890	price–earnings ratio	0.56677777
+http:__aksw.org_n3_reuters-128_42	continental bank of canada	0	continental bank of canada	0.56588334
+http:__aksw.org_n3_reuters-128_77	j.p. morgan and co	0	j.p. morgan & co.	0.5651389
+http:__aksw.org_n3_reuters-128_26	first boston corp	112	first boston	0.5620318
+http:__aksw.org_n3_reuters-128_49	cain chemical	4150	occidental petroleum	0.56176364
+http:__aksw.org_n3_reuters-128_67	asher edelman	1236	asher edelman	0.561275
+http:__aksw.org_n3_reuters-128_13	eurobond	26	eurobond	0.558666
+http:__aksw.org_n3_reuters-128_1	key tronic	0	key tronic	0.55791
+http:__aksw.org_n3_reuters-128_45	edouard saouma	285	edouard saouma	0.5574654
+http:__aksw.org_n3_reuters-128_56	mci communications corp	92	mci communications	0.5568625
+http:__aksw.org_n3_reuters-128_117	colorado house of representatives	991	colorado house of representatives	0.55649376
+http:__aksw.org_n3_reuters-128_55	national transportation safety board	546	national transportation safety board	0.5546861
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	0.5527964
+http:__aksw.org_n3_reuters-128_16	eurobond	72	eurobond	0.5526022
+http:__aksw.org_n3_reuters-128_15	eurobond	72	eurobond	0.5526022
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	0.5522875
+http:__aksw.org_n3_reuters-128_106	jerzy urban	316	jerzy urban	0.55135
+http:__aksw.org_n3_reuters-128_126	s corp	357	s corporation	0.550668
+http:__aksw.org_n3_reuters-128_60	merrill lynch	150	merrill lynch	0.55046916
+http:__aksw.org_n3_reuters-128_49	leveraged buyout	4354	leveraged buyout	0.5504595
+http:__aksw.org_n3_reuters-128_66	u.s. securities and exchange commission	1024	u.s. securities and exchange commission	0.54980665
+http:__aksw.org_n3_reuters-128_107	british broadcasting corporation	461	bbc	0.5493175
+http:__aksw.org_n3_reuters-128_31	georgia public service commission	26	georgia public service commission	0.54841924
+http:__aksw.org_n3_reuters-128_117	colorado public utilities commission	551	colorado public utilities commission	0.5467306
+http:__aksw.org_n3_reuters-128_50	federal paper board	0	international paper	0.54579115
+http:__aksw.org_n3_reuters-128_86	wall street journal	380	the wall street journal	0.5443797
+http:__aksw.org_n3_reuters-128_107	basra	1028	basra	0.54349476
+http:__aksw.org_n3_reuters-128_81	merrill lynch	189	merrill lynch	0.543448
+http:__aksw.org_n3_reuters-128_107	iran	0	iran	0.5433421
+http:__aksw.org_n3_reuters-128_111	lucky stores	2977	lucky stores	0.5428682
+http:__aksw.org_n3_reuters-128_118	rockwell international	1378	rockwell international	0.54260844
+http:__aksw.org_n3_reuters-128_118	isdn	1763	integrated services digital network	0.54223007
+http:__aksw.org_n3_reuters-128_45	food and agriculture organisation	188	food and agriculture organization	0.5408009
+http:__aksw.org_n3_reuters-128_5	teradyne inc	0	teradyne	0.54010457
+http:__aksw.org_n3_reuters-128_107	basra	48	basra	0.539422
+http:__aksw.org_n3_reuters-128_16	toronto dominion bank	0	toronto-dominion bank	0.53913045
+http:__aksw.org_n3_reuters-128_15	toronto dominion bank	0	toronto-dominion bank	0.53913045
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	0.5390286
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	0	freeport-mcmoran	0.53889716
+http:__aksw.org_n3_reuters-128_42	lloyds bank canada	236	lloyds bank canada	0.53610003
+http:__aksw.org_n3_reuters-128_44	annual percentage rate	368	annual percentage rate	0.53557384
+http:__aksw.org_n3_reuters-128_30	cetus corp	335	cetus corporation	0.535481
+http:__aksw.org_n3_reuters-128_53	royalty trust	228	royalty trust	0.53455836
+http:__aksw.org_n3_reuters-128_22	national park, n.j	496	national park, new jersey	0.53455627
+http:__aksw.org_n3_reuters-128_111	asher edelman	323	asher edelman	0.5344045
+http:__aksw.org_n3_reuters-128_45	committee on world food security	251	committee on world food security	0.5342467
+http:__aksw.org_n3_reuters-128_124	murdochville, quebec	115	murdochville, quebec	0.53402
+http:__aksw.org_n3_reuters-128_57	u.s. district court in detroit	61	united states district court for the eastern district of michigan	0.5338682
+http:__aksw.org_n3_reuters-128_118	isdn	1483	integrated services digital network	0.5294301
+http:__aksw.org_n3_reuters-128_111	fieldcrest cannon inc	3160	cannon mills	0.5291794
+http:__aksw.org_n3_reuters-128_32	paine webber	166	paine webber	0.5287921
+http:__aksw.org_n3_reuters-128_36	giovanni goria	896	giovanni goria	0.5283577
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	0.5276694
+http:__aksw.org_n3_reuters-128_124	charles-eugene marin	313	charles-eugène marin	0.5269912
+http:__aksw.org_n3_reuters-128_49	dean witter reynolds	4820	dean witter reynolds	0.52549
+http:__aksw.org_n3_reuters-128_29	50 cent	152	50 cent	0.5249975
+http:__aksw.org_n3_reuters-128_107	iran	554	iran	0.5244905
+http:__aksw.org_n3_reuters-128_16	hambros bank	156	hambros bank	0.52438045
+http:__aksw.org_n3_reuters-128_15	hambros bank	156	hambros bank	0.52438045
+http:__aksw.org_n3_reuters-128_41	avnet inc	0	avnet	0.52415454
+http:__aksw.org_n3_reuters-128_61	first boston corp	0	first boston	0.5206357
+http:__aksw.org_n3_reuters-128_30	new england journal of medicine	171	the new england journal of medicine	0.5190794
+http:__aksw.org_n3_reuters-128_0	paxar	0	avery dennison	0.5189555
+http:__aksw.org_n3_reuters-128_62	guilder	228	dutch guilder	0.51821667
+http:__aksw.org_n3_reuters-128_31	georgia power	233	georgia power	0.5136014
+http:__aksw.org_n3_reuters-128_114	emerson radio corp	0	emerson radio	0.5134231
+http:__aksw.org_n3_reuters-128_105	leo melamed	1380	leo melamed	0.5133682
+http:__aksw.org_n3_reuters-128_94	liemt	239	pim van liemt	0.51327956
+http:__aksw.org_n3_reuters-128_94	liemt	671	pim van liemt	0.51270217
+http:__aksw.org_n3_reuters-128_107	ahvaz field	1178	ahvaz field	0.5126947
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	0.5122
+http:__aksw.org_n3_reuters-128_90	reverse stock split	57	reverse stock split	0.5106382
+http:__aksw.org_n3_reuters-128_65	antihypertensive	271	antihypertensive drug	0.50934166
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	0.5091842
+http:__aksw.org_n3_reuters-128_33	soybean	977	soybean	0.50865746
+http:__aksw.org_n3_reuters-128_124	to return	1510	volver	0.5081526
+http:__aksw.org_n3_reuters-128_96	alexanders inc	128	alexander's	0.5077587
+http:__aksw.org_n3_reuters-128_86	insider trading	101	insider trading	0.50767845
+http:__aksw.org_n3_reuters-128_54	superconductor	495	superconductivity	0.5073018
+http:__aksw.org_n3_reuters-128_120	to show	499	the t.o. show	0.50509834
+http:__aksw.org_n3_reuters-128_8	sugar beet	609	sugar beet	0.5049571
+http:__aksw.org_n3_reuters-128_30	cellular immune system	2736	cell-mediated immunity	0.504705
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	0.5041518
+http:__aksw.org_n3_reuters-128_116	japanese yen	895	japanese yen	0.5036231
+http:__aksw.org_n3_reuters-128_62	to show	64	the t.o. show	0.50359374
+http:__aksw.org_n3_reuters-128_38	best buy	0	best buy	0.5030026
+http:__aksw.org_n3_reuters-128_69	ghana	1540	ghana	0.5028316
+http:__aksw.org_n3_reuters-128_118	ibm	1992	ibm	0.5016661
+http:__aksw.org_n3_reuters-128_61	getty oil	655	getty oil	0.5015927
+http:__aksw.org_n3_reuters-128_3	solid perfume	334	solid perfume	0.5012417
+http:__aksw.org_n3_reuters-128_98	solid perfume	53	solid perfume	0.5
+http:__aksw.org_n3_reuters-128_92	ggfh	41	g.g.f.h.	0.5
+http:__aksw.org_n3_reuters-128_85	avx	0	advanced vector extensions	0.5
+http:__aksw.org_n3_reuters-128_84	time yesterday	192	time for yesterday	0.5
+http:__aksw.org_n3_reuters-128_84	the price	160	the price (angel)	0.5
+http:__aksw.org_n3_reuters-128_83	ccl industries inc	0	ccl industries	0.5
+http:__aksw.org_n3_reuters-128_75	highland superstores	0	highland superstores	0.5
+http:__aksw.org_n3_reuters-128_7	the price	170	the price (angel)	0.5
+http:__aksw.org_n3_reuters-128_62	pglo	32	pglo	0.5
+http:__aksw.org_n3_reuters-128_59	shopsmith inc	0	rlf brands	0.5
+http:__aksw.org_n3_reuters-128_57	reynolds and reynolds	0	reynolds and reynolds	0.5
+http:__aksw.org_n3_reuters-128_50	it it	88	laconic phrase	0.5
+http:__aksw.org_n3_reuters-128_48	fidelcor	0	fidelity trust company	0.5
+http:__aksw.org_n3_reuters-128_46	avx	0	avengers vs. x-men	0.5
+http:__aksw.org_n3_reuters-128_4	digital communications associates	0	digital communications associates	0.5
+http:__aksw.org_n3_reuters-128_32	the conversion	199	the conversion (the outer limits)	0.5
+http:__aksw.org_n3_reuters-128_29	the price	72	the price (angel)	0.5
+http:__aksw.org_n3_reuters-128_22	national guardian	0	national guardian	0.5
+http:__aksw.org_n3_reuters-128_14	vowg	14	austrian association for public and social economy	0.5
+http:__aksw.org_n3_reuters-128_13	the conversion	277	the conversion (the outer limits)	0.5
+http:__aksw.org_n3_reuters-128_124	larry taylor	1019	larry taylor (actor)	0.5
+http:__aksw.org_n3_reuters-128_116	carter bonds	401	carter bonds	0.5
+http:__aksw.org_n3_reuters-128_111	masland	1911	albert masland	0.5
+http:__aksw.org_n3_reuters-128_10	pglo	32	pglo	0.5
+http:__aksw.org_n3_reuters-128_45	fao	223	food and agriculture organization	0.49971542
+http:__aksw.org_n3_reuters-128_69	ivory coast	1516	ivory coast	0.49945992
+http:__aksw.org_n3_reuters-128_81	general motors	0	general motors	0.4992516
+http:__aksw.org_n3_reuters-128_79	sao paulo	608	são paulo (state)	0.498861
+http:__aksw.org_n3_reuters-128_79	brasilia	194	brasília	0.49192187
+http:__aksw.org_n3_reuters-128_31	plant vogtle	134	vogtle electric generating plant	0.49078637
+http:__aksw.org_n3_reuters-128_18	helen of troy	0	helen of troy limited	0.49012843
+http:__aksw.org_n3_reuters-128_14	volkswagen ag	0	volkswagen group	0.48804057
+http:__aksw.org_n3_reuters-128_107	baghdad	1057	baghdad	0.4873247
+http:__aksw.org_n3_reuters-128_33	entre rios	712	entre ríos province	0.4857068
+http:__aksw.org_n3_reuters-128_107	iraq	640	iraq war	0.48547822
+http:__aksw.org_n3_reuters-128_86	insider trading	447	insider trading	0.4846567
+http:__aksw.org_n3_reuters-128_30	melanoma	1463	melanoma	0.4843773
+http:__aksw.org_n3_reuters-128_126	eastman kodak	0	kodak	0.48283005
+http:__aksw.org_n3_reuters-128_118	motorola	1461	motorola	0.48147452
+http:__aksw.org_n3_reuters-128_99	tunisia	0	tunisia	0.48052835
+http:__aksw.org_n3_reuters-128_119	general electric	0	general electric	0.48013556
+http:__aksw.org_n3_reuters-128_83	alava	105	álava	0.47986013
+http:__aksw.org_n3_reuters-128_30	steven rosenberg	1856	steven rosenberg	0.4768784
+http:__aksw.org_n3_reuters-128_33	buenos aires	2336	buenos aires province	0.4762931
+http:__aksw.org_n3_reuters-128_124	noranda inc	99	noranda (mining company)	0.47588167
+http:__aksw.org_n3_reuters-128_66	west germany	869	germany	0.47516134
+http:__aksw.org_n3_reuters-128_20	hanover insurance	0	hanover insurance	0.475
+http:__aksw.org_n3_reuters-128_127	columbus, ohio	208	columbus, ohio	0.47444293
+http:__aksw.org_n3_reuters-128_108	bank of france	4	bank of france	0.47326776
+http:__aksw.org_n3_reuters-128_107	tehran	789	tehran	0.4730115
+http:__aksw.org_n3_reuters-128_51	expansion card	316	expansion card	0.47216952
+http:__aksw.org_n3_reuters-128_72	pan am world airways	13	pan american world airways	0.47101495
+http:__aksw.org_n3_reuters-128_33	corrientes	743	corrientes province	0.4697781
+http:__aksw.org_n3_reuters-128_10	nasdaq	303	nasdaq	0.46945614
+http:__aksw.org_n3_reuters-128_67	dominion textile	435	dominion textile	0.46666667
+http:__aksw.org_n3_reuters-128_67	dominion textile	1189	dominion textile	0.46666667
+http:__aksw.org_n3_reuters-128_67	dominion textile	0	dominion textile	0.46666667
+http:__aksw.org_n3_reuters-128_66	but not	400	for but not with	0.46666667
+http:__aksw.org_n3_reuters-128_60	eastman kodak	0	kodak	0.46547183
+http:__aksw.org_n3_reuters-128_56	telnet	252	telnet	0.46462423
+http:__aksw.org_n3_reuters-128_33	buenos aires	1771	buenos aires province	0.46439064
+http:__aksw.org_n3_reuters-128_118	isdn	846	integrated services digital network	0.46417296
+http:__aksw.org_n3_reuters-128_68	raytheon	0	raytheon	0.46386495
+http:__aksw.org_n3_reuters-128_111	burlington industries	109	burlington industries	0.46256816
+http:__aksw.org_n3_reuters-128_118	intel	1356	intel	0.46166933
+http:__aksw.org_n3_reuters-128_107	tehran	127	tehran	0.46057963
+http:__aksw.org_n3_reuters-128_49	union carbide	2984	union carbide	0.4605719
+http:__aksw.org_n3_reuters-128_7	prudential bache securities	38	prudential securities	0.46035725
+http:__aksw.org_n3_reuters-128_8	sugar beet	58	sugar beet	0.4594084
+http:__aksw.org_n3_reuters-128_33	soybean	2937	soybean	0.45915294
+http:__aksw.org_n3_reuters-128_99	export credit agency	156	export credit agency	0.45759878
+http:__aksw.org_n3_reuters-128_30	rectum	2093	rectum	0.4575749
+http:__aksw.org_n3_reuters-128_33	soybean	2676	soybean	0.4571588
+http:__aksw.org_n3_reuters-128_114	institutional investor	100	institutional investor	0.45490956
+http:__aksw.org_n3_reuters-128_86	insider trading	447	insider trading	0.45464095
+http:__aksw.org_n3_reuters-128_26	asarco	0	asarco	0.4543341
+http:__aksw.org_n3_reuters-128_74	stifel, nicolaus	168	stifel	0.45387983
+http:__aksw.org_n3_reuters-128_51	ibm	407	ibm	0.45262977
+http:__aksw.org_n3_reuters-128_46	securities and exchange commission	61	u.s. securities and exchange commission	0.45251065
+http:__aksw.org_n3_reuters-128_118	international business machines	1955	ibm	0.45218503
+http:__aksw.org_n3_reuters-128_51	international business machines	95	ibm	0.4521187
+http:__aksw.org_n3_reuters-128_79	brazil	443	brazil	0.4517981
+http:__aksw.org_n3_reuters-128_67	burlington industries	80	burlington industries	0.45037702
+http:__aksw.org_n3_reuters-128_69	brazil	1529	brazil	0.4467194
+http:__aksw.org_n3_reuters-128_118	isdn	1120	integrated services digital network	0.4464381
+http:__aksw.org_n3_reuters-128_65	high blood pressure	218	hypertension	0.44430327
+http:__aksw.org_n3_reuters-128_118	motorola inc	1461	motorola	0.44193685
+http:__aksw.org_n3_reuters-128_97	rapeseed	38	rapeseed	0.44028902
+http:__aksw.org_n3_reuters-128_107	tehran	495	tehran	0.44000727
+http:__aksw.org_n3_reuters-128_55	boeing company	26	boeing	0.43996242
+http:__aksw.org_n3_reuters-128_36	robin leigh pemberton	543	robin leigh-pemberton, baron kingsdown	0.43928364
+http:__aksw.org_n3_reuters-128_101	letter of understanding	219	letter of understanding	0.4375
+http:__aksw.org_n3_reuters-128_71	edt	681	eastern time zone	0.43553174
+http:__aksw.org_n3_reuters-128_18	securities and exchange commission	42	u.s. securities and exchange commission	0.43491185
+http:__aksw.org_n3_reuters-128_100	securities and exchange commission	54	u.s. securities and exchange commission	0.43445677
+http:__aksw.org_n3_reuters-128_33	sorghum	242	sorghum	0.43366027
+http:__aksw.org_n3_reuters-128_118	international business machines corp	1955	ibm	0.4324698
+http:__aksw.org_n3_reuters-128_51	international business machines corp	95	ibm	0.4324035
+http:__aksw.org_n3_reuters-128_66	department of trade and industry	169	department of trade and industry (philippines)	0.43220806
+http:__aksw.org_n3_reuters-128_113	u.s. trade representative	336	office of the united states trade representative	0.43095282
+http:__aksw.org_n3_reuters-128_85	securities and exchange commission	32	u.s. securities and exchange commission	0.43079993
+http:__aksw.org_n3_reuters-128_33	sorghum	2214	sorghum	0.42970195
+http:__aksw.org_n3_reuters-128_71	honduras	0	honduras	0.42947894
+http:__aksw.org_n3_reuters-128_77	brazil	1531	brazil	0.4290605
+http:__aksw.org_n3_reuters-128_102	west germany	0	germany	0.42882904
+http:__aksw.org_n3_reuters-128_72	pan am shuttle	180	delta shuttle	0.42810476
+http:__aksw.org_n3_reuters-128_67	burlington industries	1080	burlington industries	0.42808777
+http:__aksw.org_n3_reuters-128_103	senate budget committee	4	united states senate committee on the budget	0.4278977
+http:__aksw.org_n3_reuters-128_33	buenos aires	1238	buenos aires province	0.42738467
+http:__aksw.org_n3_reuters-128_19	return on assets	169	return on assets	0.427131
+http:__aksw.org_n3_reuters-128_66	last september	1081	the last september	0.42543074
+http:__aksw.org_n3_reuters-128_31	georgia power	713	georgia power	0.42452642
+http:__aksw.org_n3_reuters-128_69	brazil	1258	brazil	0.4231069
+http:__aksw.org_n3_reuters-128_35	subordinated debt	507	subordinated debt	0.42296994
+http:__aksw.org_n3_reuters-128_33	cordoba	681	córdoba province, argentina	0.42290536
+http:__aksw.org_n3_reuters-128_46	lehman brothers inc	241	lehman brothers	0.42255116
+http:__aksw.org_n3_reuters-128_31	georgia power	1209	georgia power	0.4217639
+http:__aksw.org_n3_reuters-128_31	georgia power	992	georgia power	0.42091808
+http:__aksw.org_n3_reuters-128_41	securities and exchange commission	33	u.s. securities and exchange commission	0.42028862
+http:__aksw.org_n3_reuters-128_35	commercial paper	85	commercial paper	0.42007577
+http:__aksw.org_n3_reuters-128_77	brazil	1531	brazil national football team	0.42000693
+http:__aksw.org_n3_reuters-128_118	intc	1367	intel	0.41993335
+http:__aksw.org_n3_reuters-128_106	paris club	891	paris club	0.41964462
+http:__aksw.org_n3_reuters-128_118	northern telecom	1433	nortel	0.41909474
+http:__aksw.org_n3_reuters-128_31	georgia power	1612	georgia power	0.41836542
+http:__aksw.org_n3_reuters-128_30	skin cancer	1483	skin cancer	0.4173848
+http:__aksw.org_n3_reuters-128_77	brazil	211	brazil	0.4163227
+http:__aksw.org_n3_reuters-128_30	immunotherapy	688	immunotherapy	0.41597062
+http:__aksw.org_n3_reuters-128_36	james baker	934	james baker	0.41538757
+http:__aksw.org_n3_reuters-128_49	u.s. dollar	35	united states dollar	0.41333428
+http:__aksw.org_n3_reuters-128_79	parana	619	paraná (state)	0.41306436
+http:__aksw.org_n3_reuters-128_49	monsanto	3597	monsanto	0.41298842
+http:__aksw.org_n3_reuters-128_19	brazil	337	brazil national football team	0.41226804
+http:__aksw.org_n3_reuters-128_85	lehman brothers inc	187	lehman brothers	0.41150334
+http:__aksw.org_n3_reuters-128_20	stock split	66	stock split	0.41098914
+http:__aksw.org_n3_reuters-128_109	cbs	506	cbs	0.40848374
+http:__aksw.org_n3_reuters-128_78	securities and exchange commission	33	u.s. securities and exchange commission	0.407171
+http:__aksw.org_n3_reuters-128_118	microprocessor	672	microprocessor	0.40689808
+http:__aksw.org_n3_reuters-128_33	maize	232	maize	0.4067831
+http:__aksw.org_n3_reuters-128_45	sub-saharan africa	305	sub-saharan africa	0.4064688
+http:__aksw.org_n3_reuters-128_30	colon cancer	1616	colorectal cancer	0.4054236
+http:__aksw.org_n3_reuters-128_105	securities and exchange commission	203	u.s. securities and exchange commission	0.4040441
+http:__aksw.org_n3_reuters-128_27	broadways	181	the broadways	0.40384614
+http:__aksw.org_n3_reuters-128_0	west germany	59	germany	0.4038141
+http:__aksw.org_n3_reuters-128_49	supply and demand	2464	supply and demand	0.40373132
+http:__aksw.org_n3_reuters-128_95	securities and exchange commission	45	u.s. securities and exchange commission	0.40359682
+http:__aksw.org_n3_reuters-128_81	standard and poors	570	standard & poor's	0.4026059
+http:__aksw.org_n3_reuters-128_115	polyester	655	polyester	0.40010834
+http:__aksw.org_n3_reuters-128_58	reuters	704	reuters	0.39990067
+http:__aksw.org_n3_reuters-128_50	paperboard	124	paperboard	0.39930588
+http:__aksw.org_n3_reuters-128_30	interleukin-2	714	interleukin 2	0.3957025
+http:__aksw.org_n3_reuters-128_33	maize	2117	maize	0.39520103
+http:__aksw.org_n3_reuters-128_86	securities and exchange commission	0	u.s. securities and exchange commission	0.39445993
+http:__aksw.org_n3_reuters-128_115	celanese	748	celanese	0.39364678
+http:__aksw.org_n3_reuters-128_82	reuters	168	reuters	0.3935457
+http:__aksw.org_n3_reuters-128_82	reuters	1112	reuters	0.39272156
+http:__aksw.org_n3_reuters-128_66	hong kong	843	hong kong	0.39206237
+http:__aksw.org_n3_reuters-128_33	maize	1620	maize	0.39179766
+http:__aksw.org_n3_reuters-128_66	japan	854	japan	0.38991356
+http:__aksw.org_n3_reuters-128_33	sorghum	2499	sorghum	0.3886823
+http:__aksw.org_n3_reuters-128_66	switzerland	801	switzerland	0.38838795
+http:__aksw.org_n3_reuters-128_31	plant vogtle	1240	vogtle electric generating plant	0.38834304
+http:__aksw.org_n3_reuters-128_79	maize	941	maize	0.38753378
+http:__aksw.org_n3_reuters-128_49	u.s. dollar	1735	united states dollar	0.38691851
+http:__aksw.org_n3_reuters-128_33	misiones	727	misiones province	0.3868693
+http:__aksw.org_n3_reuters-128_111	burlington industries inc	109	burlington industries	0.3868106
+http:__aksw.org_n3_reuters-128_33	formosa	780	formosa province	0.3866211
+http:__aksw.org_n3_reuters-128_49	ashland oil	522	ashland inc.	0.38600624
+http:__aksw.org_n3_reuters-128_36	bundesbank	239	german federal bank	0.3856603
+http:__aksw.org_n3_reuters-128_106	stockholm	354	stockholm	0.38341933
+http:__aksw.org_n3_reuters-128_74	standard and poors	454	standard & poor's	0.3830053
+http:__aksw.org_n3_reuters-128_24	maize	101	maize	0.379631
+http:__aksw.org_n3_reuters-128_118	intel corp	1356	intel	0.37904048
+http:__aksw.org_n3_reuters-128_61	pennzoil	677	pennzoil	0.37881678
+http:__aksw.org_n3_reuters-128_94	dutch state mines	61	dsm (company)	0.37823665
+http:__aksw.org_n3_reuters-128_67	avondale mills	867	avondale mills	0.37794286
+http:__aksw.org_n3_reuters-128_70	repurchase agreements	94	repurchase agreement	0.37703437
+http:__aksw.org_n3_reuters-128_111	avondale mills	1039	avondale mills	0.375
+http:__aksw.org_n3_reuters-128_67	burlington industries inc	80	burlington industries	0.37461945
+http:__aksw.org_n3_reuters-128_21	paperboard	8	paperboard	0.37461832
+http:__aksw.org_n3_reuters-128_11	denmark	327	denmark	0.37388086
+http:__aksw.org_n3_reuters-128_40	venture capital	98	venture capital	0.3733507
+http:__aksw.org_n3_reuters-128_115	polyester	94	polyester	0.37278265
+http:__aksw.org_n3_reuters-128_43	manila	248	manila	0.36703318
+http:__aksw.org_n3_reuters-128_106	foreign policy institute	429	foreign policy institute	0.36666667
+http:__aksw.org_n3_reuters-128_79	reuters	209	reuters	0.36665818
+http:__aksw.org_n3_reuters-128_49	american dollar	2343	united states dollar	0.3661429
+http:__aksw.org_n3_reuters-128_116	reagan administration	303	ronald reagan	0.36395264
+http:__aksw.org_n3_reuters-128_111	redbook	2404	redbook	0.36201853
+http:__aksw.org_n3_reuters-128_33	tonne	2534	tonne	0.3618698
+http:__aksw.org_n3_reuters-128_99	coface	178	compagnie française d'assurance pour le commerce extérieur	0.36165452
+http:__aksw.org_n3_reuters-128_58	queensland	804	queensland	0.36118603
+http:__aksw.org_n3_reuters-128_61	pennzoil	190	pennzoil	0.36079782
+http:__aksw.org_n3_reuters-128_115	celanese	8	celanese	0.3596313
+http:__aksw.org_n3_reuters-128_105	standard and poors	1051	standard & poor's	0.3595658
+http:__aksw.org_n3_reuters-128_101	northern telecom	0	nortel	0.35866687
+http:__aksw.org_n3_reuters-128_61	pennzoil	463	pennzoil	0.35792893
+http:__aksw.org_n3_reuters-128_21	osaka	93	osaka	0.35770813
+http:__aksw.org_n3_reuters-128_124	anode	1594	anode	0.3575825
+http:__aksw.org_n3_reuters-128_91	picco	1060	ed picco	0.35714287
+http:__aksw.org_n3_reuters-128_89	madeira	0	madeira	0.35710034
+http:__aksw.org_n3_reuters-128_24	no way out	732	no way out (1987 film)	0.3568223
+http:__aksw.org_n3_reuters-128_127	copyright infringement	259	copyright infringement	0.35645872
+http:__aksw.org_n3_reuters-128_124	member of parliament	275	house of commons of canada	0.35445067
+http:__aksw.org_n3_reuters-128_33	maize	1825	maize	0.35321158
+http:__aksw.org_n3_reuters-128_70	federal reserve	4	federal reserve system	0.3516207
+http:__aksw.org_n3_reuters-128_22	paramus	267	paramus, new jersey	0.3514145
+http:__aksw.org_n3_reuters-128_11	belgium	289	belgium	0.35135418
+http:__aksw.org_n3_reuters-128_54	superconducting	58	superconductivity	0.3509941
+http:__aksw.org_n3_reuters-128_33	cordoba	2272	córdoba province, argentina	0.35052162
+http:__aksw.org_n3_reuters-128_61	texas state courts	752	judiciary of texas	0.35043335
+http:__aksw.org_n3_reuters-128_22	myrtle beach, s.c	647	myrtle beach, south carolina	0.34946665
+http:__aksw.org_n3_reuters-128_115	celanese	461	celanese	0.34889382
+http:__aksw.org_n3_reuters-128_113	fair trade	1315	protectionism	0.34878594
+http:__aksw.org_n3_reuters-128_91	montedison	0	edison (company)	0.34872234
+http:__aksw.org_n3_reuters-128_105	stock index	1070	stock market index	0.34856737
+http:__aksw.org_n3_reuters-128_22	myrtle beach	647	myrtle beach, south carolina	0.3478672
+http:__aksw.org_n3_reuters-128_49	ashland oil inc	522	ashland inc.	0.34669375
+http:__aksw.org_n3_reuters-128_50	osaka	69	osaka	0.34626696
+http:__aksw.org_n3_reuters-128_66	australia	832	australia	0.34320688
+http:__aksw.org_n3_reuters-128_22	key west	603	key west, florida	0.34213454
+http:__aksw.org_n3_reuters-128_66	france	861	france	0.34204563
+http:__aksw.org_n3_reuters-128_8	reuters	182	reuters	0.34152
+http:__aksw.org_n3_reuters-128_22	wayne, n.j	383	wayne, new jersey	0.34143338
+http:__aksw.org_n3_reuters-128_33	santa fe	696	santa fe province	0.34129816
+http:__aksw.org_n3_reuters-128_27	atlantic city	234	atlantic city, new jersey	0.3411259
+http:__aksw.org_n3_reuters-128_31	hunderd	1856	hundred (county division)	0.34109375
+http:__aksw.org_n3_reuters-128_86	securities fraud	1047	securities fraud	0.34085
+http:__aksw.org_n3_reuters-128_113	deputy u.s. trade representative	329	office of the united states trade representative	0.33880413
+http:__aksw.org_n3_reuters-128_30	il-2	1932	interleukin 2	0.33773768
+http:__aksw.org_n3_reuters-128_10	nyse	333	new york stock exchange	0.337385
+http:__aksw.org_n3_reuters-128_50	japan	94	japan	0.33707562
+http:__aksw.org_n3_reuters-128_52	nantucket	0	nantucket	0.33687037
+http:__aksw.org_n3_reuters-128_91	amortization	291	amortization	0.3366127
+http:__aksw.org_n3_reuters-128_41	investment banking	397	investment banking	0.33549258
+http:__aksw.org_n3_reuters-128_42	stock dividend	320	dividend	0.33529708
+http:__aksw.org_n3_reuters-128_30	kidney	2012	kidney	0.3346333
+http:__aksw.org_n3_reuters-128_101	public telephone network	450	public switched telephone network	0.3341614
+http:__aksw.org_n3_reuters-128_30	immunotherapy	2347	immunotherapy	0.33355197
+http:__aksw.org_n3_reuters-128_49	borg warner	3047	borgwarner	0.3334607
+http:__aksw.org_n3_reuters-128_33	cordoba	1710	córdoba province, argentina	0.33288616
+http:__aksw.org_n3_reuters-128_65	antihypertensive drugs	271	antihypertensive drug	0.33121666
+http:__aksw.org_n3_reuters-128_35	senior debt	481	senior debt	0.33117422
+http:__aksw.org_n3_reuters-128_30	interleukin-2	78	interleukin 2	0.33065847
+http:__aksw.org_n3_reuters-128_18	underwriter	395	underwriting	0.3306145
+http:__aksw.org_n3_reuters-128_116	carter administration	362	jimmy carter	0.33034107
+http:__aksw.org_n3_reuters-128_22	wells fargo	760	wells fargo	0.32994926
+http:__aksw.org_n3_reuters-128_92	common stock	192	common stock	0.3298211
+http:__aksw.org_n3_reuters-128_118	american telephone and telegraph	346	at&t corporation	0.3295815
+http:__aksw.org_n3_reuters-128_112	kidder, peabody	0	kidder, peabody & co.	0.32864496
+http:__aksw.org_n3_reuters-128_97	japan	0	empire of japan	0.32726547
+http:__aksw.org_n3_reuters-128_116	carter administration	575	jimmy carter	0.3265253
+http:__aksw.org_n3_reuters-128_49	petrochemical	625	petrochemical	0.32604897
+http:__aksw.org_n3_reuters-128_49	ethylene	3454	ethylene	0.32604092
+http:__aksw.org_n3_reuters-128_11	spain	308	spain	0.3244381
+http:__aksw.org_n3_reuters-128_49	specialty chemicals	3492	speciality chemicals	0.3243457
+http:__aksw.org_n3_reuters-128_113	japan	790	empire of japan	0.3239998
+http:__aksw.org_n3_reuters-128_30	il-2	743	interleukin 2	0.3239132
+http:__aksw.org_n3_reuters-128_33	la pampa	833	la pampa province	0.32339057
+http:__aksw.org_n3_reuters-128_91	montedison	908	edison (company)	0.323364
+http:__aksw.org_n3_reuters-128_113	michael smith	363	michael smith (basketball, born 1965)	0.3215203
+http:__aksw.org_n3_reuters-128_61	texaco	69	texaco	0.32145968
+http:__aksw.org_n3_reuters-128_126	underwriter	89	underwriting	0.32002696
+http:__aksw.org_n3_reuters-128_115	south carolina	151	south carolina	0.31918257
+http:__aksw.org_n3_reuters-128_74	common stock	246	common stock	0.31848577
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	740	celanese	0.31845295
+http:__aksw.org_n3_reuters-128_30	il-2	1351	interleukin 2	0.31816113
+http:__aksw.org_n3_reuters-128_107	irna	927	islamic republic news agency	0.3179515
+http:__aksw.org_n3_reuters-128_24	imf	463	international monetary fund	0.31760603
+http:__aksw.org_n3_reuters-128_121	federal reserve	4	federal reserve system	0.31749034
+http:__aksw.org_n3_reuters-128_31	three mile island	2099	three mile island accident	0.31667534
+http:__aksw.org_n3_reuters-128_52	james adams	30	james adams (character)	0.31632653
+http:__aksw.org_n3_reuters-128_11	france	211	france	0.31506726
+http:__aksw.org_n3_reuters-128_88	common stock	209	common stock	0.31482744
+http:__aksw.org_n3_reuters-128_113	semiconductor	555	semiconductor	0.31432426
+http:__aksw.org_n3_reuters-128_25	shares outstanding	296	shares outstanding	0.31396133
+http:__aksw.org_n3_reuters-128_91	milan	514	milan	0.31389505
+http:__aksw.org_n3_reuters-128_81	treasury securities	345	united states treasury security	0.3136797
+http:__aksw.org_n3_reuters-128_58	australia	115	australia	0.31333548
+http:__aksw.org_n3_reuters-128_5	digital equipment corp	18	digital equipment corporation	0.3132512
+http:__aksw.org_n3_reuters-128_64	metrology	52	metrology	0.31268746
+http:__aksw.org_n3_reuters-128_82	christopher hogg	209	christopher hogg	0.3125
+http:__aksw.org_n3_reuters-128_49	dow chemical co	749	dow chemical company	0.31217083
+http:__aksw.org_n3_reuters-128_29	heating oil	122	heating oil	0.31192884
+http:__aksw.org_n3_reuters-128_21	japan	100	japan	0.31158313
+http:__aksw.org_n3_reuters-128_51	hard disk drives	247	hard disk drive	0.31142345
+http:__aksw.org_n3_reuters-128_126	eastman kodak co	0	kodak	0.3092146
+http:__aksw.org_n3_reuters-128_66	tokyo	970	tokyo	0.30905586
+http:__aksw.org_n3_reuters-128_91	montedison	417	edison (company)	0.3088118
+http:__aksw.org_n3_reuters-128_26	common stock	67	common stock	0.308571
+http:__aksw.org_n3_reuters-128_49	fertilizer	3208	fertilizer	0.30801517
+http:__aksw.org_n3_reuters-128_49	petrochemical	3419	petrochemical	0.30732894
+http:__aksw.org_n3_reuters-128_36	group of seven	1058	group of eight	0.3070848
+http:__aksw.org_n3_reuters-128_6	dialysis	45	dialysis	0.3068224
+http:__aksw.org_n3_reuters-128_36	italy	1088	kingdom of italy	0.30613744
+http:__aksw.org_n3_reuters-128_8	netherlands	164	netherlands	0.30592218
+http:__aksw.org_n3_reuters-128_66	canada	824	canada	0.30577266
+http:__aksw.org_n3_reuters-128_49	conoco	4382	conoco	0.30494955
+http:__aksw.org_n3_reuters-128_49	petrochemical	478	petrochemical	0.30477637
+http:__aksw.org_n3_reuters-128_113	japan	1808	japan	0.30418593
+http:__aksw.org_n3_reuters-128_86	netherlands	1134	netherlands	0.3024363
+http:__aksw.org_n3_reuters-128_19	vs 35	112	vs-35 (1990-2005)	0.3021778
+http:__aksw.org_n3_reuters-128_24	economist	907	economics	0.30212447
+http:__aksw.org_n3_reuters-128_41	working capital	241	working capital	0.30209744
+http:__aksw.org_n3_reuters-128_39	common stock	41	common stock	0.3019191
+http:__aksw.org_n3_reuters-128_30	colon	2083	large intestine	0.30109864
+http:__aksw.org_n3_reuters-128_118	micro chip	1623	integrated circuit	0.30105785
+http:__aksw.org_n3_reuters-128_49	styrene	1361	styrene	0.3001075
+http:__aksw.org_n3_reuters-128_22	hackensack	444	hackensack, new jersey	0.30003536
+http:__aksw.org_n3_reuters-128_33	chaco	764	chaco province	0.29865134
+http:__aksw.org_n3_reuters-128_8	netherlands	560	netherlands	0.29858738
+http:__aksw.org_n3_reuters-128_93	general government	326	general government	0.29856873
+http:__aksw.org_n3_reuters-128_112	amplicon	101	amplicon	0.29787233
+http:__aksw.org_n3_reuters-128_49	investment banking	4200	investment banking	0.29735112
+http:__aksw.org_n3_reuters-128_127	unfair competition	286	trademark infringement	0.29713053
+http:__aksw.org_n3_reuters-128_108	treasury bills	77	united states treasury security	0.29657602
+http:__aksw.org_n3_reuters-128_112	common stock	166	common stock	0.29610056
+http:__aksw.org_n3_reuters-128_1	keyboards	169	computer keyboard	0.2958099
+http:__aksw.org_n3_reuters-128_4	chief executive officer	212	chief executive officer	0.2956618
+http:__aksw.org_n3_reuters-128_71	protein	230	protein	0.29380912
+http:__aksw.org_n3_reuters-128_66	japan	133	japan	0.2936809
+http:__aksw.org_n3_reuters-128_6	home office	57	home office	0.2935524
+http:__aksw.org_n3_reuters-128_115	fayetteville	276	fayetteville, north carolina	0.29292053
+http:__aksw.org_n3_reuters-128_47	patent infringement	243	patent infringement	0.29233187
+http:__aksw.org_n3_reuters-128_60	eastman kodak co	0	kodak	0.29185635
+http:__aksw.org_n3_reuters-128_37	federal reserve	4	federal reserve system	0.29149938
+http:__aksw.org_n3_reuters-128_61	texaco inc	69	texaco	0.29019523
+http:__aksw.org_n3_reuters-128_20	par value	204	par value	0.29013765
+http:__aksw.org_n3_reuters-128_92	shares outstanding	373	shares outstanding	0.28991538
+http:__aksw.org_n3_reuters-128_22	louisville	711	louisville, kentucky	0.28933215
+http:__aksw.org_n3_reuters-128_95	underwriter	293	underwriting	0.28833622
+http:__aksw.org_n3_reuters-128_49	dupont	3581	dupont	0.28798884
+http:__aksw.org_n3_reuters-128_67	thomas bell	737	thomas bell (novelist)	0.28795812
+http:__aksw.org_n3_reuters-128_10	over the counter	262	over-the-counter (finance)	0.28629923
+http:__aksw.org_n3_reuters-128_49	garo	4792	garo (band)	0.28606158
+http:__aksw.org_n3_reuters-128_99	france	286	france	0.2859258
+http:__aksw.org_n3_reuters-128_100	common stock	141	common stock	0.28575736
+http:__aksw.org_n3_reuters-128_91	ferruzzi	1203	marco ferruzzi	0.2857143
+http:__aksw.org_n3_reuters-128_74	moodys	434	moody's corporation	0.28558058
+http:__aksw.org_n3_reuters-128_91	holding company	151	holding company	0.28548047
+http:__aksw.org_n3_reuters-128_9	christopher clark	147	yacc	0.2846154
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	0	celanese	0.2844375
+http:__aksw.org_n3_reuters-128_113	reagans	1664	ronald reagan	0.2843436
+http:__aksw.org_n3_reuters-128_111	edward johnson	2378	edward johnson (general)	0.28409293
+http:__aksw.org_n3_reuters-128_96	common stock	352	common stock	0.28395587
+http:__aksw.org_n3_reuters-128_49	petrochemical	128	petrochemical	0.28290623
+http:__aksw.org_n3_reuters-128_66	legally binding	1219	contract	0.2828898
+http:__aksw.org_n3_reuters-128_70	government securities	37	united states treasury security	0.28270832
+http:__aksw.org_n3_reuters-128_81	moodys	543	moody's corporation	0.28225365
+http:__aksw.org_n3_reuters-128_49	petrochemical	4467	petrochemical	0.28190285
+http:__aksw.org_n3_reuters-128_33	cordoba	1216	córdoba province, argentina	0.2817608
+http:__aksw.org_n3_reuters-128_93	james miller	41	bloomsburg university of pennsylvania	0.28125215
+http:__aksw.org_n3_reuters-128_24	imf	718	international monetary fund	0.2807435
+http:__aksw.org_n3_reuters-128_36	central bank	440	central bank	0.28008437
+http:__aksw.org_n3_reuters-128_63	integrated circuits	86	integrated circuit	0.2791238
+http:__aksw.org_n3_reuters-128_22	houston	695	houston	0.2786435
+http:__aksw.org_n3_reuters-128_33	hectare	1278	hectare	0.27864185
+http:__aksw.org_n3_reuters-128_14	dividend	715	dividend	0.27863407
+http:__aksw.org_n3_reuters-128_33	sunflower	1136	helianthus	0.27861136
+http:__aksw.org_n3_reuters-128_112	underwriting	76	underwriting	0.27840546
+http:__aksw.org_n3_reuters-128_65	prescription	63	prescription drug	0.27836785
+http:__aksw.org_n3_reuters-128_109	cbs inc	506	cbs	0.27817667
+http:__aksw.org_n3_reuters-128_51	tape backup	265	tape drive	0.27778637
+http:__aksw.org_n3_reuters-128_80	terence murray	430	terence murray (referee)	0.2777778
+http:__aksw.org_n3_reuters-128_105	sandner	1339	wolfgang sandner	0.2777778
+http:__aksw.org_n3_reuters-128_33	la pampa	2323	la pampa province	0.27776524
+http:__aksw.org_n3_reuters-128_71	public law 480	36	food for peace	0.27775633
+http:__aksw.org_n3_reuters-128_115	north carolina	132	north carolina	0.27757552
+http:__aksw.org_n3_reuters-128_115	south carolina	804	south carolina	0.27688128
+http:__aksw.org_n3_reuters-128_82	tokyo	320	tokyo	0.27665505
+http:__aksw.org_n3_reuters-128_66	deal	1119	contract	0.27664387
+http:__aksw.org_n3_reuters-128_30	kidney	1416	kidney	0.27657664
+http:__aksw.org_n3_reuters-128_58	adelaide	472	adelaide	0.27656293
+http:__aksw.org_n3_reuters-128_55	tokyo	298	tokyo	0.27654606
+http:__aksw.org_n3_reuters-128_22	kent	723	kent, ohio	0.27633286
+http:__aksw.org_n3_reuters-128_100	great lakes	0	great lakes	0.2761484
+http:__aksw.org_n3_reuters-128_127	ohio company	44	ohio company	0.27571547
+http:__aksw.org_n3_reuters-128_54	fahrenheit	186	fahrenheit	0.27530807
+http:__aksw.org_n3_reuters-128_49	oil refiner	564	oil refinery	0.2752696
+http:__aksw.org_n3_reuters-128_66	japan	447	empire of japan	0.27524424
+http:__aksw.org_n3_reuters-128_37	repurchase agreements	134	repurchase agreement	0.27476177
+http:__aksw.org_n3_reuters-128_94	privatisation	538	privatization	0.2745256
+http:__aksw.org_n3_reuters-128_118	data communications	259	computer network	0.27445716
+http:__aksw.org_n3_reuters-128_49	hostile takeover	2898	takeover	0.27438402
+http:__aksw.org_n3_reuters-128_51	personal computers	167	personal computer	0.27434584
+http:__aksw.org_n3_reuters-128_35	moodys	0	moody's corporation	0.27397165
+http:__aksw.org_n3_reuters-128_48	title insurance	69	title insurance	0.27360618
+http:__aksw.org_n3_reuters-128_12	private placement	129	private placement	0.2726597
+http:__aksw.org_n3_reuters-128_36	group of seven	684	group of eight	0.27238497
+http:__aksw.org_n3_reuters-128_22	nashville	732	nashville, tennessee	0.2718183
+http:__aksw.org_n3_reuters-128_30	remission	1979	cure	0.2717152
+http:__aksw.org_n3_reuters-128_78	working capital	205	working capital	0.27011454
+http:__aksw.org_n3_reuters-128_113	trade deficit	1709	balance of trade	0.26942196
+http:__aksw.org_n3_reuters-128_119	general electric co	0	general electric	0.26888892
+http:__aksw.org_n3_reuters-128_80	common stock	102	common stock	0.26845327
+http:__aksw.org_n3_reuters-128_14	dividend	78	dividend	0.26731092
+http:__aksw.org_n3_reuters-128_31	nuclear power	147	nuclear power	0.26719624
+http:__aksw.org_n3_reuters-128_73	common stock	71	common stock	0.26695576
+http:__aksw.org_n3_reuters-128_113	tokyo	1960	tokyo	0.26685795
+http:__aksw.org_n3_reuters-128_30	prudential-bache securities	1509	prudential securities	0.26666668
+http:__aksw.org_n3_reuters-128_66	memorandum of understanding	234	memorandum of understanding	0.26655176
+http:__aksw.org_n3_reuters-128_30	emeryville	369	emeryville, california	0.266489
+http:__aksw.org_n3_reuters-128_42	stock dividend	320	dividend	0.2661017
+http:__aksw.org_n3_reuters-128_38	best buy co inc	0	best buy	0.26597026
+http:__aksw.org_n3_reuters-128_49	niche market	3852	niche market	0.26548904
+http:__aksw.org_n3_reuters-128_2	bashaw	9	bashaw, alberta	0.26490253
+http:__aksw.org_n3_reuters-128_90	common stock	84	common stock	0.26466215
+http:__aksw.org_n3_reuters-128_33	santa fe	2281	santa fe province	0.26356876
+http:__aksw.org_n3_reuters-128_77	foreign exchange trading	1083	foreign exchange market	0.26314944
+http:__aksw.org_n3_reuters-128_36	west german	186	west germany	0.26270035
+http:__aksw.org_n3_reuters-128_39	common share	158	common stock	0.26267847
+http:__aksw.org_n3_reuters-128_54	att	248	attendance	0.26253098
+http:__aksw.org_n3_reuters-128_118	att	396	attendance	0.26253098
+http:__aksw.org_n3_reuters-128_118	att	2000	attendance	0.26253098
+http:__aksw.org_n3_reuters-128_118	att	1373	attendance	0.26253098
+http:__aksw.org_n3_reuters-128_65	medication	124	pharmaceutical drug	0.26236907
+http:__aksw.org_n3_reuters-128_30	end of the beginning	2297	days of infamy series	0.26156926
+http:__aksw.org_n3_reuters-128_4	chief operating officer	92	chief operating officer	0.26092675
+http:__aksw.org_n3_reuters-128_118	communications protocols	1909	communications protocol	0.26082638
+http:__aksw.org_n3_reuters-128_33	la pampa	1749	la pampa province	0.25994343
+http:__aksw.org_n3_reuters-128_45	saouma	549	edouard saouma	0.2597159
+http:__aksw.org_n3_reuters-128_47	due diligence	173	due diligence	0.25952166
+http:__aksw.org_n3_reuters-128_26	underwriting	86	underwriting	0.2590646
+http:__aksw.org_n3_reuters-128_124	risk management	1050	risk management	0.2590506
+http:__aksw.org_n3_reuters-128_109	harcourt brace jovanovich	162	harcourt (publisher)	0.25829968
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	453	celanese	0.25778234
+http:__aksw.org_n3_reuters-128_106	polish	1167	polish–lithuanian commonwealth	0.2563396
+http:__aksw.org_n3_reuters-128_118	digital communications	89	data transmission	0.25595504
+http:__aksw.org_n3_reuters-128_77	net income	322	net income	0.2557799
+http:__aksw.org_n3_reuters-128_91	spa	11	joint-stock company	0.2554851
+http:__aksw.org_n3_reuters-128_65	prescribed	409	prescription drug	0.25498283
+http:__aksw.org_n3_reuters-128_30	seattle	421	seattle	0.25455168
+http:__aksw.org_n3_reuters-128_94	centre-right	561	centre-right politics	0.25374597
+http:__aksw.org_n3_reuters-128_105	management information system	951	management information system	0.2536704
+http:__aksw.org_n3_reuters-128_49	petrochemical	1101	petrochemical	0.25338325
+http:__aksw.org_n3_reuters-128_92	common shares	366	common stock	0.25334936
+http:__aksw.org_n3_reuters-128_55	ministry of transport	181	ministry of land, infrastructure, transport and tourism	0.25305003
+http:__aksw.org_n3_reuters-128_69	cocoa	6	cocoa bean	0.2528353
+http:__aksw.org_n3_reuters-128_91	italy	18	kingdom of italy	0.2526237
+http:__aksw.org_n3_reuters-128_103	gridlock	231	traffic congestion	0.2526217
+http:__aksw.org_n3_reuters-128_33	chaco	2294	gran chaco	0.25182205
+http:__aksw.org_n3_reuters-128_12	working capital	423	working capital	0.25153315
+http:__aksw.org_n3_reuters-128_54	kelvin	152	kelvin	0.25091293
+http:__aksw.org_n3_reuters-128_94	dividend	772	dividend	0.25055647
+http:__aksw.org_n3_reuters-128_64	profiler	115	profiling (computer programming)	0.25046602
+http:__aksw.org_n3_reuters-128_96	real estate	219	real estate	0.25032094
+http:__aksw.org_n3_reuters-128_96	will reach	498	what one becomes	0.25
+http:__aksw.org_n3_reuters-128_14	will reach	402	what one becomes	0.25
+http:__aksw.org_n3_reuters-128_12	gouinlock	110	george wallace gouinlock	0.25
+http:__aksw.org_n3_reuters-128_107	second city	1041	the second city	0.24982792
+http:__aksw.org_n3_reuters-128_69	cocoa	6	cocoa bean	0.24962273
+http:__aksw.org_n3_reuters-128_62	philips	3	philips	0.24919903
+http:__aksw.org_n3_reuters-128_123	gridlock	313	traffic congestion	0.24917103
+http:__aksw.org_n3_reuters-128_57	public relations	677	public relations	0.24854353
+http:__aksw.org_n3_reuters-128_30	melanomas	2037	melanoma	0.2484403
+http:__aksw.org_n3_reuters-128_46	underwrite	266	underwriting	0.24828929
+http:__aksw.org_n3_reuters-128_31	nuclear power station	147	nuclear power plant	0.24747118
+http:__aksw.org_n3_reuters-128_81	basis points	316	basis point	0.24744955
+http:__aksw.org_n3_reuters-128_106	polish economy	1390	economy of poland	0.24738684
+http:__aksw.org_n3_reuters-128_69	cocoa	6	cocoa bean	0.24720076
+http:__aksw.org_n3_reuters-128_113	reagans	2103	ronald reagan	0.24716853
+http:__aksw.org_n3_reuters-128_83	spain	114	spain	0.2469467
+http:__aksw.org_n3_reuters-128_8	cereal	1124	cereal	0.2465463
+http:__aksw.org_n3_reuters-128_54	degrees kelvin	144	kelvin	0.24621725
+http:__aksw.org_n3_reuters-128_33	sunflower	221	helianthus	0.24578309
+http:__aksw.org_n3_reuters-128_111	canada	366	canada	0.2454054
+http:__aksw.org_n3_reuters-128_77	securities	1330	security (finance)	0.24527515
+http:__aksw.org_n3_reuters-128_25	common shares	47	common stock	0.24524082
+http:__aksw.org_n3_reuters-128_112	shares	152	stock	0.24474351
+http:__aksw.org_n3_reuters-128_106	foreign debt	737	external debt	0.24422574
+http:__aksw.org_n3_reuters-128_126	treasury notes	255	government bond	0.24379832
+http:__aksw.org_n3_reuters-128_49	commodity chemicals	4049	commodity chemicals	0.24358974
+http:__aksw.org_n3_reuters-128_109	w.b	103	the wb	0.24342902
+http:__aksw.org_n3_reuters-128_25	alex. brown	156	alex. brown & sons	0.24338922
+http:__aksw.org_n3_reuters-128_22	paramus, n.j	267	paramus, new jersey	0.24298719
+http:__aksw.org_n3_reuters-128_66	government bonds	382	government bond	0.24298202
+http:__aksw.org_n3_reuters-128_61	litigation	615	lawsuit	0.2423124
+http:__aksw.org_n3_reuters-128_20	authorized shares	145	authorised capital	0.24219616
+http:__aksw.org_n3_reuters-128_127	u.s. district court	337	united states district court	0.24190444
+http:__aksw.org_n3_reuters-128_107	prime minister	87	prime minister of iraq	0.24118355
+http:__aksw.org_n3_reuters-128_82	economic sectors	926	economy	0.24107467
+http:__aksw.org_n3_reuters-128_19	vs 22	241	vs-22	0.24106666
+http:__aksw.org_n3_reuters-128_49	chemical industry	3303	chemical industry	0.24094927
+http:__aksw.org_n3_reuters-128_117	colorado	551	colorado	0.24056128
+http:__aksw.org_n3_reuters-128_22	key west, fla	603	key west, florida	0.23925978
+http:__aksw.org_n3_reuters-128_6	philadelphia	72	philadelphia 76ers	0.23925683
+http:__aksw.org_n3_reuters-128_40	readers digest	4	reader's digest	0.23859614
+http:__aksw.org_n3_reuters-128_32	atari corp	64	atari	0.23848556
+http:__aksw.org_n3_reuters-128_33	wheat	3366	wheat	0.23829563
+http:__aksw.org_n3_reuters-128_91	lire	119	italian lira	0.23760357
+http:__aksw.org_n3_reuters-128_70	securities market	48	capital market	0.23728323
+http:__aksw.org_n3_reuters-128_122	alex. brown	102	alex. brown & sons	0.23720543
+http:__aksw.org_n3_reuters-128_33	soybeans	2937	soybean	0.23694697
+http:__aksw.org_n3_reuters-128_82	liberalisation	796	liberalization	0.23667963
+http:__aksw.org_n3_reuters-128_118	devices	1864	computer hardware	0.23664287
+http:__aksw.org_n3_reuters-128_76	securities	104	security (finance)	0.23663896
+http:__aksw.org_n3_reuters-128_33	santa fe	1722	santa fe province	0.23650324
+http:__aksw.org_n3_reuters-128_1	original equipment manufacturers	64	original equipment manufacturer	0.2362845
+http:__aksw.org_n3_reuters-128_49	texas	4498	texas	0.23611718
+http:__aksw.org_n3_reuters-128_49	petrochemicals	4556	petrochemical	0.23583324
+http:__aksw.org_n3_reuters-128_86	supreme court	158	supreme court of the united states	0.23542067
+http:__aksw.org_n3_reuters-128_118	32-bit	665	32-bit	0.23540613
+http:__aksw.org_n3_reuters-128_69	cocoa	6	cocoa bean	0.2351853
+http:__aksw.org_n3_reuters-128_60	merrill lynch capital markets	150	merrill lynch	0.23515001
+http:__aksw.org_n3_reuters-128_94	dutch	1025	dutch language	0.23450103
+http:__aksw.org_n3_reuters-128_70	banking	267	bank regulation	0.23414259
+http:__aksw.org_n3_reuters-128_94	dutch finance minister	473	ministry of finance (netherlands)	0.23376998
+http:__aksw.org_n3_reuters-128_56	network management	363	network management	0.23353752
+http:__aksw.org_n3_reuters-128_94	privatise	614	privatization	0.2334871
+http:__aksw.org_n3_reuters-128_30	cancers	1997	cancer	0.23331127
+http:__aksw.org_n3_reuters-128_106	swedish	385	sweden	0.23309931
+http:__aksw.org_n3_reuters-128_113	semiconductor	2031	semiconductor	0.23294924
+http:__aksw.org_n3_reuters-128_41	dillon read	433	dillon, read & co.	0.2328382
+http:__aksw.org_n3_reuters-128_77	investment securities	1319	security (finance)	0.23275419
+http:__aksw.org_n3_reuters-128_60	underwriting	451	underwriting	0.23259066
+http:__aksw.org_n3_reuters-128_118	computer chips	63	integrated circuit	0.23251773
+http:__aksw.org_n3_reuters-128_18	acquisitions	308	mergers and acquisitions	0.23247027
+http:__aksw.org_n3_reuters-128_28	acquisition	71	mergers and acquisitions	0.23239267
+http:__aksw.org_n3_reuters-128_27	casino	205	casino	0.23191252
+http:__aksw.org_n3_reuters-128_54	american telephone and telegraph	0	at&t corporation	0.23124367
+http:__aksw.org_n3_reuters-128_2	leduc	16	history of the petroleum industry in canada	0.23123135
+http:__aksw.org_n3_reuters-128_105	chief compliance officer	62	chief compliance officer	0.23079135
+http:__aksw.org_n3_reuters-128_36	italian	597	kingdom of italy	0.23028679
+http:__aksw.org_n3_reuters-128_113	semiconductor	555	semiconductor	0.23026088
+http:__aksw.org_n3_reuters-128_25	company	191	corporation	0.2301257
+http:__aksw.org_n3_reuters-128_70	reserves	251	bank reserves	0.23005226
+http:__aksw.org_n3_reuters-128_25	inc	148	corporation	0.23002447
+http:__aksw.org_n3_reuters-128_49	chemical industry	1801	chemical industry	0.23000401
+http:__aksw.org_n3_reuters-128_46	public offering	111	public offering	0.2295651
+http:__aksw.org_n3_reuters-128_74	debentures	201	debenture	0.22938263
+http:__aksw.org_n3_reuters-128_74	debt	358	security (finance)	0.22912364
+http:__aksw.org_n3_reuters-128_31	nuclear power	873	nuclear power	0.22911182
+http:__aksw.org_n3_reuters-128_36	italian	843	kingdom of italy	0.22908899
+http:__aksw.org_n3_reuters-128_54	electricity	216	electricity	0.22883147
+http:__aksw.org_n3_reuters-128_49	petrochemical industry	128	petrochemical	0.22810936
+http:__aksw.org_n3_reuters-128_74	stock price	328	stock	0.22809246
+http:__aksw.org_n3_reuters-128_117	brighton	148	brighton, colorado	0.22795694
+http:__aksw.org_n3_reuters-128_118	digital communications	1901	data transmission	0.22791548
+http:__aksw.org_n3_reuters-128_118	device	1864	computer hardware	0.22775282
+http:__aksw.org_n3_reuters-128_70	trading	176	financial market	0.22763278
+http:__aksw.org_n3_reuters-128_25	corp	15	corporation	0.22721238
+http:__aksw.org_n3_reuters-128_36	paris	1076	paris	0.22697803
+http:__aksw.org_n3_reuters-128_124	savoie	30	savoie	0.22668993
+http:__aksw.org_n3_reuters-128_40	firm	114	corporation	0.22663489
+http:__aksw.org_n3_reuters-128_10	big board	356	new york stock exchange	0.22656122
+http:__aksw.org_n3_reuters-128_31	three mile island incident	2099	three mile island accident	0.22639617
+http:__aksw.org_n3_reuters-128_124	underground operations	914	underground mining (hard rock)	0.2263959
+http:__aksw.org_n3_reuters-128_44	ford motor co	0	ford motor company	0.22636196
+http:__aksw.org_n3_reuters-128_121	treasury notes	103	united states treasury security	0.22624119
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran inc	0	freeport-mcmoran	0.226225
+http:__aksw.org_n3_reuters-128_116	united states	862	united states	0.22592938
+http:__aksw.org_n3_reuters-128_40	inc	31	corporation	0.22587341
+http:__aksw.org_n3_reuters-128_110	new jersey	4	new jersey	0.22587277
+http:__aksw.org_n3_reuters-128_8	hectare	44	hectare	0.22585167
+http:__aksw.org_n3_reuters-128_33	la pampa	1225	la pampa province	0.22572237
+http:__aksw.org_n3_reuters-128_106	poland	488	polish people's republic	0.22557078
+http:__aksw.org_n3_reuters-128_82	reuters holdings	168	reuters	0.22554111
+http:__aksw.org_n3_reuters-128_61	litigation	881	lawsuit	0.225285
+http:__aksw.org_n3_reuters-128_51	cms	187	content management	0.22459805
+http:__aksw.org_n3_reuters-128_109	canada	11	canada	0.22459291
+http:__aksw.org_n3_reuters-128_18	debt	269	security (finance)	0.22455943
+http:__aksw.org_n3_reuters-128_28	trust	28	trust law	0.22434261
+http:__aksw.org_n3_reuters-128_22	c.s.c	234	computer sciences corporation	0.22434127
+http:__aksw.org_n3_reuters-128_66	regulation	433	financial regulation	0.22423117
+http:__aksw.org_n3_reuters-128_3	internal audit	122	internal audit	0.22417298
+http:__aksw.org_n3_reuters-128_61	injunction	545	injunction	0.22414766
+http:__aksw.org_n3_reuters-128_49	gulf coast	4504	gulf coast of the united states	0.22411889
+http:__aksw.org_n3_reuters-128_11	ecus	166	european currency unit	0.22386326
+http:__aksw.org_n3_reuters-128_118	computer chips	1013	integrated circuit	0.22377479
+http:__aksw.org_n3_reuters-128_43	pesos	283	philippine peso	0.22377042
+http:__aksw.org_n3_reuters-128_86	shad	40	john s.r. shad	0.22369796
+http:__aksw.org_n3_reuters-128_33	argentine	0	argentina	0.22338483
+http:__aksw.org_n3_reuters-128_40	corp	85	corporation	0.22306134
+http:__aksw.org_n3_reuters-128_74	coupon	126	coupon (bond)	0.22304752
+http:__aksw.org_n3_reuters-128_37	government securities	52	government debt	0.22291456
+http:__aksw.org_n3_reuters-128_40	disclosed	184	corporation	0.22283824
+http:__aksw.org_n3_reuters-128_82	telecommunications	818	telecommunication	0.22260123
+http:__aksw.org_n3_reuters-128_73	stock warrants	78	warrant (finance)	0.22235103
+http:__aksw.org_n3_reuters-128_66	securities regulation	65	financial regulation	0.22227949
+http:__aksw.org_n3_reuters-128_105	referendum	1133	united kingdom european union membership referendum, 2016	0.22227219
+http:__aksw.org_n3_reuters-128_45	cereal	337	cereal	0.22203144
+http:__aksw.org_n3_reuters-128_49	chemical industry	1801	chemical industry	0.22202384
+http:__aksw.org_n3_reuters-128_28	shares	137	stock	0.22169861
+http:__aksw.org_n3_reuters-128_124	copper	1587	copper	0.22139715
+http:__aksw.org_n3_reuters-128_82	competitive advantage	688	competitive advantage	0.22117841
+http:__aksw.org_n3_reuters-128_66	will	1114	will and testament	0.22091301
+http:__aksw.org_n3_reuters-128_26	underwriters	135	underwriting	0.22089255
+http:__aksw.org_n3_reuters-128_66	signed	1074	contract	0.22076209
+http:__aksw.org_n3_reuters-128_49	aluminum	4957	aluminium	0.22025815
+http:__aksw.org_n3_reuters-128_117	colorado	21	university of colorado boulder	0.22012573
+http:__aksw.org_n3_reuters-128_30	remission	1397	cure	0.2197088
+http:__aksw.org_n3_reuters-128_61	texas	513	texas	0.21968086
+http:__aksw.org_n3_reuters-128_126	basis points	227	basis point	0.21963054
+http:__aksw.org_n3_reuters-128_65	combination	24	british approved name	0.21961182
+http:__aksw.org_n3_reuters-128_72	first class	253	first class travel	0.21939012
+http:__aksw.org_n3_reuters-128_112	stockholders	336	shareholder	0.21879394
+http:__aksw.org_n3_reuters-128_91	sifi	1161	systemically important financial institution	0.21874386
+http:__aksw.org_n3_reuters-128_58	receivership	830	receivership	0.21852237
+http:__aksw.org_n3_reuters-128_28	realty	11	real property	0.21843815
+http:__aksw.org_n3_reuters-128_119	gec	25	general electric company plc	0.21841548
+http:__aksw.org_n3_reuters-128_49	oil companies	500	petroleum industry	0.21830334
+http:__aksw.org_n3_reuters-128_30	seattle, wash	421	seattle	0.21827129
+http:__aksw.org_n3_reuters-128_92	shareholders	573	shareholder	0.21803778
+http:__aksw.org_n3_reuters-128_51	tape backup	512	tape drive	0.21803215
+http:__aksw.org_n3_reuters-128_124	copper	136	copper	0.21755609
+http:__aksw.org_n3_reuters-128_65	heart	36	cardiovascular disease	0.21753016
+http:__aksw.org_n3_reuters-128_60	securities	201	security (finance)	0.21704419
+http:__aksw.org_n3_reuters-128_66	commodity futures	408	futures contract	0.21682376
+http:__aksw.org_n3_reuters-128_58	futures trader	745	futures contract	0.21669385
+http:__aksw.org_n3_reuters-128_63	mosaic	142	mosaic (web browser)	0.21661279
+http:__aksw.org_n3_reuters-128_117	denver	482	denver	0.21657479
+http:__aksw.org_n3_reuters-128_14	preference shares	812	preferred stock	0.2165563
+http:__aksw.org_n3_reuters-128_115	textile	104	textile	0.21644981
+http:__aksw.org_n3_reuters-128_57	lawsuit	182	lawsuit	0.21629049
+http:__aksw.org_n3_reuters-128_66	stocks, shares	363	stock	0.21602167
+http:__aksw.org_n3_reuters-128_30	substance	754	drug	0.21537997
+http:__aksw.org_n3_reuters-128_106	poland	20	polish people's republic	0.21513689
+http:__aksw.org_n3_reuters-128_66	case	1159	precedent	0.21508633
+http:__aksw.org_n3_reuters-128_25	underwriters	105	underwriting	0.21494055
+http:__aksw.org_n3_reuters-128_54	conduct electricity	208	electrical conductor	0.21488068
+http:__aksw.org_n3_reuters-128_89	exchange	104	stock exchange	0.2145626
+http:__aksw.org_n3_reuters-128_26	shares	50	stock	0.21444577
+http:__aksw.org_n3_reuters-128_24	subsidies	677	subsidy	0.21404788
+http:__aksw.org_n3_reuters-128_54	resistance	236	electrical resistance and conductance	0.2139253
+http:__aksw.org_n3_reuters-128_28	investors	18	investment	0.2137953
+http:__aksw.org_n3_reuters-128_27	spin off	285	corporate spin-off	0.21328035
+http:__aksw.org_n3_reuters-128_51	model 30	158	ibm system/360 model 30	0.2129319
+http:__aksw.org_n3_reuters-128_46	subordinated	175	subordinated debt	0.21275334
+http:__aksw.org_n3_reuters-128_100	equity investment	288	equity (finance)	0.21269941
+http:__aksw.org_n3_reuters-128_66	commodity	408	commodity market	0.21224928
+http:__aksw.org_n3_reuters-128_100	debt	204	security (finance)	0.21217123
+http:__aksw.org_n3_reuters-128_30	cancer treatment	889	chemotherapy	0.21213648
+http:__aksw.org_n3_reuters-128_34	dutch	0	dutch language	0.2118714
+http:__aksw.org_n3_reuters-128_66	london	990	london	0.21180236
+http:__aksw.org_n3_reuters-128_93	president reagan	59	ronald reagan	0.21161592
+http:__aksw.org_n3_reuters-128_18	debentures	157	debenture	0.21160764
+http:__aksw.org_n3_reuters-128_49	mothball	2761	reserve fleet	0.21131968
+http:__aksw.org_n3_reuters-128_66	holland	886	netherlands	0.21062043
+http:__aksw.org_n3_reuters-128_116	bonds	994	bond (finance)	0.2106171

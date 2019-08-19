@@ -1,0 +1,57 @@
+http:__aksw.org_n3_rss-500_99	larry lucchino	78	larry lucchino	1.0
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_97	pesky	0	johnny pesky	1.0
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_95	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_94	hiers	0	walter hiers	1.0
+http:__aksw.org_n3_rss-500_94	bordt	10	michael bordt	1.0
+http:__aksw.org_n3_rss-500_93	the associated press	40	associated press	1.0
+http:__aksw.org_n3_rss-500_93	rob pelinka	129	rob pelinka	1.0
+http:__aksw.org_n3_rss-500_91	boingo wireless	105	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_89	bobby valentine	124	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_88	raytheon co.	68	raytheon	1.0
+http:__aksw.org_n3_rss-500_87	starbucks	224	starbucks	1.0
+http:__aksw.org_n3_rss-500_87	maveron	187	maveron	1.0
+http:__aksw.org_n3_rss-500_87	howard schultz	242	howard schultz	1.0
+http:__aksw.org_n3_rss-500_82	bob anderson	91	bob anderson (fencer)	1.0
+http:__aksw.org_n3_rss-500_81	bluescope	255	bluescope	1.0
+http:__aksw.org_n3_rss-500_79	west virginia state university	30	west virginia state university	1.0
+http:__aksw.org_n3_rss-500_79	brian hemphill	0	brian hemphill	1.0
+http:__aksw.org_n3_rss-500_76	west virginia state university	30	west virginia state university	1.0
+http:__aksw.org_n3_rss-500_76	brian hemphill	0	brian hemphill	1.0
+http:__aksw.org_n3_rss-500_75	benner	0	steven a. benner	1.0
+http:__aksw.org_n3_rss-500_74	pq	78	quebec	1.0
+http:__aksw.org_n3_rss-500_74	benhabib	129	seyla benhabib	1.0
+http:__aksw.org_n3_rss-500_73	virgin australia	100	virgin australia	1.0
+http:__aksw.org_n3_rss-500_72	fork union military academy	49	fork union military academy	1.0
+http:__aksw.org_n3_rss-500_72	bazzie	0	alex bazzie	1.0
+http:__aksw.org_n3_rss-500_71	caltrans	34	california department of transportation	1.0
+http:__aksw.org_n3_rss-500_70	barclays	70	barclays	1.0
+http:__aksw.org_n3_rss-500_7	action news	74	action news	1.0
+http:__aksw.org_n3_rss-500_69	barclays	45	barclays	1.0
+http:__aksw.org_n3_rss-500_66	denver art museum	222	denver art museum	1.0
+http:__aksw.org_n3_rss-500_65	paul edwards	19	paul edwards (philosopher)	1.0
+http:__aksw.org_n3_rss-500_64	paul edwards	80	paul edwards (philosopher)	1.0
+http:__aksw.org_n3_rss-500_63	omar quintanilla	85	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_63	josh beckett	138	josh beckett	1.0
+http:__aksw.org_n3_rss-500_62	omar quintanilla	53	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_62	josh beckett	106	josh beckett	1.0
+http:__aksw.org_n3_rss-500_61	omar quintanilla	81	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_61	josh beckett	146	josh beckett	1.0
+http:__aksw.org_n3_rss-500_6	india	91	tamil nadu	1.0
+http:__aksw.org_n3_rss-500_59	bafetimbi gomis	11	bafétimbi gomis	1.0
+http:__aksw.org_n3_rss-500_56	victor conte	29	victor conte	1.0
+http:__aksw.org_n3_rss-500_50	islamabad	75	islamabad	1.0
+http:__aksw.org_n3_rss-500_50	associated press	0	associated press	1.0
+http:__aksw.org_n3_rss-500_499	melanie sloan	126	melanie sloan	1.0
+http:__aksw.org_n3_rss-500_498	mckain	103	jonathan mckain	1.0
+http:__aksw.org_n3_rss-500_497	chris jones	236	chris jones (basketball)	1.0
+http:__aksw.org_n3_rss-500_496	mayo clinic	0	mayo clinic	1.0
+http:__aksw.org_n3_rss-500_491	pleasant street	192	pleasant street (mbta station)	1.0
+http:__aksw.org_n3_rss-500_490	maruti	0	maruti suzuki	1.0
+http:__aksw.org_n3_rss-500_49	associated press	0	associated press	1.0
+http:__aksw.org_n3_rss-500_489	elie baup	45	élie baup	1.0
+http:__aksw.org_n3_rss-500_488	appalachian trail conservancy	90	appalachian trail conservancy	1.0
+http:__aksw.org_n3_rss-500_486	eric wedge	71	eric wedge	1.0
+http:__aksw.org_n3_rss-500_485	michigan supreme court	37	michigan supreme court	1.0
+http:__aksw.org_n3_rss-500_484	china daily	92	china daily	1.0

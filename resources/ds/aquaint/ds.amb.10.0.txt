@@ -1,0 +1,66 @@
+apw20000312_0050.htm	rodolfo garcia	69	rodolfo garcía	1.0
+apw20000312_0050.htm	national autonomous university of nicaragua	1211	national autonomous university of nicaragua	1.0
+apw20000303_0067.htm	green mountains	667	green mountains	1.0
+apw20000303_0067.htm	dallas-fort worth international airport	498	dallas/fort worth international airport	1.0
+apw20000303_0067.htm	cotulla	1477	cotulla, texas	1.0
+apw19990827_0137.htm	university research park	591	university city (charlotte neighborhood)	1.0
+apw19990827_0137.htm	first union	203	first union	1.0
+apw19990827_0137.htm	first union	1027	first union	1.0
+apw19990827_0137.htm	charlotte observer	532	the charlotte observer	1.0
+apw19990526_0131.htm	soldotna	340	soldotna, alaska	1.0
+apw19990526_0131.htm	kenai national wildlife refuge	285	kenai national wildlife refuge	1.0
+apw19990519_0141.htm	space telescope science institute	244	space telescope science institute	1.0
+apw19990120_0179.htm	beanie babies	96	beanie babies	1.0
+apw19981215_1083.htm	trittin	923	jürgen trittin	1.0
+apw19981215_1083.htm	trittin	1195	jürgen trittin	1.0
+apw19981215_1083.htm	tritten	1442	karla tritten	1.0
+apw19981215_1083.htm	switzerland	908	switzerland	1.0
+apw19981215_1083.htm	norbert otto	1110	norbert otto (politiker)	1.0
+apw19981215_1083.htm	juergen trittin	146	jürgen trittin	1.0
+apw19981215_1083.htm	erfurt	440	erfurt	1.0
+apw19981215_1083.htm	erfurt	1148	erfurt	1.0
+apw19981215_1083.htm	botswana	554	botswana	1.0
+apw19981215_1083.htm	africa	244	africa	1.0
+apw19981210_0433.htm	saddam hussein	154	saddam hussein	1.0
+apw19981210_0433.htm	khaddam	783	abdul halim khaddam	1.0
+apw19981210_0433.htm	khaddam	330	abdul halim khaddam	1.0
+apw19981210_0433.htm	khaddam	1097	abdul halim khaddam	1.0
+apw19981210_0433.htm	kamal kharrazi	1316	kamal kharazi	1.0
+apw19981210_0433.htm	hafez assad	1372	hafez al-assad	1.0
+apw19981210_0433.htm	abdul-halim khaddam	195	abdul halim khaddam	1.0
+apw19981130_0743.htm	jose maria aznar	610	josé maría aznar	1.0
+apw19981130_0743.htm	antonio guterres	348	antónio guterres	1.0
+apw19981120_1056.htm	truth and reconciliation commission	340	truth and reconciliation commission (south africa)	1.0
+apw19981120_1056.htm	p.w. botha	130	p. w. botha	1.0
+apw19981120_1056.htm	jan d'oliveira	222	jan d'oliveira	1.0
+apw19981119_0585.htm	nicolae ceausescu	945	nicolae ceaușescu	1.0
+apw19981119_0585.htm	apuseni mountains	1218	apuseni mountains	1.0
+apw19981113_0729.htm	benjamin netanyahu	575	benjamin netanyahu	1.0
+apw19981113_0500.htm	benjamin netanyahu	565	benjamin netanyahu	1.0
+apw19981109_1172.htm	wicb	895	wicb	1.0
+apw19981109_1172.htm	joel garner	908	joel garner	1.0
+apw19981109_1172.htm	courtney walsh	76	courtney walsh	1.0
+apw19981109_1172.htm	clive lloyd	877	clive lloyd	1.0
+apw19981109_1172.htm	caribbean news agency	152	caribbean news agency	1.0
+apw19981109_1172.htm	ali bacher	716	ali bacher	1.0
+apw19981109_1089.htm	wicb	890	wicb	1.0
+apw19981109_1089.htm	joel garner	903	joel garner	1.0
+apw19981109_1089.htm	clive lloyd	872	clive lloyd	1.0
+apw19981109_1089.htm	brian lara	292	brian lara	1.0
+apw19981109_1089.htm	ali bacher	711	ali bacher	1.0
+apw19981109_0464.htm	kamal kharrazi	237	kamal kharazi	1.0
+apw19981109_0464.htm	iran daily	175	iran (newspaper)	1.0
+apw19981109_0464.htm	international court of justice	56	international court of justice	1.0
+apw19981109_0464.htm	icj	478	international court of justice	1.0
+apw19981109_0440.htm	kamal kharrazi	234	kamal kharazi	1.0
+apw19981109_0440.htm	iran daily	175	iran (newspaper)	1.0
+apw19981109_0440.htm	international court of justice	56	international court of justice	1.0
+apw19981109_0440.htm	icj	475	international court of justice	1.0
+apw19981109_0152.htm	kamal kharrazi	270	kamal kharazi	1.0
+apw19981109_0152.htm	iran daily	211	iran (newspaper)	1.0
+apw19981109_0152.htm	international court of justice	92	international court of justice	1.0
+apw19981109_0152.htm	icj	511	international court of justice	1.0
+apw19981109_0140.htm	kamal kharrazi	264	kamal kharazi	1.0
+apw19981109_0140.htm	iran daily	205	iran (newspaper)	1.0
+apw19981109_0140.htm	international court of justice	86	international court of justice	1.0
+apw19981109_0140.htm	icj	505	international court of justice	1.0

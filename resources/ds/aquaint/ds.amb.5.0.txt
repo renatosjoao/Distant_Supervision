@@ -1,0 +1,33 @@
+apw20000312_0050.htm	rodolfo garcia	69	rodolfo garcía	1.0
+apw20000312_0050.htm	national autonomous university of nicaragua	1211	national autonomous university of nicaragua	1.0
+apw20000303_0067.htm	green mountains	667	green mountains	1.0
+apw20000303_0067.htm	dallas-fort worth international airport	498	dallas/fort worth international airport	1.0
+apw20000303_0067.htm	cotulla	1477	cotulla, texas	1.0
+apw19990827_0137.htm	university research park	591	university city (charlotte neighborhood)	1.0
+apw19990827_0137.htm	first union	203	first union	1.0
+apw19990827_0137.htm	first union	1027	first union	1.0
+apw19990827_0137.htm	charlotte observer	532	the charlotte observer	1.0
+apw19990526_0131.htm	soldotna	340	soldotna, alaska	1.0
+apw19990526_0131.htm	kenai national wildlife refuge	285	kenai national wildlife refuge	1.0
+apw19990519_0141.htm	space telescope science institute	244	space telescope science institute	1.0
+apw19990120_0179.htm	beanie babies	96	beanie babies	1.0
+apw19981215_1083.htm	trittin	923	jürgen trittin	1.0
+apw19981215_1083.htm	trittin	1195	jürgen trittin	1.0
+apw19981215_1083.htm	tritten	1442	karla tritten	1.0
+apw19981215_1083.htm	switzerland	908	switzerland	1.0
+apw19981215_1083.htm	norbert otto	1110	norbert otto (politiker)	1.0
+apw19981215_1083.htm	juergen trittin	146	jürgen trittin	1.0
+apw19981215_1083.htm	erfurt	440	erfurt	1.0
+apw19981215_1083.htm	erfurt	1148	erfurt	1.0
+apw19981215_1083.htm	botswana	554	botswana	1.0
+apw19981215_1083.htm	africa	244	africa	1.0
+apw19981210_0433.htm	saddam hussein	154	saddam hussein	1.0
+apw19981210_0433.htm	khaddam	783	abdul halim khaddam	1.0
+apw19981210_0433.htm	khaddam	330	abdul halim khaddam	1.0
+apw19981210_0433.htm	khaddam	1097	abdul halim khaddam	1.0
+apw19981210_0433.htm	kamal kharrazi	1316	kamal kharazi	1.0
+apw19981210_0433.htm	hafez assad	1372	hafez al-assad	1.0
+apw19981210_0433.htm	abdul-halim khaddam	195	abdul halim khaddam	1.0
+apw19981130_0743.htm	jose maria aznar	610	josé maría aznar	1.0
+apw19981130_0743.htm	antonio guterres	348	antónio guterres	1.0
+apw19981120_1056.htm	truth and reconciliation commission	340	truth and reconciliation commission (south africa)	1.0

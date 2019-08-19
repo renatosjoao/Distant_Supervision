@@ -1,0 +1,2192 @@
+-docstart- (zyklon-b%20(band)_0.txt)	dødheimsgard	228	dødheimsgard	1.0
+-docstart- (zero%20cipher_3.txt)	metal hammer	83	metal hammer	1.0
+-docstart- (zero%20cipher_3.txt)	kerrang	319	kerrang!	1.0
+-docstart- (zero%20cipher_3.txt)	hard rock hell	164	hard rock hell	1.0
+-docstart- (zero%20cipher_2.txt)	shikari	267	enter shikari	1.0
+-docstart- (zero%20cipher_2.txt)	knuckledust	168	knuckledust	1.0
+-docstart- (zero%20cipher_2.txt)	ken mcgrath	192	ken mcgrath	1.0
+-docstart- (x%20japan_3.txt)	t. m.	403	a. r. penck	1.0
+-docstart- (x%20japan_3.txt)	ajinomoto stadium	314	ajinomoto stadium	1.0
+-docstart- (x%20japan_2.txt)	sugizo	185	sugizo	1.0
+-docstart- (x%20japan_2.txt)	gackt	130	gackt	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	tim christensen	253	tim christensen	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	moahni moahna	816	moahni moahna	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	manticora	495	manticora (band)	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	lacrimosa	789	lacrimosa (band)	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	communic	662	communic	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	pyramaze	163	pyramaze	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	manticora	453	manticora (band)	1.0
+-docstart- (wuthering%20heights%20(band)_3.txt)	emily brontë	166	emily brontë	1.0
+-docstart- (wolfsbane%20(band)_0.txt)	cardiacs	203	cardiacs	1.0
+-docstart- (wolfmother_7.txt)	ian peres	137	ian peres	1.0
+-docstart- (wolfmother_7.txt)	aidan nemeth	89	wolfmother	1.0
+-docstart- (wolfmother_5.txt)	triple j	315	triple j	1.0
+-docstart- (wolfmother_3.txt)	binki shapiro	62	little joy	1.0
+-docstart- (wolfmother_3.txt)	banhart	44	devendra banhart	1.0
+-docstart- (wolfmother_0.txt)	heskett	104	ralph heskett	1.0
+-docstart- (wolfbrigade_0.txt)	anti cimex	37	anti cimex	1.0
+-docstart- (within%20temptation_3.txt)	kylesa	175	kylesa	1.0
+-docstart- (within%20temptation_2.txt)	roadrunner records	0	roadrunner records	1.0
+-docstart- (within%20temptation_1.txt)	de graaf	91	jeffrey de graaf	1.0
+-docstart- (within%20temptation_1.txt)	spierenburg	204	martijn spierenburg	1.0
+-docstart- (within%20temptation_0.txt)	van veen	102	kevin van veen	1.0
+-docstart- (within%20temptation_0.txt)	de graaf	246	edwin de graaf	1.0
+-docstart- (within%20temptation_0.txt)	martijn westerholt	170	martijn westerholt	1.0
+-docstart- (within%20temptation_0.txt)	leeflang	209	dennis leeflang	1.0
+-docstart- (winds%20(band)_1.txt)	dan swanö	106	dan swanö	1.0
+-docstart- (winds%20(band)_0.txt)	dimmu borgir	225	dimmu borgir	1.0
+-docstart- (windir_0.txt)	valfar	159	terje bakken	1.0
+-docstart- (widescreen%20mode_1.txt)	children of bodom	150	children of bodom	1.0
+-docstart- (widescreen%20mode_0.txt)	die krupps	223	die krupps	1.0
+-docstart- (whitesnake_9.txt)	whitesnake	173	whitesnake	1.0
+-docstart- (whitesnake_8.txt)	weta workshop	234	weta workshop	1.0
+-docstart- (whitesnake_7.txt)	tommy aldridge	117	tommy aldridge	1.0
+-docstart- (whitesnake_3.txt)	saints & sinners	154	saints & sinners (whitesnake album)	1.0
+-docstart- (whitesnake_10.txt)	whitesnake	188	whitesnake	1.0
+-docstart- (whitesnake_1.txt)	ian paice	139	ian paice	1.0
+-docstart- (whitesnake_1.txt)	david coverdale	5	david coverdale	1.0
+-docstart- (whitesnake_1.txt)	bernie marsden	123	bernie marsden	1.0
+-docstart- (whitesnake_0.txt)	knac	164	knac	1.0
+-docstart- (white%20spirit_0.txt)	janick gers	141	janick gers	1.0
+-docstart- (waysted_0.txt)	paul raymond	75	paul raymond (musician)	1.0
+-docstart- (waysted_0.txt)	paul chapman	232	paul chapman (musician)	1.0
+-docstart- (waysted_0.txt)	neil shepard	202	neil shepard	1.0
+-docstart- (waysted_0.txt)	motörhead	285	motörhead	1.0
+-docstart- (waysted_0.txt)	fastway	322	fastway (band)	1.0
+-docstart- (waysted_0.txt)	britny fox	52	britny fox	1.0
+-docstart- (wastefall_4.txt)	sleaszy rider records	77	sleaszy rider records	1.0
+-docstart- (wastefall_4.txt)	sensory records	120	sensory records	1.0
+-docstart- (wastefall_1.txt)	domenik	144	domenik hixon	1.0
+-docstart- (wastefall_0.txt)	tommy hansen	88	tommy hansen	1.0
+-docstart- (wastefall_0.txt)	jorn lande	118	jørn lande	1.0
+-docstart- (warmen_0.txt)	sinergy	212	sinergy	1.0
+-docstart- (warmen_0.txt)	sinergy	167	sinergy	1.0
+-docstart- (warmen_0.txt)	roope latvala	187	roope latvala	1.0
+-docstart- (warmen_0.txt)	jari kainulainen	255	jari kainulainen	1.0
+-docstart- (warlock%20(band)_4.txt)	megadeth	77	megadeth	1.0
+-docstart- (warlock%20(band)_4.txt)	lillian axe	208	lillian axe	1.0
+-docstart- (warlock%20(band)_4.txt)	fates warning	183	fates warning	1.0
+-docstart- (warlock%20(band)_2.txt)	maimarktgelände	77	mannheim may market	1.0
+-docstart- (warlock%20(band)_1.txt)	rudy graf	78	warlock (band)	1.0
+-docstart- (warlock%20(band)_1.txt)	doro pesch	38	doro (musician)	1.0
+-docstart- (war%20from%20a%20harlots%20mouth_0.txt)	lifeforce records	55	lifeforce records	1.0
+-docstart- (waltari_4.txt)	channel nordica	117	channel nordica	1.0
+-docstart- (waltari_3.txt)	channel nordica	129	channel nordica	1.0
+-docstart- (voyager%20(metal%20band)_1.txt)	eyefear	156	eyefear	1.0
+-docstart- (voyager%20(metal%20band)_1.txt)	canion	14	rod canion	1.0
+-docstart- (volbeat_1.txt)	michael denner	28	michael denner	1.0
+-docstart- (volbeat_0.txt)	volbeat	0	volbeat	1.0
+-docstart- (virus%20(band)_1.txt)	infernö	104	infernö	1.0
+-docstart- (virus%20(band)_1.txt)	beyond dawn	236	beyond dawn	1.0
+-docstart- (vintersorg_3.txt)	otyg	59	otyg	1.0
+-docstart- (vintersorg_3.txt)	havayoth	76	havayoth	1.0
+-docstart- (viking%20skull_0.txt)	fireball ministry	65	fireball ministry	1.0
+-docstart- (venom%20(band)_3.txt)	megadeth	261	megadeth	1.0
+-docstart- (ved%20buens%20ende_2.txt)	dimmu borgir	200	dimmu borgir	1.0
+-docstart- (ved%20buens%20ende_1.txt)	infernö	160	infernö	1.0
+-docstart- (ved%20buens%20ende_1.txt)	dødheimsgard	128	dødheimsgard	1.0
+-docstart- (ved%20buens%20ende_1.txt)	audiopain	232	audiopain	1.0
+-docstart- (vardis_1.txt)	steve zodiac	43	steve zodiac	1.0
+-docstart- (vardis_0.txt)	gary pearson	156	gary pearson (comedian)	1.0
+-docstart- (van%20canto_0.txt)	smolski	178	victor smolski	1.0
+-docstart- (van%20canto_0.txt)	boltendahl	292	chris boltendahl	1.0
+-docstart- (vallenbrosa_1.txt)	mustaine	96	dave mustaine	1.0
+-docstart- (vallenbrosa_1.txt)	megadeth	156	megadeth	1.0
+-docstart- (vallenbrosa_1.txt)	megadeth	108	megadeth	1.0
+-docstart- (vallenbrosa_0.txt)	vallenbrosa	0	vallenbrosa	1.0
+-docstart- (v8%20(band)_2.txt)	un paso mas en la batalla	44	un paso más en la batalla	1.0
+-docstart- (v8%20(band)_2.txt)	luchando por el metal	14	luchando por el metal	1.0
+-docstart- (v8%20(band)_2.txt)	homenaje	129	homenaje	1.0
+-docstart- (v8%20(band)_1.txt)	judas priest	26	judas priest	1.0
+-docstart- (v28_2.txt)	mike vanportfleet	131	mike vanportfleet	1.0
+-docstart- (v28_2.txt)	david galas	153	lycia (band)	1.0
+-docstart- (v28_2.txt)	coph nia	250	coph nia	1.0
+-docstart- (v28_1.txt)	nordvargr	203	nordvargr	1.0
+-docstart- (v28_1.txt)	negru voda	164	negru vodă, constanța	1.0
+-docstart- (v28_1.txt)	desiderii marginis	328	desiderii marginis	1.0
+-docstart- (v28_0.txt)	negru	159	valentin negru	1.0
+-docstart- (v28_0.txt)	mike vanportfleet	170	mike vanportfleet	1.0
+-docstart- (v%c3%aanus%20(band)_2.txt)	mid north	109	mid north	1.0
+-docstart- (v%c3%aanus%20(band)_0.txt)	teresina	38	teresina	1.0
+-docstart- (v%c3%aanus%20(band)_0.txt)	piauí	48	piauí	1.0
+-docstart- (uriah%20heep%20(band)_3.txt)	scandinavian peninsula	65	scandinavian peninsula	1.0
+-docstart- (uriah%20heep%20(band)_2.txt)	lanzon	137	phil lanzon	1.0
+-docstart- (ulver_9.txt)	whitebox	194	whitebox	1.0
+-docstart- (ulver_6.txt)	william blake	161	william blake	1.0
+-docstart- (ulver_5.txt)	kurstin	171	greg kurstin	1.0
+-docstart- (ulver_5.txt)	guapo	134	guapo (band)	1.0
+-docstart- (ulver_4.txt)	ulver	61	ulver	1.0
+-docstart- (ulver_4.txt)	lyckantropen	114	lyckantropen	1.0
+-docstart- (ulver_12.txt)	tomas thormodsæter haugen	375	samoth	1.0
+-docstart- (ulver_12.txt)	samoth	406	samoth	1.0
+-docstart- (ulver_12.txt)	perdition city	749	perdition city	1.0
+-docstart- (ulver_12.txt)	perdition city	622	perdition city	1.0
+-docstart- (ulver_12.txt)	kurstin	1189	greg kurstin	1.0
+-docstart- (ulver_12.txt)	jeff gauthier	804	jeff gauthier	1.0
+-docstart- (ulver_12.txt)	bård g. eithun	684	faust (musician)	1.0
+-docstart- (ulver_12.txt)	bergtatt	79	bergtatt – et eeventyr i 5 capitler	1.0
+-docstart- (ulver_11.txt)	perdition city	330	perdition city	1.0
+-docstart- (ulver_11.txt)	nattens madrigal	595	nattens madrigal	1.0
+-docstart- (ulver_11.txt)	knut magne valle	615	knut magne valle	1.0
+-docstart- (ulver_11.txt)	hugh steven james mingay	364	hugh mingay	1.0
+-docstart- (ulver_11.txt)	erik olivier lancelot	445	erik olivier lancelot	1.0
+-docstart- (ulver_11.txt)	bergtatt	578	bergtatt – et eeventyr i 5 capitler	1.0
+-docstart- (ulver_11.txt)	bergtatt	500	bergtatt – et eeventyr i 5 capitler	1.0
+-docstart- (ulver_11.txt)	bergtatt	416	bergtatt – et eeventyr i 5 capitler	1.0
+-docstart- (ufo%20(band)_5.txt)	pete way	34	pete way	1.0
+-docstart- (ufo%20(band)_4.txt)	savoy brown	79	savoy brown	1.0
+-docstart- (ufo%20(band)_3.txt)	chrysalis records	16	chrysalis records	1.0
+-docstart- (u.d.o._1.txt)	kaufmann	68	gerald kaufman	1.0
+-docstart- (turmion%20k%c3%a4til%c3%b6t_1.txt)	tolsa	86	arto tolsa	1.0
+-docstart- (turmion%20k%c3%a4til%c3%b6t_0.txt)	tolsa	68	arto tolsa	1.0
+-docstart- (turisas_1.txt)	olli vänskä	213	turisas	1.0
+-docstart- (turisas_1.txt)	jussi wickström	94	turisas	1.0
+-docstart- (tsjuder_0.txt)	christian svendsen	430	christian svendsen	1.0
+-docstart- (trust%20(band)_5.txt)	nicko mcbrain	499	nicko mcbrain	1.0
+-docstart- (trust%20(band)_5.txt)	nicko mcbrain	358	nicko mcbrain	1.0
+-docstart- (trust%20(band)_5.txt)	clive burr	695	clive burr	1.0
+-docstart- (trust%20(band)_5.txt)	clive burr	569	clive burr	1.0
+-docstart- (trust%20(band)_4.txt)	mcbrain	0	nicko mcbrain	1.0
+-docstart- (trust%20(band)_3.txt)	warsaw pact	60	warsaw pact	1.0
+-docstart- (trust%20(band)_2.txt)	ayatollah khomeini	159	ruhollah khomeini	1.0
+-docstart- (trust%20(band)_1.txt)	bonvoisin	46	bernie bonvoisin	1.0
+-docstart- (triptykon_0.txt)	celtic frost	107	celtic frost	1.0
+-docstart- (trilogy%20(band)_0.txt)	judas priest	341	judas priest	1.0
+-docstart- (trespass%20(band)_0.txt)	mark sutcliffe	0	mark sutcliffe	1.0
+-docstart- (trespass%20(band)_0.txt)	lynyrd skynyrd	97	lynyrd skynyrd	1.0
+-docstart- (trespass%20(band)_0.txt)	coverdale	145	david coverdale	1.0
+-docstart- (tourniquet%20(band)_3.txt)	ted kirkpatrick	326	ted kirkpatrick	1.0
+-docstart- (tourniquet%20(band)_3.txt)	ted kirkpatrick	135	ted kirkpatrick	1.0
+-docstart- (tourniquet%20(band)_1.txt)	megadeth	211	megadeth	1.0
+-docstart- (tourniquet%20(band)_1.txt)	marty friedman	183	marty friedman	1.0
+-docstart- (tortilla%20army_0.txt)	whitstable	116	whitstable	1.0
+-docstart- (tortilla%20army_0.txt)	tortilla army	0	tortilla army	1.0
+-docstart- (torch%20(band)_0.txt)	opeth	159	opeth	1.0
+-docstart- (tokyo%20blade_1.txt)	vic wright	0	vic wright	1.0
+-docstart- (tokyo%20blade_1.txt)	u. s.	151	united states	1.0
+-docstart- (to%2fdie%2ffor_2.txt)	pony canyon	184	pony canyon	1.0
+-docstart- (tiamat%20(band)_4.txt)	moonspell	71	moonspell	1.0
+-docstart- (tiamat%20(band)_4.txt)	kayo dot	57	kayo dot	1.0
+-docstart- (tiamat%20(band)_1.txt)	sorychta	17	waldemar sorychta	1.0
+-docstart- (tiamat%20(band)_1.txt)	moonspell	167	moonspell	1.0
+-docstart- (thyrfing_3.txt)	valdr galga	39	thyrfing	1.0
+-docstart- (thunderbolt%20(norwegian%20band)_0.txt)	black sabbath	124	black sabbath	1.0
+-docstart- (throne%20of%20chaos_0.txt)	niklas isfeldt	117	dream evil	1.0
+-docstart- (thou%20art%20lord_2.txt)	magus wampyr daoloth	64	magus wampyr daoloth	1.0
+-docstart- (thou%20art%20lord_2.txt)	george zaharopoulos	31	magus wampyr daoloth	1.0
+-docstart- (thou%20art%20lord_0.txt)	necromantia	95	necromantia	1.0
+-docstart- (thin%20lizzy_8.txt)	philomena lynott	96	philomena lynott	1.0
+-docstart- (thin%20lizzy_8.txt)	philip lynott	129	phil lynott	1.0
+-docstart- (thin%20lizzy_8.txt)	midge ure	297	midge ure	1.0
+-docstart- (thin%20lizzy_8.txt)	dave flett	166	dave flett	1.0
+-docstart- (thin%20lizzy_3.txt)	van morrison	2	van morrison	1.0
+-docstart- (thin%20lizzy_3.txt)	philip lynott	109	phil lynott	1.0
+-docstart- (thin%20lizzy_3.txt)	alan byrne	216	alan byrne (footballer, born 1969)	1.0
+-docstart- (thin%20lizzy_2.txt)	springsteen	250	bruce springsteen	1.0
+-docstart- (thin%20lizzy_2.txt)	lynott	82	phil lynott	1.0
+-docstart- (thin%20lizzy_2.txt)	john dougan	20	john dougan	1.0
+-docstart- (thin%20lizzy_15.txt)	judas priest	92	judas priest	1.0
+-docstart- (thin%20lizzy_12.txt)	scott gorham	8	scott gorham	1.0
+-docstart- (thin%20lizzy_12.txt)	marco mendoza	161	marco mendoza	1.0
+-docstart- (thin%20lizzy_12.txt)	darren wharton	87	darren wharton	1.0
+-docstart- (thin%20lizzy_10.txt)	roy z	112	roy z	1.0
+-docstart- (thin%20lizzy_10.txt)	mark dignam	222	mark dignam	1.0
+-docstart- (therion%20(band)_8.txt)	sitra ahra	290	sitra ahra (album)	1.0
+-docstart- (therion%20(band)_8.txt)	lepaca kliffoth	61	lepaca kliffoth	1.0
+-docstart- (therion%20(band)_4.txt)	camille saint-saëns	123	camille saint-saëns	1.0
+-docstart- (therion%20(band)_0.txt)	wawrzeniuk	77	piotr wawrzeniuk	1.0
+-docstart- (therion%20(band)_0.txt)	thomas vikstrom	41	thomas vikström	1.0
+-docstart- (therion%20(band)_0.txt)	mats leven	65	mats levén	1.0
+-docstart- (therion%20(band)_0.txt)	marcolin	131	dario marcolin	1.0
+-docstart- (therion%20(band)_0.txt)	doernberg	89	stefan doernberg	1.0
+-docstart- (therion%20(band)_0.txt)	arien	109	arien	1.0
+-docstart- (the%20supremacy_1.txt)	ayreon	113	ayreon	1.0
+-docstart- (the%20supremacy_1.txt)	akashic	183	akashic books	1.0
+-docstart- (the%20mark%20of%20cain%20(band)_1.txt)	rollins band	51	rollins band	1.0
+-docstart- (the%20lovecrave_0.txt)	amphi festival	223	amphi festival	1.0
+-docstart- (the%20haunted_4.txt)	graspop	82	graspop metal meeting	1.0
+-docstart- (the%20haunted_1.txt)	per möller jensen	121	per möller jensen	1.0
+-docstart- (the%20haunted_0.txt)	jonas björler	69	jonas björler	1.0
+-docstart- (the%20haunted_0.txt)	anders björler	111	anders björler	1.0
+-docstart- (the%20glasspack_2.txt)	riotgod	138	riotgod	1.0
+-docstart- (the%20glasspack_1.txt)	small stone records	45	small stone records	1.0
+-docstart- (the%20gathering%20(band)_8.txt)	celtic frost	177	celtic frost	1.0
+-docstart- (the%20gathering%20(band)_7.txt)	sziget	419	sighetu marmației	1.0
+-docstart- (the%20gathering%20(band)_7.txt)	psychonaut records	294	psychonaut records	1.0
+-docstart- (the%20gathering%20(band)_7.txt)	psychonaut records	247	psychonaut records	1.0
+-docstart- (the%20gathering%20(band)_7.txt)	green lizard	363	green lizard (band)	1.0
+-docstart- (the%20gathering%20(band)_7.txt)	budapest	436	budapest	1.0
+-docstart- (the%20gathering%20(band)_6.txt)	century media	60	century media records	1.0
+-docstart- (the%20gathering%20(band)_1.txt)	silje wergeland	25	silje wergeland	1.0
+-docstart- (the%20fading_2.txt)	sven de caluwé	200	aborted	1.0
+-docstart- (the%20fading_1.txt)	necrodeath	47	necrodeath	1.0
+-docstart- (the%20fading_1.txt)	ebony tears	34	ebony tears	1.0
+-docstart- (the%20damned%20things_0.txt)	trohman	181	joe trohman	1.0
+-docstart- (the%20butterfly%20effect%20(band)_2.txt)	megaforce records	99	megaforce records	1.0
+-docstart- (the%20beyond%20(band)_2.txt)	mudhoney	112	mudhoney	1.0
+-docstart- (the%20beyond%20(band)_1.txt)	xentrix	44	xentrix	1.0
+-docstart- (the%20beyond%20(band)_1.txt)	soundgarden	31	soundgarden	1.0
+-docstart- (the%20beyond%20(band)_0.txt)	dead kennedys	229	dead kennedys	1.0
+-docstart- (the%20arrow%20(band)_0.txt)	mavrin	155	sergey mavrin	1.0
+-docstart- (the%20arrow%20(band)_0.txt)	mavrin	147	sergey mavrin	1.0
+-docstart- (the%20arrow%20(band)_0.txt)	hansi kursch	43	hansi kürsch	1.0
+-docstart- (the%20arrow%20(band)_0.txt)	andrey fedorenko	104	andriy fedorenko	1.0
+-docstart- (the%20almighty%20punchdrunk_0.txt)	shane clark	113	3 inches of blood	1.0
+-docstart- (the%20almighty%20punchdrunk_0.txt)	punchdrunk	13	punchdrunk	1.0
+-docstart- (the%20almighty%20punchdrunk_0.txt)	hoglan	52	gene hoglan	1.0
+-docstart- (thanatoschizo_4.txt)	zweizz	179	zweizz	1.0
+-docstart- (thanatoschizo_4.txt)	tommy newton	63	tommy newton	1.0
+-docstart- (thanatoschizo_4.txt)	fleurety	187	fleurety	1.0
+-docstart- (thanatoschizo_3.txt)	corroios	135	corroios	1.0
+-docstart- (thanatoschizo_1.txt)	pandemia	118	pandemia	1.0
+-docstart- (thanatoschizo_1.txt)	asgaroth	108	asgaroth	1.0
+-docstart- (terrorust_0.txt)	gravetemple	99	gravetemple	1.0
+-docstart- (terrorust_0.txt)	csihar	89	attila csihar	1.0
+-docstart- (terror%20syndrome_0.txt)	van poederooyen	116	ryan van poederooyen	1.0
+-docstart- (tanzwut_0.txt)	ihr wolltet spass	109	ihr wolltet spass	1.0
+-docstart- (taint%20(band)_3.txt)	manchester arena	151	manchester arena	1.0
+-docstart- (taint%20(band)_1.txt)	johnny morrow	162	johnny mack morrow	1.0
+-docstart- (taint%20(band)_1.txt)	highbury	98	highbury	1.0
+-docstart- (taint%20(band)_0.txt)	spirit caravan	303	spirit caravan	1.0
+-docstart- (taint%20(band)_0.txt)	capdown	194	capdown	1.0
+-docstart- (taint%20(band)_0.txt)	avail	164	avail	1.0
+-docstart- (taint%20(band)_0.txt)	acrimony	154	acrimony	1.0
+-docstart- (tad%20morose_2.txt)	danne	295	philipp danne	1.0
+-docstart- (tad%20morose_1.txt)	christer	36	christer pettersson	1.0
+-docstart- (tad%20morose_0.txt)	joe comeau	85	joe comeau	1.0
+-docstart- (tnt%20(band)_3.txt)	kenneth odiin	103	morten skogstad	1.0
+-docstart- (tnt%20(band)_1.txt)	steinar eikum	31	steinar eikum	1.0
+-docstart- (tnt%20(band)_1.txt)	skaget	15	morten skaget	1.0
+-docstart- (tnt%20(band)_0.txt)	ronni le tekrø	123	ronni le tekrø	1.0
+-docstart- (tnt%20(band)_0.txt)	eikum	147	steinar eikum	1.0
+-docstart- (t%c3%bdr%20(band)_0.txt)	moonsorrow	67	moonsorrow	1.0
+-docstart- (t%c3%bdr%20(band)_0.txt)	korpiklaani	82	korpiklaani	1.0
+-docstart- (t%c3%bdr%20(band)_0.txt)	eluveitie	33	eluveitie	1.0
+-docstart- (system%20divide_6.txt)	soilwork	137	soilwork	1.0
+-docstart- (system%20divide_6.txt)	arch enemy	181	arch enemy	1.0
+-docstart- (system%20divide_1.txt)	sven de caluwé	53	aborted	1.0
+-docstart- (system%20divide_0.txt)	sven de caluwé	73	aborted	1.0
+-docstart- (sylosis_1.txt)	soilwork	110	soilwork	1.0
+-docstart- (sylosis_1.txt)	sepultura	59	sepultura	1.0
+-docstart- (sylosis_1.txt)	opeth	123	opeth	1.0
+-docstart- (susperia_3.txt)	mathiesen	31	jørgen mathiesen	1.0
+-docstart- (susperia_1.txt)	vanaheim	165	vanaheimr	1.0
+-docstart- (susperia_1.txt)	tjodalv	37	tjodalv	1.0
+-docstart- (susperia_1.txt)	memnock	138	memnock	1.0
+-docstart- (susperia_0.txt)	tjodalv	32	tjodalv	1.0
+-docstart- (susperia_0.txt)	dimmu borgir	41	dimmu borgir	1.0
+-docstart- (superbutt_0.txt)	superbutt	0	superbutt	1.0
+-docstart- (superbutt_0.txt)	rollins band	174	rollins band	1.0
+-docstart- (superbutt_0.txt)	mucky pup	160	mucky pup	1.0
+-docstart- (suidakra_1.txt)	auld lang syne	45	auld lang syne	1.0
+-docstart- (subway%20to%20sally_1.txt)	wasser	110	water	1.0
+-docstart- (subtruck_0.txt)	mark of cain	120	mark of cain (novel)	1.0
+-docstart- (sturmgeist_8.txt)	meister mephisto	11	meister mephisto	1.0
+-docstart- (sturmgeist_7.txt)	scariot	164	scariot	1.0
+-docstart- (sturmgeist_7.txt)	ihsahn	141	ihsahn	1.0
+-docstart- (stormwitch_1.txt)	budapest	216	budapest	1.0
+-docstart- (stone%20(band)_2.txt)	sinergy	72	sinergy	1.0
+-docstart- (stone%20(band)_2.txt)	airdash	3	airdash	1.0
+-docstart- (stigmata%20(band)_0.txt)	judas priest	224	judas priest	1.0
+-docstart- (steeler%20(german%20band)_1.txt)	rulin	31	olesya rulin	1.0
+-docstart- (starry%20wisdom%20cult_1.txt)	soundgarden	103	soundgarden	1.0
+-docstart- (stampin%20ground_2.txt)	ian glasper	290	ian glasper	1.0
+-docstart- (stampin%20ground_1.txt)	arch enemy	111	arch enemy	1.0
+-docstart- (stampin%20ground_1.txt)	agnostic front	70	agnostic front	1.0
+-docstart- (soulrelic_0.txt)	hanttu	59	aksu hanttu	1.0
+-docstart- (soulrelic_0.txt)	finnvox studios	110	finnvox studios	1.0
+-docstart- (soulfly_9.txt)	s. o. d.	394	stormtroopers of death	1.0
+-docstart- (soulfly_9.txt)	max cavalera	0	max cavalera	1.0
+-docstart- (soulfly_7.txt)	joe nunez	63	soulfly	1.0
+-docstart- (soulfly_7.txt)	ellefson	110	david ellefson	1.0
+-docstart- (soulfly_7.txt)	coyote	190	peter coyote	1.0
+-docstart- (soulfly_7.txt)	cavalera	46	max cavalera	1.0
+-docstart- (soulfly_7.txt)	bobby burns	78	bobby burns	1.0
+-docstart- (soulfly_5.txt)	sepultura	18	sepultura	1.0
+-docstart- (soulfly_2.txt)	grady avenell	148	grady avenell	1.0
+-docstart- (soulfly_10.txt)	morbid angel	73	morbid angel	1.0
+-docstart- (soulfly_1.txt)	megadeth	65	megadeth	1.0
+-docstart- (soulfly_0.txt)	skindred	236	skindred	1.0
+-docstart- (soulfly_0.txt)	limp bizkit	138	limp bizkit	1.0
+-docstart- (soulfly_0.txt)	fear factory	99	fear factory	1.0
+-docstart- (soulfly_0.txt)	eric bobo	246	eric "bobo" correa	1.0
+-docstart- (soulfly_0.txt)	chico science & nação zumbi	319	nação zumbi	1.0
+-docstart- (soulfly_0.txt)	benji webbe	173	benji webbe	1.0
+-docstart- (sonata%20arctica_6.txt)	takatalvi	596	takatalvi	1.0
+-docstart- (sonata%20arctica_6.txt)	takatalvi	555	takatalvi	1.0
+-docstart- (sonata%20arctica_6.txt)	takatalvi	259	takatalvi	1.0
+-docstart- (sonata%20arctica_6.txt)	malmsteen	720	yngwie malmsteen	1.0
+-docstart- (sonata%20arctica_6.txt)	jani liimatainen	1320	jani liimatainen	1.0
+-docstart- (sonata%20arctica_4.txt)	mikko härkin	164	mikko härkin	1.0
+-docstart- (soilwork_0.txt)	soilwork	198	soilwork	1.0
+-docstart- (soilwork_0.txt)	soilwork	150	soilwork	1.0
+-docstart- (sodom%20(band)_2.txt)	mekong delta	370	mekong delta (band)	1.0
+-docstart- (sodom%20(band)_2.txt)	house of spirits	390	house of spirits (tv series)	1.0
+-docstart- (sodom%20(band)_1.txt)	thomas such	39	tom angelripper	1.0
+-docstart- (sodom%20(band)_1.txt)	onkel tom	52	tom angelripper	1.0
+-docstart- (sodom%20(band)_1.txt)	desperados	77	dallas desperados	1.0
+-docstart- (slechtvalk_1.txt)	slechtvalk	14	slechtvalk	1.0
+-docstart- (slechtvalk_0.txt)	kekal	150	kekal	1.0
+-docstart- (slechtvalk_0.txt)	eluveitie	113	eluveitie	1.0
+-docstart- (skyclad%20(band)_13.txt)	paul smith	58	paul smith (footballer, born 1971)	1.0
+-docstart- (skyclad%20(band)_13.txt)	dave ray	84	dave "snaker" ray	1.0
+-docstart- (skyclad%20(band)_12.txt)	sabbat	114	shabbat	1.0
+-docstart- (skyclad%20(band)_12.txt)	jay graham	17	jay graham	1.0
+-docstart- (skyclad%20(band)_12.txt)	dave moore	230	dave moore (american football)	1.0
+-docstart- (skyclad%20(band)_0.txt)	walkyier	70	martin walkyier	1.0
+-docstart- (skyclad%20(band)_0.txt)	walkyier	120	martin walkyier	1.0
+-docstart- (skyclad%20(band)_0.txt)	andy sneap	173	andy sneap	1.0
+-docstart- (sinawe_0.txt)	shin jung-hyeon	35	shin jung-hyeon	1.0
+-docstart- (sikth_1.txt)	pj harvey	146	pj harvey	1.0
+-docstart- (sikth_1.txt)	fuji rock festival	106	fuji rock festival	1.0
+-docstart- (sigh%20(band)_0.txt)	euronymous	23	euronymous	1.0
+-docstart- (sigh%20(band)_0.txt)	euronymous	179	euronymous	1.0
+-docstart- (siegfried%20(band)_0.txt)	schleret	208	sandra schleret	1.0
+-docstart- (shotgun%20messiah_2.txt)	kmfdm	165	kmfdm	1.0
+-docstart- (shotgun%20messiah_0.txt)	tim skold	177	tim sköld	1.0
+-docstart- (shadowkeep_8.txt)	judas priest	342	judas priest	1.0
+-docstart- (shadowkeep_6.txt)	shadowkeep	504	shadowkeep	1.0
+-docstart- (shadowkeep_6.txt)	shadowkeep	45	shadowkeep	1.0
+-docstart- (shadowkeep_6.txt)	richie wicks	486	shadowkeep	1.0
+-docstart- (shadowkeep_6.txt)	richie wicks	14	shadowkeep	1.0
+-docstart- (shadowkeep_5.txt)	shadowkeep	751	shadowkeep	1.0
+-docstart- (shadowkeep_5.txt)	ronnie stixx	374	vicious rumors	1.0
+-docstart- (shadowkeep_5.txt)	richie wicks	252	shadowkeep	1.0
+-docstart- (shadowkeep_5.txt)	knac	0	knac	1.0
+-docstart- (shadowkeep_5.txt)	brave words & bloody knuckles	1002	brave words & bloody knuckles	1.0
+-docstart- (shadowkeep_4.txt)	scott higham	180	pendragon (band)	1.0
+-docstart- (shadowkeep_4.txt)	scott higham	1723	pendragon (band)	1.0
+-docstart- (shadowkeep_4.txt)	russell king	68	russell king (politician)	1.0
+-docstart- (shadowkeep_4.txt)	pendragon	2131	pendragon (band)	1.0
+-docstart- (shadowkeep_4.txt)	pendragon	2066	pendragon (band)	1.0
+-docstart- (shadowkeep_4.txt)	mike pittman	729	michael pittman	1.0
+-docstart- (shadowkeep_4.txt)	mike pittman	612	michael pittman	1.0
+-docstart- (shadowkeep_4.txt)	mike pittman	1483	michael pittman	1.0
+-docstart- (shadowkeep_4.txt)	lawrence paterson	1055	shadowkeep	1.0
+-docstart- (shadowkeep_4.txt)	encyclopedia metallum	1421	encyclopaedia metallum	1.0
+-docstart- (shadowkeep_4.txt)	dave edwards	135	david edwards (footballer)	1.0
+-docstart- (shadowkeep_3.txt)	steve scott	610	shadowkeep	1.0
+-docstart- (shadowkeep_3.txt)	steve scott	486	shadowkeep	1.0
+-docstart- (shadowkeep_3.txt)	shadowkeep	572	shadowkeep	1.0
+-docstart- (shadowkeep_3.txt)	shadowkeep	0	shadowkeep	1.0
+-docstart- (shadowkeep_3.txt)	scott higham	633	pendragon (band)	1.0
+-docstart- (shadowkeep_3.txt)	jim daley	240	jim daley	1.0
+-docstart- (shadowkeep_3.txt)	brave words & bloody knuckles	1142	brave words & bloody knuckles	1.0
+-docstart- (shadowkeep_2.txt)	den of iniquity	382	den of iniquity	1.0
+-docstart- (shadowkeep_2.txt)	brave words & bloody knuckles	951	brave words & bloody knuckles	1.0
+-docstart- (shadowkeep_10.txt)	scott higham	52	pendragon (band)	1.0
+-docstart- (shadowkeep_10.txt)	russell king	8	russell king (politician)	1.0
+-docstart- (shadowkeep_10.txt)	mike pittman	288	michael pittman	1.0
+-docstart- (shadowkeep_10.txt)	mike pittman	122	michael pittman	1.0
+-docstart- (shadowkeep_10.txt)	michael pittman	247	michael pittman	1.0
+-docstart- (shadowkeep_10.txt)	dave edwards	30	david edwards (footballer)	1.0
+-docstart- (shadowkeep_1.txt)	elysée montmartre	333	élysée montmartre	1.0
+-docstart- (shadowkeep_1.txt)	camden underworld	733	camden underworld	1.0
+-docstart- (shadowkeep_0.txt)	rogue marechal	252	shadowkeep	1.0
+-docstart- (sex%20machineguns_2.txt)	yoshikazu yahiro	285	yoshikazu yahiro	1.0
+-docstart- (sex%20machineguns_2.txt)	koji ueno	459	kōji ueno	1.0
+-docstart- (sentenced_0.txt)	sorychta	174	waldemar sorychta	1.0
+-docstart- (sentenced_0.txt)	laihiala	21	ville laihiala	1.0
+-docstart- (selfmindead_2.txt)	sony music	125	sony music	1.0
+-docstart- (seikima-ii_0.txt)	luke takamura	74	luke takamura	1.0
+-docstart- (seikima-ii_0.txt)	hashi	56	takaya hashi	1.0
+-docstart- (scum%20(band)_2.txt)	tomas thormodsæter haugen	33	samoth	1.0
+-docstart- (scum%20(band)_1.txt)	aborym	51	aborym	1.0
+-docstart- (scum%20(band)_0.txt)	samoth	10	samoth	1.0
+-docstart- (scarve_1.txt)	luminiferous	100	luminiferous	1.0
+-docstart- (scarve_0.txt)	soilwork	110	soilwork	1.0
+-docstart- (saxon%20(band)_0.txt)	megadeth	102	megadeth	1.0
+-docstart- (savage%20messiah%20(band)_0.txt)	candlelight records	39	candlelight records	1.0
+-docstart- (satan%20(band)_1.txt)	walkyier	72	martin walkyier	1.0
+-docstart- (satan%20(band)_0.txt)	atomkraft	230	nuclear power	1.0
+-docstart- (sandalinas_3.txt)	sandalinas	19	sandalinas	1.0
+-docstart- (sandalinas_3.txt)	malmsteen	47	yngwie malmsteen	1.0
+-docstart- (sandalinas_1.txt)	massacre records	96	massacre records	1.0
+-docstart- (samsas%20traum_1.txt)	toten hosen	93	die toten hosen	1.0
+-docstart- (samsas%20traum_0.txt)	ingo römling	131	ingo römling	1.0
+-docstart- (samael%20(band)_3.txt)	vorph	239	michael locher	1.0
+-docstart- (samael%20(band)_1.txt)	mtv	135	mtv	1.0
+-docstart- (samael%20(band)_0.txt)	osmose productions	53	osmose productions	1.0
+-docstart- (samael%20(band)_0.txt)	century media records	88	century media records	1.0
+-docstart- (sakkuth_0.txt)	logan city	121	logan city	1.0
+-docstart- (sacrilege%20(band)_2.txt)	paul morrisey	177	paul morrissey	1.0
+-docstart- (sacrilege%20(band)_2.txt)	marshall law	362	marshall law (tekken)	1.0
+-docstart- (sacrilege%20(band)_2.txt)	liam pickering	218	liam pickering	1.0
+-docstart- (sacrilege%20(band)_2.txt)	andrew baker	261	andrew baker	1.0
+-docstart- (sacrilege%20(band)_2.txt)	agincourt	338	battle of agincourt	1.0
+-docstart- (sacrilege%20(band)_1.txt)	damian thompson	62	damian thompson	1.0
+-docstart- (sacred%20sin_1.txt)	manowar	87	manowar	1.0
+-docstart- (rush%20(band)_8.txt)	manohla dargis	281	manohla dargis	1.0
+-docstart- (rush%20(band)_4.txt)	rockfield studios	153	rockfield studios	1.0
+-docstart- (rush%20(band)_16.txt)	caress of steel	52	caress of steel	1.0
+-docstart- (rush%20(band)_14.txt)	judas priest	78	judas priest	1.0
+-docstart- (rush%20(band)_11.txt)	alex lifeson	104	alex lifeson	1.0
+-docstart- (ruoska_4.txt)	lihaa vasten lihaa	245	rabies (ruoska album)	1.0
+-docstart- (ruoska_0.txt)	ruoska	0	ruoska	1.0
+-docstart- (running%20wild%20(band)_3.txt)	jörg michael	87	jörg michael	1.0
+-docstart- (running%20wild%20(band)_3.txt)	ian finlay	36	ian finlay	1.0
+-docstart- (running%20wild%20(band)_2.txt)	wolfgang hagemann	37	wolfgang hagemann	1.0
+-docstart- (royal%20hunt_0.txt)	broken hearts	22	broken hearts	1.0
+-docstart- (rose%20tattoo_9.txt)	mick cocks	383	mick cocks	1.0
+-docstart- (rose%20tattoo_9.txt)	mick cocks	160	mick cocks	1.0
+-docstart- (rose%20tattoo_9.txt)	ian rilen	313	ian rilen	1.0
+-docstart- (rose%20tattoo_7.txt)	rilen	372	ian rilen	1.0
+-docstart- (rose%20tattoo_5.txt)	zz top	495	zz top	1.0
+-docstart- (rose%20tattoo_5.txt)	robin riley	344	rose tattoo	1.0
+-docstart- (rose%20tattoo_4.txt)	loyde	452	lobby loyde	1.0
+-docstart- (rose%20tattoo_11.txt)	steve king	780	steve king	1.0
+-docstart- (rose%20tattoo_11.txt)	steve balbi	520	steve balbi	1.0
+-docstart- (rose%20tattoo_11.txt)	scott johnston	389	scott johnston	1.0
+-docstart- (rose%20tattoo_11.txt)	john meyer	484	john meyer (american football)	1.0
+-docstart- (rose%20tattoo_11.txt)	greg jordan	441	greg jordan	1.0
+-docstart- (rose%20tattoo_11.txt)	chris turner	312	chris turner (footballer, born 1958)	1.0
+-docstart- (rose%20tattoo_1.txt)	royall	257	janet royall, baroness royall of blaisdon	1.0
+-docstart- (rose%20tattoo_1.txt)	chequers	489	chequers	1.0
+-docstart- (rose%20tattoo_1.txt)	angry anderson	220	angry anderson	1.0
+-docstart- (rose%20tattoo_0.txt)	rilen	132	ian rilen	1.0
+-docstart- (rockbitch_0.txt)	rockbitch	0	rockbitch	1.0
+-docstart- (roadstar_0.txt)	nickelback	139	nickelback	1.0
+-docstart- (riverside%20(band)_0.txt)	opeth	156	opeth	1.0
+-docstart- (rise%20to%20addiction_0.txt)	steve wray	107	steve wray	1.0
+-docstart- (riddare%20av%20koden_0.txt)	sepultura	123	sepultura	1.0
+-docstart- (riddare%20av%20koden_0.txt)	kalmah	78	kalmah	1.0
+-docstart- (riblja%20%c4%8corba_9.txt)	đorđe balašević	93	đorđe balašević	1.0
+-docstart- (riblja%20%c4%8corba_9.txt)	cathedral of saint sava	64	church of saint sava	1.0
+-docstart- (riblja%20%c4%8corba_8.txt)	monkees	154	the monkees	1.0
+-docstart- (riblja%20%c4%8corba_5.txt)	zaire	126	zaire	1.0
+-docstart- (riblja%20%c4%8corba_4.txt)	riblja čorba	158	riblja čorba	1.0
+-docstart- (riblja%20%c4%8corba_4.txt)	porodična manufaktura crnog hleba	60	porodična manufaktura crnog hleba	1.0
+-docstart- (riblja%20%c4%8corba_4.txt)	jugoslav vlahović	101	jugoslav vlahović	1.0
+-docstart- (riblja%20%c4%8corba_20.txt)	bezobrazno zeleno	151	bezobrazno zeleno	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	suncokret	30	suncokret	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	rani mraz	44	rani mraz	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	rajko kojić	201	rajko kojić	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	miša aleksić	132	miša aleksić	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	milatović	179	vicko milatović	1.0
+-docstart- (riblja%20%c4%8corba_2.txt)	bora đorđević	61	bora đorđević	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	željko bebek	201	željko bebek	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	đorđe marjanović	66	đorđe marjanović	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	ukraden	84	neda ukraden	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	rajko kojić	93	rajko kojić	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	prljavi inspektor blaža	238	prljavi inspektor blaža i kljunovi	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	poslednja igra leptira	151	poslednja igra leptira	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	oliver mandić	122	oliver mandić	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	dušan prelević	106	dušan prelević	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	ceca ražnatović	215	ceca (singer)	1.0
+-docstart- (riblja%20%c4%8corba_19.txt)	baja mali knindža	274	baja mali knindža	1.0
+-docstart- (riblja%20%c4%8corba_18.txt)	predin	118	zoran predin	1.0
+-docstart- (riblja%20%c4%8corba_18.txt)	dejan cukić	151	dejan cukić	1.0
+-docstart- (riblja%20%c4%8corba_18.txt)	biljana krstić	135	bilja krstić	1.0
+-docstart- (riblja%20%c4%8corba_17.txt)	terazije theatre	46	terazije theatre	1.0
+-docstart- (riblja%20%c4%8corba_17.txt)	arsen dedić	31	arsen dedić	1.0
+-docstart- (riblja%20%c4%8corba_16.txt)	slobodan milošević	173	slobodan milošević	1.0
+-docstart- (riblja%20%c4%8corba_16.txt)	mirjana marković	196	mirjana marković	1.0
+-docstart- (riblja%20%c4%8corba_16.txt)	bora đorđević	0	bora đorđević	1.0
+-docstart- (riblja%20%c4%8corba_15.txt)	zvonimir đukić	188	van gogh (band)	1.0
+-docstart- (riblja%20%c4%8corba_15.txt)	samo sloga srbina spašava	115	only unity saves the serbs	1.0
+-docstart- (riblja%20%c4%8corba_15.txt)	nele karajlić	234	nele karajlić	1.0
+-docstart- (riblja%20%c4%8corba_15.txt)	dejan cukić	157	dejan cukić	1.0
+-docstart- (riblja%20%c4%8corba_14.txt)	slobodan milošević	98	slobodan milošević	1.0
+-docstart- (riblja%20%c4%8corba_14.txt)	riblja čorba	154	riblja čorba	1.0
+-docstart- (riblja%20%c4%8corba_13.txt)	jura stublić	114	jura stublić	1.0
+-docstart- (riblja%20%c4%8corba_11.txt)	riblja čorba	201	riblja čorba	1.0
+-docstart- (riblja%20%c4%8corba_1.txt)	vicko milatović	83	vicko milatović	1.0
+-docstart- (riblja%20%c4%8corba_1.txt)	rajko kojić	21	rajko kojić	1.0
+-docstart- (riblja%20%c4%8corba_1.txt)	momčilo bajagić	34	momčilo bajagić	1.0
+-docstart- (riblja%20%c4%8corba_1.txt)	miša aleksić	66	miša aleksić	1.0
+-docstart- (reverend%20(band)_0.txt)	leatherwolf	308	leatherwolf	1.0
+-docstart- (remove%20silence_0.txt)	hugo mariutti	94	hugo mariutti	1.0
+-docstart- (rekuiem_2.txt)	somapala	80	chitral somapala	1.0
+-docstart- (rekuiem_2.txt)	red circuit	261	red circuit	1.0
+-docstart- (rekuiem_2.txt)	paul parry	28	paul parry	1.0
+-docstart- (rekuiem_1.txt)	paul parry	108	paul parry	1.0
+-docstart- (rekuiem_0.txt)	jameson raid	107	jameson raid	1.0
+-docstart- (regurgitate%20(band)_1.txt)	nifelheim	137	nifelheim	1.0
+-docstart- (regurgitate%20(band)_1.txt)	murder squad	117	murder investigation team	1.0
+-docstart- (regurgitate%20(band)_1.txt)	krux	131	krux	1.0
+-docstart- (red%20warszawa_0.txt)	red warszawa	6	red warszawa	1.0
+-docstart- (red%20harvest%20(band)_3.txt)	gloria mundi	153	gloria mundi	1.0
+-docstart- (red%20harvest%20(band)_2.txt)	internal punishment programs	29	internal punishment programs	1.0
+-docstart- (red%20harvest%20(band)_2.txt)	darkthrone	262	darkthrone	1.0
+-docstart- (red%20harvest%20(band)_1.txt)	mtv	248	mtv	1.0
+-docstart- (razorback%20(band)_1.txt)	juan de la cruz band	94	juan de la cruz band	1.0
+-docstart- (ravens%20creed_0.txt)	jay graham	190	jay graham	1.0
+-docstart- (raven%20(band)_2.txt)	combat records	70	combat records	1.0
+-docstart- (raven%20(band)_0.txt)	megaforce records	83	megaforce records	1.0
+-docstart- (raunchy%20(band)_0.txt)	volbeat	247	volbeat	1.0
+-docstart- (raunchy%20(band)_0.txt)	ill nino	116	ill niño	1.0
+-docstart- (ratt_8.txt)	michael schenker group	147	michael schenker group	1.0
+-docstart- (ratt_6.txt)	megadeth	212	megadeth	1.0
+-docstart- (ratt_4.txt)	mtv	32	mtv	1.0
+-docstart- (ratt_3.txt)	judas priest	158	judas priest	1.0
+-docstart- (ratt_2.txt)	thorr	81	thor	1.0
+-docstart- (ratt_2.txt)	mike new	119	mike new	1.0
+-docstart- (rata%20blanca_2.txt)	el reino olvidado	269	el reino olvidado	1.0
+-docstart- (rata%20blanca_1.txt)	guillermo sánchez	120	guillermo sánchez	1.0
+-docstart- (rata%20blanca_1.txt)	giardino	20	walter giardino	1.0
+-docstart- (rata%20blanca_1.txt)	fernando scarcella	173	fernando scarcella	1.0
+-docstart- (rata%20blanca_1.txt)	danilo moschen	217	danilo moschen	1.0
+-docstart- (rata%20blanca_0.txt)	malmsteen	124	yngwie malmsteen	1.0
+-docstart- (rammstein_3.txt)	laibach	147	ljubljana	1.0
+-docstart- (rammstein_1.txt)	limp bizkit	60	limp bizkit	1.0
+-docstart- (ram-zet_7.txt)	sfinx	2	sfinx (band)	1.0
+-docstart- (ram-zet_4.txt)	solefald	159	solefald	1.0
+-docstart- (ram-zet_3.txt)	tabu records	118	tabu records	1.0
+-docstart- (rainbow%20(band)_1.txt)	micky lee soule	0	micky lee soule	1.0
+-docstart- (rainbow%20(band)_1.txt)	jeff beck	134	jeff beck	1.0
+-docstart- (raging%20speedhorn_2.txt)	johnny truant	970	johnny truant	1.0
+-docstart- (raging%20speedhorn_1.txt)	ray reardon	144	ray reardon	1.0
+-docstart- (rage%20(band)_3.txt)	lingua mortis	250	lingua mortis	1.0
+-docstart- (rage%20(band)_1.txt)	wacken open air	178	wacken open air	1.0
+-docstart- (rage%20(band)_0.txt)	smolski	80	victor smolski	1.0
+-docstart- (rahowa%20(band)_1.txt)	moonspell	96	moonspell	1.0
+-docstart- (queenadreena_1.txt)	rough trade records	73	rough trade records	1.0
+-docstart- (queenadreena_0.txt)	paul jackson	180	paul jackson jr.	1.0
+-docstart- (pyramaze_0.txt)	pyramaze	271	pyramaze	1.0
+-docstart- (pyramaze_0.txt)	pyramaze	128	pyramaze	1.0
+-docstart- (puya%20(band)_1.txt)	sepultura	20	sepultura	1.0
+-docstart- (puya%20(band)_0.txt)	sergio curbelo	59	puya (band)	1.0
+-docstart- (prostitute%20disfigurement_0.txt)	cannibal corpse	75	cannibal corpse	1.0
+-docstart- (prospect%20(slovenian%20band)_1.txt)	paul di' anno	56	paul di'anno	1.0
+-docstart- (prospect%20(slovenian%20band)_0.txt)	fates warning	38	fates warning	1.0
+-docstart- (probot_6.txt)	erol unala	632	erol uenala	1.0
+-docstart- (probot_6.txt)	celtic frost	658	celtic frost	1.0
+-docstart- (probot_6.txt)	apollyon sun	644	apollyon sun	1.0
+-docstart- (probot_5.txt)	sepultura	45	sepultura	1.0
+-docstart- (probot_5.txt)	cavalera conspiracy	21	cavalera conspiracy	1.0
+-docstart- (probot_4.txt)	raskulinecz	217	nick raskulinecz	1.0
+-docstart- (probot_4.txt)	grohl	98	dave grohl	1.0
+-docstart- (probot_4.txt)	goatsnake	148	goatsnake	1.0
+-docstart- (probot_0.txt)	grohl	89	dave grohl	1.0
+-docstart- (primordial%20(band)_3.txt)	nazxul	88	nazxul	1.0
+-docstart- (primordial%20(band)_3.txt)	mael mórdha	39	mael mórdha	1.0
+-docstart- (primordial%20(band)_3.txt)	mael mórdha	161	mael mórdha	1.0
+-docstart- (primordial%20(band)_0.txt)	candlelight records	74	candlelight records	1.0
+-docstart- (primordial%20(band)_0.txt)	cacophonous records	208	cacophonous records	1.0
+-docstart- (prime%20sth_1.txt)	rage against the machine	95	rage against the machine	1.0
+-docstart- (prime%20sth_0.txt)	linkin park	129	linkin park	1.0
+-docstart- (prime%20sth_0.txt)	limp bizkit	219	limp bizkit	1.0
+-docstart- (priestess%20(band)_0.txt)	vince nudo	125	priestess (band)	1.0
+-docstart- (priestess%20(band)_0.txt)	mike dyball	105	priestess (band)	1.0
+-docstart- (pretty%20maids_8.txt)	phil hart	42	phil hart (politician)	1.0
+-docstart- (pretty%20maids_10.txt)	bullet records	26	bullet records	1.0
+-docstart- (pokolg%c3%a9p_2.txt)	norbert jung	125	norbert jung	1.0
+-docstart- (pokolg%c3%a9p_1.txt)	attila tóth	89	attila tóth	1.0
+-docstart- (picture%20(band)_0.txt)	vreugdenhil	82	rinus vreugdenhil	1.0
+-docstart- (picture%20(band)_0.txt)	bechtum	73	jan bechtum	1.0
+-docstart- (pestilence%20(band)_1.txt)	roadrunner records	230	roadrunner records	1.0
+-docstart- (pestilence%20(band)_0.txt)	triptykon	109	triptykon	1.0
+-docstart- (persian%20risk_2.txt)	vinny appice	110	vinny appice	1.0
+-docstart- (peccatum_1.txt)	mnemosyne productions	87	mnemosyne productions	1.0
+-docstart- (peccatum_1.txt)	ihsahn	143	ihsahn	1.0
+-docstart- (peccatum_1.txt)	ihriel	132	starofash	1.0
+-docstart- (passenger%20(swedish%20band)_1.txt)	transport league	99	seamiew records	1.0
+-docstart- (passenger%20(swedish%20band)_1.txt)	patrik j. sten	69	patrik jerksten	1.0
+-docstart- (passenger%20(swedish%20band)_1.txt)	headplate	211	headplate	1.0
+-docstart- (passenger%20(swedish%20band)_1.txt)	gardenian	143	gardenian	1.0
+-docstart- (painflow_0.txt)	winterborn	297	winterborn (band)	1.0
+-docstart- (paindivision_1.txt)	black label society	160	black label society	1.0
+-docstart- (pain%20(musical%20project)_2.txt)	reidar horghagen	137	reidar horghagen	1.0
+-docstart- (over%20the%20rainbow%20(band)_0.txt)	jürgen blackmore	322	over the rainbow (band)	1.0
+-docstart- (otyg_1.txt)	fredrik nilsson	215	fredrik nilsson (tennis)	1.0
+-docstart- (otyg_0.txt)	otyg	0	otyg	1.0
+-docstart- (orthrelm_1.txt)	tolotta records	42	tolotta records	1.0
+-docstart- (orange%20goblin_2.txt)	alabama thunderpussy	357	alabama thunderpussy	1.0
+-docstart- (omega%20lithium_0.txt)	artoffact records	288	artoffact records	1.0
+-docstart- (oliver%2fdawson%20saxon_0.txt)	oliver/dawson saxon	236	oliver/dawson saxon	1.0
+-docstart- (oliver%2fdawson%20saxon_0.txt)	oliver/dawson saxon	107	oliver/dawson saxon	1.0
+-docstart- (october%20file_0.txt)	candlelight records	304	candlelight records	1.0
+-docstart- (october%20file_0.txt)	candlelight records	257	candlelight records	1.0
+-docstart- (october%20file_0.txt)	candlelight records	195	candlelight records	1.0
+-docstart- (nokturnl_0.txt)	machine gun fellatio	211	machine gun fellatio	1.0
+-docstart- (nightwish_5.txt)	hietala	29	marco hietala	1.0
+-docstart- (nightwish_4.txt)	pink floyd	74	pink floyd	1.0
+-docstart- (nightwish_2.txt)	oceanborn	146	oceanborn	1.0
+-docstart- (nightwish_11.txt)	sami vänskä	50	sami vänskä	1.0
+-docstart- (nightwish_11.txt)	marianna pellinen	231	nightwish	1.0
+-docstart- (nightwish_0.txt)	nightwish	9	nightwish	1.0
+-docstart- (niceland_1.txt)	guðlaugur kristinn óttarsson	232	guðlaugur kristinn óttarsson	1.0
+-docstart- (niceland_1.txt)	baldursson	328	sigtryggur baldursson	1.0
+-docstart- (nepal%20(band)_2.txt)	hansi kursch	71	hansi kürsch	1.0
+-docstart- (nepal%20(band)_2.txt)	andré matos	26	andre matos	1.0
+-docstart- (necrodeath_3.txt)	cadaveria	108	cadaveria	1.0
+-docstart- (necrodeath_1.txt)	kreator	138	kreator	1.0
+-docstart- (necrodeath_0.txt)	kreator	46	kreator	1.0
+-docstart- (necrodeath_0.txt)	celtic frost	55	celtic frost	1.0
+-docstart- (nazxul_1.txt)	nazxul	109	nazxul	1.0
+-docstart- (nazxul_1.txt)	dimmu borgir	31	dimmu borgir	1.0
+-docstart- (nazareth%20(band)_2.txt)	u. s.	218	united states	1.0
+-docstart- (nazareth%20(band)_0.txt)	razamanaz	247	razamanaz	1.0
+-docstart- (narcosis%20(band)_2.txt)	brutal truth	306	brutal truth	1.0
+-docstart- (napalm%20death_6.txt)	celtic frost	216	celtic frost	1.0
+-docstart- (napalm%20death_5.txt)	ratledge	20	mike ratledge	1.0
+-docstart- (napalm%20death_5.txt)	napalm death	64	napalm death	1.0
+-docstart- (napalm%20death_5.txt)	broadrick	46	justin broadrick	1.0
+-docstart- (napalm%20death_3.txt)	crass records	369	crass records	1.0
+-docstart- (napalm%20death_16.txt)	brujeria	91	brujeria (band)	1.0
+-docstart- (napalm%20death_15.txt)	jesu	119	jesus	1.0
+-docstart- (napalm%20death_14.txt)	simon oppenheimer	17	simon wolf oppenheimer	1.0
+-docstart- (napalm%20death_14.txt)	robbo	110	robbo (video game)	1.0
+-docstart- (napalm%20death_12.txt)	feto records	120	feto records	1.0
+-docstart- (napalm%20death_11.txt)	dead kennedys	116	dead kennedys	1.0
+-docstart- (napalm%20death_10.txt)	sepultura	111	sepultura	1.0
+-docstart- (napalm%20death_10.txt)	kreator	102	kreator	1.0
+-docstart- (napalm%20death_0.txt)	feral house	161	feral house	1.0
+-docstart- (nail%20within_6.txt)	petrozza	10	mille petrozza	1.0
+-docstart- (nail%20within_5.txt)	kreator	127	kreator	1.0
+-docstart- (nail%20within_2.txt)	betzefer	7	betzefer	1.0
+-docstart- (nail%20within_10.txt)	sepultura	344	sepultura	1.0
+-docstart- (nail%20within_10.txt)	kreator	335	kreator	1.0
+-docstart- (mystic%20circle_0.txt)	marc zimmer	337	marc zimmer	1.0
+-docstart- (myrkskog_0.txt)	morbid angel	57	morbid angel	1.0
+-docstart- (mushroomhead_2.txt)	jägermeister	117	jägermeister	1.0
+-docstart- (mushroomhead_2.txt)	house of blues	137	house of blues	1.0
+-docstart- (mucc_0.txt)	mucc	0	mucc	1.0
+-docstart- (moxy%20(band)_9.txt)	moxy	14	moxy (band)	1.0
+-docstart- (moxy%20(band)_8.txt)	moxy	58	moxy (band)	1.0
+-docstart- (moxy%20(band)_8.txt)	alex machin	531	alex machin	1.0
+-docstart- (moxy%20(band)_7.txt)	buddy caine	271	moxy (band)	1.0
+-docstart- (moxy%20(band)_5.txt)	ray lyell	241	ray lyell	1.0
+-docstart- (moxy%20(band)_5.txt)	goddo	216	goddo	1.0
+-docstart- (moxy%20(band)_4.txt)	sunken garden theater	192	san antonio japanese tea garden	1.0
+-docstart- (moxy%20(band)_2.txt)	greg potter	213	greg potter	1.0
+-docstart- (moxy%20(band)_0.txt)	leigh ashford	526	leigh ashford	1.0
+-docstart- (moxy%20(band)_0.txt)	leigh ashford	129	leigh ashford	1.0
+-docstart- (moxy%20(band)_0.txt)	greg godovitz	244	greg godovitz	1.0
+-docstart- (moxy%20(band)_0.txt)	gino scarpelli	449	goddo	1.0
+-docstart- (mot%c3%b6rhead_9.txt)	arena obras sanitarias	34	estadio obras sanitarias	1.0
+-docstart- (mot%c3%b6rhead_8.txt)	ozzy osbourne	313	ozzy osbourne	1.0
+-docstart- (mot%c3%b6rhead_6.txt)	würzel	74	würzel	1.0
+-docstart- (mot%c3%b6rhead_6.txt)	würzel	152	würzel	1.0
+-docstart- (mot%c3%b6rhead_6.txt)	spades	196	spades	1.0
+-docstart- (mot%c3%b6rhead_6.txt)	lemmy	135	lemmy	1.0
+-docstart- (mot%c3%b6rhead_4.txt)	roundhouse studios	154	roundhouse (venue)	1.0
+-docstart- (mot%c3%b6rhead_14.txt)	roseland ballroom	45	roseland ballroom	1.0
+-docstart- (mot%c3%b6rhead_14.txt)	house of blues	199	house of blues	1.0
+-docstart- (mot%c3%b6rhead_13.txt)	judas priest	54	judas priest	1.0
+-docstart- (mot%c3%b6rhead_11.txt)	graspop metal meeting	101	graspop metal meeting	1.0
+-docstart- (mot%c3%b6rhead_10.txt)	hetfield	167	james hetfield	1.0
+-docstart- (mot%c3%b6rhead_10.txt)	fila forum	114	mediolanum forum	1.0
+-docstart- (mortuus%20caelum_1.txt)	darkthrone	69	darkthrone	1.0
+-docstart- (mortification%20(band)_1.txt)	silver cord	282	silver cord	1.0
+-docstart- (mortification%20(band)_0.txt)	cameron hall	94	cameron hall (arena)	1.0
+-docstart- (moonspell_5.txt)	moonspell	0	moonspell	1.0
+-docstart- (moonspell_5.txt)	dimmu borgir	85	dimmu borgir	1.0
+-docstart- (moonspell_3.txt)	madredeus	81	madredeus	1.0
+-docstart- (moonsorrow_3.txt)	markus eurén	124	markus eurén	1.0
+-docstart- (moonsorrow_2.txt)	spinefarm records	56	spinefarm records	1.0
+-docstart- (moonsorrow_2.txt)	drakkar entertainment	274	drakkar entertainment	1.0
+-docstart- (moonsorrow_1.txt)	barathrum	153	barathrum	1.0
+-docstart- (monumentum_4.txt)	tatra productions	196	tatra productions	1.0
+-docstart- (monumentum_4.txt)	necropolis records	62	necropolis records	1.0
+-docstart- (monumentum_2.txt)	tarchetti	55	iginio ugo tarchetti	1.0
+-docstart- (monumentum_1.txt)	øystein aarseth	285	euronymous	1.0
+-docstart- (monumentum_1.txt)	isbn	194	international standard book number	1.0
+-docstart- (monumentum_1.txt)	dsp	275	deathlike silence productions	1.0
+-docstart- (monumentum_0.txt)	obscure plasma records	123	avantgarde music	1.0
+-docstart- (moi%20dix%20mois_0.txt)	moi dix mois	0	moi dix mois	1.0
+-docstart- (moahni%20moahna_0.txt)	tommy rehn	145	tommy rehn	1.0
+-docstart- (moahni%20moahna_0.txt)	moahni moahna	0	moahni moahna	1.0
+-docstart- (mnemic_3.txt)	shane embury	199	shane embury	1.0
+-docstart- (mnemic_2.txt)	soilwork	182	soilwork	1.0
+-docstart- (mnemic_2.txt)	arch enemy	125	arch enemy	1.0
+-docstart- (mnemic_1.txt)	roy z	422	roy z	1.0
+-docstart- (mnemic_1.txt)	roskilde festival	142	roskilde festival	1.0
+-docstart- (mnemic_1.txt)	judas priest	429	judas priest	1.0
+-docstart- (mnemic_1.txt)	bodnia	535	kim bodnia	1.0
+-docstart- (misery%20inc._0.txt)	johanna kustannus	305	johanna kustannus	1.0
+-docstart- (misery%20inc._0.txt)	johanna kustannus	249	johanna kustannus	1.0
+-docstart- (misanthrope%20(band)_1.txt)	misanthrope immortel	323	misanthrope immortel	1.0
+-docstart- (miksha_1.txt)	anticulture records	98	anticulture records	1.0
+-docstart- (michael%20schenker%20group_1.txt)	budokan	27	nippon budokan	1.0
+-docstart- (mezzerschmitt_2.txt)	lars sørensen	86	lars sørensen (swimmer)	1.0
+-docstart- (mezzerschmitt_2.txt)	hellhammer	133	hellhammer	1.0
+-docstart- (mezzerschmitt_0.txt)	lars sørensen	80	lars sørensen (swimmer)	1.0
+-docstart- (metalucifer_0.txt)	samm	205	samm henshaw	1.0
+-docstart- (metalucifer_0.txt)	sabbat	79	shabbat	1.0
+-docstart- (metalucifer_0.txt)	sabbat	34	shabbat	1.0
+-docstart- (metalucifer_0.txt)	desaster	193	desaster	1.0
+-docstart- (meshuggah_0.txt)	thordendal	100	fredrik thordendal	1.0
+-docstart- (meshuggah_0.txt)	mårten hagström	168	mårten hagström	1.0
+-docstart- (meldrum_1.txt)	black label society	51	black label society	1.0
+-docstart- (meldrum_0.txt)	hoglan	98	gene hoglan	1.0
+-docstart- (megaherz_3.txt)	wenz weninger	165	megaherz	1.0
+-docstart- (megaherz_2.txt)	rotersand	148	rotersand	1.0
+-docstart- (megaherz_2.txt)	die krupps	118	die krupps	1.0
+-docstart- (megaherz_1.txt)	kopfschuss	33	kopfschuss	1.0
+-docstart- (maximum%20the%20hormone_2.txt)	rokkinpo goroshi	68	rokkinpo goroshi	1.0
+-docstart- (maximum%20the%20hormone_2.txt)	mimi kajiru	30	mimi kajiru	1.0
+-docstart- (maximum%20the%20hormone_1.txt)	london astoria	149	london astoria	1.0
+-docstart- (maximum%20the%20hormone_0.txt)	dropkick murphys	204	dropkick murphys	1.0
+-docstart- (massacration_6.txt)	sepultura	102	sepultura	1.0
+-docstart- (massacration_6.txt)	judas priest	47	judas priest	1.0
+-docstart- (massacration_2.txt)	degraw	175	gavin degraw	1.0
+-docstart- (masquerade%20(swedish%20band)_0.txt)	electric boys	83	electric boys	1.0
+-docstart- (mantak_4.txt)	archgoat	129	archgoat	1.0
+-docstart- (mantak_3.txt)	mantak	13	mantak chia	1.0
+-docstart- (mantak_3.txt)	archgoat	153	archgoat	1.0
+-docstart- (manhattan%20skyline_2.txt)	shellac	204	shellac (band)	1.0
+-docstart- (manhattan%20skyline_2.txt)	king crimson	76	king crimson	1.0
+-docstart- (malefice_2.txt)	anticulture records	74	anticulture records	1.0
+-docstart- (magic%20kingdom%20(band)_0.txt)	luca turilli	43	luca turilli	1.0
+-docstart- (machines%20of%20grace_7.txt)	savatage	11	savatage	1.0
+-docstart- (machines%20of%20grace_6.txt)	nashua new hampshire	81	nashua, new hampshire	1.0
+-docstart- (machines%20of%20grace_5.txt)	megadeth	83	megadeth	1.0
+-docstart- (machines%20of%20grace_5.txt)	butch walker	69	butch walker	1.0
+-docstart- (machines%20of%20grace_4.txt)	neil kernon	134	neil kernon	1.0
+-docstart- (machines%20of%20grace_3.txt)	savatage	25	savatage	1.0
+-docstart- (machines%20of%20grace_2.txt)	savatage	99	savatage	1.0
+-docstart- (machines%20of%20grace_2.txt)	circle ii circle	58	circle ii circle	1.0
+-docstart- (machines%20of%20grace_1.txt)	trans siberian orchestra	83	trans-siberian orchestra	1.0
+-docstart- (machines%20of%20grace_0.txt)	savatage	40	savatage	1.0
+-docstart- (machinemade%20god_0.txt)	caliban	71	caliban (band)	1.0
+-docstart- (machetazo_1.txt)	saint vitus	90	saint vitus (band)	1.0
+-docstart- (m.ill.ion_1.txt)	oliver/dawson saxon	48	oliver/dawson saxon	1.0
+-docstart- (m.ill.ion_1.txt)	michael schenker group	69	michael schenker group	1.0
+-docstart- (m%c3%a5negarm_2.txt)	vargstenen	192	vargstenen	1.0
+-docstart- (m%c3%a5negarm_2.txt)	urminnes hävd	73	urminnes hävd (the forest sessions)	1.0
+-docstart- (lyzanxia_0.txt)	loudblast	71	loudblast	1.0
+-docstart- (lyriel_0.txt)	simon jäger	19	simon jäger	1.0
+-docstart- (lux%20occulta_0.txt)	opeth	123	opeth	1.0
+-docstart- (lux%20occulta_0.txt)	metalmania	72	metalmania	1.0
+-docstart- (lunatica_4.txt)	frontiers records	93	frontiers records	1.0
+-docstart- (lunatica_4.txt)	frontiers records	49	frontiers records	1.0
+-docstart- (lunatica_4.txt)	frontiers records	142	frontiers records	1.0
+-docstart- (lunatica_1.txt)	lunatica	57	lunatica	1.0
+-docstart- (lunatica_0.txt)	edguy	65	edguy	1.0
+-docstart- (loudness%20(band)_4.txt)	taiji sawada	11	taiji (musician)	1.0
+-docstart- (loudness%20(band)_4.txt)	munetaka higuchi	135	munetaka higuchi	1.0
+-docstart- (loudness%20(band)_3.txt)	malmsteen	321	yngwie malmsteen	1.0
+-docstart- (loudness%20(band)_3.txt)	flatbacker	196	ezo (band)	1.0
+-docstart- (lost%20soul%20(band)_0.txt)	relapse records	333	relapse records	1.0
+-docstart- (lost%20soul%20(band)_0.txt)	earache records	441	earache records	1.0
+-docstart- (lordi_7.txt)	riski	69	pete riski	1.0
+-docstart- (lordi_7.txt)	riski	208	pete riski	1.0
+-docstart- (lordi_7.txt)	riski	19	pete riski	1.0
+-docstart- (lordi_7.txt)	riski	120	pete riski	1.0
+-docstart- (lordi_5.txt)	nosturi	224	nosturi	1.0
+-docstart- (lordi_0.txt)	putaansuu	0	lordi	1.0
+-docstart- (lord%20(band)_1.txt)	gamma ray	119	queens of the stone age	1.0
+-docstart- (loits_1.txt)	watain	65	watain	1.0
+-docstart- (loits_1.txt)	soilwork	105	soilwork	1.0
+-docstart- (loits_1.txt)	sear bliss	228	sear bliss	1.0
+-docstart- (loits_1.txt)	moonspell	44	moonspell	1.0
+-docstart- (loits_1.txt)	katatonia	195	katatonia	1.0
+-docstart- (loits_1.txt)	die krupps	165	die krupps	1.0
+-docstart- (loits_1.txt)	behexen	310	behexen	1.0
+-docstart- (lion%20(band)_3.txt)	jerry best	0	jerry best (bassist)	1.0
+-docstart- (lion%20(band)_1.txt)	norman swan	124	norman swan	1.0
+-docstart- (lion%20(band)_1.txt)	malmsteen	309	yngwie malmsteen	1.0
+-docstart- (lion%20(band)_1.txt)	kal swan	109	kal swan	1.0
+-docstart- (leng%20tche_4.txt)	sven de caluwé	112	aborted	1.0
+-docstart- (leng%20tche_2.txt)	hemdale	57	hemdale film corporation	1.0
+-docstart- (lehavoth_5.txt)	megadeth	87	megadeth	1.0
+-docstart- (lehavoth_4.txt)	talmor	0	ohad talmor	1.0
+-docstart- (lehavoth_2.txt)	neiden	396	neiden, norway	1.0
+-docstart- (lehavoth_1.txt)	talarczyk	135	mieszko talarczyk	1.0
+-docstart- (led%20zeppelin_7.txt)	tampa stadium	3	tampa stadium	1.0
+-docstart- (led%20zeppelin_6.txt)	county antrim	397	county antrim	1.0
+-docstart- (led%20zeppelin_5.txt)	atlantic records	81	atlantic records	1.0
+-docstart- (led%20zeppelin_5.txt)	atlantic records	138	atlantic records	1.0
+-docstart- (led%20zeppelin_3.txt)	mayfair ballroom	136	mayfair ballroom	1.0
+-docstart- (led%20zeppelin_3.txt)	barry fey	268	barry fey	1.0
+-docstart- (led%20zeppelin_26.txt)	hard rock park	15	freestyle music park	1.0
+-docstart- (led%20zeppelin_26.txt)	bolliger & mabillard	205	bolliger & mabillard	1.0
+-docstart- (led%20zeppelin_25.txt)	fast times at ridgemont high	2	fast times at ridgemont high	1.0
+-docstart- (led%20zeppelin_23.txt)	dogtown	163	dogtown	1.0
+-docstart- (led%20zeppelin_22.txt)	pizzorno	271	serge pizzorno	1.0
+-docstart- (led%20zeppelin_18.txt)	king crimson	346	king crimson	1.0
+-docstart- (led%20zeppelin_16.txt)	soundgarden	292	soundgarden	1.0
+-docstart- (led%20zeppelin_16.txt)	nickelback	387	nickelback	1.0
+-docstart- (led%20zeppelin_16.txt)	megadeth	155	megadeth	1.0
+-docstart- (led%20zeppelin_16.txt)	limp bizkit	342	limp bizkit	1.0
+-docstart- (led%20zeppelin_16.txt)	judas priest	110	judas priest	1.0
+-docstart- (led%20zeppelin_16.txt)	dinosaur jr.	363	dinosaur jr.	1.0
+-docstart- (led%20zeppelin_14.txt)	kalodner	13	john kalodner	1.0
+-docstart- (led%20zeppelin_14.txt)	geffen records	47	geffen records	1.0
+-docstart- (led%20zeppelin_13.txt)	london philharmonic orchestra	165	london philharmonic orchestra	1.0
+-docstart- (led%20zeppelin_10.txt)	paul martinez	175	paul martinez	1.0
+-docstart- (lazy%20(band)_0.txt)	takasaki	60	takasaki, gunma	1.0
+-docstart- (lazy%20(band)_0.txt)	hiroyuki tanaka	87	sabu (director)	1.0
+-docstart- (lacuna%20coil_8.txt)	darkland	468	darkland (2017 film)	1.0
+-docstart- (lacuna%20coil_7.txt)	chimaira	189	chimaira	1.0
+-docstart- (lacuna%20coil_6.txt)	lacuna coil	28	lacuna coil	1.0
+-docstart- (lacuna%20coil_5.txt)	static-x	52	static-x	1.0
+-docstart- (lacuna%20coil_5.txt)	megadeth	29	megadeth	1.0
+-docstart- (lacuna%20coil_5.txt)	megadeth	112	megadeth	1.0
+-docstart- (lacuna%20coil_4.txt)	karmacode	43	karmacode	1.0
+-docstart- (lacrimas%20profundere_1.txt)	napalm records	73	napalm records	1.0
+-docstart- (lacrimas%20profundere_1.txt)	napalm records	100	napalm records	1.0
+-docstart- (lacrimas%20profundere_0.txt)	frozen hearts	270	frozen hearts	1.0
+-docstart- (kryptos%20(band)_4.txt)	vic firth drumsticks	134	vic firth	1.0
+-docstart- (kryptos%20(band)_4.txt)	esp guitars	102	esp guitars	1.0
+-docstart- (kryptos%20(band)_1.txt)	kreator	110	kreator	1.0
+-docstart- (kryptos%20(band)_1.txt)	judas priest	42	judas priest	1.0
+-docstart- (kreator_5.txt)	tommy vetterli	246	tommy vetterli	1.0
+-docstart- (kreator_5.txt)	budapest	396	budapest	1.0
+-docstart- (kreator_4.txt)	sami yli-sirniö	80	sami yli-sirniö	1.0
+-docstart- (kreator_4.txt)	giesler	124	christian giesler	1.0
+-docstart- (kreator_3.txt)	endorama	73	endorama	1.0
+-docstart- (koyi%20k%20utho_1.txt)	pantera	97	pantera	1.0
+-docstart- (koyi%20k%20utho_0.txt)	koyi k utho	0	koyi k utho	1.0
+-docstart- (kotiteollisuus_0.txt)	lappeenranta	82	lappeenranta	1.0
+-docstart- (korpiklaani_0.txt)	voice of wilderness	232	voice of wilderness	1.0
+-docstart- (korpiklaani_0.txt)	voice of wilderness	161	voice of wilderness	1.0
+-docstart- (korpiklaani_0.txt)	jonne järvelä	26	jonne järvelä	1.0
+-docstart- (korpiklaani_0.txt)	jaakko	59	jaakko mäntyjärvi	1.0
+-docstart- (korpiklaani_0.txt)	falchion	432	falchion (band)	1.0
+-docstart- (korpiklaani_0.txt)	falchion	281	falchion (band)	1.0
+-docstart- (kohllapse_0.txt)	katatonia	232	katatonia	1.0
+-docstart- (kohllapse_0.txt)	dolorian	219	dolorian	1.0
+-docstart- (knut%20(band)_1.txt)	hydra head records	681	hydra head records	1.0
+-docstart- (knut%20(band)_1.txt)	hydra head records	645	hydra head records	1.0
+-docstart- (knut%20(band)_1.txt)	hydra head records	547	hydra head records	1.0
+-docstart- (knut%20(band)_1.txt)	hydra head records	506	hydra head records	1.0
+-docstart- (knut%20(band)_1.txt)	hydra head records	466	hydra head records	1.0
+-docstart- (knorkator_2.txt)	knorkator	32	knorkator	1.0
+-docstart- (knorkator_0.txt)	berlin/brandenburg	52	berlin/brandenburg metropolitan region	1.0
+-docstart- (kipelov_0.txt)	mavrin	206	sergey mavrin	1.0
+-docstart- (kipelov_0.txt)	mavrik	242	mavrik	1.0
+-docstart- (kingfisher%20sky_3.txt)	porcupine tree	59	porcupine tree	1.0
+-docstart- (kingfisher%20sky_0.txt)	judith rijnveld	76	kingfisher sky	1.0
+-docstart- (kingdom%20come%20(band)_0.txt)	kottak	234	kottak	1.0
+-docstart- (king%20diamond%20(band)_4.txt)	sharlee	217	sharlee d'angelo	1.0
+-docstart- (king%20diamond%20(band)_3.txt)	livia zita	283	livia zita	1.0
+-docstart- (king%20diamond%20(band)_3.txt)	andy la rocque	96	andy larocque	1.0
+-docstart- (king%20diamond%20(band)_0.txt)	shermann	141	hank shermann	1.0
+-docstart- (kick%20axe_1.txt)	judas priest	100	judas priest	1.0
+-docstart- (kerber_5.txt)	suncokret	89	suncokret	1.0
+-docstart- (kerber_5.txt)	idoli	103	idoli	1.0
+-docstart- (kerber_5.txt)	bulevar	80	bulevar del ferrocarril	1.0
+-docstart- (kerber_5.txt)	branko isaković	116	branko isaković	1.0
+-docstart- (kerber_2.txt)	gordon rowley	177	gordon douglas rowley	1.0
+-docstart- (kerber_0.txt)	niš	68	niš	1.0
+-docstart- (katagory%20v_3.txt)	leatherwolf	61	leatherwolf	1.0
+-docstart- (katagory%20v_3.txt)	leatherwolf	142	leatherwolf	1.0
+-docstart- (katagory%20v_2.txt)	katagory v	29	katagory v	1.0
+-docstart- (katagory%20v_2.txt)	imagika	295	imagika	1.0
+-docstart- (katagory%20v_2.txt)	helstar	394	helstar	1.0
+-docstart- (katagory%20v_0.txt)	ryan taylor	324	ryan taylor (footballer, born 1984)	1.0
+-docstart- (katagory%20v_0.txt)	ohio	149	ohio	1.0
+-docstart- (katagory%20v_0.txt)	northern utah	43	northern utah	1.0
+-docstart- (karizma%20(hard%20rock%20band)_1.txt)	zaječar	62	zaječar	1.0
+-docstart- (karizma%20(hard%20rock%20band)_1.txt)	karizma	8	karizma (hard rock band)	1.0
+-docstart- (karizma%20(hard%20rock%20band)_1.txt)	gitarijada	39	gitarijada	1.0
+-docstart- (karizma%20(hard%20rock%20band)_1.txt)	dragoljub popović	222	dragoljub popović	1.0
+-docstart- (karavan_2.txt)	saara jahan	68	karavan	1.0
+-docstart- (karaboudjan%20(band)_9.txt)	jolyon wagg	217	jolyon wagg	1.0
+-docstart- (karaboudjan%20(band)_8.txt)	allan thompson	145	allan thompson	1.0
+-docstart- (karaboudjan%20(band)_7.txt)	syldavia	72	syldavia	1.0
+-docstart- (karaboudjan%20(band)_6.txt)	black island	91	black island (ross archipelago)	1.0
+-docstart- (karaboudjan%20(band)_10.txt)	jolyon wagg	289	jolyon wagg	1.0
+-docstart- (karaboudjan%20(band)_10.txt)	dan swanö	380	dan swanö	1.0
+-docstart- (karaboudjan%20(band)_10.txt)	dan swanö	23	dan swanö	1.0
+-docstart- (karaboudjan%20(band)_1.txt)	katatonia	66	katatonia	1.0
+-docstart- (karaboudjan%20(band)_1.txt)	dan swanö	24	dan swanö	1.0
+-docstart- (kmfdm_8.txt)	hau ruck	196	hau ruck	1.0
+-docstart- (kmfdm_6.txt)	kmfdm	99	kmfdm	1.0
+-docstart- (kmfdm_2.txt)	my life with the thrill kill kult	52	my life with the thrill kill kult	1.0
+-docstart- (kmfdm_2.txt)	kmfdm	134	kmfdm	1.0
+-docstart- (kmfdm_2.txt)	die warzau	23	die warzau	1.0
+-docstart- (kmfdm_2.txt)	combichrist	87	combichrist	1.0
+-docstart- (kmfdm_2.txt)	chemlab	14	chemlab	1.0
+-docstart- (kmfdm_1.txt)	skinny puppy	15	skinny puppy	1.0
+-docstart- (kmfdm_1.txt)	f. m. einheit	63	f.m. einheit	1.0
+-docstart- (kmfdm_1.txt)	einstürzende neubauten	80	einstürzende neubauten	1.0
+-docstart- (kmfdm_1.txt)	chemlab	54	chemlab	1.0
+-docstart- (kmfdm_0.txt)	tim skold	61	tim sköld	1.0
+-docstart- (kmfdm_0.txt)	raymond watts	27	pig (musical project)	1.0
+-docstart- (k%c3%afll%20cheerlead%c3%abr_1.txt)	kïll cheerleadër	148	kïll cheerleadër	1.0
+-docstart- (k%c3%afll%20cheerlead%c3%abr_0.txt)	ramones	123	ramones	1.0
+-docstart- (k%c3%afll%20cheerlead%c3%abr_0.txt)	mötley crüe	93	mötley crüe	1.0
+-docstart- (k%c3%afll%20cheerlead%c3%abr_0.txt)	girlschool	132	girlschool	1.0
+-docstart- (k%c3%afll%20cheerlead%c3%abr_0.txt)	baptist church	279	american baptist churches usa	1.0
+-docstart- (judas%20priest_7.txt)	judas priest	146	judas priest	1.0
+-docstart- (judas%20priest_6.txt)	judas priest	58	judas priest	1.0
+-docstart- (judas%20priest_3.txt)	sepultura	50	sepultura	1.0
+-docstart- (judas%20priest_3.txt)	megadeth	37	megadeth	1.0
+-docstart- (judas%20priest_2.txt)	us airways arena	150	capital centre	1.0
+-docstart- (judas%20priest_14.txt)	rocka rolla	16	rocka rolla	1.0
+-docstart- (judas%20priest_11.txt)	glenn tipton	301	glenn tipton	1.0
+-docstart- (judas%20priest_1.txt)	krulik	61	jeff krulik	1.0
+-docstart- (judas%20priest_0.txt)	yardbirds	121	the yardbirds	1.0
+-docstart- (japunga_0.txt)	slipknot	58	slipknot (band)	1.0
+-docstart- (japunga_0.txt)	sepultura	98	sepultura	1.0
+-docstart- (japunga_0.txt)	mudvayne	88	mudvayne	1.0
+-docstart- (japunga_0.txt)	japunga	0	japunga	1.0
+-docstart- (ivory%20knight_1.txt)	john ricci	83	exciter (band)	1.0
+-docstart- (iron%20monkey%20(band)_2.txt)	crippled black phoenix	207	crippled black phoenix	1.0
+-docstart- (iron%20monkey%20(band)_0.txt)	steve watson	110	steve watson	1.0
+-docstart- (iron%20monkey%20(band)_0.txt)	justin greaves	26	justin greaves	1.0
+-docstart- (iron%20mask%20(band)_5.txt)	time requiem	56	time requiem	1.0
+-docstart- (iron%20mask%20(band)_4.txt)	loch vostok	229	loch vostok	1.0
+-docstart- (iron%20mask%20(band)_4.txt)	edguy	401	edguy	1.0
+-docstart- (iron%20mask%20(band)_3.txt)	graspop metal meeting	188	graspop metal meeting	1.0
+-docstart- (iron%20mask%20(band)_3.txt)	altaria	117	altaria (band)	1.0
+-docstart- (iron%20mask%20(band)_2.txt)	soilwork	32	soilwork	1.0
+-docstart- (iron%20mask%20(band)_2.txt)	opeth	25	opeth	1.0
+-docstart- (iron%20mask%20(band)_2.txt)	jens bogren	0	jens bogren	1.0
+-docstart- (iron%20mask%20(band)_1.txt)	loch vostok	158	loch vostok	1.0
+-docstart- (iron%20mask%20(band)_0.txt)	time requiem	37	time requiem	1.0
+-docstart- (iron%20maiden_5.txt)	westfalenhalle	21	westfalenhallen	1.0
+-docstart- (iron%20maiden_10.txt)	time	500	time (magazine)	1.0
+-docstart- (insidi%c3%b6us%20t%c3%b6rment_1.txt)	århus	396	aarhus	1.0
+-docstart- (insidi%c3%b6us%20t%c3%b6rment_1.txt)	liechtenstein	236	liechtenstein	1.0
+-docstart- (insidi%c3%b6us%20t%c3%b6rment_1.txt)	infomedia	732	infomedia nusantara	1.0
+-docstart- (insidi%c3%b6us%20t%c3%b6rment_1.txt)	infomedia	1393	infomedia nusantara	1.0
+-docstart- (insidi%c3%b6us%20t%c3%b6rment_1.txt)	infomedia	1034	infomedia nusantara	1.0
+-docstart- (infernal%20poetry_2.txt)	necronomicon	49	necronomicon	1.0
+-docstart- (in%20extremo_1.txt)	occitan	201	occitan language	1.0
+-docstart- (impiety%20(band)_1.txt)	sarcófago	222	sarcófago	1.0
+-docstart- (immortal%20(band)_4.txt)	yngve liljebäck	77	saroth	1.0
+-docstart- (immortal%20(band)_4.txt)	stian smørholm	25	iscariah	1.0
+-docstart- (immortal%20(band)_4.txt)	erik brødreskift	235	erik brødreskift	1.0
+-docstart- (immortal%20(band)_3.txt)	reidar horghagen	290	reidar horghagen	1.0
+-docstart- (immortal%20(band)_3.txt)	olve eikemo	34	olve eikemo	1.0
+-docstart- (immortal%20(band)_3.txt)	ole jørgen moe	356	ole moe	1.0
+-docstart- (immortal%20(band)_3.txt)	harald nævdal	147	harald nævdal	1.0
+-docstart- (immortal%20(band)_0.txt)	armagedda	77	gerhard herfindal	1.0
+-docstart- (i%20(band)_2.txt)	tom cato visnes	106	king ov hell	1.0
+-docstart- (i%20(band)_2.txt)	olve eikemo	18	olve eikemo	1.0
+-docstart- (i%20(band)_2.txt)	harald nævdal	181	harald nævdal	1.0
+-docstart- (i%20(band)_2.txt)	arve isdal	60	arve isdal	1.0
+-docstart- (i%20(band)_1.txt)	nuclear blast records	151	nuclear blast	1.0
+-docstart- (i%20(band)_0.txt)	arve isdal	120	arve isdal	1.0
+-docstart- (hypno5e_0.txt)	ocean collective	97	the ocean (band)	1.0
+-docstart- (hybrid%20(spanish%20band)_1.txt)	seldon hunt	192	seldon hunt	1.0
+-docstart- (hurd%20(band)_4.txt)	judas priest	84	judas priest	1.0
+-docstart- (hortus%20animae_0.txt)	lacuna coil	69	lacuna coil	1.0
+-docstart- (herm%c3%a9tica_0.txt)	osvaldo civile	96	osvaldo civile	1.0
+-docstart- (herm%c3%a9tica_0.txt)	miguel roldán	146	miguel roldán	1.0
+-docstart- (herm%c3%a9tica_0.txt)	gustavo rowek	194	gustavo rowek	1.0
+-docstart- (herm%c3%a9tica_0.txt)	alberto zamarbide	127	alberto zamarbide	1.0
+-docstart- (herm%c3%a9tica_0.txt)	adrián cenci	164	adrián cenci	1.0
+-docstart- (helloween_3.txt)	better than raw	22	better than raw	1.0
+-docstart- (helloween_2.txt)	kai hansen	188	kai hansen	1.0
+-docstart- (helloween_2.txt)	better than raw	46	better than raw	1.0
+-docstart- (helloween_1.txt)	weikath	59	michael weikath	1.0
+-docstart- (helloween_0.txt)	highland glory	194	highland glory	1.0
+-docstart- (helix%20(band)_7.txt)	emi canada	197	emi	1.0
+-docstart- (helix%20(band)_7.txt)	emi	283	emi	1.0
+-docstart- (helix%20(band)_1.txt)	kitchener	95	kitchener, ontario	1.0
+-docstart- (helix%20(band)_1.txt)	canada	115	toronto	1.0
+-docstart- (helix%20(band)_1.txt)	bruce arnold	133	bruce arnold (author)	1.0
+-docstart- (heavens%20basement_0.txt)	tesla	166	nikola tesla	1.0
+-docstart- (heavens%20basement_0.txt)	shinedown	122	shinedown	1.0
+-docstart- (heavens%20basement_0.txt)	papa roach	186	papa roach	1.0
+-docstart- (heavens%20basement_0.txt)	metalway	313	metalway festival	1.0
+-docstart- (heavens%20basement_0.txt)	manchester stadium	378	city of manchester stadium	1.0
+-docstart- (heavens%20basement_0.txt)	madina lake	173	madina lake	1.0
+-docstart- (heavens%20basement_0.txt)	buckcherry	73	buckcherry	1.0
+-docstart- (heavens%20basement_0.txt)	bon jovi	354	bon jovi	1.0
+-docstart- (heavens%20basement_0.txt)	bon jovi	230	bon jovi	1.0
+-docstart- (heavens%20basement_0.txt)	black stone cherry	102	black stone cherry	1.0
+-docstart- (heaven%20shall%20burn_5.txt)	caliban	316	caliban (band)	1.0
+-docstart- (heaven%20shall%20burn_3.txt)	eric bischoff	107	eric bischoff	1.0
+-docstart- (heaven%20shall%20burn_2.txt)	merauder	337	merauder	1.0
+-docstart- (heaven%20shall%20burn_2.txt)	hate squad	274	hate squad	1.0
+-docstart- (heaven%20shall%20burn_2.txt)	die skeptiker	303	die skeptiker	1.0
+-docstart- (heaven%20shall%20burn_2.txt)	bolt thrower	112	bolt thrower	1.0
+-docstart- (heaven%20shall%20burn_2.txt)	abhinanda	73	abhinanda	1.0
+-docstart- (headkase_0.txt)	headkase	39	headkase	1.0
+-docstart- (head%20phones%20president_0.txt)	slipknot	188	slipknot (band)	1.0
+-docstart- (hatesphere_4.txt)	napalm records	92	napalm records	1.0
+-docstart- (hatesphere_1.txt)	soilwork	148	soilwork	1.0
+-docstart- (hatesphere_1.txt)	kreator	125	kreator	1.0
+-docstart- (hatesphere_0.txt)	wacken open air	150	wacken open air	1.0
+-docstart- (hatesphere_0.txt)	scarlet records	24	scarlet records	1.0
+-docstart- (hatesphere_0.txt)	hatesphere	41	hatesphere	1.0
+-docstart- (hanoi%20rocks_5.txt)	tavastia club	130	tavastia club	1.0
+-docstart- (hanoi%20rocks_4.txt)	children of bodom	201	children of bodom	1.0
+-docstart- (hdk%20(band)_0.txt)	arien van weesenbeek	178	ariën van weesenbeek	1.0
+-docstart- (h.e.a.t_0.txt)	sabaton	95	sabaton (band)	1.0
+-docstart- (gutworm_3.txt)	anticulture records	83	anticulture records	1.0
+-docstart- (gutworm_3.txt)	anticulture records	133	anticulture records	1.0
+-docstart- (guerrillas%20(band)_0.txt)	sepultura	224	sepultura	1.0
+-docstart- (guerrillas%20(band)_0.txt)	ektomorf	110	ektomorf	1.0
+-docstart- (griva_1.txt)	spens sports center	55	spc vojvodina	1.0
+-docstart- (griva_1.txt)	osmi putnik	113	osmi putnik	1.0
+-docstart- (griva_1.txt)	alen islamović	140	alen islamović	1.0
+-docstart- (griva_0.txt)	miroslav ilić	147	miroslav ilić	1.0
+-docstart- (grimfist%20(band)_1.txt)	reidar horghagen	57	reidar horghagen	1.0
+-docstart- (grimfist%20(band)_0.txt)	christian svendsen	100	christian svendsen	1.0
+-docstart- (grenouer_2.txt)	warbringer	314	warbringer	1.0
+-docstart- (grenouer_2.txt)	soilwork	252	soilwork	1.0
+-docstart- (grenouer_2.txt)	grenouer	0	grenouer	1.0
+-docstart- (green%20lizard_6.txt)	krezip	64	krezip	1.0
+-docstart- (green%20lizard_6.txt)	dredg	232	dredg	1.0
+-docstart- (green%20lizard_6.txt)	alien ant farm	216	alien ant farm	1.0
+-docstart- (green%20lizard_5.txt)	motörhead	86	motörhead	1.0
+-docstart- (green%20carnation_2.txt)	christofer	295	christofer johnsson	1.0
+-docstart- (grave%20digger%20(band)_2.txt)	peter masson	117	peter masson	1.0
+-docstart- (grave%20digger%20(band)_0.txt)	celtic frost	112	celtic frost	1.0
+-docstart- (gotthard%20(band)_4.txt)	manowar	76	manowar	1.0
+-docstart- (gotthard%20(band)_0.txt)	leo leoni	64	gotthard (band)	1.0
+-docstart- (gore%20beyond%20necropsy_0.txt)	relapse records	741	relapse records	1.0
+-docstart- (gordian%20knot%20(band)_0.txt)	king crimson	73	king crimson	1.0
+-docstart- (gordi_0.txt)	kraljica	61	kraljica	1.0
+-docstart- (gordi_0.txt)	gordi	140	gordi (band)	1.0
+-docstart- (gordi_0.txt)	džentlmeni	237	džentlmeni	1.0
+-docstart- (gordi_0.txt)	dah	258	dah (band)	1.0
+-docstart- (gojira_1.txt)	mario duplantier	45	mario duplantier	1.0
+-docstart- (gojira_0.txt)	sepultura	73	sepultura	1.0
+-docstart- (gojira_0.txt)	joe duplantier	0	joe duplantier	1.0
+-docstart- (gojira_0.txt)	cavalera conspiracy	139	cavalera conspiracy	1.0
+-docstart- (godiva%20(band)_0.txt)	shakra	145	aous shakra	1.0
+-docstart- (godflesh_6.txt)	eraserhead	74	eraserhead	1.0
+-docstart- (godflesh_2.txt)	bryan mantia	81	bryan mantia	1.0
+-docstart- (glittertind%20(band)_2.txt)	ultima thule records	95	ultima thule records	1.0
+-docstart- (glittertind%20(band)_2.txt)	ultima thule records	44	ultima thule records	1.0
+-docstart- (glittertind%20(band)_2.txt)	napalm records	293	napalm records	1.0
+-docstart- (glittertind%20(band)_2.txt)	napalm records	250	napalm records	1.0
+-docstart- (glittertind%20(band)_2.txt)	karmageddon media	184	hammerheart records	1.0
+-docstart- (glittertind%20(band)_2.txt)	karmageddon media	139	hammerheart records	1.0
+-docstart- (glittertind%20(band)_2.txt)	evige asatro	74	evige asatro	1.0
+-docstart- (glittertind%20(band)_2.txt)	evige asatro	125	evige asatro	1.0
+-docstart- (girlschool_8.txt)	rhino records	276	rhino entertainment	1.0
+-docstart- (girlschool_8.txt)	oliver/dawson saxon	170	oliver/dawson saxon	1.0
+-docstart- (girlschool_4.txt)	zenyattà mondatta	196	zenyatta mondatta	1.0
+-docstart- (girlschool_4.txt)	nigel gray	104	nigel gray	1.0
+-docstart- (girlschool_3.txt)	judas priest	44	judas priest	1.0
+-docstart- (girlschool_2.txt)	vic maile	0	vic maile	1.0
+-docstart- (girlschool_2.txt)	feelgood	171	feelgood (song)	1.0
+-docstart- (gillan_2.txt)	bernie tormé	316	bernie tormé	1.0
+-docstart- (gillan_1.txt)	white spirit	19	white spirit (band)	1.0
+-docstart- (gillan_1.txt)	iron maiden	78	iron maiden	1.0
+-docstart- (gillan_1.txt)	gers	42	gers	1.0
+-docstart- (gillan_0.txt)	steve byrd	9	steve byrd	1.0
+-docstart- (gillan_0.txt)	genockey	31	liam genockey	1.0
+-docstart- (genetik%20blueprint_1.txt)	paul stewart	196	paul stewart (footballer, born 1964)	1.0
+-docstart- (gehenna%20(band)_0.txt)	moonfog productions	25	moonfog productions	1.0
+-docstart- (galneryus_2.txt)	digital ep	215	music download	1.0
+-docstart- (gfk%20(band)_0.txt)	welcoming committee	278	g7 welcoming committee records	1.0
+-docstart- (gfk%20(band)_0.txt)	christian	112	eastern orthodox church	1.0
+-docstart- (gfk%20(band)_0.txt)	chicken nuggets	32	chicken nugget	1.0
+-docstart- (fury%20(band)_0.txt)	megadeth	165	megadeth	1.0
+-docstart- (full%20scale_1.txt)	karnivool	71	karnivool	1.0
+-docstart- (full%20scale_0.txt)	black arrows	29	black arrows (ep)	1.0
+-docstart- (fuck%20the%20facts_5.txt)	great white north records	182	great white north records	1.0
+-docstart- (fuck%20the%20facts_3.txt)	locrian	81	locrian mode	1.0
+-docstart- (fuck%20the%20facts_2.txt)	antigama	103	antigama	1.0
+-docstart- (francis%20soto_0.txt)	francis soto band	0	francis soto band	1.0
+-docstart- (force%20of%20evil%20(band)_3.txt)	patino	0	hal patino	1.0
+-docstart- (force%20of%20evil%20(band)_2.txt)	shermann	11	hank shermann	1.0
+-docstart- (force%20of%20evil%20(band)_1.txt)	patino	24	hal patino	1.0
+-docstart- (flybanger_0.txt)	pantera	152	pantera	1.0
+-docstart- (floater%20(band)_5.txt)	mcdonald theater	287	mcdonald theatre	1.0
+-docstart- (floater%20(band)_3.txt)	u. s.	148	united states	1.0
+-docstart- (floater%20(band)_3.txt)	digital music express	255	dmx (music)	1.0
+-docstart- (fleshgod%20apocalypse_0.txt)	europe	30	europe	1.0
+-docstart- (five%20star%20prison%20cell_2.txt)	arch enemy	240	arch enemy	1.0
+-docstart- (five%20star%20prison%20cell_1.txt)	melbourne	30	melbourne	1.0
+-docstart- (five%20star%20prison%20cell_1.txt)	frankenbok	45	frankenbok	1.0
+-docstart- (five%20star%20prison%20cell_1.txt)	extra virgin	181	extra virgin (album)	1.0
+-docstart- (fire%20deuce_0.txt)	turbonegro	264	turbonegro	1.0
+-docstart- (finntroll_2.txt)	moonsorrow	166	moonsorrow	1.0
+-docstart- (finntroll_2.txt)	barathrum	58	barathrum	1.0
+-docstart- (fear%20of%20god%20(band)_1.txt)	dave phillips	176	dave phillips (ice hockey)	1.0
+-docstart- (fear%20of%20god%20(band)_1.txt)	dave phillips	14	dave phillips (ice hockey)	1.0
+-docstart- (farmer%20boys%20(band)_0.txt)	viva zwei	252	viva zwei	1.0
+-docstart- (eyes%20of%20eden_0.txt)	fedynitch	161	alla fedynitch	1.0
+-docstart- (extreme%20noise%20terror_9.txt)	phil vane	355	extreme noise terror	1.0
+-docstart- (extreme%20noise%20terror_9.txt)	mic hourihan	505	desecration (band)	1.0
+-docstart- (extreme%20noise%20terror_7.txt)	cauty	168	jimmy cauty	1.0
+-docstart- (extreme%20noise%20terror_4.txt)	grindcore	197	grindcore	1.0
+-docstart- (extreme%20noise%20terror_3.txt)	nme	53	nme	1.0
+-docstart- (extreme%20noise%20terror_11.txt)	patareni	436	patareni	1.0
+-docstart- (extreme%20noise%20terror_11.txt)	deathwish inc.	1038	deathwish inc.	1.0
+-docstart- (exit%20ten_4.txt)	stuart steele	49	stuart steele	1.0
+-docstart- (exit%20ten_4.txt)	joe ward	90	joe ward (boxer)	1.0
+-docstart- (exit%20ten_1.txt)	soilwork	151	soilwork	1.0
+-docstart- (exit%20ten_1.txt)	lyzanxia	161	lyzanxia	1.0
+-docstart- (ewigkeit%20(band)_2.txt)	ewigkeit	296	ewigkeit (band)	1.0
+-docstart- (evil%20masquerade_1.txt)	gram	57	gram	1.0
+-docstart- (evil%20masquerade_1.txt)	brockmann	74	miguel d'escoto brockmann	1.0
+-docstart- (evil%20masquerade_0.txt)	moahni moahna	128	moahni moahna	1.0
+-docstart- (evil%20masquerade_0.txt)	flyman	87	henrik flyman	1.0
+-docstart- (evergrey_6.txt)	iwers	115	peter iwers	1.0
+-docstart- (evergrey_4.txt)	evergrey	20	evergrey	1.0
+-docstart- (europe%20(band)_1.txt)	soundgarden	164	soundgarden	1.0
+-docstart- (eternal%20tears%20of%20sorrow_4.txt)	juha kylmänen	2	juha kylmänen	1.0
+-docstart- (eternal%20tears%20of%20sorrow_4.txt)	janne tolsa	153	janne tolsa	1.0
+-docstart- (eternal%20tears%20of%20sorrow_3.txt)	pekka kokko	25	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_3.txt)	kalmah	58	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_3.txt)	embraze	100	embraze	1.0
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	vilda mánnu	60	vilda mánnu	1.0
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	miriam elisabeth renvåg	216	ram-zet	1.0
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	juha kylmänen	133	juha kylmänen	1.0
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	heidi parviainen	489	heidi parviainen	1.0
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	amberian dawn	553	amberian dawn	1.0
+-docstart- (eternal%20tears%20of%20sorrow_1.txt)	kalmah	477	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_1.txt)	kalmah	383	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_1.txt)	kalmah	296	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_1.txt)	kalmah	158	kalmah	1.0
+-docstart- (eternal%20tears%20of%20sorrow_0.txt)	pudasjärvi	103	pudasjärvi	1.0
+-docstart- (eternal%20tears%20of%20sorrow_0.txt)	northern ostrobothnia	117	northern ostrobothnia	1.0
+-docstart- (eternal%20gray_3.txt)	rotting christ	193	rotting christ	1.0
+-docstart- (eternal%20gray_3.txt)	megadeth	162	megadeth	1.0
+-docstart- (eternal%20gray_1.txt)	tommy tägtgren	54	tommy tägtgren	1.0
+-docstart- (eternal%20gray_1.txt)	peter tägtgren	91	peter tägtgren	1.0
+-docstart- (erben%20der%20sch%c3%b6pfung_0.txt)	wave-gotik-treffen	48	wave-gotik-treffen	1.0
+-docstart- (erben%20der%20sch%c3%b6pfung_0.txt)	alexander krull	145	alexander krull	1.0
+-docstart- (epica%20(band)_7.txt)	coen janssen	151	coen janssen	1.0
+-docstart- (epica%20(band)_3.txt)	epica	0	epica (band)	1.0
+-docstart- (entwine_0.txt)	hiilesmaa	112	hiili hiilesmaa	1.0
+-docstart- (enthroned_0.txt)	tetra karcist	633	tetra karcist	1.0
+-docstart- (enthroned_0.txt)	napalm records	667	napalm records	1.0
+-docstart- (enthroned_0.txt)	napalm records	615	napalm records	1.0
+-docstart- (enthroned_0.txt)	napalm records	483	napalm records	1.0
+-docstart- (enslaved%20(band)_4.txt)	vikingligr veldi	64	vikingligr veldi	1.0
+-docstart- (enslaved%20(band)_3.txt)	ivar bjørnson	70	ivar bjørnson	1.0
+-docstart- (enslaved%20(band)_3.txt)	herbrand larsen	230	herbrand larsen	1.0
+-docstart- (enslaved%20(band)_2.txt)	gylfaginning	268	gylfaginning	1.0
+-docstart- (ensiferum_6.txt)	judas priest	454	judas priest	1.0
+-docstart- (ensiferum_4.txt)	moonsorrow	128	moonsorrow	1.0
+-docstart- (ensiferum_3.txt)	jari mäenpää	247	jari mäenpää	1.0
+-docstart- (ensiferum_1.txt)	nosturi	95	nosturi	1.0
+-docstart- (enochian%20theory_4.txt)	volbeat	269	volbeat	1.0
+-docstart- (enochian%20theory_4.txt)	mascot records	130	mascot records	1.0
+-docstart- (enochian%20theory_2.txt)	opeth	188	opeth	1.0
+-docstart- (enochian%20theory_2.txt)	katatonia	99	katatonia	1.0
+-docstart- (enochian%20theory_1.txt)	big cheese magazine	668	big cheese (magazine)	1.0
+-docstart- (enhet%20(band)_0.txt)	madball	131	madball	1.0
+-docstart- (enhet%20(band)_0.txt)	agnostic front	115	agnostic front	1.0
+-docstart- (enemy%20of%20the%20sun%20(band)_1.txt)	fedynitch	23	alla fedynitch	1.0
+-docstart- (enemy%20of%20the%20sun%20(band)_0.txt)	sorychta	28	waldemar sorychta	1.0
+-docstart- (enemy%20of%20the%20sun%20(band)_0.txt)	grip inc.	87	grip inc.	1.0
+-docstart- (end%20of%20green%20(band)_0.txt)	wave-gotik-treffen	98	wave-gotik-treffen	1.0
+-docstart- (emperor%20(band)_1.txt)	peccatum	63	peccatum	1.0
+-docstart- (emperor%20(band)_1.txt)	ihsahn	6	ihsahn	1.0
+-docstart- (emperor%20(band)_1.txt)	asgeir mickelson	91	asgeir mickelson	1.0
+-docstart- (emperor%20(band)_0.txt)	vikernes	70	varg vikernes	1.0
+-docstart- (emperor%20(band)_0.txt)	euronymous	55	euronymous	1.0
+-docstart- (emigrate_1.txt)	margaux bossieux	173	margaux bossieux	1.0
+-docstart- (emigrate_1.txt)	joe letz	89	joe letz	1.0
+-docstart- (emigrate_0.txt)	olsen involtini	41	emigrate (band)	1.0
+-docstart- (embryonic%20soul_1.txt)	chalice	104	chalice (band)	1.0
+-docstart- (eluveitie_4.txt)	slania	44	slania	1.0
+-docstart- (eluveitie_0.txt)	slania	360	slania	1.0
+-docstart- (elixir%20(metal%20band)_0.txt)	helloween	155	helloween	1.0
+-docstart- (elis%20(band)_4.txt)	trakl	180	georg trakl	1.0
+-docstart- (elis%20(band)_2.txt)	schleret	102	sandra schleret	1.0
+-docstart- (elis%20(band)_1.txt)	napalm records	133	napalm records	1.0
+-docstart- (elexorien_1.txt)	korpiklaani	158	korpiklaani	1.0
+-docstart- (eisbrecher_2.txt)	media control charts	78	gfk entertainment charts	1.0
+-docstart- (eisbrecher_0.txt)	wesselsky	60	alexander wesselsky	1.0
+-docstart- (edguy_4.txt)	hansi kürsch	195	hansi kürsch	1.0
+-docstart- (edguy_1.txt)	hansi kürsch	230	hansi kürsch	1.0
+-docstart- (e.quals_2.txt)	kathmandu	308	kathmandu	1.0
+-docstart- (drive%20(band)_1.txt)	judas priest	184	judas priest	1.0
+-docstart- (dreamtone%20&%20iris%20mavrakis%20neverland_2.txt)	hansi kürsch	34	hansi kürsch	1.0
+-docstart- (dreams%20of%20sanity_0.txt)	garry sharpe-young	32	garry sharpe-young	1.0
+-docstart- (dr.%20sin_8.txt)	pato fu	241	pato fu	1.0
+-docstart- (dr.%20sin_8.txt)	cachorro grande	224	cachorro grande	1.0
+-docstart- (dr.%20sin_7.txt)	casa das máquinas	125	casa das máquinas	1.0
+-docstart- (dr.%20sin_5.txt)	malmsteen	58	yngwie malmsteen	1.0
+-docstart- (dr.%20sin_2.txt)	satriani	47	joe satriani	1.0
+-docstart- (double%20dragon%20(band)_4.txt)	pantera	176	pantera	1.0
+-docstart- (double%20dragon%20(band)_4.txt)	judas priest	108	judas priest	1.0
+-docstart- (double%20dragon%20(band)_4.txt)	bungle	228	bungle (rainbow)	1.0
+-docstart- (double%20dragon%20(band)_4.txt)	black sabbath	93	black sabbath	1.0
+-docstart- (double%20dragon%20(band)_1.txt)	soilwork	107	soilwork	1.0
+-docstart- (double%20dragon%20(band)_0.txt)	arch enemy	195	arch enemy	1.0
+-docstart- (domenica%20(canadian%20band)_1.txt)	popkomm	153	popkomm	1.0
+-docstart- (dol%20ammad_0.txt)	dol ammad	0	dol ammad	1.0
+-docstart- (dismal%20euphony_0.txt)	kreator	210	kreator	1.0
+-docstart- (discordia%20(band)_0.txt)	sickman	161	dirt (alice in chains album)	1.0
+-docstart- (discordia%20(band)_0.txt)	shreen	118	shreen	1.0
+-docstart- (dirge%20within_0.txt)	static-x	88	static-x	1.0
+-docstart- (dio%20(band)_4.txt)	rowan robertson	286	rowan robertson	1.0
+-docstart- (dio%20(band)_4.txt)	larry dennison	554	country bones	1.0
+-docstart- (dio%20(band)_1.txt)	tracy g	23	tracy g	1.0
+-docstart- (dio%20(band)_0.txt)	tracy g	75	tracy g	1.0
+-docstart- (dio%20(band)_0.txt)	rowan robertson	92	rowan robertson	1.0
+-docstart- (dimmu%20borgir_4.txt)	susperia	330	susperia	1.0
+-docstart- (dimmu%20borgir_4.txt)	panzerchrist	192	panzerchrist	1.0
+-docstart- (dimmu%20borgir_4.txt)	carl-michael eide	105	carl-michael eide	1.0
+-docstart- (dimmu%20borgir_3.txt)	tjodalv	133	tjodalv	1.0
+-docstart- (dimmu%20borgir_3.txt)	nagash	66	stian hinderson	1.0
+-docstart- (dimmu%20borgir_2.txt)	dødheimsgard	209	dødheimsgard	1.0
+-docstart- (dimmu%20borgir_1.txt)	tjodalv	33	tjodalv	1.0
+-docstart- (dimmu%20borgir_1.txt)	silenoz	20	silenoz	1.0
+-docstart- (dimmu%20borgir_1.txt)	shagrath	10	shagrath	1.0
+-docstart- (diamond%20head%20(band)_6.txt)	tommy vance	351	tommy vance	1.0
+-docstart- (diamond%20head%20(band)_6.txt)	andy peebles	625	andy peebles	1.0
+-docstart- (diamond%20head%20(band)_6.txt)	andy peebles	540	andy peebles	1.0
+-docstart- (diamond%20head%20(band)_3.txt)	brian tatler	0	brian tatler	1.0
+-docstart- (diamond%20head%20(band)_2.txt)	judas priest	170	judas priest	1.0
+-docstart- (diamond%20head%20(band)_1.txt)	london astoria	105	london astoria	1.0
+-docstart- (diamond%20head%20(band)_0.txt)	megadeth	61	megadeth	1.0
+-docstart- (diamond%20head%20(band)_0.txt)	megadeth	127	megadeth	1.0
+-docstart- (dezperadoz_2.txt)	weikath	84	michael weikath	1.0
+-docstart- (dezperadoz_2.txt)	doro pesch	111	doro (musician)	1.0
+-docstart- (dezperadoz_0.txt)	dezperadoz	0	dezperadoz	1.0
+-docstart- (dezperadoz_0.txt)	angelripper	95	tom angelripper	1.0
+-docstart- (devolved%20(band)_3.txt)	john sankey	144	john sankey (drummer)	1.0
+-docstart- (devolved%20(band)_2.txt)	prosthetic records	44	prosthetic records	1.0
+-docstart- (devils%20whorehouse_0.txt)	samhain	152	samhain (band)	1.0
+-docstart- (devils%20whorehouse_0.txt)	morgan håkansson	74	morgan steinmeyer håkansson	1.0
+-docstart- (devilish%20impressions_5.txt)	przemyslaw	31	przemysław	1.0
+-docstart- (devilish%20impressions_4.txt)	moonspell	157	moonspell	1.0
+-docstart- (devilish%20impressions_1.txt)	europe	148	europe	1.0
+-docstart- (deuteronomium%20(band)_2.txt)	mikko härkin	129	mikko härkin	1.0
+-docstart- (deuteronomium%20(band)_2.txt)	mehida	162	mehida	1.0
+-docstart- (deuteronomium%20(band)_1.txt)	veni domine	152	veni domine	1.0
+-docstart- (deuteronomium%20(band)_1.txt)	sanctifica	168	sanctifica	1.0
+-docstart- (deus%20ex%20machina%20(heavy%20metal%20band)_2.txt)	meshuggah	98	meshuggah	1.0
+-docstart- (detonation%20(band)_0.txt)	mike ferguson	57	libertarian party (united states)	1.0
+-docstart- (destr%c3%b6yer%20666_1.txt)	abominator	162	abominator (band)	1.0
+-docstart- (demenzia_1.txt)	ukraine	1001	ukraine	1.0
+-docstart- (demenzia_1.txt)	plovdiv	329	plovdiv	1.0
+-docstart- (demenzia_1.txt)	bourgas	590	burgas	1.0
+-docstart- (defenestration%20(band)_3.txt)	kerrang	134	kerrang!	1.0
+-docstart- (defenestration%20(band)_2.txt)	wembley arena	105	wembley arena	1.0
+-docstart- (defenestration%20(band)_1.txt)	europe	80	europe	1.0
+-docstart- (defenestration%20(band)_1.txt)	biffy clyro	201	biffy clyro	1.0
+-docstart- (def%20leppard_8.txt)	judas priest	38	judas priest	1.0
+-docstart- (def%20leppard_4.txt)	tony kenning	53	tony kenning	1.0
+-docstart- (def%20leppard_4.txt)	tapton school	83	tapton school	1.0
+-docstart- (def%20leppard_3.txt)	pyromania	105	pyromania (album)	1.0
+-docstart- (deep%20purple_9.txt)	satriani	379	joe satriani	1.0
+-docstart- (deep%20purple_4.txt)	ritchie blackmore	133	ritchie blackmore	1.0
+-docstart- (deep%20purple_2.txt)	royal philharmonic orchestra	203	royal philharmonic orchestra	1.0
+-docstart- (deep%20purple_2.txt)	royal albert hall	176	royal albert hall	1.0
+-docstart- (deep%20purple_2.txt)	concerto for group and orchestra	52	concerto for group and orchestra	1.0
+-docstart- (deathstars_3.txt)	ole öhman	129	ole öhman	1.0
+-docstart- (deathstars_3.txt)	emil nödtveidt	174	deathstars	1.0
+-docstart- (deathchain_0.txt)	europe	64	europe	1.0
+-docstart- (deadsoul%20tribe_1.txt)	devon graves	136	psychotic waltz	1.0
+-docstart- (dead%20child_2.txt)	zwan	17	zwan	1.0
+-docstart- (dead%20child_2.txt)	glasspack	102	glasspack	1.0
+-docstart- (dead%20child_2.txt)	dahm	250	evan dahm	1.0
+-docstart- (dead%20child_1.txt)	mtv	92	mtv	1.0
+-docstart- (dead%20child_0.txt)	metallica	139	metallica	1.0
+-docstart- (dead%20child_0.txt)	mcmahan	51	brian mcmahan	1.0
+-docstart- (dead%20child_0.txt)	judas priest	163	judas priest	1.0
+-docstart- (daughters%20of%20mara_0.txt)	dave elitch	78	david elitch	1.0
+-docstart- (darkthrone_1.txt)	neptune towers	39	neptune towers	1.0
+-docstart- (darkthrone_0.txt)	ted skjellum	186	nocturno culto	1.0
+-docstart- (darkthrone_0.txt)	ivar enger	220	ivar enger	1.0
+-docstart- (darkthrone_0.txt)	gylve nagell	154	fenriz	1.0
+-docstart- (darkthrone_0.txt)	darkthrone	13	darkthrone	1.0
+-docstart- (daedalus%20(band)_3.txt)	judas priest	124	judas priest	1.0
+-docstart- (daedalus%20(band)_2.txt)	simonetti	142	claudio simonetti	1.0
+-docstart- (daedalus%20(band)_2.txt)	daemonia	132	daemonia nymphe	1.0
+-docstart- (crucified%20barbara_0.txt)	mats levén	29	mats levén	1.0
+-docstart- (crucified%20barbara_0.txt)	malmsteen	71	yngwie malmsteen	1.0
+-docstart- (cruachan%20(band)_0.txt)	gael	38	gael garcía bernal	1.0
+-docstart- (crossfire%20(band)_9.txt)	sabaton	149	sabaton (band)	1.0
+-docstart- (crossfire%20(band)_9.txt)	betzefer	207	betzefer	1.0
+-docstart- (crossfire%20(band)_9.txt)	almana shchora	191	almana shchora	1.0
+-docstart- (crossfire%20(band)_5.txt)	megadeth	176	megadeth	1.0
+-docstart- (crossfire%20(band)_1.txt)	rishon	149	rishon lezion	1.0
+-docstart- (crossfire%20(band)_1.txt)	judas priest	295	judas priest	1.0
+-docstart- (crashd%c3%afet_0.txt)	hanoi rocks	64	hanoi rocks	1.0
+-docstart- (crashd%c3%afet_0.txt)	dave lepard	264	dave lepard	1.0
+-docstart- (cranium%20(band)_0.txt)	kreator	102	kreator	1.0
+-docstart- (corrupted%20(band)_1.txt)	noothgrush	103	noothgrush	1.0
+-docstart- (corrupted%20(band)_1.txt)	machetazo	231	machetazo	1.0
+-docstart- (corrupted%20(band)_1.txt)	black army jacket	34	black army jacket	1.0
+-docstart- (corpus%20mortale_3.txt)	søren jensen	122	søren jensen (footballer)	1.0
+-docstart- (corpus%20mortale_3.txt)	mads haarløv	193	mads haarløv	1.0
+-docstart- (corpus%20mortale_2.txt)	willowtip records	16	willowtip records	1.0
+-docstart- (corpus%20mortale_2.txt)	willowtip records	114	willowtip records	1.0
+-docstart- (corpus%20mortale_2.txt)	neurotic records	147	neurotic records	1.0
+-docstart- (coppelius_0.txt)	coppelius	0	coppelius	1.0
+-docstart- (contrive_0.txt)	sepultura	197	sepultura	1.0
+-docstart- (contrive_0.txt)	opeth	253	opeth	1.0
+-docstart- (consecration%20(band)_2.txt)	sigur rós	195	sigur rós	1.0
+-docstart- (consecration%20(band)_1.txt)	opeth	85	opeth	1.0
+-docstart- (consecration%20(band)_1.txt)	katatonia	92	katatonia	1.0
+-docstart- (clockwise%20(swedish%20band)_0.txt)	talisman	80	talisman (band)	1.0
+-docstart- (clockwise%20(swedish%20band)_0.txt)	southpaw	102	southpaw stance	1.0
+-docstart- (clockwise%20(swedish%20band)_0.txt)	opeth	120	opeth	1.0
+-docstart- (clockwise%20(swedish%20band)_0.txt)	fredrik åkesson	63	fredrik åkesson	1.0
+-docstart- (clockwise%20(swedish%20band)_0.txt)	arch enemy	90	arch enemy	1.0
+-docstart- (clawfinger_6.txt)	wdr rockpalast	114	rockpalast	1.0
+-docstart- (clawfinger_5.txt)	wdr rockpalast	524	rockpalast	1.0
+-docstart- (clawfinger_5.txt)	wdr rockpalast	432	rockpalast	1.0
+-docstart- (clawfinger_5.txt)	kb hallen	18	k.b. hallen	1.0
+-docstart- (clawfinger_2.txt)	peter tagtgren	73	peter tägtgren	1.0
+-docstart- (clawfinger_1.txt)	megadeth	208	megadeth	1.0
+-docstart- (clandestine%20blaze_0.txt)	darkthrone	11	darkthrone	1.0
+-docstart- (clandestine%20blaze_0.txt)	beherit	31	beherit	1.0
+-docstart- (clagg_3.txt)	frankenbok	145	frankenbok	1.0
+-docstart- (clagg_2.txt)	nervecell	122	nervecell	1.0
+-docstart- (chrome%20division_2.txt)	dimmu borgir	48	dimmu borgir	1.0
+-docstart- (chrome%20division_1.txt)	shagrath	14	shagrath	1.0
+-docstart- (chrome%20division_1.txt)	black label society	62	black label society	1.0
+-docstart- (chrome%20division_0.txt)	shagrath	68	shagrath	1.0
+-docstart- (children%20of%20bodom_7.txt)	andrew wk	82	andrew w.k.	1.0
+-docstart- (children%20of%20bodom_6.txt)	palladium ballroom	411	palladium ballroom	1.0
+-docstart- (children%20of%20bodom_6.txt)	dallas tx	431	dallas	1.0
+-docstart- (children%20of%20bodom_5.txt)	megadeth	136	megadeth	1.0
+-docstart- (children%20of%20bodom_2.txt)	sinergy	36	sinergy	1.0
+-docstart- (children%20of%20bodom_2.txt)	dimmu borgir	60	dimmu borgir	1.0
+-docstart- (children%20of%20bodom_10.txt)	samuli miettinen	391	children of bodom	1.0
+-docstart- (children%20of%20bodom_1.txt)	wirman	158	janne wirman	1.0
+-docstart- (children%20of%20bodom_0.txt)	wirman	98	janne wirman	1.0
+-docstart- (children%20of%20bodom_0.txt)	henkka seppälä	118	henkka seppälä	1.0
+-docstart- (chapter%2014_0.txt)	tanner sparks	196	tanner sparks	1.0
+-docstart- (chambers%20of%20insanity_1.txt)	san remo	123	sanremo	1.0
+-docstart- (chain%20collector_0.txt)	carpathian forest	67	carpathian forest	1.0
+-docstart- (cerebral%20fix_3.txt)	roadrunner records	79	roadrunner records	1.0
+-docstart- (cerebral%20fix_3.txt)	roadrunner records	116	roadrunner records	1.0
+-docstart- (cerebral%20fix_1.txt)	the marquee club	97	marquee club	1.0
+-docstart- (cerebral%20fix_1.txt)	sepultura	84	sepultura	1.0
+-docstart- (cerebral%20fix_1.txt)	roadrunner records	22	roadrunner records	1.0
+-docstart- (cerebral%20fix_0.txt)	hellbastard	122	hellbastard	1.0
+-docstart- (cellador_3.txt)	horiuchi	253	kenyu horiuchi	1.0
+-docstart- (cellador_2.txt)	progpower usa	48	progpower usa	1.0
+-docstart- (catharsis%20(metal%20band)_0.txt)	mavrin	121	sergey mavrin	1.0
+-docstart- (catarrhal%20noise_4.txt)	alberto bello	114	alberto bello	1.0
+-docstart- (catarrhal%20noise_0.txt)	noale	53	noale	1.0
+-docstart- (catamenia%20(band)_3.txt)	embraze	135	embraze	1.0
+-docstart- (catamenia%20(band)_2.txt)	the black league	147	the black league	1.0
+-docstart- (catamenia%20(band)_0.txt)	mystic circle	153	mystic circle	1.0
+-docstart- (catamenia%20(band)_0.txt)	beindersheim	91	beindersheim	1.0
+-docstart- (carpathian%20forest_4.txt)	vrangsinn	526	vrangsinn	1.0
+-docstart- (carpathian%20forest_4.txt)	vrangsinn	256	vrangsinn	1.0
+-docstart- (carpathian%20forest_4.txt)	vrangsinn	141	vrangsinn	1.0
+-docstart- (carpathian%20forest_2.txt)	terje vik schei	25	tchort	1.0
+-docstart- (carpathian%20forest_2.txt)	nedland	164	lars nedland	1.0
+-docstart- (cargo%20(band)_0.txt)	timişoara	232	timișoara	1.0
+-docstart- (carcass%20(band)_5.txt)	earache records	244	earache records	1.0
+-docstart- (carcass%20(band)_5.txt)	earache records	160	earache records	1.0
+-docstart- (carcass%20(band)_4.txt)	earache records	31	earache records	1.0
+-docstart- (carcass%20(band)_4.txt)	earache records	217	earache records	1.0
+-docstart- (carcass%20(band)_4.txt)	earache records	182	earache records	1.0
+-docstart- (carcass%20(band)_4.txt)	earache records	146	earache records	1.0
+-docstart- (cadaveria_1.txt)	necrodeath	199	necrodeath	1.0
+-docstart- (cadaveria_1.txt)	necrodeath	124	necrodeath	1.0
+-docstart- (cadaveria_1.txt)	marcelo santos	167	marcelo santos	1.0
+-docstart- (cadaveria_1.txt)	killer bob	90	killer bob	1.0
+-docstart- (cadaver%20(band)_0.txt)	ole jørgen moe	57	ole moe	1.0
+-docstart- (byzantine%20(band)_4.txt)	petrozza	134	mille petrozza	1.0
+-docstart- (byzantine%20(band)_4.txt)	hetfield	104	james hetfield	1.0
+-docstart- (byzantine%20(band)_1.txt)	prosthetic records	171	prosthetic records	1.0
+-docstart- (burning%20point_1.txt)	kalmah	157	kalmah	1.0
+-docstart- (bullet%20for%20my%20valentine_3.txt)	manchester men arena	153	manchester arena	1.0
+-docstart- (bullet%20for%20my%20valentine_2.txt)	taste of chaos	103	taste of chaos	1.0
+-docstart- (bullet%20for%20my%20valentine_2.txt)	blessthefall	141	blessthefall	1.0
+-docstart- (bullet%20for%20my%20valentine_1.txt)	trustkill records	162	trustkill records	1.0
+-docstart- (bulldozer%20(band)_2.txt)	poland	200	poland	1.0
+-docstart- (budgie%20(band)_5.txt)	tredegar	61	tredegar	1.0
+-docstart- (budgie%20(band)_5.txt)	tredegar	23	tredegar	1.0
+-docstart- (budgie%20(band)_5.txt)	ray phillips	92	ray phillips (cricketer)	1.0
+-docstart- (budgie%20(band)_5.txt)	ray phillips	215	ray phillips (cricketer)	1.0
+-docstart- (budgie%20(band)_5.txt)	ray phillips	147	ray phillips (cricketer)	1.0
+-docstart- (budgie%20(band)_5.txt)	bourge	81	tony bourge	1.0
+-docstart- (budgie%20(band)_2.txt)	rockfield studios	75	rockfield studios	1.0
+-docstart- (budgie%20(band)_1.txt)	raymond john phillips	287	ray phillips (musician)	1.0
+-docstart- (budgie%20(band)_1.txt)	bourge	147	tony bourge	1.0
+-docstart- (budgie%20(band)_0.txt)	sharpe-young	117	garry sharpe-young	1.0
+-docstart- (budgie%20(band)_0.txt)	judas priest	502	judas priest	1.0
+-docstart- (brujeria%20(band)_8.txt)	emilio marquez	313	emilio márquez	1.0
+-docstart- (brujeria%20(band)_8.txt)	antonio hernandez	379	antonio hernández	1.0
+-docstart- (brujeria%20(band)_4.txt)	corridos de muerte	141	corridos de muerte	1.0
+-docstart- (brujeria%20(band)_2.txt)	brujo	92	ojos de brujo	1.0
+-docstart- (brown%20brigade_3.txt)	megadeth	110	megadeth	1.0
+-docstart- (brown%20brigade_3.txt)	dave baksh	0	dave baksh	1.0
+-docstart- (brown%20brigade_2.txt)	brown brigade	50	brown brigade	1.0
+-docstart- (brown%20brigade_0.txt)	brown brigade	0	brown brigade	1.0
+-docstart- (bring%20me%20the%20horizon_7.txt)	visible noise records	70	visible noise	1.0
+-docstart- (bring%20me%20the%20horizon_7.txt)	epitaph records	113	epitaph records	1.0
+-docstart- (bring%20me%20the%20horizon_5.txt)	lostprophets	144	lostprophets	1.0
+-docstart- (bring%20me%20the%20horizon_5.txt)	ben weinman	55	ben weinman	1.0
+-docstart- (bring%20me%20the%20horizon_2.txt)	dimmu borgir	181	dimmu borgir	1.0
+-docstart- (bring%20me%20the%20horizon_2.txt)	arch enemy	141	arch enemy	1.0
+-docstart- (bring%20me%20the%20horizon_0.txt)	epitaph records	28	epitaph records	1.0
+-docstart- (bride%20(band)_1.txt)	starsong	93	star song communications	1.0
+-docstart- (born%20from%20pain_0.txt)	agnostic front	118	agnostic front	1.0
+-docstart- (boris%20(band)_2.txt)	wata	0	eddy wata	1.0
+-docstart- (boris%20(band)_2.txt)	kyuss	314	kyuss	1.0
+-docstart- (bonfire%20(band)_4.txt)	schanzer herz	139	schanzer herz	1.0
+-docstart- (bloodthorn_0.txt)	carpathian forest	198	carpathian forest	1.0
+-docstart- (bloodthorn_0.txt)	bloodthorn	35	bloodthorn	1.0
+-docstart- (bloodbound_1.txt)	judas priest	138	judas priest	1.0
+-docstart- (bloodbound_0.txt)	tomas olsson	63	tomas olsson	1.0
+-docstart- (bloodbound_0.txt)	pelle åkerlind	158	pelle åkerlind	1.0
+-docstart- (bloodbound_0.txt)	morgana lefay	174	morgana lefay	1.0
+-docstart- (bloodbound_0.txt)	michael bormann	104	michael bormann	1.0
+-docstart- (bloodbound_0.txt)	fredrik bergh	45	fredrik bergh (musician)	1.0
+-docstart- (block%20out%20(band)_1.txt)	godina	36	john godina	1.0
+-docstart- (block%20out%20(band)_0.txt)	vranjković	268	vojislav vranjković	1.0
+-docstart- (block%20out%20(band)_0.txt)	soundgarden	56	soundgarden	1.0
+-docstart- (block%20out%20(band)_0.txt)	pink floyd	69	pink floyd	1.0
+-docstart- (block%20out%20(band)_0.txt)	ekatarina velika	131	ekatarina velika	1.0
+-docstart- (blindspott_0.txt)	linkin park	158	linkin park	1.0
+-docstart- (blind%20myself_5.txt)	keelhaul	232	keelhaul (band)	1.0
+-docstart- (blind%20myself_4.txt)	sepultura	194	sepultura	1.0
+-docstart- (blind%20myself_0.txt)	eastern europe	96	eastern europe	1.0
+-docstart- (blackstar%20(band)_2.txt)	hüsker dü	311	hüsker dü	1.0
+-docstart- (blackguard%20(band)_0.txt)	moonsorrow	232	moonsorrow	1.0
+-docstart- (blackguard%20(band)_0.txt)	krisiun	215	krisiun	1.0
+-docstart- (blackguard%20(band)_0.txt)	korpiklaani	244	korpiklaani	1.0
+-docstart- (black%20sabbath_9.txt)	appice	51	vinny appice	1.0
+-docstart- (black%20sabbath_5.txt)	sharon arden	44	sharon osbourne	1.0
+-docstart- (black%20sabbath_3.txt)	tony iommi	121	tony iommi	1.0
+-docstart- (black%20sabbath_12.txt)	ozzy osbourne	6	ozzy osbourne	1.0
+-docstart- (black%20sabbath_11.txt)	ozzy osbourne	15	ozzy osbourne	1.0
+-docstart- (black%20sabbath_10.txt)	morbid angel	217	morbid angel	1.0
+-docstart- (black%20sabbath_0.txt)	warner bros	63	warner bros.	1.0
+-docstart- (bjesovi_3.txt)	tomi sovilj	190	tomi sovilj i njegove siluete	1.0
+-docstart- (bjesovi_3.txt)	sam the sham	269	sam the sham	1.0
+-docstart- (bjesovi_1.txt)	dostoyevsky	138	fyodor dostoyevsky	1.0
+-docstart- (biomechanical%20(band)_2.txt)	john k.	10	john kricfalusi	1.0
+-docstart- (biomechanical%20(band)_1.txt)	judas priest	95	judas priest	1.0
+-docstart- (biomechanical%20(band)_1.txt)	john k.	27	john kricfalusi	1.0
+-docstart- (beyond%20dawn_1.txt)	ved buens ende	124	ved buens ende	1.0
+-docstart- (beyond%20dawn_0.txt)	showbiz	282	showbiz and a.g.	1.0
+-docstart- (betzefer_4.txt)	sepultura	156	sepultura	1.0
+-docstart- (betzefer_2.txt)	betzefer	39	betzefer	1.0
+-docstart- (betzefer_1.txt)	sepultura	39	sepultura	1.0
+-docstart- (betzefer_0.txt)	sepultura	59	sepultura	1.0
+-docstart- (betzefer_0.txt)	betzefer	0	betzefer	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_9.txt)	megadeth	133	megadeth	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_9.txt)	la leyenda continua	11	la leyenda continúa	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_9.txt)	judas priest	163	judas priest	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_8.txt)	david lazar	80	david lazar	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_7.txt)	olaf thorsen	100	olaf thörsen	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_5.txt)	juha-pekka leppäluoto	210	juha-pekka leppäluoto	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_2.txt)	sabine edelsbacher	89	edenbridge (band)	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	megadeth	38	megadeth	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	judas priest	75	judas priest	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_1.txt)	skyclad	332	skyclad (band)	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_1.txt)	porcupine tree	341	porcupine tree	1.0
+-docstart- (beto%20v%c3%a1zquez%20infinity_1.txt)	moonspell	357	moonspell	1.0
+-docstart- (beherit%20(band)_1.txt)	engram	142	engram (album)	1.0
+-docstart- (beherit%20(band)_0.txt)	the black league	149	the black league	1.0
+-docstart- (beherit%20(band)_0.txt)	painflow	73	painflow	1.0
+-docstart- (behemoth%20(band)_7.txt)	zos kia cultus	162	zos kia cultus (here and beyond)	1.0
+-docstart- (behemoth%20(band)_3.txt)	opeth	87	opeth	1.0
+-docstart- (behemoth%20(band)_1.txt)	satanica	25	satanica (album)	1.0
+-docstart- (battered%20(band)_0.txt)	einherjer	80	einherjer	1.0
+-docstart- (bats%20(band)_0.txt)	sebadoh	115	sebadoh	1.0
+-docstart- (bassinvaders_1.txt)	angelripper	10	tom angelripper	1.0
+-docstart- (bar%c3%b3n%20rojo_0.txt)	barón rojo	0	barón rojo	1.0
+-docstart- (baptism%20(band)_0.txt)	turmion kätilöt	179	turmion kätilöt	1.0
+-docstart- (bad%20news_2.txt)	den dennis	77	nigel planer	1.0
+-docstart- (bad%20news_2.txt)	colin grigson	115	rik mayall	1.0
+-docstart- (bad%20news_1.txt)	den dennis	95	nigel planer	1.0
+-docstart- (bad%20news_1.txt)	colin grigson	132	rik mayall	1.0
+-docstart- (bad%20acid%20trip_0.txt)	tankian	95	serj tankian	1.0
+-docstart- (azrail%20(band)_0.txt)	mind assault	200	mind assault	1.0
+-docstart- (azrail%20(band)_0.txt)	azrail	9	azrael	1.0
+-docstart- (avulsed_0.txt)	dave rotten	84	dave rotten	1.0
+-docstart- (aurthohin_0.txt)	rockstrata	32	rockstrata	1.0
+-docstart- (aura%20noir_0.txt)	ole jørgen moe	172	ole moe	1.0
+-docstart- (aura%20noir_0.txt)	dødheimsgard	109	dødheimsgard	1.0
+-docstart- (aura%20noir_0.txt)	cadaver inc.	95	cadaver (band)	1.0
+-docstart- (aura%20noir_0.txt)	cadaver inc.	268	cadaver (band)	1.0
+-docstart- (atrocity%20(band)_0.txt)	ludwigsburg	42	ludwigsburg	1.0
+-docstart- (atomkraft_1.txt)	megadeth	113	megadeth	1.0
+-docstart- (atomkraft_0.txt)	motörhead	80	motörhead	1.0
+-docstart- (atomic%20mass%20(band)_3.txt)	tony kenning	445	tony kenning	1.0
+-docstart- (atomic%20mass%20(band)_3.txt)	paul holland	70	paul holland	1.0
+-docstart- (atomic%20mass%20(band)_3.txt)	andy nicholas	399	andrew nicholas	1.0
+-docstart- (atomic%20mass%20(band)_1.txt)	tony kenning	59	tony kenning	1.0
+-docstart- (atomic%20mass%20(band)_1.txt)	tapton school	106	tapton school	1.0
+-docstart- (astral%20doors_0.txt)	borlänge	89	borlänge	1.0
+-docstart- (astarte%20(band)_1.txt)	sattler	141	henri sattler	1.0
+-docstart- (astarte%20(band)_1.txt)	lloth	305	lolth	1.0
+-docstart- (astarte%20(band)_1.txt)	lloth	26	lolth	1.0
+-docstart- (astarte%20(band)_1.txt)	dimmu borgir	467	dimmu borgir	1.0
+-docstart- (astarte%20(band)_1.txt)	arch enemy	235	arch enemy	1.0
+-docstart- (asphyx_1.txt)	century media	192	century media records	1.0
+-docstart- (asking%20alexandria_1.txt)	ben bruce	21	ben bruce	1.0
+-docstart- (asking%20alexandria_1.txt)	ben bruce	140	ben bruce	1.0
+-docstart- (asguard%20(band)_0.txt)	rossomahaar	126	rossomahaar	1.0
+-docstart- (asesino_0.txt)	sepultura	116	sepultura	1.0
+-docstart- (asesino_0.txt)	fear factory	102	fear factory	1.0
+-docstart- (arthemesia_1.txt)	jari mäenpää	95	jari mäenpää	1.0
+-docstart- (aria%20(band)_2.txt)	krov za krov	88	krov za krov	1.0
+-docstart- (aria%20(band)_2.txt)	kreshchenie ognyom	247	kreshchenie ognyom	1.0
+-docstart- (aria%20(band)_2.txt)	geroy asfalta	4	geroy asfalta	1.0
+-docstart- (aria%20(band)_1.txt)	rammstein	22	rammstein	1.0
+-docstart- (aria%20(band)_0.txt)	u. d. o.	288	u.d.o.	1.0
+-docstart- (aria%20(band)_0.txt)	moroz records	205	moroz records	1.0
+-docstart- (aria%20(band)_0.txt)	mavrin	270	sergey mavrin	1.0
+-docstart- (aria%20(band)_0.txt)	kipelov	253	kipelov	1.0
+-docstart- (aria%20(band)_0.txt)	holstinin	34	vladimir holstinin	1.0
+-docstart- (aria%20(band)_0.txt)	epidemia	278	epidemia	1.0
+-docstart- (aria%20(band)_0.txt)	dubinin	25	yuri dubinin	1.0
+-docstart- (arcturus%20(band)_4.txt)	jester records	41	jester records	1.0
+-docstart- (arcturus%20(band)_2.txt)	trickster g. rex	21	kristoffer rygg	1.0
+-docstart- (arcturus%20(band)_2.txt)	samoth	262	samoth	1.0
+-docstart- (arcturus%20(band)_1.txt)	tore moren	234	tore moren	1.0
+-docstart- (arcturus%20(band)_1.txt)	simen hestnæs	279	ics vortex	1.0
+-docstart- (arcturus%20(band)_1.txt)	knut magne valle	142	knut magne valle	1.0
+-docstart- (aqme_1.txt)	daniel bergstrand	56	daniel bergstrand	1.0
+-docstart- (apollyon%20sun_1.txt)	celtic frost	32	celtic frost	1.0
+-docstart- (apocalyptica_8.txt)	wie	539	michelle wie	1.0
+-docstart- (apocalyptica_8.txt)	valo	937	ville valo	1.0
+-docstart- (apocalyptica_8.txt)	sundblad	464	linda sundblad	1.0
+-docstart- (apocalyptica_8.txt)	shinedown	90	shinedown	1.0
+-docstart- (apocalyptica_8.txt)	sandra nasić	852	sandra nasić	1.0
+-docstart- (apocalyptica_8.txt)	rossdale	275	rossdale, edmonton	1.0
+-docstart- (apocalyptica_8.txt)	rammstein	912	rammstein	1.0
+-docstart- (apocalyptica_8.txt)	nailbomb	789	nailbomb	1.0
+-docstart- (apocalyptica_8.txt)	matthias sayer	697	farmer boys (band)	1.0
+-docstart- (apocalyptica_8.txt)	matt tuck	642	matthew tuck	1.0
+-docstart- (apocalyptica_8.txt)	mats levén	565	mats levén	1.0
+-docstart- (apocalyptica_8.txt)	marta jandová	509	marta jandová	1.0
+-docstart- (apocalyptica_8.txt)	lauri ylönen	399	lauri ylönen	1.0
+-docstart- (apocalyptica_8.txt)	krux	588	krux	1.0
+-docstart- (apocalyptica_8.txt)	gontier	30	adam gontier	1.0
+-docstart- (apocalyptica_8.txt)	emmanuelle monet	234	dolly (french band)	1.0
+-docstart- (apocalyptica_8.txt)	duplantier	310	joe duplantier	1.0
+-docstart- (apocalyptica_8.txt)	cavalera conspiracy	768	cavalera conspiracy	1.0
+-docstart- (apocalyptica_8.txt)	cavalera	747	max cavalera	1.0
+-docstart- (apocalyptica_7.txt)	sami kuoppamäki	63	sami kuoppamäki	1.0
+-docstart- (apocalyptica_6.txt)	mikko sirén	153	mikko sirén	1.0
+-docstart- (apocalyptica_3.txt)	dave lombardo	114	dave lombardo	1.0
+-docstart- (apocalyptica_10.txt)	sepultura	84	sepultura	1.0
+-docstart- (apocalyptica_1.txt)	toppinen	60	eicca toppinen	1.0
+-docstart- (apocalyptica_1.txt)	paavo lötjönen	70	paavo lötjönen	1.0
+-docstart- (antistatic%20(band)_2.txt)	karnivool	239	karnivool	1.0
+-docstart- (antistatic%20(band)_1.txt)	karnivool	76	karnivool	1.0
+-docstart- (antistatic%20(band)_1.txt)	frenzal rhomb	61	frenzal rhomb	1.0
+-docstart- (antistatic%20(band)_0.txt)	sic squared records	224	sic squared records	1.0
+-docstart- (antaeus%20(band)_0.txt)	macrovision	89	tivo corporation	1.0
+-docstart- (antaeus%20(band)_0.txt)	macrovision	553	tivo corporation	1.0
+-docstart- (antaeus%20(band)_0.txt)	jurek	535	scott jurek	1.0
+-docstart- (anorexia%20nervosa%20(band)_0.txt)	europe	21	europe	1.0
+-docstart- (animetal_1.txt)	yuuki	365	an cafe	1.0
+-docstart- (animetal_1.txt)	shinki	344	venancio shinki	1.0
+-docstart- (animetal_1.txt)	katsuji	109	katsuji mori	1.0
+-docstart- (animetal_1.txt)	akashi	374	akashi, hyōgo	1.0
+-docstart- (angtoria_0.txt)	sarah jezebel deva	145	sarah jezebel deva	1.0
+-docstart- (angelus%20apatrida_1.txt)	sepultura	224	sepultura	1.0
+-docstart- (angelus%20apatrida_0.txt)	megadeth	52	megadeth	1.0
+-docstart- (angeli%20di%20pietra_3.txt)	sirenia	78	sirenia (band)	1.0
+-docstart- (angeli%20di%20pietra_1.txt)	solace	110	solace (band)	1.0
+-docstart- (ancient%20rites_1.txt)	sepultura	212	sepultura	1.0
+-docstart- (ancient%20rites_1.txt)	manowar	203	manowar	1.0
+-docstart- (ancient%20rites_1.txt)	judas priest	78	judas priest	1.0
+-docstart- (ancient%20(band)_1.txt)	metal blade records	220	metal blade records	1.0
+-docstart- (ancient%20(band)_1.txt)	kaiaphas	58	kaiaphas	1.0
+-docstart- (anathema%20(band)_3.txt)	angtoria	354	angtoria	1.0
+-docstart- (amorphis_3.txt)	santeri kallio	176	amorphis	1.0
+-docstart- (amorphis_0.txt)	holopainen	76	tuomas holopainen	1.0
+-docstart- (amoral%20(band)_2.txt)	spinefarm	155	spinefarm records	1.0
+-docstart- (amoral%20(band)_0.txt)	naglfar	51	naglfar (band)	1.0
+-docstart- (amebix_3.txt)	spiderleg records	82	spiderleg records	1.0
+-docstart- (amebix_3.txt)	spiderleg records	35	spiderleg records	1.0
+-docstart- (amebix_2.txt)	public image ltd.	80	public image ltd	1.0
+-docstart- (amebix_0.txt)	southern studios	47	southern studios	1.0
+-docstart- (amebix_0.txt)	dead kennedys	102	dead kennedys	1.0
+-docstart- (amaseffer_0.txt)	amaseffer	38	amaseffer	1.0
+-docstart- (almana%20shchora_5.txt)	israel trade fairs & convention center	122	tel aviv convention center	1.0
+-docstart- (almah%20(band)_4.txt)	vuorinen	17	emppu vuorinen	1.0
+-docstart- (almah%20(band)_4.txt)	porra	48	lauri porra	1.0
+-docstart- (almah%20(band)_4.txt)	kamelot	84	kamelot	1.0
+-docstart- (almah%20(band)_3.txt)	khallice	106	khallice	1.0
+-docstart- (almah%20(band)_2.txt)	afm records	153	afm records	1.0
+-docstart- (almah%20(band)_1.txt)	ardanuy	228	edu ardanuy	1.0
+-docstart- (almah%20(band)_0.txt)	almah	32	almah (band)	1.0
+-docstart- (all%20ends_2.txt)	fredrik johansson	71	fredrik johansson (musician)	1.0
+-docstart- (all%20ends_1.txt)	apokalyptischen reiter	59	four horsemen of the apocalypse	1.0
+-docstart- (all%20ends_0.txt)	jesper strömblad	75	jesper strömblad	1.0
+-docstart- (all%20ends_0.txt)	björn gelotte	57	björn gelotte	1.0
+-docstart- (alkonost%20(band)_0.txt)	nordic europe	129	nordic countries	1.0
+-docstart- (alestorm_1.txt)	blind guardian	172	blind guardian	1.0
+-docstart- (alcatrazz_1.txt)	malmsteen	105	yngwie malmsteen	1.0
+-docstart- (airbourne%20(band)_3.txt)	nhl	642	national hockey league	1.0
+-docstart- (airbourne%20(band)_3.txt)	nhl	271	national hockey league	1.0
+-docstart- (airbourne%20(band)_3.txt)	nhl	153	national hockey league	1.0
+-docstart- (airbourne%20(band)_3.txt)	nfl	333	national football league	1.0
+-docstart- (airbourne%20(band)_3.txt)	nascar	91	nascar	1.0
+-docstart- (airbourne%20(band)_3.txt)	nascar	260	nascar	1.0
+-docstart- (airbourne%20(band)_3.txt)	nascar	164	nascar	1.0
+-docstart- (airbourne%20(band)_3.txt)	jonah hex	560	jonah hex (film)	1.0
+-docstart- (aion%20(japanese%20band)_0.txt)	aionism	77	aionism	1.0
+-docstart- (age%20of%20silence_2.txt)	solefald	40	solefald	1.0
+-docstart- (age%20of%20silence_2.txt)	lars eikind	221	lars eikind	1.0
+-docstart- (aes%20dana%20(band)_2.txt)	antaeus	325	antaeus (band)	1.0
+-docstart- (aes%20dana%20(band)_2.txt)	antaeus	213	antaeus (band)	1.0
+-docstart- (aerosmith_8.txt)	rock and roll hall of fame	474	rock and roll hall of fame	1.0
+-docstart- (aerosmith_8.txt)	rock walk	330	guitar center	1.0
+-docstart- (aerosmith_5.txt)	blige	184	mary j. blige	1.0
+-docstart- (aerosmith_4.txt)	u. s.	198	united states	1.0
+-docstart- (aerosmith_3.txt)	joe perry project	218	the joe perry project	1.0
+-docstart- (aerosmith_1.txt)	mtv	120	mtv	1.0
+-docstart- (adorned%20brood_4.txt)	wigand	32	adorned brood	1.0
+-docstart- (adorned%20brood_1.txt)	partysan	92	partysan	1.0
+-docstart- (adagio%20(band)_1.txt)	bruinenberg	12	dirk bruinenberg	1.0
+-docstart- (acropolis%20(metal%20band)_5.txt)	finnvox studios	132	finnvox studios	1.0
+-docstart- (acropolis%20(metal%20band)_10.txt)	aerosmith	101	aerosmith	1.0
+-docstart- (acid%20drinkers_2.txt)	sepultura	89	sepultura	1.0
+-docstart- (acid%20drinkers_2.txt)	megadeth	68	megadeth	1.0
+-docstart- (acid%20drinkers_1.txt)	metalmania	158	metalmania	1.0
+-docstart- (accept_1.txt)	sneap	95	andy sneap	1.0
+-docstart- (accept_1.txt)	megadeth	105	megadeth	1.0
+-docstart- (accept_1.txt)	arch enemy	142	arch enemy	1.0
+-docstart- (above%20all_0.txt)	nailbomb	124	nailbomb	1.0
+-docstart- (aborym_3.txt)	csihar	0	attila csihar	1.0
+-docstart- (aborym_3.txt)	bard g. eithun	158	faust (musician)	1.0
+-docstart- (aborym_2.txt)	timewave zero	314	timewave zero (album)	1.0
+-docstart- (aborym_2.txt)	roger rasmussen	245	roger rasmussen (poolbillardspieler)	1.0
+-docstart- (aborym_2.txt)	bard eithun	232	faust (musician)	1.0
+-docstart- (aborym_1.txt)	csihar	37	attila csihar	1.0
+-docstart- (area51_0.txt)	yoichiro	97	yoichiro nambu	1.0
+-docstart- (area51_0.txt)	yoichiro	47	yoichiro nambu	1.0
+-docstart- (area51_0.txt)	tolkki	132	timo tolkki	1.0
+-docstart- (area51_0.txt)	malmsteen	68	yngwie malmsteen	1.0
+-docstart- (area51_0.txt)	impellitteri	196	impellitteri	1.0
+-docstart- (area51_0.txt)	impellitteri	182	impellitteri	1.0
+-docstart- (ac%2fdc_8.txt)	tina turner	86	tina turner	1.0
+-docstart- (ac%2fdc_7.txt)	judas priest	77	judas priest	1.0
+-docstart- (ac%2fdc_2.txt)	skyhooks	280	skyhooks (band)	1.0
+-docstart- (ac%2fdc_16.txt)	ocean way studios	99	ocean way recording	1.0
+-docstart- (a%20perfect%20murder%20(band)_0.txt)	victory records	86	victory records	1.0
+-docstart- (a%20ii%20z_1.txt)	hazel grove high school	229	hazel grove high school	1.0
+-docstart- (4lyn_1.txt)	papa roach	114	papa roach	1.0
+-docstart- (2wo_0.txt)	judas priest	51	judas priest	1.0
+-docstart- (ac%2fdc_15.txt)	ac/dc	14	ac/dc	0.9994702942647703
+-docstart- (behemoth%20(band)_5.txt)	cannibal corpse	147	cannibal corpse	0.9994036643340966
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	nightwish	467	nightwish	0.9993681627814268
+-docstart- (nightwish_2.txt)	nightwish	9	nightwish	0.9991108941927292
+-docstart- (karaboudjan%20(band)_9.txt)	allan thompson	157	allan thompson	0.9990016280136021
+-docstart- (pain%20(musical%20project)_0.txt)	nightwish	69	nightwish	0.9989934649448577
+-docstart- (led%20zeppelin_8.txt)	john bonham	107	john bonham	0.998717274052399
+-docstart- (gotthard%20(band)_2.txt)	ac/dc	44	ac/dc	0.9985944490222959
+-docstart- (acropolis%20(metal%20band)_5.txt)	nightwish	104	nightwish	0.9985491119074053
+-docstart- (enslaved%20(band)_2.txt)	sturluson	284	snorri sturluson	0.998508300491456
+-docstart- (bathory%20(band)_1.txt)	black mark	108	black mark production	0.9983433759639211
+-docstart- (mot%c3%b6rhead_3.txt)	bronze records	158	bronze records	0.998313181161682
+-docstart- (roadstar_0.txt)	roadstar	26	roadstar	0.9983032688666601
+-docstart- (extreme%20noise%20terror_11.txt)	driller killer	904	driller killer (band)	0.9982881718977188
+-docstart- (raging%20speedhorn_2.txt)	soilent green	1024	soilent green	0.9982808184947463
+-docstart- (ac%2fdc_1.txt)	ac/dc	0	ac/dc	0.9982466574046688
+-docstart- (aura%20noir_0.txt)	gorgoroth	257	gorgoroth	0.9982284788302654
+-docstart- (blackguard%20(band)_0.txt)	blackguard	11	blackguard (band)	0.9982124962951098
+-docstart- (judas%20priest_2.txt)	capital centre	120	capital centre	0.9981356352713169
+-docstart- (megaherz_2.txt)	letzte instanz	159	letzte instanz	0.9980119336639055
+-docstart- (judas%20priest_6.txt)	def leppard	45	def leppard	0.9979531299861166
+-docstart- (chrome%20division_1.txt)	ac/dc	105	ac/dc	0.9977867543890396
+-docstart- (riblja%20%c4%8corba_1.txt)	bora đorđević	51	bora đorđević	0.997695443105016
+-docstart- (nattefrost_0.txt)	carpathian forest	122	carpathian forest	0.9976771359175546
+-docstart- (diamond%20head%20(band)_0.txt)	mustaine	48	dave mustaine	0.9976535754148909
+-docstart- (ancient%20(band)_2.txt)	aeba	165	aeba	0.9976093298724247
+-docstart- (loits_1.txt)	turisas	219	turisas	0.9976003461308166
+-docstart- (thin%20lizzy_15.txt)	thin lizzy	77	thin lizzy	0.9973973028991915
+-docstart- (m.ill.ion_2.txt)	thin lizzy	65	thin lizzy	0.9973697455767164
+-docstart- (ac%2fdc_7.txt)	thin lizzy	46	thin lizzy	0.9973563878274558
+-docstart- (leng%20tche_2.txt)	nasum	66	nasum	0.9973045304148436
+-docstart- (defenestration%20(band)_3.txt)	nme	169	nme	0.9972283076040407
+-docstart- (lehavoth_1.txt)	nasum	148	nasum	0.99722579888569
+-docstart- (europe%20(band)_2.txt)	tokyo dome	206	tokyo dome	0.9971754060571536
+-docstart- (dr.%20sin_2.txt)	ac/dc	40	ac/dc	0.9970808945866824
+-docstart- (led%20zeppelin_10.txt)	jfk stadium	76	john f. kennedy stadium (philadelphia)	0.9970224476195451
+-docstart- (napalm%20death_4.txt)	broadrick	31	justin broadrick	0.9969342588001818
+-docstart- (in%20extremo_3.txt)	dingelstädt	159	dingelstädt	0.9969152524311679
+-docstart- (t%c3%bdr%20(band)_0.txt)	turisas	44	turisas	0.9969104479448845
+-docstart- (girlschool_1.txt)	kilmister	187	lemmy	0.9966374192772366
+-docstart- (wolfbrigade_0.txt)	cosa nostra	24	sicilian mafia	0.9966155006167575
+-docstart- (ebola%20(thai%20band)_1.txt)	dave collins	30	dave collins	0.996600199696949
+-docstart- (raging%20speedhorn_2.txt)	kittie	195	kittie	0.9964878125448723
+-docstart- (alestorm_1.txt)	hammerfall	157	hammerfall	0.9964793706993041
+-docstart- (riblja%20%c4%8corba_13.txt)	knin	5	knin	0.9963659917551055
+-docstart- (extreme%20noise%20terror_6.txt)	nme	175	nme	0.9961273745804317
+-docstart- (rahowa%20(band)_1.txt)	rahowa	0	rahowa (band)	0.9960931640075689
+-docstart- (aqme_1.txt)	meshuggah	105	meshuggah	0.9959518693985349
+-docstart- (asking%20alexandria_4.txt)	joe lancaster	239	joe lancaster (musician)	0.9958654824412776
+-docstart- (rush%20(band)_12.txt)	neil peart	210	neil peart	0.9958583283735201
+-docstart- (blackguard%20(band)_0.txt)	cryptopsy	204	cryptopsy	0.9958333483701891
+-docstart- (niceland_1.txt)	magnús guðmundsson	201	magnús guðmundsson	0.9957781637985562
+-docstart- (katagory%20v_5.txt)	leatherwolf	148	leatherwolf	0.9957579048262852
+-docstart- (cataract%20(band)_2.txt)	unearth	75	unearth	0.9957529360404443
+-docstart- (mnemic_2.txt)	meshuggah	114	meshuggah	0.9957438107050051
+-docstart- (godflesh_6.txt)	broadrick	119	justin broadrick	0.9956339411370856
+-docstart- (rose%20tattoo_5.txt)	aerosmith	481	aerosmith	0.9956171930976567
+-docstart- (thyrfing_1.txt)	benelux	154	benelux	0.9955773469369699
+-docstart- (dreams%20of%20sanity_0.txt)	alighieri	154	dante alighieri	0.9955263303398695
+-docstart- (mot%c3%b6rhead_2.txt)	kilmister	0	lemmy	0.9954702013356655
+-docstart- (byzantine%20(band)_4.txt)	mustaine	114	dave mustaine	0.9952316653622401
+-docstart- (gotthard%20(band)_2.txt)	aerosmith	100	aerosmith	0.9950407851724524
+-docstart- (exit%20ten_0.txt)	radiohead	73	radiohead	0.9950245742781955
+-docstart- (enochian%20theory_2.txt)	david castillo	59	david castillo (actor)	0.9950221839924615
+-docstart- (riblja%20%c4%8corba_19.txt)	zdravko čolić	19	zdravko čolić	0.9950132122387163
+-docstart- (led%20zeppelin_16.txt)	def leppard	279	def leppard	0.9949783290906491
+-docstart- (helix%20(band)_0.txt)	aerosmith	43	aerosmith	0.9949531920197874
+-docstart- (deep%20purple_5.txt)	james gang	164	james gang	0.9948943829873853
+-docstart- (wolfmother_6.txt)	radiohead	433	radiohead	0.9947596885332891
+-docstart- (evergrey_3.txt)	rammstein	93	rammstein	0.9946758124960615
+-docstart- (nightwish_9.txt)	children of bodom	249	children of bodom	0.9945039409257841
+-docstart- (ratt_9.txt)	stephen pearcy	68	stephen pearcy	0.9944836765027061
+-docstart- (thin%20lizzy_6.txt)	aerosmith	61	aerosmith	0.9943831515919658
+-docstart- (a%20ii%20z_1.txt)	girlschool	300	girlschool	0.9943786971645442
+-docstart- (led%20zeppelin_16.txt)	thin lizzy	165	thin lizzy	0.9943384918153665
+-docstart- (asesino_0.txt)	brujeria	92	brujeria (band)	0.9942167572146484
+-docstart- (asesino_0.txt)	brujeria	34	brujeria (band)	0.9942167572146484
+-docstart- (birthmark%20(band)_0.txt)	radiohead	77	radiohead	0.9941823907135514
+-docstart- (lord%20(band)_0.txt)	nightwish	60	nightwish	0.9941236930676061
+-docstart- (dio%20(band)_4.txt)	daisley	764	bob daisley	0.9940539080806458
+-docstart- (bullet%20for%20my%20valentine_2.txt)	atreyu	133	atreyu	0.9937801976570836
+-docstart- (warmen_0.txt)	children of bodom	224	children of bodom	0.9937341969852714
+-docstart- (cellador_1.txt)	sonata arctica	198	sonata arctica	0.9937181551774312
+-docstart- (napalm%20death_1.txt)	ratledge	153	mike ratledge	0.9936503279875648
+-docstart- (cataract%20(band)_2.txt)	hellfest	19	hellfest (french music festival)	0.9935808838001295
+-docstart- (the%20mad%20capsule%20markets_0.txt)	kyono	84	hiroshi kyono	0.9933116081643194
+-docstart- (thin%20lizzy_6.txt)	reo speedwagon	81	reo speedwagon	0.9930705512886797
+-docstart- (aerosmith_7.txt)	aerosmith	9	aerosmith	0.9928639109651523
+-docstart- (ac%2fdc_4.txt)	aerosmith	115	aerosmith	0.9928205186487754
+-docstart- (bring%20me%20the%20horizon_5.txt)	crahan	175	shawn crahan	0.992613743326607
+-docstart- (europe%20(band)_0.txt)	def leppard	223	def leppard	0.992306899023018
+-docstart- (whitesnake_4.txt)	aerosmith	213	aerosmith	0.9922892624419999
+-docstart- (thin%20lizzy_12.txt)	def leppard	103	def leppard	0.9921448113919641
+-docstart- (crashd%c3%afet_0.txt)	mötley crüe	37	mötley crüe	0.9920693816278054
+-docstart- (kick%20axe_1.txt)	whitesnake	117	whitesnake	0.9920609985576304
+-docstart- (europe%20(band)_3.txt)	thin lizzy	230	thin lizzy	0.9920425835575883
+-docstart- (rage%20(band)_0.txt)	terrana	92	mike terrana	0.9920066148452013
+-docstart- (aurthohin_0.txt)	warfaze	44	warfaze	0.9919960128373586
+-docstart- (thin%20lizzy_10.txt)	appice	75	vinny appice	0.9919531723958093
+-docstart- (led%20zeppelin_13.txt)	king curtis	111	king curtis	0.9919002911876112
+-docstart- (exit%20ten_2.txt)	deftones	127	deftones	0.9918667362618782
+-docstart- (led%20zeppelin_16.txt)	lynyrd skynyrd	228	lynyrd skynyrd	0.9918127786818376
+-docstart- (def%20leppard_9.txt)	def leppard	0	def leppard	0.9917613169383417
+-docstart- (ac%2fdc_13.txt)	aerosmith	157	aerosmith	0.9917549140823209
+-docstart- (horcas_2.txt)	horcas	110	horcas	0.9916830386303829
+-docstart- (diamond%20head%20(band)_2.txt)	thin lizzy	140	thin lizzy	0.9915475007507902
+-docstart- (mondo%20kane_0.txt)	danko jones	115	danko jones	0.9914249868296967
+-docstart- (loudness%20(band)_3.txt)	killing machine	244	killing machine	0.991412556064115
+-docstart- (double%20dragon%20(band)_2.txt)	evergreen terrace	212	evergreen terrace	0.9913603307867734
+-docstart- (def%20leppard_5.txt)	def leppard	40	def leppard	0.9912875648736159
+-docstart- (amebix_1.txt)	hawkwind	84	hawkwind	0.9912229890336919
+-docstart- (van%20canto_0.txt)	sonata arctica	243	sonata arctica	0.9912173383366042
+-docstart- (superbutt_0.txt)	clawfinger	103	clawfinger	0.9911828738891767
+-docstart- (scum%20(band)_0.txt)	gorgoroth	88	gorgoroth	0.9911173952822925
+-docstart- (def%20leppard_13.txt)	aerosmith	86	aerosmith	0.9911029915426885
+-docstart- (moxy%20(band)_1.txt)	james gang	151	james gang	0.9910832129561448
+-docstart- (helloween_4.txt)	neumond	75	new moon	0.9910605673203721
+-docstart- (the%20beyond%20(band)_1.txt)	red hot chili peppers	53	red hot chili peppers	0.9910305649483413
+-docstart- (nightwish_2.txt)	sonata arctica	281	sonata arctica	0.9910027561328633
+-docstart- (girlschool_1.txt)	hawkwind	35	hawkwind	0.9909964276171997
+-docstart- (x%20japan_2.txt)	miyavi	140	miyavi	0.9909761403211504
+-docstart- (crossfire%20(band)_0.txt)	def leppard	109	def leppard	0.9909350069902817
+-docstart- (europe%20(band)_1.txt)	pearl jam	180	pearl jam	0.9908889226086236
+-docstart- (pretty%20maids_4.txt)	thin lizzy	71	thin lizzy	0.9907808532212417
+-docstart- (i%20(band)_0.txt)	gorgoroth	85	gorgoroth	0.9907218902611653
+-docstart- (asking%20alexandria_6.txt)	evergreen terrace	145	evergreen terrace	0.9907106437640534
+-docstart- (sturmgeist_2.txt)	carpathian forest	101	carpathian forest	0.9905683433888555
+-docstart- (vow%20wow_0.txt)	thin lizzy	127	thin lizzy	0.9905193799886961
+-docstart- (grave%20digger%20(band)_0.txt)	helloween	129	helloween	0.9904644841774461
+-docstart- (aerosmith_4.txt)	aerosmith	495	aerosmith	0.9904589007637061
+-docstart- (aerosmith_4.txt)	aerosmith	424	aerosmith	0.9904589007637061
+-docstart- (fragile%20vastness_1.txt)	helloween	138	helloween	0.990408366687867
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	helloween	159	helloween	0.9902828847877928
+-docstart- (ancient%20rites_1.txt)	motörhead	67	motörhead	0.990272037036036
+-docstart- (girlschool_3.txt)	def leppard	65	def leppard	0.9902626580359561
+-docstart- (rammstein_2.txt)	rammstein	39	rammstein	0.9901391046338689
+-docstart- (def%20leppard_6.txt)	def leppard	56	def leppard	0.9900633390904513
+-docstart- (ratt_3.txt)	aerosmith	60	aerosmith	0.9900457228108493
+-docstart- (thin%20lizzy_14.txt)	allman brothers band	297	the allman brothers band	0.9899724685521376
+-docstart- (acid%20drinkers_1.txt)	przystanek woodstock	181	woodstock festival (poland)	0.9897618660702271
+-docstart- (blackguard%20(band)_0.txt)	lacuna coil	110	lacuna coil	0.9897392074742541
+-docstart- (black%20sabbath_10.txt)	motörhead	234	motörhead	0.9896754696707691
+-docstart- (budgie%20(band)_1.txt)	south glamorgan	338	south glamorgan	0.9896655920656048
+-docstart- (budgie%20(band)_1.txt)	south glamorgan	218	south glamorgan	0.9896655920656048
+-docstart- (budgie%20(band)_1.txt)	south glamorgan	103	south glamorgan	0.9896655920656048
+-docstart- (crashd%c3%afet_0.txt)	crashdïet	77	crashdïet	0.989580288484101
+-docstart- (wolfmother_5.txt)	kyuss	91	kyuss	0.9895494221231561
+-docstart- (iron%20maiden_7.txt)	metallica	95	metallica	0.9894835670231292
+-docstart- (malmonde_0.txt)	meshuggah	65	meshuggah	0.9894757417496793
+-docstart- (bassinvaders_2.txt)	thin lizzy	122	thin lizzy	0.9894031895136884
+-docstart- (ancient%20rites_1.txt)	metallica	109	metallica	0.9894018692463765
+-docstart- (soulfly_0.txt)	cypress hill	261	cypress hill	0.9893888833479151
+-docstart- (crashd%c3%afet_0.txt)	guns n' roses	22	guns n' roses	0.9893642847486802
+-docstart- (mot%c3%b6rhead_9.txt)	motörhead	0	motörhead	0.9892332258056726
+-docstart- (thin%20lizzy_11.txt)	thin lizzy	9	thin lizzy	0.9891873308138842
+-docstart- (riverside%20(band)_0.txt)	pink floyd	128	pink floyd	0.9891626329612201
+-docstart- (led%20zeppelin_15.txt)	aerosmith	160	aerosmith	0.9890299886221082
+-docstart- (emperor%20(band)_1.txt)	borknagar	111	borknagar	0.9889427168454459
+-docstart- (thin%20lizzy_14.txt)	wishbone ash	215	wishbone ash	0.9889342863185648
+-docstart- (vintersorg_3.txt)	borknagar	65	borknagar	0.9888570797597249
+-docstart- (paris%20keeling_0.txt)	appice	83	vinny appice	0.98883518945813
+-docstart- (ved%20buens%20ende_2.txt)	borknagar	189	borknagar	0.9888155599375568
+-docstart- (winds%20(band)_1.txt)	borknagar	59	borknagar	0.988784455002928
+-docstart- (acrassicauda_0.txt)	metallica	58	metallica	0.9887191506269932
+-docstart- (sauze_1.txt)	ardines	73	alberto ardines	0.9885840521278135
+-docstart- (aerosmith_8.txt)	aerosmith	60	aerosmith	0.9885235761306512
+-docstart- (aerosmith_8.txt)	aerosmith	270	aerosmith	0.9885235761306512
+-docstart- (evergrey_3.txt)	def leppard	117	def leppard	0.9885202924892945
+-docstart- (biomechanical%20(band)_1.txt)	metallica	109	metallica	0.9884215871948538
+-docstart- (beto%20v%c3%a1zquez%20infinity_9.txt)	rata blanca	43	rata blanca	0.9882062859034768
+-docstart- (razorback%20(band)_0.txt)	metallica	247	metallica	0.9881846936900439
+-docstart- (birthmark%20(band)_0.txt)	cypress hill	113	cypress hill	0.9880522836327389
+-docstart- (aerosmith_0.txt)	aerosmith	164	aerosmith	0.9880307948652534
+-docstart- (soulfly_8.txt)	deftones	71	deftones	0.9880055685757868
+-docstart- (led%20zeppelin_16.txt)	mötley crüe	200	mötley crüe	0.9879771059128781
+-docstart- (deafening%20silence_0.txt)	metallica	46	metallica	0.9879414826248226
+-docstart- (double%20dragon%20(band)_2.txt)	lacuna coil	149	lacuna coil	0.9879276487058241
+-docstart- (ensiferum_1.txt)	ensiferum	14	ensiferum	0.9879086070371637
+-docstart- (birthmark%20(band)_0.txt)	red hot chili peppers	137	red hot chili peppers	0.9878397328549947
+-docstart- (mot%c3%b6rhead_10.txt)	assago	128	assago	0.9877859354710529
+-docstart- (thin%20lizzy_5.txt)	lynott	146	phil lynott	0.98765820515769
+-docstart- (def%20leppard_9.txt)	whitesnake	116	whitesnake	0.9876168782127887
+-docstart- (horcas_3.txt)	metallica	204	metallica	0.9875845233466064
+-docstart- (boris%20(band)_0.txt)	melvins	77	melvins	0.9875780391905432
+-docstart- (therion%20(band)_2.txt)	metallica	35	metallica	0.9875775415353397
+-docstart- (v8%20(band)_0.txt)	horcas	111	horcas	0.9875318973755441
+-docstart- (the%20supremacy_0.txt)	helloween	88	helloween	0.9873835009412614
+-docstart- (helloween_5.txt)	helloween	14	helloween	0.987347983404237
+-docstart- (led%20zeppelin_11.txt)	aerosmith	132	aerosmith	0.9873108208656283
+-docstart- (dr.%20sin_8.txt)	zé ramalho	212	zé ramalho	0.9872904952889093
+-docstart- (riblja%20%c4%8corba_20.txt)	električni orgazam	98	električni orgazam	0.9872663241972452
+-docstart- (volbeat_0.txt)	metallica	23	metallica	0.9872384876214245
+-docstart- (soulfly_0.txt)	deftones	163	deftones	0.9870563706838055
+-docstart- (within%20temptation_3.txt)	lacuna coil	88	lacuna coil	0.9870352506369637
+-docstart- (thin%20lizzy_14.txt)	lynyrd skynyrd	274	lynyrd skynyrd	0.9868769908414703
+-docstart- (mot%c3%b6rhead_12.txt)	motörhead	186	motörhead	0.9868003042258813
+-docstart- (eyes%20of%20eden_0.txt)	gas lipstick	110	gas lipstick	0.9867031890411303
+-docstart- (clagg_1.txt)	kyuss	97	kyuss	0.9865990737866747
+-docstart- (loits_1.txt)	carpathian forest	146	carpathian forest	0.9865784798043578
+-docstart- (paindivision_1.txt)	helloween	181	helloween	0.9865640737364302
+-docstart- (system%20divide_6.txt)	lacuna coil	168	lacuna coil	0.9865580558784555
+-docstart- (katagory%20v_2.txt)	metal church	217	metal church	0.9865042041167376
+-docstart- (raging%20speedhorn_2.txt)	mudvayne	427	mudvayne	0.9864949419741844
+-docstart- (thin%20lizzy_12.txt)	whitesnake	142	whitesnake	0.9863706740741438
+-docstart- (lordi_3.txt)	vanhanen	89	matti vanhanen	0.9863517500645701
+-docstart- (girlschool_0.txt)	motörhead	66	motörhead	0.9863427498244847
+-docstart- (sylosis_1.txt)	metallica	37	metallica	0.9863314977997677
+-docstart- (obscurity%20(band)_0.txt)	north rhine-westphalia	139	north rhine-westphalia	0.9862830063579019
+-docstart- (darknote_0.txt)	meshuggah	45	meshuggah	0.9862537915524751
+-docstart- (asking%20alexandria_2.txt)	jimmy eat world	414	jimmy eat world	0.9861947829932837
+-docstart- (mot%c3%b6rhead_11.txt)	motörhead	25	motörhead	0.9860248212022098
+-docstart- (maximum%20the%20hormone_0.txt)	deco	83	deco	0.9859493506834917
+-docstart- (katagory%20v_2.txt)	morgana lefay	319	morgana lefay	0.9859086718683205
+-docstart- (deathstars_4.txt)	rammstein	474	rammstein	0.9858860781327239
+-docstart- (led%20zeppelin_16.txt)	motörhead	79	motörhead	0.9858805002652982
+-docstart- (warlock%20(band)_3.txt)	def leppard	0	def leppard	0.9857784940573193
+-docstart- (probot_1.txt)	lemmy	267	lemmy	0.9857684071864673
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	rata blanca	202	rata blanca	0.9857121855098774
+-docstart- (napalm%20death_12.txt)	anaal nathrakh	64	anaal nathrakh	0.9856383243788793
+-docstart- (trust%20(band)_3.txt)	prague spring	95	prague spring	0.9856131996423306
+-docstart- (entwine_0.txt)	apocalyptica	128	apocalyptica	0.9854022278531115
+-docstart- (godflesh_5.txt)	broadrick	65	justin broadrick	0.9853655456682219
+-docstart- (godflesh_5.txt)	broadrick	0	justin broadrick	0.9853655456682219
+-docstart- (led%20zeppelin_16.txt)	whitesnake	480	whitesnake	0.9853361693009243
+-docstart- (sonata%20arctica_6.txt)	metallica	988	metallica	0.9852302219382317
+-docstart- (sonata%20arctica_6.txt)	metallica	228	metallica	0.9852302219382317
+-docstart- (sonata%20arctica_6.txt)	metallica	1179	metallica	0.9852302219382317
+-docstart- (judas%20priest_11.txt)	rob halford	204	rob halford	0.9851347912436809
+-docstart- (tygers%20of%20pan%20tang_0.txt)	thin lizzy	66	thin lizzy	0.9851103038171336
+-docstart- (aborym_0.txt)	apulia	92	apulia	0.9850918781295391
+-docstart- (obscurity%20(band)_0.txt)	velbert	97	velbert	0.9850489834683614
+-docstart- (lacuna%20coil_3.txt)	lacuna coil	15	lacuna coil	0.9849889801964251
+-docstart- (girlschool_3.txt)	motörhead	91	motörhead	0.9849726229054914
+-docstart- (starry%20wisdom%20cult_1.txt)	hawkwind	116	hawkwind	0.9849539495800003
+-docstart- (stone%20(band)_0.txt)	children of bodom	43	children of bodom	0.984944669018107
+-docstart- (stone%20(band)_0.txt)	children of bodom	141	children of bodom	0.984944669018107
+-docstart- (whitesnake_8.txt)	whitesnake	67	whitesnake	0.984794709113568
+-docstart- (mot%c3%b6rhead_13.txt)	motörhead	32	motörhead	0.9847350937367696
+-docstart- (mnemic_2.txt)	metallica	79	metallica	0.984646238036016
+-docstart- (sodom%20(band)_0.txt)	motörhead	38	motörhead	0.9846197488726558
+-docstart- (helix%20(band)_0.txt)	mötley crüe	60	mötley crüe	0.984574958344789
+-docstart- (age%20of%20silence_2.txt)	borknagar	50	borknagar	0.9844965362314863
+-docstart- (obscurity%20(band)_1.txt)	amon amarth	45	amon amarth	0.9844805886773783
+-docstart- (gorky%20park%20(band)_1.txt)	mötley crüe	88	mötley crüe	0.984476579915991
+-docstart- (moxy%20(band)_6.txt)	mötley crüe	132	mötley crüe	0.9843740128078106
+-docstart- (black%20sabbath_4.txt)	seals & crofts	138	seals and crofts	0.9842189324278451
+-docstart- (black%20sabbath_4.txt)	black oak arkansas	154	black oak arkansas	0.9840959864052038
+-docstart- (black%20sabbath_8.txt)	dehumanizer	42	dehumanizer	0.9840872903731444
+-docstart- (mnemic_3.txt)	brujeria	234	brujeria (band)	0.9840455277196831
+-docstart- (mnemic_3.txt)	brujeria	185	brujeria (band)	0.9840455277196831
+-docstart- (double%20dragon%20(band)_2.txt)	devildriver	136	devildriver	0.9839910061647028
+-docstart- (ac%2fdc_9.txt)	hells bells	132	hells bells (song)	0.983951445680534
+-docstart- (led%20zeppelin_22.txt)	kasabian	252	kasabian	0.9839182446102538
+-docstart- (judas%20priest_7.txt)	godsmack	44	godsmack	0.9838790387740788
+-docstart- (led%20zeppelin_16.txt)	kasabian	377	kasabian	0.9838754252987527
+-docstart- (machines%20of%20grace_1.txt)	metal church	109	metal church	0.9837978085984808
+-docstart- (rammstein_1.txt)	rammstein	0	rammstein	0.9837605761840439
+-docstart- (warlock%20(band)_5.txt)	rondinelli	86	bobby rondinelli	0.9837464670042454
+-docstart- (clagg_1.txt)	eyehategod	78	eyehategod	0.983550770299139
+-docstart- (riddare%20av%20koden_0.txt)	ensiferum	47	ensiferum	0.9835179211465596
+-docstart- (clagg_2.txt)	electric wizard	56	electric wizard	0.9833853538514393
+-docstart- (throne%20of%20chaos_0.txt)	warmen	105	warmen	0.983351693681047
+-docstart- (stigmata%20(band)_0.txt)	metallica	86	metallica	0.9831793985439323
+-docstart- (over%20the%20rainbow%20(band)_0.txt)	rondinelli	7	bobby rondinelli	0.983122190263124
+-docstart- (over%20the%20rainbow%20(band)_0.txt)	rondinelli	279	bobby rondinelli	0.983122190263124
+-docstart- (five%20star%20prison%20cell_2.txt)	the black dahlia murder	215	the black dahlia murder (band)	0.9830681887636046
+-docstart- (apocalyptica_10.txt)	rammstein	72	rammstein	0.9830381363160506
+-docstart- (magica%20(band)_0.txt)	apocalyptica	93	apocalyptica	0.9828688791630864
+-docstart- (horcas_0.txt)	metallica	54	metallica	0.9828039026574735
+-docstart- (ratt_11.txt)	aerosmith	92	aerosmith	0.9827759880348924
+-docstart- (atomkraft_1.txt)	metallica	90	metallica	0.9827271764265914
+-docstart- (mushroomhead_2.txt)	mushroomhead	0	mushroomhead	0.9826035646773745
+-docstart- (horcas_0.txt)	motörhead	65	motörhead	0.9825908806855858
+-docstart- (iron%20monkey%20(band)_2.txt)	borknagar	58	borknagar	0.9825108091302345
+-docstart- (karelia%20(band)_0.txt)	aerosmith	181	aerosmith	0.9824836120473976
+-docstart- (apocalyptica_1.txt)	metallica	123	metallica	0.982350791714752
+-docstart- (blind%20myself_5.txt)	cbgb	130	cbgb	0.982188046147404
+-docstart- (whitesnake_11.txt)	whitesnake	263	whitesnake	0.9821878096810825
+-docstart- (def%20leppard_10.txt)	def leppard	89	def leppard	0.9821709857427382
+-docstart- (def%20leppard_10.txt)	def leppard	0	def leppard	0.9821709857427382
+-docstart- (tiamat%20(band)_1.txt)	lacuna coil	194	lacuna coil	0.9820581458388704
+-docstart- (mot%c3%b6rhead_10.txt)	metallica	154	metallica	0.982051785983679
+-docstart- (apocalyptica_3.txt)	valo	58	ville valo	0.981973639776242
+-docstart- (mot%c3%b6rhead_3.txt)	louie louie	190	louie louie	0.9818755865469303
+-docstart- (europe%20(band)_2.txt)	metallica	246	metallica	0.9816640756562699
+-docstart- (led%20zeppelin_9.txt)	appice	29	vinny appice	0.9816102811939558
+-docstart- (sturmgeist_1.txt)	borknagar	102	borknagar	0.9815769938779416
+-docstart- (enemy%20of%20the%20sun%20(band)_0.txt)	voodoocult	101	voodoocult	0.9815464834365011
+-docstart- (warmen_0.txt)	stratovarius	278	stratovarius	0.9815051551705946
+-docstart- (ensiferum_6.txt)	metallica	196	metallica	0.9814830581040258
+-docstart- (deadsoul%20tribe_1.txt)	jethro tull	220	jethro tull (band)	0.98143485772488
+-docstart- (vow%20wow_0.txt)	whitesnake	7	whitesnake	0.9814173708922427
+-docstart- (k%c3%afll%20cheerlead%c3%abr_1.txt)	lemmy	14	lemmy	0.9813398116298007
+-docstart- (nightwish_7.txt)	kaiser chiefs	20	kaiser chiefs	0.9812741081602181
+-docstart- (m.ill.ion_2.txt)	whitesnake	53	whitesnake	0.9812424461669313
+-docstart- (skyclad%20(band)_5.txt)	jethro tull	326	jethro tull (band)	0.9812267939138236
+-docstart- (helloween_3.txt)	jethro tull	154	jethro tull (band)	0.9812055062593467
+-docstart- (the%20almighty%20(band)_0.txt)	sex pistols	159	sex pistols	0.9811251049904588
+-docstart- (thin%20lizzy_0.txt)	lynott	219	phil lynott	0.9810229834108826
+-docstart- (rockbitch_2.txt)	red hot chili peppers	191	red hot chili peppers	0.9809797738674826
+-docstart- (thin%20lizzy_7.txt)	lynott	0	phil lynott	0.9809656006668503
+-docstart- (lion%20(band)_2.txt)	whitesnake	76	whitesnake	0.9809354487928194
+-docstart- (black%20sabbath_4.txt)	emerson, lake & palmer	102	emerson, lake & palmer	0.9808922705766147
+-docstart- (led%20zeppelin_18.txt)	pink floyd	364	pink floyd	0.9808342852051609
+-docstart- (lordi_2.txt)	lordi	0	lordi	0.9807221943533994
+-docstart- (sturmgeist_7.txt)	borknagar	112	borknagar	0.9806772755318801
+-docstart- (riblja%20%c4%8corba_18.txt)	bijelo dugme	88	bijelo dugme	0.9806184945085662
+-docstart- (tygers%20of%20pan%20tang_0.txt)	whitesnake	78	whitesnake	0.9805818687724854
+-docstart- (clawfinger_2.txt)	rammstein	59	rammstein	0.980575895103816
+-docstart- (ensiferum_6.txt)	uriah heep	309	uriah heep (band)	0.9805142514454032
+-docstart- (whitesnake_8.txt)	lordi	177	lordi	0.9805114760539481
+-docstart- (meshuggah_0.txt)	meshuggah	0	meshuggah	0.9804930977614593
+-docstart- (rush%20(band)_12.txt)	appice	162	vinny appice	0.9804523825721019
+-docstart- (kreator_0.txt)	metallica	203	metallica	0.9801426674592115
+-docstart- (skyclad%20(band)_5.txt)	thin lizzy	354	thin lizzy	0.9798757142179346
+-docstart- (helix%20(band)_0.txt)	whitesnake	81	whitesnake	0.979869646113053
+-docstart- (torch%20(band)_0.txt)	wolfmother	169	wolfmother	0.9795914510755697
+-docstart- (def%20leppard_13.txt)	mötley crüe	48	mötley crüe	0.9795700389815392
+-docstart- (moxy%20(band)_6.txt)	whitesnake	145	whitesnake	0.9794541601590899
+-docstart- (betzefer_6.txt)	aerosmith	62	aerosmith	0.9794266526483425
+-docstart- (persian%20risk_2.txt)	ratt	66	ratt	0.9790528825341581
+-docstart- (pretty%20maids_0.txt)	metallica	176	metallica	0.9789977545961189
+-docstart- (lordi_6.txt)	lordi	290	lordi	0.9788964542667423
+-docstart- (iron%20monkey%20(band)_2.txt)	electric wizard	174	electric wizard	0.9788887269709629
+-docstart- (helloween_2.txt)	helloween	74	helloween	0.9788611393127147
+-docstart- (mot%c3%b6rhead_8.txt)	lemmy	303	lemmy	0.9785610382028064
+-docstart- (manhattan%20skyline_2.txt)	fugazi	196	fugazi	0.9784604177008676
+-docstart- (girlschool_0.txt)	uriah heep	85	uriah heep (band)	0.9784419207612817
+-docstart- (def%20leppard_7.txt)	badfinger	122	badfinger	0.9783407863395922
+-docstart- (led%20zeppelin_16.txt)	pearl jam	305	pearl jam	0.9781062975876006
+-docstart- (van%20canto_0.txt)	metallica	88	metallica	0.9779786614735845
+-docstart- (mercyful%20fate_1.txt)	metallica	206	metallica	0.9779684596369307
+-docstart- (asking%20alexandria_6.txt)	alesana	108	alesana	0.9779218974750156
+-docstart- (enochian%20theory_3.txt)	future publishing	354	future plc	0.9777997867844157
+-docstart- (rainbow%20(band)_2.txt)	roxy music	141	roxy music	0.9777925031752599
+-docstart- (mot%c3%b6rhead_3.txt)	motörhead	625	motörhead	0.9777821510840947
+-docstart- (ratt_8.txt)	ratt	86	ratt	0.9776229767023304
+-docstart- (budgie%20(band)_0.txt)	metallica	252	metallica	0.9775878686933485
+-docstart- (k%c3%afll%20cheerlead%c3%abr_1.txt)	motörhead	25	motörhead	0.9775128880990552
+-docstart- (consecration%20(band)_1.txt)	slowdive	113	slowdive	0.9774782315441026
+-docstart- (venom%20(band)_3.txt)	metallica	271	metallica	0.9773297621497301
+-docstart- (venom%20(band)_3.txt)	metallica	230	metallica	0.9773297621497301
+-docstart- (archontes_1.txt)	uriah heep	89	uriah heep (band)	0.9773135195086675
+-docstart- (mot%c3%b6rhead_7.txt)	lemmy	14	lemmy	0.977268976947805
+-docstart- (blue%20murder%20(band)_0.txt)	thin lizzy	80	thin lizzy	0.9772602236643969
+-docstart- (kmfdm_0.txt)	günter schulz	42	günter schulz	0.9771972928734158
+-docstart- (asking%20alexandria_2.txt)	pennywise	400	pennywise (band)	0.977104182288551
+-docstart- (led%20zeppelin_16.txt)	deep purple	47	deep purple	0.9770276699539018
+-docstart- (led%20zeppelin_16.txt)	metallica	144	metallica	0.9770252603405878
+-docstart- (airbourne%20(band)_1.txt)	motörhead	117	motörhead	0.9770225970505863
+-docstart- (the%20gathering%20(band)_8.txt)	slowdive	139	slowdive	0.9768573493704561
+-docstart- (wolfmother_6.txt)	uriah heep	180	uriah heep (band)	0.9767265060349759
+-docstart- (therion%20(band)_2.txt)	motörhead	98	motörhead	0.9766290133894566
+-docstart- (karelia%20(band)_0.txt)	whitesnake	258	whitesnake	0.9765889938702058
+-docstart- (a%20ii%20z_1.txt)	motörhead	87	motörhead	0.9765359231264714
+-docstart- (wolfmother_6.txt)	pink floyd	324	pink floyd	0.9763970301390635
+-docstart- (starry%20wisdom%20cult_1.txt)	metallica	129	metallica	0.9763754412853771
+-docstart- (crossfire%20(band)_0.txt)	whitesnake	97	whitesnake	0.9763738311289147
+-docstart- (the%20fading_1.txt)	strapping young lad	151	strapping young lad	0.9761454867282607
+-docstart- (ufo%20(band)_5.txt)	motörhead	78	motörhead	0.9761027677890877
+-docstart- (soulfly_9.txt)	matt tuck	100	matthew tuck	0.9758835695553264
+-docstart- (girlschool_1.txt)	lemmy	0	lemmy	0.9758339001912165
+-docstart- (system%20divide_6.txt)	strapping young lad	147	strapping young lad	0.9757166015186696
+-docstart- (lord%20(band)_0.txt)	queensrÿche	47	queensrÿche	0.9756287406768299
+-docstart- (wolfmother_3.txt)	mgmt	53	mgmt	0.9755454318148347
+-docstart- (beto%20v%c3%a1zquez%20infinity_5.txt)	rata blanca	252	rata blanca	0.9752794467296366
+-docstart- (show%20ya_2.txt)	ratt	135	ratt	0.9750592135984163
+-docstart- (ratt_6.txt)	metallica	192	metallica	0.9749503570519571
+-docstart- (rush%20(band)_3.txt)	civic arena	134	civic arena (pittsburgh)	0.9749431843843949
+-docstart- (whitesnake_0.txt)	whitesnake	98	whitesnake	0.9749088014964932
+-docstart- (sikth_4.txt)	metallica	93	metallica	0.9748997795484567
+-docstart- (kingfisher%20sky_3.txt)	jethro tull	75	jethro tull (band)	0.9747638525865747
+-docstart- (tortilla%20army_1.txt)	alice in chains	154	alice in chains	0.9747633915208299
+-docstart- (v8%20(band)_1.txt)	motörhead	54	motörhead	0.9746710097101261
+-docstart- (malmonde_0.txt)	rammstein	39	rammstein	0.9744627559720989
+-docstart- (def%20leppard_13.txt)	ratt	76	ratt	0.9744191184829311
+-docstart- (iron%20mask%20(band)_4.txt)	avantasia	390	avantasia	0.9743437941990326
+-docstart- (riblja%20%c4%8corba_18.txt)	bajka	172	fable	0.9739665593574414
+-docstart- (amebix_1.txt)	motörhead	40	motörhead	0.9737777944820519
+-docstart- (mot%c3%b6rhead_3.txt)	john peel	346	john peel	0.9736349699044576
+-docstart- (magic%20kingdom%20(band)_1.txt)	avantasia	89	avantasia	0.9736295187784723
+-docstart- (beto%20v%c3%a1zquez%20infinity_1.txt)	pink floyd	299	pink floyd	0.9736286487629292
+-docstart- (rye%20coalition_1.txt)	fugazi	118	fugazi	0.9736160410258123
+-docstart- (girlschool_0.txt)	deep purple	189	deep purple	0.9731904852126712
+-docstart- (katagory%20v_1.txt)	chicago heights	87	chicago heights, illinois	0.9731418924330685
+-docstart- (crossfire%20(band)_6.txt)	ratt	104	ratt	0.9731366319441216
+-docstart- (ratt_6.txt)	ratt	102	ratt	0.9731273224041377
+-docstart- (betzefer_4.txt)	metallica	278	metallica	0.9731081938440134
+-docstart- (birthmark%20(band)_0.txt)	bon jovi	127	bon jovi	0.9730945272951476
+-docstart- (gotthard%20(band)_2.txt)	whitesnake	51	whitesnake	0.9726581366551281
+-docstart- (paris%20keeling_0.txt)	electric light orchestra	144	electric light orchestra	0.972653541383399
+-docstart- (led%20zeppelin_7.txt)	shea stadium	98	shea stadium	0.9725717693318058
+-docstart- (v8%20(band)_0.txt)	rata blanca	119	rata blanca	0.9724727358188281
+-docstart- (rush%20(band)_3.txt)	uriah heep	57	uriah heep (band)	0.9723143510234128
+-docstart- (wolfmother_1.txt)	wolfmother	63	wolfmother	0.9722259331371735
+-docstart- (europe%20(band)_3.txt)	pink floyd	196	pink floyd	0.9721491516388958
+-docstart- (mistress%20(band)_1.txt)	anaal nathrakh	41	anaal nathrakh	0.9721220651618003
+-docstart- (mistress%20(band)_1.txt)	anaal nathrakh	131	anaal nathrakh	0.9721220651618003
+-docstart- (floater%20(band)_2.txt)	pacific northwest	110	pacific northwest	0.9720637411912306
+-docstart- (nitocris%20(band)_1.txt)	pennywise	200	pennywise (band)	0.971984734289509
+-docstart- (abstrakt%20algebra_0.txt)	candlemass	153	candlemass	0.9718865868814057
+-docstart- (ratt_8.txt)	mcauley schenker group	175	mcauley schenker group	0.971747304565812
+-docstart- (pretty%20maids_0.txt)	whitesnake	55	whitesnake	0.9717267405995489
+-docstart- (europe%20(band)_0.txt)	bon jovi	306	bon jovi	0.971713041712784
+-docstart- (blackstar%20(band)_2.txt)	pink floyd	638	pink floyd	0.9715231871712966
+-docstart- (blackstar%20(band)_2.txt)	pink floyd	31	pink floyd	0.9715231871712966
+-docstart- (catharsis%20(metal%20band)_0.txt)	kipelov	112	kipelov	0.9713604258801145
+-docstart- (vardis_1.txt)	vardis	0	vardis	0.9713442344103906
+-docstart- (thin%20lizzy_14.txt)	fleetwood mac	197	fleetwood mac	0.9712365651972933
+-docstart- (daughters%20of%20mara_1.txt)	mudvayne	73	mudvayne	0.9711963961900595
+-docstart- (godflesh_6.txt)	david lynch	59	david lynch	0.9711356600913582
+-docstart- (saxon%20(band)_0.txt)	metallica	91	metallica	0.9711226170066931
+-docstart- (lacuna%20coil_2.txt)	metallica	154	metallica	0.9709959749072401
+-docstart- (dr.%20sin_2.txt)	bon jovi	30	bon jovi	0.9707484027126454
+-docstart- (thin%20lizzy_8.txt)	lynott	235	phil lynott	0.9704231077220158
+-docstart- (thin%20lizzy_8.txt)	lynott	0	phil lynott	0.9704231077220158
+-docstart- (birthmark%20(band)_0.txt)	pink floyd	93	pink floyd	0.9702839628592254
+-docstart- (rata%20blanca_0.txt)	whitesnake	85	whitesnake	0.9701693845415866
+-docstart- (riblja%20%c4%8corba_15.txt)	nato	25	nato	0.9701112905354811
+-docstart- (kipelov_0.txt)	kipelov	77	kipelov	0.9700852257866228
+-docstart- (kipelov_0.txt)	kipelov	257	kipelov	0.9700852257866228
+-docstart- (amebix_2.txt)	joy division	108	joy division	0.9700537341801792
+-docstart- (sonata%20arctica_3.txt)	tommy portimo	281	tommy portimo	0.9699142482470982
+-docstart- (carcass%20(band)_2.txt)	vagos	41	vagos	0.9699051053311296
+-docstart- (sonata%20arctica_3.txt)	marko paasikoski	172	marko paasikoski	0.9698922770517242
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	pink floyd	235	pink floyd	0.9695378586437456
+-docstart- (riddare%20av%20koden_0.txt)	wintersun	58	wintersun	0.9694998701530283
+-docstart- (whitesnake_6.txt)	ratt	53	ratt	0.969345996204913
+-docstart- (uriah%20heep%20(band)_0.txt)	uriah heep	0	uriah heep (band)	0.9693078545458864
+-docstart- (sword%20(band)_0.txt)	metallica	100	metallica	0.9692424793544864
+-docstart- (the%20cosa%20nostra%20klub_1.txt)	prokofiev	152	sergei prokofiev	0.9691223506800727
+-docstart- (enochian%20theory_1.txt)	future publishing	339	future plc	0.9690674255888131
+-docstart- (razorback%20(band)_0.txt)	makati	72	makati	0.9689594739074586
+-docstart- (dirge%20within_0.txt)	chimaira	78	chimaira	0.9686308966623944
+-docstart- (gotthard%20(band)_2.txt)	bon jovi	76	bon jovi	0.968301455809838
+-docstart- (virgin%20black_1.txt)	virgin black	45	virgin black	0.9682588332455169
+-docstart- (thin%20lizzy_8.txt)	pink floyd	275	pink floyd	0.9679790098284542
+-docstart- (puya%20(band)_1.txt)	red hot chili peppers	31	red hot chili peppers	0.9679488268496538
+-docstart- (wolfmother_4.txt)	bloodrock	301	bloodrock	0.9676599974174747
+-docstart- (tnt%20(band)_1.txt)	harnell	95	jess harnell	0.9674494656390218
+-docstart- (nightwish_10.txt)	tristania	292	tristania (band)	0.9673933633308466
+-docstart- (devilish%20impressions_3.txt)	tristania	99	tristania (band)	0.967340947286406
+-docstart- (ac%2fdc_19.txt)	recording industry association of america	12	recording industry association of america	0.9672646124940614
+-docstart- (hurd%20(band)_4.txt)	metallica	54	metallica	0.9666399735930943
+-docstart- (x%20japan_3.txt)	luna sea	390	luna sea	0.9665538659436934
+-docstart- (ratt_11.txt)	ratt	14	ratt	0.9664292492958653
+-docstart- (wolfmother_6.txt)	wolfmother	91	wolfmother	0.9663782436594692
+-docstart- (aerosmith_6.txt)	shakira	0	shakira	0.9658565755014609
+-docstart- (rush%20(band)_14.txt)	pearl jam	92	pearl jam	0.9654949905382137
+-docstart- (thin%20lizzy_7.txt)	gary moore	31	gary moore	0.9650654083876329
+-docstart- (sonata%20arctica_4.txt)	janne kivilahti	85	janne kivilahti	0.9647741690707957
+-docstart- (antistatic%20(band)_1.txt)	shihad	53	shihad	0.964089304800274
+-docstart- (in%20extremo_3.txt)	thuringia	112	thuringia	0.9639503594090141
+-docstart- (betzefer_1.txt)	chimaira	143	chimaira	0.963737521876544
+-docstart- (iron%20maiden_2.txt)	powerslave	104	powerslave	0.9634511909611605
+-docstart- (extreme%20noise%20terror_5.txt)	john peel	27	john peel	0.9634079483286538
+-docstart- (fragile%20vastness_1.txt)	deadsoul tribe	104	deadsoul tribe	0.9631859192504512
+-docstart- (ac%2fdc_13.txt)	bon jovi	171	bon jovi	0.9629617055257186
+-docstart- (crossfire%20(band)_0.txt)	bon jovi	66	bon jovi	0.9629235957150344
+-docstart- (shotgun%20messiah_1.txt)	new york dolls	107	new york dolls	0.9629018639196107
+-docstart- (mot%c3%b6rhead_3.txt)	chiswick	545	chiswick	0.9628402200417917
+-docstart- (thyrfing_1.txt)	cruachan	167	cruachan (band)	0.9626948058948034
+-docstart- (blind%20myself_0.txt)	western europe	39	western europe	0.9626449919085259
+-docstart- (tortilla%20army_1.txt)	pearl jam	140	pearl jam	0.9622720820104768
+-docstart- (def%20leppard_3.txt)	riaa	77	recording industry association of america	0.9622325691655288
+-docstart- (girugamesh_3.txt)	girugamesh	288	girugamesh	0.9621795147171729
+-docstart- (girugamesh_3.txt)	girugamesh	223	girugamesh	0.9621795147171729
+-docstart- (girugamesh_3.txt)	girugamesh	21	girugamesh	0.9621795147171729
+-docstart- (girugamesh_1.txt)	girugamesh	288	girugamesh	0.9621795147171729
+-docstart- (girugamesh_1.txt)	girugamesh	223	girugamesh	0.9621795147171729
+-docstart- (girugamesh_1.txt)	girugamesh	21	girugamesh	0.9621795147171729
+-docstart- (girugamesh_0.txt)	girugamesh	288	girugamesh	0.9621795147171729
+-docstart- (girugamesh_0.txt)	girugamesh	223	girugamesh	0.9621795147171729
+-docstart- (girugamesh_0.txt)	girugamesh	21	girugamesh	0.9621795147171729
+-docstart- (taint%20(band)_2.txt)	tilburg	108	tilburg	0.9620659766977407
+-docstart- (apocalyptica_1.txt)	apocalyptica	8	apocalyptica	0.9618374709430176
+-docstart- (birthmark%20(band)_0.txt)	rage against the machine	177	rage against the machine	0.9615467636521066
+-docstart- (def%20leppard_13.txt)	bon jovi	38	bon jovi	0.9610927472091193
+-docstart- (wolfmother_5.txt)	andrew stockdale	209	andrew stockdale	0.960906115563601
+-docstart- (nazxul_1.txt)	virgin black	171	virgin black	0.9607547754805686
+-docstart- (nightwish_9.txt)	holopainen	0	tuomas holopainen	0.9606825824368012
+-docstart- (warlock%20(band)_3.txt)	bon jovi	31	bon jovi	0.9606214059902843
+-docstart- (evergrey_3.txt)	bon jovi	104	bon jovi	0.9605899172498985
+-docstart- (ensiferum_3.txt)	wintersun	294	wintersun	0.9605025801210637
+-docstart- (asking%20alexandria_1.txt)	danny worsnop	167	danny worsnop	0.9597900408669595
+-docstart- (moahni%20moahna_0.txt)	flyman	81	henrik flyman	0.9597463370936531
+-docstart- (ruoska_1.txt)	rammstein	109	rammstein	0.9595887482086256
+-docstart- (clawfinger_2.txt)	zak tell	0	zak tell	0.9595580611036375
+-docstart- (hatesphere_2.txt)	gojira	112	gojira (band)	0.9589143876524756
+-docstart- (stampin%20ground_1.txt)	chimaira	47	chimaira	0.9588466358894652
+-docstart- (tiamat%20(band)_4.txt)	fernando ribeiro	88	fernando ribeiro (musiker)	0.958676646582855
+-docstart- (judas%20priest_5.txt)	jugulator	34	jugulator	0.9585893710073087
+-docstart- (judas%20priest_11.txt)	black sabbath	101	black sabbath	0.95856681921333
+-docstart- (girlschool_1.txt)	motörhead	21	motörhead	0.9582355880421309
+-docstart- (led%20zeppelin_19.txt)	shakira	26	shakira	0.9582158221842288
+-docstart- (skyclad%20(band)_5.txt)	uriah heep	339	uriah heep (band)	0.9581945240845491
+-docstart- (wolfmother_3.txt)	wolfmother	111	wolfmother	0.9577413616692544
+-docstart- (acid%20drinkers_2.txt)	deep purple	55	deep purple	0.9576063322846128
+-docstart- (x%20japan_2.txt)	luna sea	166	luna sea	0.9573973682747091
+-docstart- (brujeria%20(band)_5.txt)	jeff walker	370	jeffrey walker	0.9573647466789673
+-docstart- (sonata%20arctica_1.txt)	tommy portimo	108	tommy portimo	0.9573626207777991
+-docstart- (sonata%20arctica_1.txt)	marko paasikoski	74	marko paasikoski	0.9573090347957042
+-docstart- (ratt_10.txt)	cozumel	96	cozumel	0.9572258726526437
+-docstart- (almah%20(band)_2.txt)	jvc	81	jvc	0.9570848684732424
+-docstart- (ratt_9.txt)	ratt	0	ratt	0.9570527923373201
+-docstart- (stone%20(band)_2.txt)	waltari	81	waltari	0.9568860170249334
+-docstart- (rata%20blanca_0.txt)	deep purple	72	deep purple	0.9568717144615807
+-docstart- (king%20diamond%20(band)_4.txt)	david harbour	287	david harbour	0.9568375122338488
+-docstart- (def%20leppard_11.txt)	pink floyd	42	pink floyd	0.9562945855433853
+-docstart- (hdk%20(band)_0.txt)	epica	227	epica (band)	0.9562256204429542
+-docstart- (wolfmother_1.txt)	sardy	155	sardis	0.955858162785967
+-docstart- (ufo%20(band)_5.txt)	waysted	128	waysted	0.9557299659978806
+-docstart- (queenadreena_1.txt)	imperial records	277	imperial records	0.955628836809371
+-docstart- (nepal%20(band)_0.txt)	pink floyd	62	pink floyd	0.9554110782876549
+-docstart- (shadowkeep_2.txt)	tilburg	354	tilburg	0.9552040318925694
+-docstart- (wolfmother_3.txt)	andrew stockdale	0	andrew stockdale	0.9551760560422142
+-docstart- (nattefrost_0.txt)	roger rasmussen	100	roger rasmussen (poolbillardspieler)	0.9548667801628781
+-docstart- (diamond%20head%20(band)_0.txt)	sean harris	14	sean harris	0.9544070555404689
+-docstart- (green%20lizard_0.txt)	tilburg	28	tilburg	0.9543017720585965
+-docstart- (aion%20(japanese%20band)_0.txt)	luna sea	23	luna sea	0.9542834868131117
+-docstart- (aion%20(japanese%20band)_0.txt)	luna sea	125	luna sea	0.9542834868131117
+-docstart- (nightwish_11.txt)	samppa hirvonen	185	nightwish	0.9541108907732521
+-docstart- (elis%20(band)_0.txt)	sabine dünser	58	sabine dünser	0.9539992835622761
+-docstart- (arthemesia_1.txt)	wintersun	187	wintersun	0.9536840274750701
+-docstart- (deep%20purple_3.txt)	montreux	48	montreux	0.9536351318625914
+-docstart- (mortuus%20caelum_1.txt)	burzum	81	burzum	0.9534208213097335
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	black sabbath	108	black sabbath	0.9534160765125484
+-docstart- (lordi_1.txt)	lordi	29	lordi	0.9533758438307954
+-docstart- (zyklon-b%20(band)_0.txt)	haraldstad	143	kjetil-vidar haraldstad	0.9531731334085995
+-docstart- (valkyre%20(band)_0.txt)	epica	192	epica (band)	0.9531394756009134
+-docstart- (razorback%20(band)_0.txt)	rage against the machine	218	rage against the machine	0.9521691083785263
+-docstart- (nightwish_10.txt)	epica	303	epica (band)	0.9520684150974561
+-docstart- (atomgods_0.txt)	steve clarke	210	steve clarke	0.9519635319363448
+-docstart- (emperor%20(band)_1.txt)	vintersorg	125	vintersorg	0.951656498633362
+-docstart- (mnemic_3.txt)	jeff walker	157	jeffrey walker	0.9514430566555443
+-docstart- (massacration_4.txt)	riaa	158	recording industry association of america	0.9513837362570038
+-docstart- (hatesphere_1.txt)	chimaira	181	chimaira	0.9507696085961875
+-docstart- (dio%20(band)_4.txt)	pilson	476	jeff pilson	0.9505839701502229
+-docstart- (apocalyptica_3.txt)	lauri ylönen	71	lauri ylönen	0.9502718581784784
+-docstart- (lion%20(band)_3.txt)	white lion	70	white lion	0.9501587954218556
+-docstart- (dr.%20sin_1.txt)	raimundos	126	raimundos	0.9501164708990053
+-docstart- (dr.%20sin_3.txt)	saigon kick	28	saigon kick	0.949977283528485
+-docstart- (shadowkeep_12.txt)	shadowkeep	62	shadowkeep	0.9497472249969835
+-docstart- (raging%20speedhorn_2.txt)	slipknot	498	slipknot (band)	0.9496049509886059
+-docstart- (leng%20tche_2.txt)	torche	290	torche (band)	0.9495084098067075
+-docstart- (ac%2fdc_19.txt)	riaa	271	recording industry association of america	0.9495057004333015
+-docstart- (rush%20(band)_10.txt)	lifeson	156	alex lifeson	0.9490923423451154

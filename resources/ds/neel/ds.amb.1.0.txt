@@ -1,0 +1,40 @@
+99997752259383296	richard dent	37	richard dent	1.0
+99994149322883072	warren jeffs	0	warren jeffs	1.0
+99954453586780161	arsene wenger	3	arsène wenger	1.0
+99913964850388992	merica	127	paul dyer merica	1.0
+99893326660116481	horn of africa	28	horn of africa	1.0
+99885981905321985	usama bin laden	62	osama bin laden	1.0
+99861223440527360	mariano rivera	0	mariano rivera	1.0
+99852692247166976	g-7	95	group of eight	1.0
+99852692247166976	ap	84	associated press	1.0
+99556024939331584	houston business journal	50	american city business journals	1.0
+99538840863252480	zliten	38	zliten	1.0
+99510126662254594	neil armstrong	0	neil armstrong	1.0
+99480036737957888	gadhafi	31	muammar gaddafi	1.0
+99437770719768576	philippine airlines	0	philippine airlines	1.0
+99350755709956096	university of ulster	36	ulster university	1.0
+99287434281484288	ted bundy	65	ted bundy	1.0
+99226394587971585	apple	0	apple inc.	1.0
+99147499725529088	u.s.	43	united states	1.0
+99144320430518274	gremio	65	grêmio foot-ball porto alegrense	1.0
+99144320430518274	gremio	26	grêmio foot-ball porto alegrense	1.0
+99121683209785344	deitrick	36	deitrick haddon	1.0
+99117732745854976	european central bank	66	european central bank	1.0
+99113051927752704	dietrick	42	coby dietrick	1.0
+99106033695342593	raila odinga	13	raila odinga	1.0
+99106033695342593	miguna miguna	44	miguna miguna	1.0
+99102712934834176	belfast	54	belfast	1.0
+99087290470629376	international monetary fund	28	international monetary fund	1.0
+99087290470629376	christine lagarde	62	christine lagarde	1.0
+99029732041031680	iyenemi furo	16	furo iyenemi	1.0
+98932393993449472	irish sea	25	irish sea	1.0
+98919027602231296	kodak	13	kodak	1.0
+98888035881586691	nfl	22	national football league	1.0
+98838837832327168	kyle orton	54	kyle orton	1.0
+98836567585595392	ihs cera	19	cambridge energy research associates	1.0
+98836567585595392	gulf of mexico	40	gulf of mexico	1.0
+98743218979618817	black sea	91	black sea	1.0
+98715287880347648	cleveland police	19	cleveland division of police	1.0
+98591066583871488	moondogs	117	the moondogs (professional wrestling)	1.0
+98591066583871488	moondogs	0	the moondogs (professional wrestling)	1.0
+98561474154336256	u.s.	21	united states	1.0

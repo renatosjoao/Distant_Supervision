@@ -1,0 +1,64 @@
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	ap	57	associated press	1.0
+tw_83.txt	hattiesburg	359	hattiesburg, mississippi	1.0
+tw_73.txt	pepsi	48	pepsi	1.0
+tw_71.txt	htc	88	htc	1.0
+tw_71.txt	htc	21	htc	1.0
+tw_65.txt	giles deacon	27	giles deacon	1.0
+tw_65.txt	amber le bon	0	amber le bon	1.0
+tw_62.txt	christchurch	84	christchurch	1.0
+tw_60.txt	la dodgers	40	los angeles dodgers	1.0
+tw_60.txt	don mattingly	0	don mattingly	1.0
+tw_59.txt	jessica simpson	32	jessica simpson	1.0
+tw_59.txt	jessica simpson	0	jessica simpson	1.0
+tw_56.txt	st johns	18	st johns railway station	1.0
+tw_55.txt	zac brown	23	zac brown band	1.0
+tw_53.txt	tipitina	11	tipitina	1.0
+tw_50.txt	marcus bentley	38	marcus bentley	1.0
+tw_49.txt	youtube	10	youtube	1.0
+tw_48.txt	google	0	google	1.0
+tw_47.txt	steve king	16	steve king	1.0
+tw_46.txt	pepsi	26	pepsi	1.0
+tw_40.txt	jersey shore	99	jersey shore (tv series)	1.0
+tw_36.txt	mannie fresh	18	mannie fresh	1.0
+tw_36.txt	jermaine dupri	35	jermaine dupri	1.0
+tw_28.txt	ed miliband	71	ed miliband	1.0
+tw_26.txt	christine o'donnell	63	christine o'donnell	1.0
+tw_25.txt	murkowski	28	lisa murkowski	1.0
+tw_24.txt	alpha & omega	26	alpha and omega	1.0
+tw_23.txt	brett favre	128	brett favre	1.0
+tw_22.txt	ypf	62	ypf	1.0
+tw_175.txt	bg	14	greenland	1.0
+tw_174.txt	larry bird	99	larry bird	1.0
+tw_156.txt	calcio	107	football in italy	1.0
+tw_155.txt	chapel hill	39	chapel hill, north carolina	1.0
+tw_150.txt	vma	13	vma	1.0
+tw_149.txt	biggie	101	the notorious b.i.g.	1.0
+tw_143.txt	barbara boxer	50	barbara boxer	1.0
+tw_139.txt	miley cyrus	69	miley cyrus	1.0
+tw_139.txt	miley cyrus	5	miley cyrus	1.0
+tw_131.txt	andy kaufman	34	andy kaufman	1.0
+tw_130.txt	deandre way	444	soulja boy	1.0
+tw_13.txt	wisconsin	64	wisconsin	1.0
+tw_124.txt	margaret hamburg	90	margaret hamburg	1.0
+tw_122.txt	blakehurst	35	blakehurst, new south wales	1.0
+tw_119.txt	stephen fry	27	stephen fry	1.0
+tw_118.txt	accel	62	accel partners	1.0
+tw_112.txt	miami 2 ibiza	95	miami 2 ibiza	1.0
+tw_111.txt	adam beyer	0	adam beyer	1.0
+tw_105.txt	cwe	61	common weakness enumeration	1.0
+tw_1.txt	keppinger	28	jeff keppinger	1.0
+tw_11.txt	rick ross	32	rick ross	0.987842548208943
+tw_23.txt	american professional football association	43	national football league	0.9857961719881064
+tw_60.txt	joe torre	27	joe torre	0.9744245444921321
+tw_124.txt	fda	73	food and drug administration	0.9689408654769689
+tw_92.txt	barbados	65	barbados	0.8937024884050341
+tw_170.txt	playboy	36	playboy	0.8902823863911944
+tw_170.txt	playboy	0	playboy	0.8902823863911941
+tw_117.txt	cisco	62	cisco systems	0.8640666110369375
+tw_136.txt	berkeley	66	berkeley, california	0.8336133823966715
+tw_23.txt	nfl	102	national football league	0.7756748552381403
+tw_122.txt	new york	12	new york city	0.7324018222916123
+tw_167.txt	california	17	california	0.6714415004369145

@@ -1,0 +1,32 @@
+http:__aksw.org_n3_rss-500_99	yankees baseball	18	new york yankees	1.0
+http:__aksw.org_n3_rss-500_99	lucchino	84	larry lucchino	1.0
+http:__aksw.org_n3_rss-500_99	larry lucchino	78	larry lucchino	1.0
+http:__aksw.org_n3_rss-500_98	valentine	21	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_97	visit	49	visit of king george iv to scotland	1.0
+http:__aksw.org_n3_rss-500_97	pesky	0	johnny pesky	1.0
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_95	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_93	rob pelinka	129	rob pelinka	1.0
+http:__aksw.org_n3_rss-500_93	press on	55	press on	1.0
+http:__aksw.org_n3_rss-500_93	pelinka	133	rob pelinka	1.0
+http:__aksw.org_n3_rss-500_93	friday	64	tim friday	1.0
+http:__aksw.org_n3_rss-500_93	bryant	113	kobe bryant	1.0
+http:__aksw.org_n3_rss-500_92	boise	4	nampa, idaho	1.0
+http:__aksw.org_n3_rss-500_91	boingo wireless	105	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_91	boingo	105	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_90	pretorius	0	johan pretorius	1.0
+http:__aksw.org_n3_rss-500_90	boeremag	47	boeremag	1.0
+http:__aksw.org_n3_rss-500_89	bobby valentine	124	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_88	series of	105	national lampoon's vacation (film series)	1.0
+http:__aksw.org_n3_rss-500_88	raytheon co.	68	raytheon	1.0
+http:__aksw.org_n3_rss-500_88	port authority police	164	port authority of new york and new jersey police department	1.0
+http:__aksw.org_n3_rss-500_87	maveron	187	maveron	1.0
+http:__aksw.org_n3_rss-500_87	howard schultz	242	howard schultz	1.0
+http:__aksw.org_n3_rss-500_86	appliance	27	suning appliance	1.0
+http:__aksw.org_n3_rss-500_85	moosehead lake	94	moosehead lake	1.0
+http:__aksw.org_n3_rss-500_85	moosehead	94	moosehead lake	1.0
+http:__aksw.org_n3_rss-500_85	lake region	104	lakes region (new hampshire)	1.0
+http:__aksw.org_n3_rss-500_83	emrich	65	armin emrich	1.0
+http:__aksw.org_n3_rss-500_82	charleston convention	138	1860 democratic national convention	1.0
+http:__aksw.org_n3_rss-500_81	bluescope	255	bluescope steel	1.0

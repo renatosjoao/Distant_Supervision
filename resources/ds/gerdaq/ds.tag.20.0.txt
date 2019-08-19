@@ -1,0 +1,186 @@
+http:__gerdaq_gerdaq_traininga.xml_92	bugs life	2	a bug's life	1.0
+http:__gerdaq_gerdaq_test.xml_236	memphis ;tennessee	8	memphis, tennessee	0.92399913
+http:__gerdaq_gerdaq_test.xml_203	triangle towne center	0	triangle town center	0.8588
+http:__gerdaq_gerdaq_traininga.xml_124	fibre channel	7	fibre channel	0.8549
+http:__gerdaq_gerdaq_devel.xml_161	corolla north carolina	0	corolla, north carolina	0.83134997
+http:__gerdaq_gerdaq_devel.xml_52	university of santo tomas	0	university of santo tomas	0.8304
+http:__gerdaq_gerdaq_trainingb.xml_231	carriage return	8	carriage return	0.8088
+http:__gerdaq_gerdaq_traininga.xml_164	highland high school	0	highland high school (bakersfield, california)	0.8039
+http:__gerdaq_gerdaq_trainingb.xml_213	kddi	8	kddi	0.79366976
+http:__gerdaq_gerdaq_traininga.xml_223	randy jackson	0	randy jackson	0.791175
+http:__gerdaq_gerdaq_devel.xml_73	celeron m	0	celeron	0.78824997
+http:__gerdaq_gerdaq_traininga.xml_223	american idol	18	american idol	0.781375
+http:__gerdaq_gerdaq_devel.xml_35	peterborough petes	0	peterborough petes	0.78040004
+http:__gerdaq_gerdaq_traininga.xml_50	troublesome trucks	0	list of thomas & friends rolling stock	0.7765955
+http:__gerdaq_gerdaq_traininga.xml_227	jefferson texas	25	jefferson, texas	0.7716485
+http:__gerdaq_gerdaq_test.xml_184	promissory note	12	promissory note	0.76448095
+http:__gerdaq_gerdaq_trainingb.xml_127	golden retriever	8	golden retriever	0.762725
+http:__gerdaq_gerdaq_traininga.xml_237	purple rain	0	purple rain (album)	0.75295
+http:__gerdaq_gerdaq_traininga.xml_89	martina mcbride	0	martina mcbride	0.74771667
+http:__gerdaq_gerdaq_traininga.xml_86	us goverment	0	federal government of the united states	0.736275
+http:__gerdaq_gerdaq_devel.xml_33	pink sapphire	0	sapphire	0.73405004
+http:__gerdaq_gerdaq_devel.xml_23	shih tsu	11	shih tzu	0.7287667
+http:__gerdaq_gerdaq_traininga.xml_127	american kennel club	0	american kennel club	0.726475
+http:__gerdaq_gerdaq_devel.xml_8	girl scout cookie	0	girl scout cookies	0.726475
+http:__gerdaq_gerdaq_devel.xml_123	led zeppelin	0	led zeppelin	0.71895
+http:__gerdaq_gerdaq_test.xml_59	mv agusta	0	mv agusta	0.7177565
+http:__gerdaq_gerdaq_trainingb.xml_231	line feed	24	newline	0.71704173
+http:__gerdaq_gerdaq_devel.xml_166	clyde auditorium	19	clyde auditorium	0.7147
+http:__gerdaq_gerdaq_devel.xml_136	cabela's	0	cabela's	0.70851636
+http:__gerdaq_gerdaq_devel.xml_100	les miserables	0	les misérables (musical)	0.70785
+http:__gerdaq_gerdaq_traininga.xml_165	lake powell	0	lake powell	0.70550454
+http:__gerdaq_gerdaq_devel.xml_165	acadamy awards	27	academy awards	0.701975
+http:__gerdaq_gerdaq_traininga.xml_52	lake crescent	0	crescent lake (florida)	0.70195
+http:__gerdaq_gerdaq_traininga.xml_240	bennett iowa	8	bennett, iowa	0.6941
+http:__gerdaq_gerdaq_test.xml_116	enzyme	3	enzyme	0.6773094
+http:__gerdaq_gerdaq_trainingb.xml_75	epoxide	0	epoxide	0.67674285
+http:__gerdaq_gerdaq_test.xml_219	killeen texas	24	killeen, texas	0.67516667
+http:__gerdaq_gerdaq_traininga.xml_175	page az	22	page, arizona	0.6745
+http:__gerdaq_gerdaq_traininga.xml_160	olusegun obasanjo	7	olusegun obasanjo	0.67254996
+http:__gerdaq_gerdaq_trainingb.xml_71	alice in wonderland	19	alice in wonderland (1951 film)	0.6681375
+http:__gerdaq_gerdaq_traininga.xml_246	simple plan	19	simple plan	0.66798335
+http:__gerdaq_gerdaq_test.xml_4	downtown disney	16	downtown disney	0.66739535
+http:__gerdaq_gerdaq_test.xml_2	elton john	19	elton john	0.666
+http:__gerdaq_gerdaq_test.xml_18	volkischer beobachter	0	völkischer beobachter	0.66275
+http:__gerdaq_gerdaq_devel.xml_50	that's so raven	0	that's so raven	0.658825
+http:__gerdaq_gerdaq_test.xml_20	kc and the sunshine band	0	kc and the sunshine band	0.6588
+http:__gerdaq_gerdaq_devel.xml_235	asus	0	asus	0.65848166
+http:__gerdaq_gerdaq_test.xml_46	hotel pontchartrain	0	crowne plaza detroit downtown riverfront	0.65735
+http:__gerdaq_gerdaq_trainingb.xml_85	costco	0	costco	0.6567772
+http:__gerdaq_gerdaq_traininga.xml_221	blue mountains	0	blue mountains (new south wales)	0.6560631
+http:__gerdaq_gerdaq_devel.xml_176	filippino language	0	filipino language	0.65295
+http:__gerdaq_gerdaq_traininga.xml_51	toyota corolla	0	toyota corolla (e140)	0.65195
+http:__gerdaq_gerdaq_test.xml_117	denton county	0	denton county, texas	0.6513158
+http:__gerdaq_gerdaq_trainingb.xml_142	espn	20	espn	0.6476189
+http:__gerdaq_gerdaq_trainingb.xml_14	alpaca	0	alpaca	0.64705
+http:__gerdaq_gerdaq_traininga.xml_124	compaq	0	compaq	0.6453451
+http:__gerdaq_gerdaq_trainingb.xml_144	wi us	11	.us	0.6451
+http:__gerdaq_gerdaq_devel.xml_155	cook islands	9	cook islands	0.6422833
+http:__gerdaq_gerdaq_trainingb.xml_112	excercise	8	physical exercise	0.64117503
+http:__gerdaq_gerdaq_trainingb.xml_233	shaolin temple	8	shaolin monastery	0.6403769
+http:__gerdaq_gerdaq_trainingb.xml_213	samsung	0	samsung electronics	0.6377909
+http:__gerdaq_gerdaq_test.xml_223	paris hilton	22	paris hilton	0.6352875
+http:__gerdaq_gerdaq_traininga.xml_111	ebay	29	ebay	0.6303618
+http:__gerdaq_gerdaq_devel.xml_154	shop rite	0	shoprite (united states)	0.6285842
+http:__gerdaq_gerdaq_trainingb.xml_222	air purifier	0	air purifier	0.62814045
+http:__gerdaq_gerdaq_devel.xml_117	blackrock	0	blackrock	0.6274846
+http:__gerdaq_gerdaq_trainingb.xml_78	lasik	0	lasik	0.6245614
+http:__gerdaq_gerdaq_trainingb.xml_36	pancake	0	pancake	0.62056303
+http:__gerdaq_gerdaq_trainingb.xml_150	janis joplin	9	janis joplin	0.6181375
+http:__gerdaq_gerdaq_trainingb.xml_36	pancake mix	0	pancake	0.61764705
+http:__gerdaq_gerdaq_trainingb.xml_118	siberia	25	siberia	0.6155267
+http:__gerdaq_gerdaq_trainingb.xml_85	glendale california	7	glendale, california	0.615309
+http:__gerdaq_gerdaq_trainingb.xml_146	crayola	0	crayola	0.6149167
+http:__gerdaq_gerdaq_trainingb.xml_57	ll cool j	0	ll cool j	0.60785
+http:__gerdaq_gerdaq_test.xml_100	michael franti spearhead	0	michael franti	0.6072663
+http:__gerdaq_gerdaq_devel.xml_9	lyme disease	0	lyme disease	0.6039
+http:__gerdaq_gerdaq_devel.xml_203	les paul	10	gibson les paul	0.6030464
+http:__gerdaq_gerdaq_test.xml_6	power mac g5	0	power mac g5	0.60195
+http:__gerdaq_gerdaq_trainingb.xml_84	recursion	0	recursion	0.60162026
+http:__gerdaq_gerdaq_trainingb.xml_183	kansas city missouri	27	kansas city, missouri	0.594303
+http:__gerdaq_gerdaq_trainingb.xml_139	glass menagerie	50	the glass menagerie	0.5902
+http:__gerdaq_gerdaq_test.xml_195	chesterfield	0	chesterfield court house, virginia	0.5901412
+http:__gerdaq_gerdaq_traininga.xml_59	stacy keibler	0	stacy keibler	0.5867625
+http:__gerdaq_gerdaq_test.xml_166	lawrenceville georgia	14	lawrenceville, georgia	0.57491577
+http:__gerdaq_gerdaq_test.xml_119	cs lewis	0	c. s. lewis	0.57201135
+http:__gerdaq_gerdaq_test.xml_25	othello	17	othello (character)	0.5718673
+http:__gerdaq_gerdaq_devel.xml_52	manila	34	manila	0.57110685
+http:__gerdaq_gerdaq_test.xml_33	bahamas	0	the bahamas	0.57080173
+http:__gerdaq_gerdaq_devel.xml_28	imac	22	imac	0.5700449
+http:__gerdaq_gerdaq_test.xml_116	protein	23	protein	0.5700022
+http:__gerdaq_gerdaq_devel.xml_22	kshatria	0	kshatriya	0.56765
+http:__gerdaq_gerdaq_traininga.xml_149	thermostat	15	thermostat	0.56715
+http:__gerdaq_gerdaq_traininga.xml_219	winchendon; ma	14	winchendon, massachusetts	0.566675
+http:__gerdaq_gerdaq_test.xml_36	washington county	0	washington county, minnesota	0.56391263
+http:__gerdaq_gerdaq_trainingb.xml_173	fendi	0	fendi	0.5602291
+http:__gerdaq_gerdaq_test.xml_167	african american	6	african americans	0.55841094
+http:__gerdaq_gerdaq_traininga.xml_175	rainbow bridge	0	rainbow bridge national monument	0.5575128
+http:__gerdaq_gerdaq_test.xml_9	cholesterol	10	cholesterol	0.5558833
+http:__gerdaq_gerdaq_trainingb.xml_105	internet public library	5	internet public library	0.553925
+http:__gerdaq_gerdaq_trainingb.xml_101	zachary taylor	9	zachary taylor	0.55295
+http:__gerdaq_gerdaq_test.xml_21	that's how you know	42	that's how you know (disney song)	0.5524221
+http:__gerdaq_gerdaq_devel.xml_80	phoenix; arizona	0	phoenix, arizona	0.5499781
+http:__gerdaq_gerdaq_test.xml_66	friendswood isd	0	friendswood independent school district	0.5495
+http:__gerdaq_gerdaq_devel.xml_218	key west	21	key west, florida	0.5489845
+http:__gerdaq_gerdaq_test.xml_160	jet ski	7	jet ski	0.5464111
+http:__gerdaq_gerdaq_traininga.xml_156	chihuahua	0	chihuahua (state)	0.54434353
+http:__gerdaq_gerdaq_trainingb.xml_87	elpaso	0	el paso, texas	0.543125
+http:__gerdaq_gerdaq_trainingb.xml_56	classical era	20	classical period (music)	0.5423094
+http:__gerdaq_gerdaq_test.xml_236	city of memphis	0	memphis, tennessee	0.5414938
+http:__gerdaq_gerdaq_test.xml_83	battle masters	0	battle masters	0.53921664
+http:__gerdaq_gerdaq_traininga.xml_227	jefferson high school	0	jefferson independent school district	0.53803694
+http:__gerdaq_gerdaq_trainingb.xml_185	custom car	0	custom car	0.5349935
+http:__gerdaq_gerdaq_test.xml_148	schaumburg illinois	13	schaumburg, illinois	0.53333336
+http:__gerdaq_gerdaq_traininga.xml_92	hopper	12	a bug's life	0.53155553
+http:__gerdaq_gerdaq_traininga.xml_245	las vegas	25	las vegas strip	0.521734
+http:__gerdaq_gerdaq_devel.xml_231	grand forks	0	grand forks, north dakota	0.5215666
+http:__gerdaq_gerdaq_trainingb.xml_167	valium	13	diazepam	0.52111495
+http:__gerdaq_gerdaq_traininga.xml_73	medicare	0	medicare (united states)	0.5204954
+http:__gerdaq_gerdaq_test.xml_105	chondritis	6	chondritis	0.5197464
+http:__gerdaq_gerdaq_trainingb.xml_214	valkyrie	8	valkyrie	0.5185259
+http:__gerdaq_gerdaq_test.xml_72	containers	16	intermodal container	0.51463115
+http:__gerdaq_gerdaq_devel.xml_161	carolina beach	14	carolina beach, north carolina	0.5145183
+http:__gerdaq_gerdaq_traininga.xml_149	rheem	0	rheem	0.51284873
+http:__gerdaq_gerdaq_devel.xml_13	fulham	14	fulham	0.5125079
+http:__gerdaq_gerdaq_devel.xml_105	nieuwleusen	6	nieuwleusen	0.51175
+http:__gerdaq_gerdaq_trainingb.xml_83	birth control	14	birth control	0.5115385
+http:__gerdaq_gerdaq_trainingb.xml_145	cabela's	0	cabela's	0.51006633
+http:__gerdaq_gerdaq_test.xml_72	storage containers	8	intermodal container	0.5054348
+http:__gerdaq_gerdaq_test.xml_57	online poker	11	online poker	0.5047156
+http:__gerdaq_gerdaq_test.xml_31	weei	22	weze	0.50274605
+http:__gerdaq_gerdaq_test.xml_83	board game	16	board game	0.50085545
+http:__gerdaq_gerdaq_devel.xml_41	michelob	0	anheuser-busch brands	0.5004426
+http:__gerdaq_gerdaq_trainingb.xml_58	fort desoto	0	fort de soto park	0.5
+http:__gerdaq_gerdaq_trainingb.xml_54	mount hamilton	0	mount hamilton (california)	0.5
+http:__gerdaq_gerdaq_trainingb.xml_40	world of	0	the world of null-a	0.5
+http:__gerdaq_gerdaq_trainingb.xml_28	raymond poe	0	raymond poe	0.5
+http:__gerdaq_gerdaq_trainingb.xml_232	grover cleveland	0	grover cleveland	0.5
+http:__gerdaq_gerdaq_trainingb.xml_221	carly patterson	0	carly patterson	0.5
+http:__gerdaq_gerdaq_trainingb.xml_218	sula; mt	11	sula, montana	0.5
+http:__gerdaq_gerdaq_trainingb.xml_217	lana lang	0	lana lang	0.5
+http:__gerdaq_gerdaq_trainingb.xml_21	townsend; delaware	12	townsend, delaware	0.5
+http:__gerdaq_gerdaq_trainingb.xml_207	genopro	7	genopro	0.5
+http:__gerdaq_gerdaq_trainingb.xml_187	calhan colorado	25	calhan, colorado	0.5
+http:__gerdaq_gerdaq_trainingb.xml_176	w-4 form	42	form w-4	0.5
+http:__gerdaq_gerdaq_trainingb.xml_171	caresource	0	caresource	0.5
+http:__gerdaq_gerdaq_trainingb.xml_170	tietlebaum	5	harry tietlebaum	0.5
+http:__gerdaq_gerdaq_trainingb.xml_158	generating company	40	the generating company	0.5
+http:__gerdaq_gerdaq_trainingb.xml_152	to win	9	tołwin	0.5
+http:__gerdaq_gerdaq_trainingb.xml_133	monocirrhus polyacanthus	0	monocirrhus polyacanthus	0.5
+http:__gerdaq_gerdaq_trainingb.xml_125	jewlery	8	jewellery	0.5
+http:__gerdaq_gerdaq_trainingb.xml_107	song a	10	sông đà (mường lay)	0.5
+http:__gerdaq_gerdaq_trainingb.xml_106	pearle vision	0	pearle vision	0.5
+http:__gerdaq_gerdaq_trainingb.xml_103	phdcomics	0	piled higher and deeper	0.5
+http:__gerdaq_gerdaq_trainingb.xml_0	billie joe armstrong	0	billie joe armstrong	0.5
+http:__gerdaq_gerdaq_traininga.xml_78	crossing church	0	the crossing church	0.5
+http:__gerdaq_gerdaq_traininga.xml_67	airzooka	22	air vortex cannon	0.5
+http:__gerdaq_gerdaq_traininga.xml_59	phto	21	hilo international airport	0.5
+http:__gerdaq_gerdaq_traininga.xml_49	palestine/israel peace	0	israeli–palestinian peace process	0.5
+http:__gerdaq_gerdaq_traininga.xml_38	alfonsina storni	0	alfonsina storni	0.5
+http:__gerdaq_gerdaq_traininga.xml_3	aloha airlines	0	aloha airlines	0.5
+http:__gerdaq_gerdaq_traininga.xml_236	elephant man	25	elephant man (musician)	0.5
+http:__gerdaq_gerdaq_traininga.xml_224	red bluff ca	19	red bluff, california	0.5
+http:__gerdaq_gerdaq_traininga.xml_22	man's favorite sport	0	man's favorite sport?	0.5
+http:__gerdaq_gerdaq_traininga.xml_199	james van der zee	13	james van der zee	0.5
+http:__gerdaq_gerdaq_traininga.xml_18	dor yesharim	0	dor yeshorim	0.5
+http:__gerdaq_gerdaq_traininga.xml_173	maghtab	0	magħtab	0.5
+http:__gerdaq_gerdaq_traininga.xml_166	autobiography of benjamin franklin	10	the autobiography of benjamin franklin	0.5
+http:__gerdaq_gerdaq_traininga.xml_16	dillon; sc	15	dillon, south carolina	0.5
+http:__gerdaq_gerdaq_traininga.xml_147	lakewood wisconsin	0	lakewood, wisconsin	0.5
+http:__gerdaq_gerdaq_traininga.xml_142	facial peel	0	facial	0.5
+http:__gerdaq_gerdaq_traininga.xml_120	matrix revolution	0	the matrix revolutions	0.5
+http:__gerdaq_gerdaq_traininga.xml_113	michael the gorilla	0	michael (gorilla)	0.5
+http:__gerdaq_gerdaq_traininga.xml_0	sidney lumet	0	sidney lumet	0.5
+http:__gerdaq_gerdaq_test.xml_65	bizrate	11	shopzilla	0.5
+http:__gerdaq_gerdaq_test.xml_64	david crockett state park	0	david crockett state park	0.5
+http:__gerdaq_gerdaq_test.xml_53	david nadler	0	david a. nadler	0.5
+http:__gerdaq_gerdaq_test.xml_45	fulton county daily report	0	fulton county daily report	0.5
+http:__gerdaq_gerdaq_test.xml_30	miniclips	8	miniclip	0.5
+http:__gerdaq_gerdaq_test.xml_244	miz	19	the miz	0.5
+http:__gerdaq_gerdaq_test.xml_224	monkey patch	0	monkey patch	0.5
+http:__gerdaq_gerdaq_test.xml_195	chesterfield va	0	chesterfield court house, virginia	0.5
+http:__gerdaq_gerdaq_test.xml_193	diane webber	0	diane webber	0.5
+http:__gerdaq_gerdaq_test.xml_188	alan keyes	8	alan keyes	0.5
+http:__gerdaq_gerdaq_test.xml_173	assumption high school	0	assumption high school (iowa)	0.5
+http:__gerdaq_gerdaq_test.xml_160	lake ozark mo	18	lake ozark, missouri	0.5
+http:__gerdaq_gerdaq_test.xml_135	eragon	17	eragon (film)	0.5

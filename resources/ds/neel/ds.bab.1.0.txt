@@ -1,0 +1,140 @@
+99997752259383296	richard dent	37	richard dent	1.0
+99997752259383296	rt	0	rt (tv network)	1.0
+99994149322883072	warren jeffs	0	warren jeffs	1.0
+99994149322883072	warren	0	warren jeffs	1.0
+99987249726373888	saint-germain	80	saint-germain-en-laye	1.0
+99954453586780161	lot	107	lot jones	1.0
+99954453586780161	u.s. economy	37	economy of the united states	1.0
+99954453586780161	arsene wenger	3	arsène wenger	1.0
+99893326660116481	horn of africa	28	horn of africa	1.0
+99885981905321985	bin laden	68	osama bin laden	1.0
+99885981905321985	usama bin laden	62	osama bin laden	1.0
+99861223440527360	night	75	disco demolition night	1.0
+99861223440527360	mariano rivera	0	mariano rivera	1.0
+99810287129067521	years ago	3	before present	1.0
+99810287129067521	wide	30	web integrated development environment	1.0
+99810287129067521	insider	54	the insider (tv series)	1.0
+99686731250532352	tampa 2	44	tampa 2	1.0
+99670130161745920	s&p	0	standard & poor's	1.0
+99661771735969792	obama	21	barack obama	1.0
+99660443492171776	leadoff	21	batting order (baseball)	1.0
+99659141890576384	miami beach police	86	miami beach police department	1.0
+99659141890576384	miami beach police	0	miami beach police department	1.0
+99653392141533184	s&p	4	standard & poor's	1.0
+99642970789261313	s&p	4	standard & poor's	1.0
+99641382926434304	leadership	42	speaker of the united states house of representatives	1.0
+99641044160872449	us economy	33	economy of the united states	1.0
+99641044160872449	s&p	4	standard & poor's	1.0
+99637899405955072	s&p	6	standard & poor's	1.0
+99614658503245824	camera	54	yodobashi camera	1.0
+99611423281393664	co mayo	120	county mayo	1.0
+99598183302299648	officials	3	uk singles chart	1.0
+99594637676789760	neighborhoods	18	niterói	1.0
+99594637676789760	takbeer	98	takbir	1.0
+99556024939331584	houston business journal	50	american city business journals	1.0
+99556024939331584	business journal	58	american city business journals	1.0
+99545215618129921	midnight runs	76	midnight run	1.0
+99538840863252480	zliten	38	zliten	1.0
+99517187496214528	adventure	67	hms aid (1809)	1.0
+99517187496214528	jupiter	118	hms jupiter (f85)	1.0
+99510126662254594	moon	47	apollo 14	1.0
+99510126662254594	neil armstrong	0	neil armstrong	1.0
+99510126662254594	neil	0	neil armstrong	1.0
+99510126662254594	armstrong	5	neil armstrong	1.0
+99480036737957888	gadhafi	31	muammar gaddafi	1.0
+99437770719768576	philippine airlines	67	philippine airlines	1.0
+99437770719768576	philippine airlines	0	philippine airlines	1.0
+99437770719768576	philippine	67	philippines	1.0
+99437770719768576	philippine	0	philippines	1.0
+99437770719768576	los	106	ricky lo	1.0
+99437770719768576	la	30	louisiana	1.0
+99437770719768576	ap	62	krasue	1.0
+99437770719768576	ap	57	krasue	1.0
+99357694883930112	philippine dragon	0	bakunawa	1.0
+99350755709956096	university of ulster	36	ulster university	1.0
+99350755709956096	university of	36	university of ljubljana	1.0
+99288973943390209	nicki minaj	89	nicki minaj	1.0
+99288973943390209	minaj	95	nicki minaj	1.0
+99288973943390209	lineup	111	line-up (graham bonnet album)	1.0
+99288973943390209	fox animation	29	fox animation studios	1.0
+99288973943390209	blue sky studios	45	blue sky studios	1.0
+99287434281484288	cases	34	richard case	1.0
+99273520994992130	wall	24	wall street	1.0
+99273520994992130	street	29	nassau street (manhattan)	1.0
+99252118250201089	weekend	34	weekend players	1.0
+99227803861516288	rt	0	rt (tv network)	1.0
+99226394587971585	xcode	15	xcode	1.0
+99226394587971585	mac app store	31	mac app store	1.0
+99200989688643584	threat	53	uss threat (am-124)	1.0
+99200989688643584	rt	0	rt (tv network)	1.0
+99200989688643584	nbc miami	98	wtvj	1.0
+99195943936724992	victory	98	2008 fa cup final	1.0
+99195943936724992	stoke city	19	stoke city f.c.	1.0
+99195943936724992	hajduk split	111	hnk hajduk split	1.0
+99147499725529088	spell	51	warm spell	1.0
+99147499725529088	spell	5	warm spell	1.0
+99147499725529088	southern u.s.	34	southern united states	1.0
+99144320430518274	time in	49	dave brubeck	1.0
+99144320430518274	second time	42	1956 summer olympics	1.0
+99136380634017792	chinese city	99	guilin	1.0
+99136380634017792	chinese city	0	guilin	1.0
+99129277999611906	s&p 500	36	s&p 500	1.0
+99129277999611906	s&p	36	standard & poor's	1.0
+99121683209785344	update	0	red state update	1.0
+99117732745854976	euro zone	17	eurozone	1.0
+99117732745854976	bank acted	83	bank act (canada)	1.0
+99117434937679872	york	55	toronto	1.0
+99113051927752704	vt	0	vermont	1.0
+99106033695342593	raila odinga	13	raila odinga	1.0
+99106033695342593	raila	13	raila odinga	1.0
+99106033695342593	odinga	19	raila odinga	1.0
+99106033695342593	miguna miguna	44	miguna miguna	1.0
+99106033695342593	iiec	63	interim independent electoral commission of kenya	1.0
+99102712934834176	west belfast	49	belfast	1.0
+99097306468581376	juno spacecraft	92	juno (spacecraft)	1.0
+99097306468581376	complex 41	34	cape canaveral air force station space launch complex 41	1.0
+99097306468581376	atlas 5	0	atlas v	1.0
+99087290470629376	christine lagarde	62	christine lagarde	1.0
+99029732041031680	iyenemi furo	16	iyenemi furo	1.0
+98980998422859776	ssi	0	statens serum institut	1.0
+98980998422859776	mass	57	massachusetts	1.0
+98960098117943296	ground	42	earth	1.0
+98960098117943296	cargill	0	cargill	1.0
+98932393993449472	uk	36	united kingdom	1.0
+98932393993449472	irish sea	25	irish sea	1.0
+98924387897585664	scotland	24	united kingdom	1.0
+98888035881586691	bubba' smith	40	bubba smith	1.0
+98881761181827072	japanese government	76	japan	1.0
+98875041139265536	page	11	tom page	1.0
+98869744505073665	gains	118	charles gain	1.0
+98838837832327168	kyle orton	54	kyle orton	1.0
+98838837832327168	kyle	54	kyle orton	1.0
+98836567585595392	mexico	48	mexico	1.0
+98836567585595392	ihs cera	19	cambridge energy research associates	1.0
+98836567585595392	ihs	19	ihs inc.	1.0
+98836567585595392	gulf	40	gulf of mexico	1.0
+98836567585595392	cera	23	cambridge energy research associates	1.0
+98836567585595392	bureau	94	édouard bureau	1.0
+98836567585595392	bromwich	5	michael r. bromwich	1.0
+98833944732106752	marg	124	marg helgenberger	1.0
+98833944732106752	george eads	0	george eads	1.0
+98743218979618817	sea	43	black sea	1.0
+98743218979618817	rov	33	real oviedo	1.0
+98743218979618817	black	37	black sea	1.0
+98591066583871488	moondogs	62	cleveland cavaliers	1.0
+98530236588761088	conflicts	76	the war to end war	1.0
+98530236588761088	mexico	45	mexico	1.0
+98518238442434560	president barack obama	0	barack obama	1.0
+98518238442434560	president barack	0	barack obama	1.0
+98501375574544385	tennis tournament	87	tennis at the 2008 summer olympics	1.0
+98501375574544385	vinci	76	roberta vinci	1.0
+98501375574544385	roberta vinci	68	roberta vinci	1.0
+98501052613140480	son	66	saviour (comics)	1.0
+98501052613140480	rt	0	rt (tv network)	1.0
+98488599707779072	new drug application	47	new drug application	1.0
+98446576988585984	shuttle columbia	6	space shuttle columbia	1.0
+98403761524981760	sequel to	14	tubular bells ii	1.0
+98403761524981760	martin campbell	81	martin campbell	1.0
+98355416865587200	news international	40	news uk	1.0
+98336270253694977	qof	48	quality and outcomes framework	1.0
+98336270253694977	pulse	0	pulse (2006 film)	1.0

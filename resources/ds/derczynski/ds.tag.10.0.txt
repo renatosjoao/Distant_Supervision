@@ -1,0 +1,39 @@
+tw_60.txt	joe torre	27	joe torre	0.7346417
+tw_117.txt	ebgp	54	border gateway protocol	0.69847775
+tw_169.txt	pretty little liars	31	pretty little liars	0.69528997
+tw_41.txt	sea inside	116	the sea inside	0.6918539
+tw_126.txt	marvin gaye	14	marvin gaye	0.6902
+tw_60.txt	don mattingly	0	don mattingly	0.6882333
+tw_160.txt	netflix	75	netflix	0.6827047
+tw_66.txt	xbox 360	0	xbox 360	0.68158
+tw_37.txt	yhoo.it	124	yahoo!	0.67560554
+tw_70.txt	mayday parade	0	mayday parade	0.66863
+tw_66.txt	playstation network	55	playstation network	0.66275
+tw_41.txt	rachel weisz	133	rachel weisz	0.65475
+tw_160.txt	time warner cable	0	time warner cable	0.65450996
+tw_139.txt	paris hilton	51	paris hilton	0.643135
+tw_18.txt	kings of leon	30	kings of leon	0.631375
+tw_47.txt	steve king	16	steve king	0.6279286
+tw_160.txt	epix	29	epix	0.6271545
+tw_117.txt	ibgp	45	border gateway protocol	0.6270492
+tw_36.txt	jermaine dupri	35	jermaine dupri	0.62656367
+tw_28.txt	ed miliband	71	ed miliband	0.625885
+tw_130.txt	soulja boy	0	soulja boy	0.62380713
+tw_130.txt	deandre way	38	soulja boy	0.62380713
+tw_97.txt	john henry newman	29	john henry newman	0.6217833
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	0.6204778
+tw_139.txt	miley cyrus	5	miley cyrus	0.620395
+tw_24.txt	fb.me	120	facebook	0.61911875
+tw_23.txt	brett favre	128	brett favre	0.61904997
+tw_181.txt	lady gaga	44	lady gaga	0.618235
+tw_115.txt	fb.me	45	facebook	0.611775
+tw_159.txt	30stm	29	thirty seconds to mars	0.61117
+tw_49.txt	family guy	27	family guy	0.61046666
+tw_11.txt	rick ross	32	rick ross	0.608815
+tw_124.txt	margaret hamburg	90	margaret hamburg	0.60653335
+tw_80.txt	fb.me	125	facebook	0.60412
+tw_66.txt	enslaved: odyssey to the west	10	enslaved: odyssey to the west	0.6
+tw_157.txt	justin bieber	42	justin bieber	0.599675
+tw_181.txt	kid cudi	0	kid cudi	0.59862
+tw_36.txt	mannie fresh	18	mannie fresh	0.59714997
+tw_44.txt	tell ' em steve dave	24	tell 'em steve-dave!	0.5941167

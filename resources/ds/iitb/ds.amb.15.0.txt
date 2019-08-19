@@ -1,0 +1,360 @@
+yn_08oct08_file_9	kouchner	624	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	380	bernard kouchner	1.0
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	1.0
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	1.0
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	1.0
+yn_08oct08_file_7	thomas steg	313	thomas steg	1.0
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	qari mohammad yousuf	3197	yousef ahmadi	1.0
+yn_08oct08_file_6	muttawakil	786	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	1141	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	mullah mohammad omar	1583	mohammed omar	1.0
+yn_08oct08_file_6	kai eide	2925	kai eide	1.0
+yn_08oct08_file_5	new york army national guard	1274	new york army national guard	1.0
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	1.0
+yn_08oct08_file_5	defense department	524	united states department of defense	1.0
+yn_08oct08_file_5	defense department	344	united states department of defense	1.0
+yn_08oct08_file_40	eleuthera	3143	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	2879	eleuthera	1.0
+yn_08oct08_file_4	mark carleton-smith	848	mark carleton-smith	1.0
+yn_08oct08_file_39	bahamas olympic association	104	bahamas olympic committee	1.0
+yn_08oct08_file_38	hubert ingraham	107	hubert ingraham	1.0
+yn_08oct08_file_38	christ community church	429	christ community church	1.0
+yn_08oct08_file_38	central bank of the bahamas	850	central bank of the bahamas	1.0
+yn_08oct08_file_36	u.s. treasury	2729	united states department of the treasury	1.0
+yn_08oct08_file_34	washington university	2338	washington university in st. louis	1.0
+yn_08oct08_file_34	siteman cancer center	1915	alvin j. siteman cancer center	1.0
+yn_08oct08_file_34	sheila allen	1636	sheila allen (english actress)	1.0
+yn_08oct08_file_34	pam blackwell	314	pam blackwell	1.0
+yn_08oct08_file_34	nassau	1270	the bahamas	1.0
+yn_08oct08_file_34	farmington	362	farmington, connecticut	1.0
+yn_08oct08_file_34	daily journal	5022	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	daily journal	4781	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	barnes hospital	1940	barnes-jewish hospital	1.0
+yn_08oct08_file_34	bahamas	212	the bahamas	1.0
+yn_08oct08_file_33	sub-saharan africa	5456	sub-saharan africa	1.0
+yn_08oct08_file_33	joan thompson	941	joan beauchamp	1.0
+yn_08oct08_file_33	central africa republic	5297	central african republic	1.0
+yn_08oct08_file_31	siula grande	7900	siula grande	1.0
+yn_08oct08_file_31	siula grande	7294	siula grande	1.0
+yn_08oct08_file_31	outer hebrides	6722	outer hebrides	1.0
+yn_08oct08_file_31	lower largo	1513	lower largo	1.0
+yn_08oct08_file_31	chris bonington	6284	chris bonington	1.0
+yn_08oct08_file_30	theatre royal bath	2165	theatre royal, bath	1.0
+yn_08oct08_file_30	nathaniel parker	2040	nathaniel parker	1.0
+yn_08oct08_file_30	christopher timothy	2061	christopher timothy	1.0
+yn_08oct08_file_30	arctic challenge	443	the arctic challenge	1.0
+yn_08oct08_file_28	wasilla	6466	wasilla, alaska	1.0
+yn_08oct08_file_28	u.s.	5484	united states	1.0
+yn_08oct08_file_28	trig	5745	trig (syntax)	1.0
+yn_08oct08_file_28	st. louis	5661	st. louis	1.0
+yn_08oct08_file_28	seal press	4627	perseus books group	1.0
+yn_08oct08_file_28	sarah palin	5592	sarah palin	1.0
+yn_08oct08_file_28	perseus books group	4659	perseus books group	1.0
+yn_08oct08_file_28	palin	5815	sarah palin	1.0
+yn_08oct08_file_28	national assembly of pakistan	1369	national assembly of pakistan	1.0
+yn_08oct08_file_28	national assembly	1590	national assembly of pakistan	1.0
+yn_08oct08_file_28	joe biden	5712	joe biden	1.0
+yn_08oct08_file_28	iraq	6895	iraq	1.0
+yn_08oct08_file_28	international monetary fund	2108	international monetary fund	1.0
+yn_08oct08_file_28	hillary clinton	6303	hillary clinton	1.0
+yn_08oct08_file_28	gop	6030	government of pakistan	1.0
+yn_08oct08_file_28	fakhri	2850	nargis fakhri	1.0
+yn_08oct08_file_28	fakhri	2605	nargis fakhri	1.0
+yn_08oct08_file_27	wasilla	5861	wasilla, alaska	1.0
+yn_08oct08_file_27	u.s.	4879	united states	1.0
+yn_08oct08_file_27	trig	5140	trig (syntax)	1.0
+yn_08oct08_file_27	st. louis	5056	st. louis	1.0
+yn_08oct08_file_27	sarah palin	4987	sarah palin	1.0
+yn_08oct08_file_27	perseus books group	4062	perseus books group	1.0
+yn_08oct08_file_27	pelosi	653	nancy pelosi	1.0
+yn_08oct08_file_27	pelosi	413	nancy pelosi	1.0
+yn_08oct08_file_27	palin	5210	sarah palin	1.0
+yn_08oct08_file_27	nancy pelosi	51	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	500	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	431	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	224	nancy pelosi	1.0
+yn_08oct08_file_27	julia ward howe	3779	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1310	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1241	julia ward howe	1.0
+yn_08oct08_file_27	joe biden	5107	joe biden	1.0
+yn_08oct08_file_27	iraq	6290	iraq	1.0
+yn_08oct08_file_27	iraq	3446	iraq	1.0
+yn_08oct08_file_27	iraq	2483	iraq	1.0
+yn_08oct08_file_27	huffington post	4135	huffpost	1.0
+yn_08oct08_file_27	howe	1568	julia ward howe	1.0
+yn_08oct08_file_27	hillary clinton	5698	hillary clinton	1.0
+yn_08oct08_file_27	getty images	185	getty images	1.0
+yn_08oct08_file_27	gop	5425	government of pakistan	1.0
+yn_08oct08_file_26	tomas morato	817	tomas morato	1.0
+yn_08oct08_file_26	sunshine dizon	138	sunshine dizon	1.0
+yn_08oct08_file_26	rosa negra	2794	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	rosa negra	2227	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	quezon city	831	quezon city	1.0
+yn_08oct08_file_26	maryo j. delos reyes	2316	maryo j. de los reyes	1.0
+yn_08oct08_file_26	jun lana	2354	jun lana	1.0
+yn_08oct08_file_26	joel lamangan	2301	joel lamangan	1.0
+yn_08oct08_file_25	dreamin	3199	plata o plomo (fat joe and remy ma album)	1.0
+yn_08oct08_file_25	daniel lanois	2329	daniel lanois	1.0
+yn_08oct08_file_24	tomas morato	999	tomas morato	1.0
+yn_08oct08_file_24	sunshine dizon	328	sunshine dizon	1.0
+yn_08oct08_file_24	sunshine dizon	28	sunshine dizon	1.0
+yn_08oct08_file_24	rosa negra	2923	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	2360	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	151	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	quezon city	1013	quezon city	1.0
+yn_08oct08_file_24	maryo j. delos reyes	2449	maryo j. de los reyes	1.0
+yn_08oct08_file_24	jun lana	2487	jun lana	1.0
+yn_08oct08_file_24	joel lamangan	2434	joel lamangan	1.0
+yn_08oct08_file_24	dizon	3184	sunshine dizon	1.0
+yn_08oct08_file_23	orphan annie	3078	little orphan annie	1.0
+yn_08oct08_file_23	michif	3633	michif	1.0
+yn_08oct08_file_23	gerry ritz	282	gerry ritz	1.0
+yn_08oct08_file_23	gabriel dumont institute	1190	gabriel dumont institute	1.0
+yn_08oct08_file_22	roseland theater	104	roseland theater	1.0
+yn_08oct08_file_22	arlene schnitzer	173	arlene schnitzer	1.0
+yn_08oct08_file_21	topper headon	4922	topper headon	1.0
+yn_08oct08_file_21	ted turner	2653	ted turner	1.0
+yn_08oct08_file_21	shea stadium	5367	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4644	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4458	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	121	shea stadium	1.0
+yn_08oct08_file_21	rosalee	4192	rosalee mason	1.0
+yn_08oct08_file_21	robert johnson	1373	robert johnson	1.0
+yn_08oct08_file_21	ralph stanley	6895	ralph stanley	1.0
+yn_08oct08_file_21	ralph stanley	2521	ralph stanley	1.0
+yn_08oct08_file_21	philly.com	8202	philadelphia media network	1.0
+yn_08oct08_file_21	philly.com	7742	philadelphia media network	1.0
+yn_08oct08_file_21	philly.com	7369	philadelphia media network	1.0
+yn_08oct08_file_21	new york	4633	shea stadium	1.0
+yn_08oct08_file_21	martin chambers	3958	martin chambers	1.0
+yn_08oct08_file_21	joe strummer	4586	joe strummer	1.0
+yn_08oct08_file_21	jim keltner	3934	jim keltner	1.0
+yn_08oct08_file_21	hynde	4406	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	4133	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	3868	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	3643	chrissie hynde	1.0
+yn_08oct08_file_21	elvis presley	3813	elvis presley	1.0
+yn_08oct08_file_21	dylan	7120	bob dylan	1.0
+yn_08oct08_file_21	dylan	3016	bob dylan	1.0
+yn_08oct08_file_21	dylan	2932	bob dylan	1.0
+yn_08oct08_file_21	dylan	293	bob dylan	1.0
+yn_08oct08_file_21	dylan	2363	bob dylan	1.0
+yn_08oct08_file_21	dylan	1765	bob dylan	1.0
+yn_08oct08_file_21	dylan	1669	bob dylan	1.0
+yn_08oct08_file_21	dylan	1110	bob dylan	1.0
+yn_08oct08_file_21	daniel lanois	2330	daniel lanois	1.0
+yn_08oct08_file_21	dan deluca	439	dan deluca	1.0
+yn_08oct08_file_21	chrissie hynde	3486	chrissie hynde	1.0
+yn_08oct08_file_21	charley patton	2458	charley patton	1.0
+yn_08oct08_file_21	bruce springsteen	693	bruce springsteen	1.0
+yn_08oct08_file_21	bob dylan	514	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	472	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	3844	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	0	bob dylan	1.0
+yn_08oct08_file_21	bo diddley	4209	bo diddley	1.0
+yn_08oct08_file_20	white house	211	white house	1.0
+yn_08oct08_file_20	richard tambling	2130	richard tambling	1.0
+yn_08oct08_file_20	john manders	507	john e. manders	1.0
+yn_08oct08_file_20	jan pienkowski	1524	jan pieńkowski	1.0
+yn_08oct08_file_20	jan pienkowski	1332	jan pieńkowski	1.0
+yn_08oct08_file_20	christopher denise	915	christopher denise	1.0
+yn_08oct08_file_20	carolyn marsden	1874	carolyn marsden	1.0
+yn_08oct08_file_20	candlewick press	935	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	521	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1917	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1612	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1348	candlewick press	1.0
+yn_08oct08_file_19	villaraigosa	3516	antonio villaraigosa	1.0
+yn_08oct08_file_19	scaqmd	5373	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	5218	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	3350	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	2507	south coast air quality management district	1.0
+yn_08oct08_file_19	s. david freeman	3219	s. david freeman	1.0
+yn_08oct08_file_19	natural resources defense council	2692	natural resources defense council	1.0
+yn_08oct08_file_19	nrdc	4413	hudson's bay company	1.0
+yn_08oct08_file_19	los angeles	793	los angeles	1.0
+yn_08oct08_file_19	los angeles	4928	los angeles	1.0
+yn_08oct08_file_19	long beach	778	long beach, california	1.0
+yn_08oct08_file_19	long beach	5203	long beach, california	1.0
+yn_08oct08_file_19	long beach	5173	long beach, california	1.0
+yn_08oct08_file_19	long beach	4004	long beach, california	1.0
+yn_08oct08_file_19	long beach	3095	long beach, california	1.0
+yn_08oct08_file_19	long beach	1577	long beach, california	1.0
+yn_08oct08_file_19	l.a.	862	los angeles	1.0
+yn_08oct08_file_19	l.a.	5076	los angeles	1.0
+yn_08oct08_file_19	l.a.	3995	los angeles	1.0
+yn_08oct08_file_19	l.a.	3802	los angeles	1.0
+yn_08oct08_file_19	l.a.	2565	los angeles	1.0
+yn_08oct08_file_19	l.a.	2372	los angeles	1.0
+yn_08oct08_file_19	l.a.	2098	los angeles	1.0
+yn_08oct08_file_19	l.a.	1568	los angeles	1.0
+yn_08oct08_file_19	china shipping	4888	china shipping container lines	1.0
+yn_08oct08_file_19	china shipping	2811	china shipping container lines	1.0
+yn_08oct08_file_19	air resources board	3370	california air resources board	1.0
+yn_08oct08_file_18	new york stock exchange	457	new york stock exchange	1.0
+yn_08oct08_file_18	merrill lynch & co.	2161	merrill lynch	1.0
+yn_08oct08_file_18	merrill lynch	3214	merrill lynch	1.0
+yn_08oct08_file_18	merrill lynch	2522	merrill lynch	1.0
+yn_08oct08_file_18	deutsche bank ag	985	deutsche bank	1.0
+yn_08oct08_file_18	countrywide financial corp.	2411	bank of america home loans	1.0
+yn_08oct08_file_18	countrywide	3198	bank of america home loans	1.0
+yn_08oct08_file_18	countrywide	2811	bank of america home loans	1.0
+yn_08oct08_file_17	new york state court of appeals	3096	new york court of appeals	1.0
+yn_08oct08_file_17	larry ellison	2465	larry ellison	1.0
+yn_08oct08_file_17	kostecki	2106	john kostecki	1.0
+yn_08oct08_file_17	kostecki	1444	john kostecki	1.0
+yn_08oct08_file_17	kostecki	1078	john kostecki	1.0
+yn_08oct08_file_17	john kostecki	503	john kostecki	1.0
+yn_08oct08_file_17	ernesto bertarelli	3164	ernesto bertarelli	1.0
+yn_08oct08_file_17	bmw oracle racing	2416	oracle team usa	1.0
+yn_08oct08_file_16	seattle times	454	the seattle times	1.0
+yn_08oct08_file_16	lake forest park	670	lake forest park, washington	1.0
+yn_08oct08_file_16	kimball	908	christopher kimball	1.0
+yn_08oct08_file_16	kimball	295	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	857	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	518	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	227	christopher kimball	1.0
+yn_08oct08_file_15	yahoo! inc	1233	yahoo!	1.0
+yn_08oct08_file_15	ibm corp.	514	ibm	1.0
+yn_08oct08_file_15	general growth properties inc.	688	ggp inc.	1.0
+yn_08oct08_file_15	bank of america corp.	300	bank of america	1.0
+yn_08oct08_file_14	thomson financial	905	thomson financial	1.0
+yn_08oct08_file_14	lehman brothers holdings inc.	2526	lehman brothers	1.0
+yn_08oct08_file_14	kenneth d. lewis	1218	ken lewis (executive)	1.0
+yn_08oct08_file_14	countrywide financial	2746	bank of america home loans	1.0
+yn_08oct08_file_14	american international group inc.	2589	american international group	1.0
+yn_08oct08_file_13	weill	3810	sanford i. weill	1.0
+yn_08oct08_file_13	weill	3519	sanford i. weill	1.0
+yn_08oct08_file_13	wachovia	3233	wachovia	1.0
+yn_08oct08_file_13	wachovia	3089	wachovia	1.0
+yn_08oct08_file_13	travelers group	3553	the travelers companies	1.0
+yn_08oct08_file_13	steven udvar-hazy	2317	steven f. udvar-házy	1.0
+yn_08oct08_file_13	sanford weill	3410	sanford i. weill	1.0
+yn_08oct08_file_13	reuters	1690	reuters	1.0
+yn_08oct08_file_13	maurice greenberg	565	maurice r. greenberg	1.0
+yn_08oct08_file_13	louis gonda	1918	louis gonda	1.0
+yn_08oct08_file_13	leslie gonda	62	leslie gonda	1.0
+yn_08oct08_file_13	leslie	2019	leslie gonda	1.0
+yn_08oct08_file_13	leslie	1907	leslie gonda	1.0
+yn_08oct08_file_13	leslie	176	leslie gonda	1.0
+yn_08oct08_file_13	international lease finance	2113	international lease finance corporation	1.0
+yn_08oct08_file_13	greenberg	920	maurice r. greenberg	1.0
+yn_08oct08_file_13	greenberg	1476	maurice r. greenberg	1.0
+yn_08oct08_file_13	greenberg	1115	maurice r. greenberg	1.0
+yn_08oct08_file_13	citigroup	3638	citigroup	1.0
+yn_08oct08_file_13	citigroup	3480	citigroup	1.0
+yn_08oct08_file_13	citicorp	3588	citigroup	1.0
+yn_08oct08_file_13	bernanke	4497	ben bernanke	1.0
+yn_08oct08_file_13	bear stearns	3878	bear stearns	1.0
+yn_08oct08_file_13	aig	813	american international group	1.0
+yn_08oct08_file_13	aig	717	american international group	1.0
+yn_08oct08_file_13	aig	2868	american international group	1.0
+yn_08oct08_file_13	aig	2612	american international group	1.0
+yn_08oct08_file_13	aig	2560	american international group	1.0
+yn_08oct08_file_13	aig	2226	american international group	1.0
+yn_08oct08_file_13	aig	1127	american international group	1.0
+yn_08oct08_file_12	yahoo! inc	5469	yahoo!	1.0
+yn_08oct08_file_12	wachovia corp.	2469	wachovia	1.0
+yn_08oct08_file_12	wachovia	3960	wachovia	1.0
+yn_08oct08_file_12	wachovia	3591	wachovia	1.0
+yn_08oct08_file_12	wachovia	2507	wachovia	1.0
+yn_08oct08_file_12	thomson reuters	3182	thomson reuters	1.0
+yn_08oct08_file_12	regions financial	5346	regions financial corporation	1.0
+yn_08oct08_file_12	regions financial	5062	regions financial corporation	1.0
+yn_08oct08_file_12	mike mayo	1808	mike kruel	1.0
+yn_08oct08_file_12	keycorp	5012	keybank	1.0
+yn_08oct08_file_12	keycorp	4745	keybank	1.0
+yn_08oct08_file_12	jamie dimon	3467	jamie dimon	1.0
+yn_08oct08_file_12	jpmorgan chase & co.	3267	jpmorgan chase	1.0
+yn_08oct08_file_12	jpmorgan	3906	jpmorgan chase	1.0
+yn_08oct08_file_12	jpmorgan	3796	jpmorgan chase	1.0
+yn_08oct08_file_12	golden west financial	2646	golden west financial	1.0
+yn_08oct08_file_12	golden west	2677	golden west financial	1.0
+yn_08oct08_file_12	citigroup inc.	1978	citigroup	1.0
+yn_08oct08_file_12	citigroup	3665	citigroup	1.0
+yn_08oct08_file_12	citigroup	2352	citigroup	1.0
+yn_08oct08_file_12	citigroup	2123	citigroup	1.0
+yn_08oct08_file_11	wal-mart mexico	113	walmart de méxico y centroamérica	1.0
+yn_08oct08_file_11	tokyo	59	tokyo	1.0
+yn_08oct08_file_11	telefonica sa	1702	telefónica	1.0
+yn_08oct08_file_11	telefonica sa	1483	telefónica	1.0
+yn_08oct08_file_11	telefonica chile	1769	movistar (chile)	1.0
+yn_08oct08_file_11	reuters	699	reuters	1.0
+yn_08oct08_file_11	penoles	2388	penol (náutica)	1.0
+yn_08oct08_file_11	latin america	815	latin america	1.0
+yn_08oct08_file_11	latin america	278	latin america	1.0
+yn_08oct08_file_11	latin america	2581	latin america	1.0
+yn_08oct08_file_11	ing groep nv	1178	ing group	1.0
+yn_08oct08_file_11	fresnillo	2454	fresnillo	1.0
+yn_08oct08_file_11	fresnillo	2265	fresnillo	1.0
+yn_08oct08_file_11	credit suisse group ag	2083	credit suisse	1.0
+yn_08oct08_file_11	brazil	724	brazil	1.0
+yn_08oct08_file_11	brazil	544	brazil	1.0
+yn_08oct08_file_11	brazil	444	brazil	1.0
+yn_08oct08_file_11	bloomberg	200	bloomberg l.p.	1.0
+yn_08oct08_file_11	bloomberg	1070	bloomberg l.p.	1.0
+yn_08oct08_file_10	new york state court of appeals	3023	new york court of appeals	1.0
+yn_08oct08_file_10	larry ellison	2390	larry ellison	1.0
+yn_08oct08_file_10	kostecki	2030	john kostecki	1.0
+yn_08oct08_file_10	kostecki	1367	john kostecki	1.0
+yn_08oct08_file_10	kostecki	1001	john kostecki	1.0
+yn_08oct08_file_10	john kostecki	425	john kostecki	1.0
+yn_08oct08_file_10	ernesto bertarelli	3091	ernesto bertarelli	1.0
+yn_08oct08_file_10	bmw oracle racing	2340	oracle team usa	1.0
+yn_08oct08_file_1	zabul province	913	zabul province	1.0
+yn_08oct08_file_1	zabul	387	zabul province	1.0
+yn_08oct08_file_0	nad ali	1246	nad ali district	1.0
+ganeshtestdoc.txt	steve waugh	204	steve waugh	1.0
+ganeshtestdoc.txt	sourav ganguly	66	sourav ganguly	1.0
+ganeshtestdoc.txt	rahul dravid	382	rahul dravid	1.0
+ganeshtestdoc.txt	mike denness	17	mike denness	1.0
+ganeshtestdoc.txt	darren lehmann	217	darren lehmann	1.0
+ganeshtestdoc.txt	damien martyn	247	damien martyn	1.0
+13oct08_buss_file_11.txt	washington mutual	3946	washington mutual	1.0
+13oct08_buss_file_11.txt	u.s. treasury dept.	1315	united states department of the treasury	1.0
+13oct08_buss_file_11.txt	u.s.	928	united states	1.0
+13oct08_buss_file_11.txt	moody's investors service	1120	moody's investors service	1.0
+13oct08_buss_file_11.txt	jpmorgan chase	630	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan chase	4057	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	4190	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	1657	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	1479	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	bank of america	655	bank of america	1.0
+13oct08_buss_file_10.txt	washington mutual	1736	washington mutual	1.0
+13oct08_buss_file_10.txt	wachovia	1811	wachovia	1.0
+13oct08_buss_file_10.txt	jpmorgan chase	1689	jpmorgan chase	1.0
+13oct08_buss_file_10.txt	ibbotson associates	2202	roger g. ibbotson	1.0
+13oct08_buss_file_10.txt	countrywide financial	1642	bank of america home loans	1.0
+13oct08_buss_file_10.txt	citigroup	1755	citigroup	1.0
+13oct08_buss_file_10.txt	bear stearns	1719	bear stearns	1.0
+13oct08amittech9.txt	felix wankel	312	felix wankel	1.0
+13oct08amittech8.txt	t. boone pickens	3377	t. boone pickens	1.0
+13oct08amittech8.txt	t. boone pickens	268	t. boone pickens	1.0
+13oct08amittech8.txt	san francisco chronicle	1218	san francisco chronicle	1.0
+13oct08amittech8.txt	oval office	5233	oval office	1.0
+13oct08amittech8.txt	navigant consulting	3553	navigant consulting	1.0
+13oct08amittech8.txt	haynesville shale	1087	haynesville shale	1.0
+13oct08amittech8.txt	haynesville	2703	haynesville shale	1.0
+13oct08amittech8.txt	haynesville	1891	haynesville shale	1.0
+13oct08amittech8.txt	energy department	4352	ministry of energy	1.0
+13oct08amittech8.txt	chris moreno	1274	chris moreno	1.0
+13oct08amittech8.txt	chesapeake energy	2259	chesapeake energy	1.0
+13oct08amittech8.txt	barnett shale	975	barnett shale	1.0
+13oct08amittech7.txt	shopping.com	1940	shopping.com	1.0
+13oct08amittech7.txt	mike boland	3584	mike boland (politician)	1.0
+13oct08amittech7.txt	linkedin	1506	linkedin	1.0
+13oct08amittech7.txt	google alerts	1746	google alerts	1.0
+13oct08amittech5.txt	metin sitti	4105	metin sitti	1.0
+13oct08amittech5.txt	carnegie mellon	4152	carnegie mellon university	1.0
+13oct08amittech4.txt	inphase	4612	inphase technologies	1.0
+13oct08amittech4.txt	inphase	3092	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2725	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2479	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2105	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2022	inphase technologies	1.0
+13oct08amittech4.txt	ge global research	415	ge global research	1.0
+13oct08amittech3.txt	yuri lonchakov	1006	yury lonchakov	1.0
+13oct08amittech3.txt	st. louis science center	2936	saint louis science center	1.0
+13oct08amittech3.txt	smithsonian national air and space museum	2869	national air and space museum	1.0
+13oct08amittech3.txt	republic of kazakhstan	898	kazakhstan	1.0

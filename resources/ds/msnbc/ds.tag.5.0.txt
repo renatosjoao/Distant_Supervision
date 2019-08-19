@@ -1,0 +1,33 @@
+spo16417540.txt	san diego chargers	2714	san diego chargers	0.78941
+spo16417540.txt	tennessee titans	2805	tennessee titans	0.78324544
+spo16417540.txt	jim caldwell	2791	jim caldwell (american football)	0.767455
+spo16417540.txt	cam cameron	2755	cam cameron	0.76177
+spo16417540.txt	mike sherman	2700	mike sherman	0.75525904
+spo16417540.txt	chicago bears	2624	chicago bears	0.7292714
+spo16417540.txt	ron rivera	2660	ron rivera	0.71583843
+spo16417540.txt	pittsburgh steelers	2858	pittsburgh steelers	0.69313574
+pol16447720.txt	jimmy carter	973	jimmy carter	0.68732667
+wor13259309.txt	mahdi army	4178	peace companies	0.6777227
+spo16417540.txt	mike shula	1607	mike shula	0.67114997
+pol16447720.txt	tom brokaw	2784	tom brokaw	0.6678206
+bus3683270.txt	new york mercantile exchange	2158	new york mercantile exchange	0.66758335
+pol16452612.txt	john kerry	2864	john kerry	0.6605666
+bus3683270.txt	dow jones industrials	417	dow jones industrial average	0.65940297
+hea16451212.txt	state children�s health insurance program	1635	state children's health insurance program	0.6593591
+spo16417540.txt	don shula	2092	don shula	0.6577048
+ent16444023.txt	britney spears	822	britney spears	0.655325
+pol16452612.txt	bill clinton	2954	bill clinton	0.655225
+pol16447720.txt	henry kissinger	2826	henry kissinger	0.65233123
+spo16455207.txt	shaquille o�neal	620	shaquille o'neal	0.6513733
+wor16447201.txt	kumbh mela	426	kumbh mela	0.648875
+ent16453733.txt	barbara walters	0	barbara walters	0.644675
+pol16447720.txt	donald rumsfeld	833	donald rumsfeld	0.64190936
+spo16417540.txt	rich rodriguez	2438	rich rodriguez	0.63998055
+pol16452612.txt	richard nixon	1258	richard nixon	0.63931316
+spo16417540.txt	jimmy johnson	2134	jimmy johnson (american football coach)	0.6379929
+usn16443053.txt	american samoa	676	american samoa	0.63771474
+spo16417540.txt	atlanta falcons	3596	atlanta falcons	0.63737357
+ent16444023.txt	justin timberlake	101	justin timberlake	0.63483846
+spo16455207.txt	shaquille o'neal	1387	shaquille o'neal	0.63451004
+bus16451112.txt	home depot inc	197	the home depot	0.63445
+tvn16442287.txt	triglyceride	612	triglyceride	0.63388056

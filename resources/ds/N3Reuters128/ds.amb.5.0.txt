@@ -1,0 +1,29 @@
+http:__aksw.org_n3_reuters-128_99	coface	417	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_99	coface	178	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_95	securities and exchange commission	45	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_93	office of management and budget	0	office of management and budget	1.0
+http:__aksw.org_n3_reuters-128_91	sifi	1161	mokdad sifi	1.0
+http:__aksw.org_n3_reuters-128_9	sons ltd	206	sons ltd	1.0
+http:__aksw.org_n3_reuters-128_9	samuel montagu	187	samuel montagu, 1st baron swaythling	1.0
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	1.0
+http:__aksw.org_n3_reuters-128_9	francis tombs	915	francis tombs, baron tombs	1.0
+http:__aksw.org_n3_reuters-128_9	christopher clark	147	christopher clark	1.0
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	1.0
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	1.0
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	1.0
+http:__aksw.org_n3_reuters-128_86	wall street journal	380	the wall street journal	1.0
+http:__aksw.org_n3_reuters-128_86	senate appropriations	294	united states senate committee on appropriations	1.0
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	john shad	35	john s.r. shad	1.0
+http:__aksw.org_n3_reuters-128_85	securities and exchange commission	32	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	1.0
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	472	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_74	stifel	501	stifel	1.0
+http:__aksw.org_n3_reuters-128_74	stifel	168	stifel	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	229	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto–dominion bank	1.0

@@ -1,0 +1,1917 @@
+http:__aksw.org_n3_reuters-128_99	march 1	498	march 1	1.0
+http:__aksw.org_n3_reuters-128_97	june	110	june stahl	1.0
+http:__aksw.org_n3_reuters-128_97	japan	0	japan	1.0
+http:__aksw.org_n3_reuters-128_96	dlrs	149	arise the republic	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham lambert	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_94	nv	32	nevada	1.0
+http:__aksw.org_n3_reuters-128_94	dutch state mines	61	dsm (company)	1.0
+http:__aksw.org_n3_reuters-128_94	amsterdam bourse	925	amsterdam stock exchange	1.0
+http:__aksw.org_n3_reuters-128_93	dlrs	447	dlr band	1.0
+http:__aksw.org_n3_reuters-128_93	u.s. economy	748	economy of the united states	1.0
+http:__aksw.org_n3_reuters-128_93	house budget committees	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house budget	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house appropriations	260	united states house committee on appropriations	1.0
+http:__aksw.org_n3_reuters-128_92	july 31	728	july 31	1.0
+http:__aksw.org_n3_reuters-128_91	taking steps	481	alan ayckbourn	1.0
+http:__aksw.org_n3_reuters-128_91	montedisons	171	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	925	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	908	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	466	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	417	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	1300	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	1023	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	0	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	ferruzzi	1270	marco ferruzzi	1.0
+http:__aksw.org_n3_reuters-128_91	ferruzzi	1203	marco ferruzzi	1.0
+http:__aksw.org_n3_reuters-128_91	ceroni	1116	loris ceroni	1.0
+http:__aksw.org_n3_reuters-128_9	future profits	1520	future profits	1.0
+http:__aksw.org_n3_reuters-128_9	end of april	133	seamiew records	1.0
+http:__aksw.org_n3_reuters-128_9	sons ltd	206	sons ltd	1.0
+http:__aksw.org_n3_reuters-128_9	samuel montagu	187	samuel montagu, 1st baron swaythling	1.0
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	1.0
+http:__aksw.org_n3_reuters-128_9	francis tombs	915	francis tombs, baron tombs	1.0
+http:__aksw.org_n3_reuters-128_9	christopher	147	christopher columbus	1.0
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	1.0
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	1.0
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	1.0
+http:__aksw.org_n3_reuters-128_86	u.s. ambassador to the netherlands	1111	united states ambassador to the netherlands	1.0
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	john shad	35	john s.r. shad	1.0
+http:__aksw.org_n3_reuters-128_86	foster winans	412	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	ambassador to the netherlands	1116	united states ambassador to the netherlands	1.0
+http:__aksw.org_n3_reuters-128_85	registration	69	securities act of 1933	1.0
+http:__aksw.org_n3_reuters-128_85	shearson lehman	178	shearson	1.0
+http:__aksw.org_n3_reuters-128_85	lehman brothers inc	187	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_85	brothers	194	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	1.0
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	1.0
+http:__aksw.org_n3_reuters-128_84	french companies	279	economy of france	1.0
+http:__aksw.org_n3_reuters-128_83	u.s.a.	69	united states	1.0
+http:__aksw.org_n3_reuters-128_83	ccl industries	0	ccl industries	1.0
+http:__aksw.org_n3_reuters-128_82	sir christopher	205	christopher chancellor	1.0
+http:__aksw.org_n3_reuters-128_82	london on	1351	london, ontario	1.0
+http:__aksw.org_n3_reuters-128_82	london stock exchanges	330	london stock exchange	1.0
+http:__aksw.org_n3_reuters-128_81	standard and poors	570	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_81	merrill lynch	189	merrill lynch	1.0
+http:__aksw.org_n3_reuters-128_80	terence murray	430	terence aubrey murray	1.0
+http:__aksw.org_n3_reuters-128_80	march 31	694	march 31	1.0
+http:__aksw.org_n3_reuters-128_80	j.	427	j.	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	472	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_8	suger	1023	suger	1.0
+http:__aksw.org_n3_reuters-128_8	mln	646	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_8	april 23	305	april 23	1.0
+http:__aksw.org_n3_reuters-128_8	april 11	287	april 11	1.0
+http:__aksw.org_n3_reuters-128_78	dillon, read	324	dillon, read & co.	1.0
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_77	mln	387	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2285	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2261	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2079	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1989	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1965	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1377	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1306	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1203	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1145	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	february 20	288	february 20	1.0
+http:__aksw.org_n3_reuters-128_75	dlrs	82	downs light railway	1.0
+http:__aksw.org_n3_reuters-128_75	dlrs	63	downs light railway	1.0
+http:__aksw.org_n3_reuters-128_75	highland	0	scotland	1.0
+http:__aksw.org_n3_reuters-128_74	standard and poors	454	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_74	nicolaus	176	nicolaus copernicus	1.0
+http:__aksw.org_n3_reuters-128_74	inc	192	baxter international	1.0
+http:__aksw.org_n3_reuters-128_73	april 11	233	april 11	1.0
+http:__aksw.org_n3_reuters-128_72	world airways	20	world airways	1.0
+http:__aksw.org_n3_reuters-128_72	pan am world airways	13	pan american world airways	1.0
+http:__aksw.org_n3_reuters-128_72	pan am shuttle	180	delta shuttle	1.0
+http:__aksw.org_n3_reuters-128_72	march 30	236	march 30	1.0
+http:__aksw.org_n3_reuters-128_72	april 15	307	april 15	1.0
+http:__aksw.org_n3_reuters-128_71	public law 480	36	food for peace	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	229	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion	343	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_7	prudential bache securities	38	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_7	prudential bache	38	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_69	marketing boards	1449	marketing board	1.0
+http:__aksw.org_n3_reuters-128_69	industry in brazil	1246	industry in brazil	1.0
+http:__aksw.org_n3_reuters-128_68	lines	207	greenwich line	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	794	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	697	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	435	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1321	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1189	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	0	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	burlington industries	80	burlington industries	1.0
+http:__aksw.org_n3_reuters-128_67	burlington industries	1080	burlington industries	1.0
+http:__aksw.org_n3_reuters-128_67	avondale mills	867	avondale mill	1.0
+http:__aksw.org_n3_reuters-128_67	asher edelman	1236	asher edelman	1.0
+http:__aksw.org_n3_reuters-128_66	u.k. government	1179	government of the united kingdom	1.0
+http:__aksw.org_n3_reuters-128_66	london international financial futures exchange	548	london international financial futures and options exchange	1.0
+http:__aksw.org_n3_reuters-128_66	london international	548	london international financial futures and options exchange	1.0
+http:__aksw.org_n3_reuters-128_63	inc	157	baxter international	1.0
+http:__aksw.org_n3_reuters-128_63	data i/o	0	data i/o	1.0
+http:__aksw.org_n3_reuters-128_62	nv philips	0	philips	1.0
+http:__aksw.org_n3_reuters-128_62	nv	0	nevada	1.0
+http:__aksw.org_n3_reuters-128_62	april 29	524	april 29	1.0
+http:__aksw.org_n3_reuters-128_61	purchase of	57	black saturday (wrestling)	1.0
+http:__aksw.org_n3_reuters-128_61	good value	1066	good value	1.0
+http:__aksw.org_n3_reuters-128_61	yesterday	500	law & order: criminal intent (season 1)	1.0
+http:__aksw.org_n3_reuters-128_61	texas state courts	752	judiciary of texas	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoils	778	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	677	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	463	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	190	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	getty oil	655	getty oil	1.0
+http:__aksw.org_n3_reuters-128_61	first boston corp	0	first boston	1.0
+http:__aksw.org_n3_reuters-128_60	merrill lynch	150	merrill lynch	1.0
+http:__aksw.org_n3_reuters-128_60	may 12	484	may 12	1.0
+http:__aksw.org_n3_reuters-128_60	luxembourg stock exchange	298	luxembourg stock exchange	1.0
+http:__aksw.org_n3_reuters-128_59	shopsmith	0	rlf brands	1.0
+http:__aksw.org_n3_reuters-128_58	sydney futures exchange	258	australian securities exchange	1.0
+http:__aksw.org_n3_reuters-128_58	les	687	hieu van le	1.0
+http:__aksw.org_n3_reuters-128_58	corporate affairs commission	14	corporate affairs commission	1.0
+http:__aksw.org_n3_reuters-128_57	reynolds and reynolds	0	reynolds and reynolds	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	410	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	317	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	252	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	network technologies	7	network technology	1.0
+http:__aksw.org_n3_reuters-128_56	mci communications corp	92	mci communications	1.0
+http:__aksw.org_n3_reuters-128_55	final draft	164	final draft (novel)	1.0
+http:__aksw.org_n3_reuters-128_55	u.s. national transportation safety board	541	national transportation safety board	1.0
+http:__aksw.org_n3_reuters-128_55	transportation safety board	555	transportation safety board of canada	1.0
+http:__aksw.org_n3_reuters-128_55	september 6	970	september 6	1.0
+http:__aksw.org_n3_reuters-128_55	national transportation safety board	546	national transportation safety board	1.0
+http:__aksw.org_n3_reuters-128_55	march 23	525	march 23	1.0
+http:__aksw.org_n3_reuters-128_55	japan air lines	76	japan airlines	1.0
+http:__aksw.org_n3_reuters-128_55	japan air	76	japan airlines	1.0
+http:__aksw.org_n3_reuters-128_55	august 12	119	august 12	1.0
+http:__aksw.org_n3_reuters-128_54	fahrenheit	186	daniel gabriel fahrenheit	1.0
+http:__aksw.org_n3_reuters-128_53	july 10	382	july 10	1.0
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	199	freeport-mcmoran	1.0
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	0	freeport-mcmoran	1.0
+http:__aksw.org_n3_reuters-128_51	drive on	304	drive on (mott album)	1.0
+http:__aksw.org_n3_reuters-128_51	personal system/2	140	ibm personal system/2	1.0
+http:__aksw.org_n3_reuters-128_51	international business machines	95	ibm	1.0
+http:__aksw.org_n3_reuters-128_51	ibm personal computers	407	ibm personal computer	1.0
+http:__aksw.org_n3_reuters-128_51	ibm personal system/2	136	ibm personal system/2	1.0
+http:__aksw.org_n3_reuters-128_50	federal paper board	0	international paper	1.0
+http:__aksw.org_n3_reuters-128_5	teradynes	114	teradyne	1.0
+http:__aksw.org_n3_reuters-128_5	teradyne	0	teradyne	1.0
+http:__aksw.org_n3_reuters-128_5	digital equipment	18	digital equipment corporation	1.0
+http:__aksw.org_n3_reuters-128_49	mln	1530	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_49	back on	3383	back-on	1.0
+http:__aksw.org_n3_reuters-128_49	w.r. grace	3148	william russell grace	1.0
+http:__aksw.org_n3_reuters-128_49	w.r.	3148	william r. poage	1.0
+http:__aksw.org_n3_reuters-128_49	u.s. economy	5099	economy of the united states	1.0
+http:__aksw.org_n3_reuters-128_49	samuel heyman	1891	samuel j. heyman	1.0
+http:__aksw.org_n3_reuters-128_49	dow chemical	749	dow chemical company	1.0
+http:__aksw.org_n3_reuters-128_49	dean witter reynolds	4820	dean witter reynolds	1.0
+http:__aksw.org_n3_reuters-128_49	conoco incs	4382	conoco	1.0
+http:__aksw.org_n3_reuters-128_49	borg warner	3047	borgwarner	1.0
+http:__aksw.org_n3_reuters-128_49	ashland oil	522	ashland inc.	1.0
+http:__aksw.org_n3_reuters-128_48	dlrs	224	dirty little rabbits	1.0
+http:__aksw.org_n3_reuters-128_48	industrial valley	51	industrial valley	1.0
+http:__aksw.org_n3_reuters-128_48	industrial valley	177	industrial valley	1.0
+http:__aksw.org_n3_reuters-128_48	fidelcor	0	fidelity trust company	1.0
+http:__aksw.org_n3_reuters-128_47	circumstances	412	circumstance (1922 film)	1.0
+http:__aksw.org_n3_reuters-128_47	march 31	328	march 31	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	344	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	224	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	100	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_46	shearson lehman	232	shearson	1.0
+http:__aksw.org_n3_reuters-128_46	lehman brothers inc	241	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_46	brothers	248	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_45	sub-saharan africa	305	sub-saharan africa	1.0
+http:__aksw.org_n3_reuters-128_45	committee on world food security	251	committee on world food security	1.0
+http:__aksw.org_n3_reuters-128_45	saouma	293	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_45	edouard saouma	285	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_44	mercury sable	607	mercury sable	1.0
+http:__aksw.org_n3_reuters-128_44	march 12	530	march 12	1.0
+http:__aksw.org_n3_reuters-128_44	ford motor	0	ford motor company	1.0
+http:__aksw.org_n3_reuters-128_44	april 6	92	april 6	1.0
+http:__aksw.org_n3_reuters-128_43	qtr	4	qatar airways	1.0
+http:__aksw.org_n3_reuters-128_43	mln	70	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_43	mln	160	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_43	dlrs	124	german aerospace center	1.0
+http:__aksw.org_n3_reuters-128_43	consolidated mining	204	consolidated mine	1.0
+http:__aksw.org_n3_reuters-128_42	lloyds bank plcs	219	lloyds bank	1.0
+http:__aksw.org_n3_reuters-128_42	continental bank of canada	0	continental bank of canada	1.0
+http:__aksw.org_n3_reuters-128_42	continental bank	0	continental bank of canada	1.0
+http:__aksw.org_n3_reuters-128_41	dillon read	433	dillon, read & co.	1.0
+http:__aksw.org_n3_reuters-128_41	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_40	welsh, carson, anderson and stowe	122	welsh, carson, anderson & stowe	1.0
+http:__aksw.org_n3_reuters-128_40	readers digest	4	reader's digest	1.0
+http:__aksw.org_n3_reuters-128_40	readers digest	195	reader's digest	1.0
+http:__aksw.org_n3_reuters-128_4	nordin	180	siiri nordin	1.0
+http:__aksw.org_n3_reuters-128_4	nordin	159	siiri nordin	1.0
+http:__aksw.org_n3_reuters-128_39	dlrs	179	david lee roth	1.0
+http:__aksw.org_n3_reuters-128_38	march 31	153	march 31	1.0
+http:__aksw.org_n3_reuters-128_37	today	331	empire today	1.0
+http:__aksw.org_n3_reuters-128_37	purchase of	432	black saturday (wrestling)	1.0
+http:__aksw.org_n3_reuters-128_36	secretary james baker	924	james baker	1.0
+http:__aksw.org_n3_reuters-128_36	satoshi sumita	462	satoshi sumita	1.0
+http:__aksw.org_n3_reuters-128_36	leigh pemberton	549	leigh-pemberton	1.0
+http:__aksw.org_n3_reuters-128_36	kiichi miyazawa	413	kiichi miyazawa	1.0
+http:__aksw.org_n3_reuters-128_36	karl otto poehl	260	karl otto pöhl	1.0
+http:__aksw.org_n3_reuters-128_36	jacques de larosiere	341	jacques de larosière	1.0
+http:__aksw.org_n3_reuters-128_36	group of five	113	group of five	1.0
+http:__aksw.org_n3_reuters-128_36	giovanni goria	896	giovanni goria	1.0
+http:__aksw.org_n3_reuters-128_36	gerhard stoltenberg	215	gerhard stoltenberg	1.0
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	1.0
+http:__aksw.org_n3_reuters-128_36	balladur	309	édouard balladur	1.0
+http:__aksw.org_n3_reuters-128_35	core business	315	core business	1.0
+http:__aksw.org_n3_reuters-128_33	mln	3039	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2915	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2452	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2209	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	1497	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	details	3288	detail (record producer)	1.0
+http:__aksw.org_n3_reuters-128_33	buenos aires province	649	buenos aires province	1.0
+http:__aksw.org_n3_reuters-128_32	mln	21	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_32	eurobond	51	eurobond	1.0
+http:__aksw.org_n3_reuters-128_32	webber international	172	webber international university	1.0
+http:__aksw.org_n3_reuters-128_32	paine webber	166	paine webber	1.0
+http:__aksw.org_n3_reuters-128_32	atari corp	64	atari corporation	1.0
+http:__aksw.org_n3_reuters-128_31	several things	1059	several things	1.0
+http:__aksw.org_n3_reuters-128_31	w.	743	w. (film)	1.0
+http:__aksw.org_n3_reuters-128_31	southern co	193	southern company	1.0
+http:__aksw.org_n3_reuters-128_31	plant vogtle	134	vogtle electric generating plant	1.0
+http:__aksw.org_n3_reuters-128_31	plant vogtle	1240	vogtle electric generating plant	1.0
+http:__aksw.org_n3_reuters-128_31	mile island	2105	mile island	1.0
+http:__aksw.org_n3_reuters-128_31	georgia public service commission	26	georgia public service commission	1.0
+http:__aksw.org_n3_reuters-128_30	weisbrod	1544	john weisbrod	1.0
+http:__aksw.org_n3_reuters-128_30	u. s.	318	united states	1.0
+http:__aksw.org_n3_reuters-128_30	stuart	1537	stuart a. aaronson	1.0
+http:__aksw.org_n3_reuters-128_30	steven rosenberg	1856	steven rosenberg	1.0
+http:__aksw.org_n3_reuters-128_30	seattle, wash	421	seattle	1.0
+http:__aksw.org_n3_reuters-128_30	s.	321	s. (dorst novel)	1.0
+http:__aksw.org_n3_reuters-128_30	prudential-bache securities	1509	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_30	prudential-bache	1509	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_30	new england journal of medicine	171	the new england journal of medicine	1.0
+http:__aksw.org_n3_reuters-128_30	national cancer institute	2108	national cancer institute	1.0
+http:__aksw.org_n3_reuters-128_30	national cancer institute	1880	national cancer institute	1.0
+http:__aksw.org_n3_reuters-128_30	journal of medicine	183	journal of medicine	1.0
+http:__aksw.org_n3_reuters-128_30	john durant	2403	john charles durant	1.0
+http:__aksw.org_n3_reuters-128_30	interleukin-2	78	interleukin 2	1.0
+http:__aksw.org_n3_reuters-128_30	interleukin-2	714	interleukin 2	1.0
+http:__aksw.org_n3_reuters-128_30	immunex	393	amgen	1.0
+http:__aksw.org_n3_reuters-128_30	dr. william	1117	billy taylor	1.0
+http:__aksw.org_n3_reuters-128_3	loss of	56	treaty of frankfurt (1871)	1.0
+http:__aksw.org_n3_reuters-128_28	april 10	190	april 10	1.0
+http:__aksw.org_n3_reuters-128_27	n.j.	249	new jersey	1.0
+http:__aksw.org_n3_reuters-128_27	carnival cruise lines	118	carnival cruise lines	1.0
+http:__aksw.org_n3_reuters-128_27	carnival cruise	118	carnival cruise lines	1.0
+http:__aksw.org_n3_reuters-128_26	minerals	216	mineral (band)	1.0
+http:__aksw.org_n3_reuters-128_26	first boston corp	112	first boston	1.0
+http:__aksw.org_n3_reuters-128_26	asarco	60	asarco	1.0
+http:__aksw.org_n3_reuters-128_26	asarco	0	asarco	1.0
+http:__aksw.org_n3_reuters-128_25	drexel burnham lambert	125	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_25	drexel burnham	125	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_25	alex. brown	156	alex. brown & sons	1.0
+http:__aksw.org_n3_reuters-128_25	alex.	156	greek orthodox church of alexandria	1.0
+http:__aksw.org_n3_reuters-128_24	kenneth kaunda	379	kenneth kaunda	1.0
+http:__aksw.org_n3_reuters-128_23	l.p.	153	lp (singer)	1.0
+http:__aksw.org_n3_reuters-128_23	april 30	81	april 30	1.0
+http:__aksw.org_n3_reuters-128_23	april 22	97	april 22	1.0
+http:__aksw.org_n3_reuters-128_22	s.c.	661	south carolina	1.0
+http:__aksw.org_n3_reuters-128_22	paramus, n.j.	267	paramus, new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	national guardian	0	national guardian	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	456	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	390	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	276	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j	511	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	myrtle beach, s.c.	647	myrtle beach, south carolina	1.0
+http:__aksw.org_n3_reuters-128_22	key west, fla.	603	key west, florida	1.0
+http:__aksw.org_n3_reuters-128_22	c.s.c.	234	congregation of holy cross	1.0
+http:__aksw.org_n3_reuters-128_20	hanover insurance	0	hanover insurance	1.0
+http:__aksw.org_n3_reuters-128_20	april 30	302	april 30	1.0
+http:__aksw.org_n3_reuters-128_20	april 10	337	april 10	1.0
+http:__aksw.org_n3_reuters-128_2	pct	221	patent cooperation treaty	1.0
+http:__aksw.org_n3_reuters-128_2	pct	160	patent cooperation treaty	1.0
+http:__aksw.org_n3_reuters-128_18	drexel burnham lambert	360	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_18	drexel burnham	360	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_17	beds	169	beter bed	1.0
+http:__aksw.org_n3_reuters-128_17	salem	245	salem, oregon	1.0
+http:__aksw.org_n3_reuters-128_17	ore	251	oregon	1.0
+http:__aksw.org_n3_reuters-128_16	eurobond	72	eurobond	1.0
+http:__aksw.org_n3_reuters-128_16	toronto dominion bank	0	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_16	toronto dominion	0	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_16	may 15	402	may 15	1.0
+http:__aksw.org_n3_reuters-128_16	hambros bank	156	hambros bank	1.0
+http:__aksw.org_n3_reuters-128_15	eurobond	72	eurobond	1.0
+http:__aksw.org_n3_reuters-128_15	toronto dominion bank	0	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_15	toronto dominion	0	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_15	may 15	402	may 15	1.0
+http:__aksw.org_n3_reuters-128_15	hambros bank	156	hambros bank	1.0
+http:__aksw.org_n3_reuters-128_14	vws	257	volkswagen	1.0
+http:__aksw.org_n3_reuters-128_14	vw	599	volkswagen	1.0
+http:__aksw.org_n3_reuters-128_14	vw	358	volkswagen	1.0
+http:__aksw.org_n3_reuters-128_14	vw	22	volkswagen	1.0
+http:__aksw.org_n3_reuters-128_14	vw	1022	volkswagen	1.0
+http:__aksw.org_n3_reuters-128_14	march 10	642	march 10	1.0
+http:__aksw.org_n3_reuters-128_13	mln	126	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_13	last nights	342	justified (album)	1.0
+http:__aksw.org_n3_reuters-128_13	eurobond	26	eurobond	1.0
+http:__aksw.org_n3_reuters-128_13	salomon brothers	144	salomon brothers	1.0
+http:__aksw.org_n3_reuters-128_126	morgan stanley	101	morgan stanley	1.0
+http:__aksw.org_n3_reuters-128_126	morgan	101	morgan stanley	1.0
+http:__aksw.org_n3_reuters-128_126	inc	123	baxter international	1.0
+http:__aksw.org_n3_reuters-128_126	eastman	0	eastman chemical company	1.0
+http:__aksw.org_n3_reuters-128_125	western digital	0	western digital	1.0
+http:__aksw.org_n3_reuters-128_124	underground operations	966	underground operations	1.0
+http:__aksw.org_n3_reuters-128_124	underground operations	914	underground operations	1.0
+http:__aksw.org_n3_reuters-128_124	many years	846	polychronion	1.0
+http:__aksw.org_n3_reuters-128_124	many years	1292	polychronion	1.0
+http:__aksw.org_n3_reuters-128_124	many years	1207	polychronion	1.0
+http:__aksw.org_n3_reuters-128_124	last year	1600	miss earth 2002	1.0
+http:__aksw.org_n3_reuters-128_124	murdochville, quebec	115	murdochville, quebec	1.0
+http:__aksw.org_n3_reuters-128_124	murdochville	115	murdochville, quebec	1.0
+http:__aksw.org_n3_reuters-128_124	charles-eugene marin	313	charles-eugène marin	1.0
+http:__aksw.org_n3_reuters-128_123	series of	460	national lampoon's vacation (film series)	1.0
+http:__aksw.org_n3_reuters-128_123	u.s. senate budget committee	4	united states senate committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_123	senate budget committee	9	united states senate committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_122	hambrecht and quist	124	hambrecht & quist	1.0
+http:__aksw.org_n3_reuters-128_122	hambrecht	124	bill hambrecht	1.0
+http:__aksw.org_n3_reuters-128_122	alex. brown	102	alex. brown & sons	1.0
+http:__aksw.org_n3_reuters-128_121	need to	470	need to	1.0
+http:__aksw.org_n3_reuters-128_121	reuter	631	paul reuter	1.0
+http:__aksw.org_n3_reuters-128_121	march 31	621	march 31	1.0
+http:__aksw.org_n3_reuters-128_120	rest of	532	flanders	1.0
+http:__aksw.org_n3_reuters-128_120	loss of	42	treaty of frankfurt (1871)	1.0
+http:__aksw.org_n3_reuters-128_120	dlrs	64	german aerospace center	1.0
+http:__aksw.org_n3_reuters-128_120	dlrs	150	german aerospace center	1.0
+http:__aksw.org_n3_reuters-128_12	willoughby	94	bill willoughby	1.0
+http:__aksw.org_n3_reuters-128_12	pemberton	76	max pemberton (doctor)	1.0
+http:__aksw.org_n3_reuters-128_118	integrated services digital network	164	integrated services digital network	1.0
+http:__aksw.org_n3_reuters-128_118	digital voice	241	comcast cable	1.0
+http:__aksw.org_n3_reuters-128_118	digital communications systems	89	gsm	1.0
+http:__aksw.org_n3_reuters-128_118	current line	1843	macbook family	1.0
+http:__aksw.org_n3_reuters-128_118	agreement	331	yalta conference	1.0
+http:__aksw.org_n3_reuters-128_118	northern telecom	1433	nortel	1.0
+http:__aksw.org_n3_reuters-128_118	international business machines	1955	ibm	1.0
+http:__aksw.org_n3_reuters-128_118	intel corp	1356	intel	1.0
+http:__aksw.org_n3_reuters-128_118	intc	1367	intel	1.0
+http:__aksw.org_n3_reuters-128_118	advanced micro devices	0	advanced micro devices	1.0
+http:__aksw.org_n3_reuters-128_117	colorado public utilities commission	551	colorado public utilities commission	1.0
+http:__aksw.org_n3_reuters-128_117	colorado house of representatives	991	colorado house of representatives	1.0
+http:__aksw.org_n3_reuters-128_117	colorado house	991	colorado house of representatives	1.0
+http:__aksw.org_n3_reuters-128_117	colo	158	colorado	1.0
+http:__aksw.org_n3_reuters-128_115	confidential report	59	mr. arkadin	1.0
+http:__aksw.org_n3_reuters-128_115	s.c.	266	south carolina	1.0
+http:__aksw.org_n3_reuters-128_115	n.c.	290	north carolina	1.0
+http:__aksw.org_n3_reuters-128_115	feb 27	481	february 27	1.0
+http:__aksw.org_n3_reuters-128_115	celanese	926	celanese	1.0
+http:__aksw.org_n3_reuters-128_115	celanese	8	celanese	1.0
+http:__aksw.org_n3_reuters-128_115	celanese	748	celanese	1.0
+http:__aksw.org_n3_reuters-128_115	celanese	505	celanese	1.0
+http:__aksw.org_n3_reuters-128_115	celanese	461	celanese	1.0
+http:__aksw.org_n3_reuters-128_114	emerson radio corp	0	emerson radio	1.0
+http:__aksw.org_n3_reuters-128_114	emerson radio	0	emerson radio	1.0
+http:__aksw.org_n3_reuters-128_113	march 27	998	march 27	1.0
+http:__aksw.org_n3_reuters-128_113	ashai	2084	ghulam ahmad ashai	1.0
+http:__aksw.org_n3_reuters-128_113	april 17	466	april 17	1.0
+http:__aksw.org_n3_reuters-128_112	dlrs	206	dirty little rabbits	1.0
+http:__aksw.org_n3_reuters-128_112	peabody	8	peabody (band)	1.0
+http:__aksw.org_n3_reuters-128_112	peabody	357	peabody (band)	1.0
+http:__aksw.org_n3_reuters-128_112	kidder, peabody	0	kidder, peabody & co.	1.0
+http:__aksw.org_n3_reuters-128_112	kidder peabody	350	kidder, peabody & co.	1.0
+http:__aksw.org_n3_reuters-128_111	mln	1079	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_111	redbook	2404	redbook	1.0
+http:__aksw.org_n3_reuters-128_111	masland	1911	albert masland	1.0
+http:__aksw.org_n3_reuters-128_111	lucky stores	2977	lucky stores	1.0
+http:__aksw.org_n3_reuters-128_111	j.p. stevens	3116	westpoint home	1.0
+http:__aksw.org_n3_reuters-128_111	j.p. stevens	1565	westpoint home	1.0
+http:__aksw.org_n3_reuters-128_111	fruehauf	2998	fruehauf trailer corporation	1.0
+http:__aksw.org_n3_reuters-128_111	fieldcrest cannon	3160	cannon mills	1.0
+http:__aksw.org_n3_reuters-128_111	dominion textiles	341	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_111	c.h.	1906	order of the companions of honour	1.0
+http:__aksw.org_n3_reuters-128_111	burlington industries	109	burlington industries	1.0
+http:__aksw.org_n3_reuters-128_111	avondale mills	1039	avondale mill	1.0
+http:__aksw.org_n3_reuters-128_111	asher edelman	323	asher edelman	1.0
+http:__aksw.org_n3_reuters-128_110	april 10	109	april 10	1.0
+http:__aksw.org_n3_reuters-128_11	european currency units	141	european currency unit	1.0
+http:__aksw.org_n3_reuters-128_109	w.b.	103	socialist propaganda league	1.0
+http:__aksw.org_n3_reuters-128_109	investment canada	0	investment canada	1.0
+http:__aksw.org_n3_reuters-128_109	holt, rinehart and winston	63	holt mcdougal	1.0
+http:__aksw.org_n3_reuters-128_109	holt rinehart and winston	475	holt mcdougal	1.0
+http:__aksw.org_n3_reuters-128_109	harcourt brace jovanovich	363	harcourt (publisher)	1.0
+http:__aksw.org_n3_reuters-128_109	harcourt brace jovanovich	162	harcourt (publisher)	1.0
+http:__aksw.org_n3_reuters-128_109	harcourt brace	363	harcourt (publisher)	1.0
+http:__aksw.org_n3_reuters-128_109	harcourt brace	162	harcourt (publisher)	1.0
+http:__aksw.org_n3_reuters-128_109	hbj	393	harcourt (publisher)	1.0
+http:__aksw.org_n3_reuters-128_108	bank of france	4	banque de france	1.0
+http:__aksw.org_n3_reuters-128_107	mir-hossein mousavi	102	mir-hossein mousavi	1.0
+http:__aksw.org_n3_reuters-128_107	mir-hossein	102	mir-hossein mousavi	1.0
+http:__aksw.org_n3_reuters-128_107	iraqi president	205	president of iraq	1.0
+http:__aksw.org_n3_reuters-128_107	british broadcasting corporation	461	bbc	1.0
+http:__aksw.org_n3_reuters-128_107	basra, iraqs	1028	basra	1.0
+http:__aksw.org_n3_reuters-128_107	ahvaz	1178	ahvaz	1.0
+http:__aksw.org_n3_reuters-128_106	polish economy	1390	economy of poland	1.0
+http:__aksw.org_n3_reuters-128_106	paris club	891	paris club	1.0
+http:__aksw.org_n3_reuters-128_106	jerzy urban	316	jerzy urban	1.0
+http:__aksw.org_n3_reuters-128_106	foreign policy institute	429	foreign policy institute	1.0
+http:__aksw.org_n3_reuters-128_105	series of	1442	national lampoon's vacation (film series)	1.0
+http:__aksw.org_n3_reuters-128_105	new rules	1452	real time with bill maher	1.0
+http:__aksw.org_n3_reuters-128_105	committee chairman	1361	democratic national committee	1.0
+http:__aksw.org_n3_reuters-128_105	standard and poors	1051	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_105	s and p	1540	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_105	s and p	1234	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_105	s and	1540	sn 1885a	1.0
+http:__aksw.org_n3_reuters-128_105	s and	1234	sn 1885a	1.0
+http:__aksw.org_n3_reuters-128_105	march 12	1311	march 12	1.0
+http:__aksw.org_n3_reuters-128_105	leo melamed	1380	leo melamed	1.0
+http:__aksw.org_n3_reuters-128_105	chicago mercantile exchange	4	chicago mercantile exchange	1.0
+http:__aksw.org_n3_reuters-128_105	april 13	1283	april 13	1.0
+http:__aksw.org_n3_reuters-128_103	senate budget committee	4	united states senate committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_102	mln	183	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_101	northern telecom	321	nortel	1.0
+http:__aksw.org_n3_reuters-128_101	northern telecom	0	nortel	1.0
+http:__aksw.org_n3_reuters-128_101	nippon telegraph and telephone	94	nippon telegraph and telephone	1.0
+http:__aksw.org_n3_reuters-128_100	huntsman chemical	309	huntsman corporation	1.0
+http:__aksw.org_n3_reuters-128_100	huntsman	309	huntsman corporation	1.0
+http:__aksw.org_n3_reuters-128_100	great lakes chemical	0	great lakes chemical corporation	1.0
+http:__aksw.org_n3_reuters-128_100	great	0	great eagle holdings	1.0
+http:__aksw.org_n3_reuters-128_100	goldman, sachs	420	goldman sachs	1.0
+http:__aksw.org_n3_reuters-128_100	first boston corp	401	first boston	1.0
+http:__aksw.org_n3_reuters-128_100	eberstadt	446	ferdinand eberstadt	1.0
+http:__aksw.org_n3_reuters-128_10	new york stock exchange	79	new york stock exchange	1.0
+http:__aksw.org_n3_reuters-128_10	nv philips	0	philips	1.0
+http:__aksw.org_n3_reuters-128_10	nv	0	nevada	1.0
+http:__aksw.org_n3_reuters-128_1	tronic	4	alex tronic	1.0
+http:__aksw.org_n3_reuters-128_1	key tronic	0	key tronic	1.0
+http:__aksw.org_n3_reuters-128_0	paxar	90	avery dennison	1.0
+http:__aksw.org_n3_reuters-128_0	paxar	0	avery dennison	1.0
+http:__aksw.org_n3_reuters-128_30	cetus	335	cetus corporation	0.9981132075471698
+http:__aksw.org_n3_reuters-128_49	uk	3003	united kingdom	0.9973759923277745
+http:__aksw.org_n3_reuters-128_101	nippon	94	japan	0.9972067039106145
+http:__aksw.org_n3_reuters-128_105	sandner	1339	john f. sandner	0.996742671009772
+http:__aksw.org_n3_reuters-128_55	u.s. national	541	united states	0.996445114725843
+http:__aksw.org_n3_reuters-128_91	u.s	724	united states	0.9959470989761092
+http:__aksw.org_n3_reuters-128_120	northeast	461	united states	0.9957487009919698
+http:__aksw.org_n3_reuters-128_22	fla.	613	florida	0.9941785252263907
+http:__aksw.org_n3_reuters-128_113	inaction	1672	with love and squalor	0.9924812030075187
+http:__aksw.org_n3_reuters-128_53	cts	330	canada	0.990578734858681
+http:__aksw.org_n3_reuters-128_30	calif.	381	california	0.9871086556169429
+http:__aksw.org_n3_reuters-128_118	rockwell international	1378	rockwell international	0.9845890410958904
+http:__aksw.org_n3_reuters-128_42	canadian government	572	canada	0.9824253075571178
+http:__aksw.org_n3_reuters-128_9	royce	52	henry royce	0.9801980198019802
+http:__aksw.org_n3_reuters-128_36	poehl	270	karl otto pöhl	0.9795918367346939
+http:__aksw.org_n3_reuters-128_82	april 29	1361	april 29	0.9784172661870504
+http:__aksw.org_n3_reuters-128_49	texas	4498	united states	0.9782679330167459
+http:__aksw.org_n3_reuters-128_44	ford motor co	0	ford motor company	0.9771428571428571
+http:__aksw.org_n3_reuters-128_30	new	171	united states	0.974913539462138
+http:__aksw.org_n3_reuters-128_31	new government	2062	taiwan	0.9712210114557139
+http:__aksw.org_n3_reuters-128_109	hrw	151	human rights watch	0.9696969696969697
+http:__aksw.org_n3_reuters-128_86	wall street journal	380	the wall street journal	0.9693877551020408
+http:__aksw.org_n3_reuters-128_23	cts	24	canada	0.9681335356600911
+http:__aksw.org_n3_reuters-128_25	sons	172	saviour (comics)	0.967741935483871
+http:__aksw.org_n3_reuters-128_118	rok	1401	south korea	0.9662625197680548
+http:__aksw.org_n3_reuters-128_44	april 30	78	april 30	0.9655172413793104
+http:__aksw.org_n3_reuters-128_44	april 30	516	april 30	0.9655172413793104
+http:__aksw.org_n3_reuters-128_54	att	248	at&t corporation	0.9642857142857143
+http:__aksw.org_n3_reuters-128_93	president reagan	59	ronald reagan	0.9622926093514329
+http:__aksw.org_n3_reuters-128_11	west-germany	265	germany	0.9620991253644315
+http:__aksw.org_n3_reuters-128_94	state mines	67	dsm (company)	0.9620253164556962
+http:__aksw.org_n3_reuters-128_29	cts	277	canada	0.9613130128956624
+http:__aksw.org_n3_reuters-128_40	welsh	122	united kingdom	0.959915611814346
+http:__aksw.org_n3_reuters-128_118	international	1955	europe	0.9588377723970944
+http:__aksw.org_n3_reuters-128_118	international	1387	europe	0.9588377723970944
+http:__aksw.org_n3_reuters-128_118	ibm	1992	ibm	0.9570046009836586
+http:__aksw.org_n3_reuters-128_118	mot	1474	motorola	0.949169602415702
+http:__aksw.org_n3_reuters-128_94	dutch state	61	netherlands	0.9472168905950096
+http:__aksw.org_n3_reuters-128_65	u.s	83	united states	0.945724907063197
+http:__aksw.org_n3_reuters-128_33	entre rios	712	entre ríos province	0.9423897581792319
+http:__aksw.org_n3_reuters-128_118	east	882	germany	0.9421686746987952
+http:__aksw.org_n3_reuters-128_118	president	899	united states	0.942081894425259
+http:__aksw.org_n3_reuters-128_120	reuter	550	allan reuter	0.9411764705882353
+http:__aksw.org_n3_reuters-128_111	dominion	931	canada	0.9387676789825677
+http:__aksw.org_n3_reuters-128_111	dominion	772	canada	0.9387676789825677
+http:__aksw.org_n3_reuters-128_111	dominion	442	canada	0.9387676789825677
+http:__aksw.org_n3_reuters-128_111	dominion	341	canada	0.9387676789825677
+http:__aksw.org_n3_reuters-128_24	kaunda	387	kenneth kaunda	0.9375
+http:__aksw.org_n3_reuters-128_61	texas	513	united states	0.9360911312248339
+http:__aksw.org_n3_reuters-128_61	texas	752	united states	0.9348710522686526
+http:__aksw.org_n3_reuters-128_98	international	10	europe	0.9336384439359268
+http:__aksw.org_n3_reuters-128_118	att	488	at&t corporation	0.9336384439359268
+http:__aksw.org_n3_reuters-128_118	att	396	at&t corporation	0.9336384439359268
+http:__aksw.org_n3_reuters-128_118	att	2000	at&t corporation	0.9336384439359268
+http:__aksw.org_n3_reuters-128_118	att	1373	at&t corporation	0.9336384439359268
+http:__aksw.org_n3_reuters-128_113	president reagan	948	ronald reagan	0.9333333333333333
+http:__aksw.org_n3_reuters-128_86	president	1216	united states	0.9331594873182613
+http:__aksw.org_n3_reuters-128_23	cts	64	canada	0.9307692307692308
+http:__aksw.org_n3_reuters-128_23	cts	37	canada	0.9307692307692308
+http:__aksw.org_n3_reuters-128_80	president	459	united states	0.9306735969656529
+http:__aksw.org_n3_reuters-128_111	dominion	877	canada	0.9296546219706864
+http:__aksw.org_n3_reuters-128_111	dominion	588	canada	0.9296546219706864
+http:__aksw.org_n3_reuters-128_111	dominion	1139	canada	0.9296546219706864
+http:__aksw.org_n3_reuters-128_111	dominion	1007	canada	0.9296546219706864
+http:__aksw.org_n3_reuters-128_49	gafs	4011	gaf materials corporation	0.9289099526066351
+http:__aksw.org_n3_reuters-128_49	gaf	385	gaf materials corporation	0.9289099526066351
+http:__aksw.org_n3_reuters-128_49	gaf	375	gaf materials corporation	0.9289099526066351
+http:__aksw.org_n3_reuters-128_49	gaf	2925	gaf materials corporation	0.9289099526066351
+http:__aksw.org_n3_reuters-128_49	gaf	1878	gaf materials corporation	0.9289099526066351
+http:__aksw.org_n3_reuters-128_22	america	372	united states	0.9287979196376143
+http:__aksw.org_n3_reuters-128_95	burnham	265	drexel burnham lambert	0.9285714285714286
+http:__aksw.org_n3_reuters-128_119	international	219	europe	0.9271921494143717
+http:__aksw.org_n3_reuters-128_67	addition	1582	addition elle	0.9259259259259259
+http:__aksw.org_n3_reuters-128_55	april 4	788	april 4	0.9256198347107438
+http:__aksw.org_n3_reuters-128_124	accident	1283	the war to end war	0.9242045048265999
+http:__aksw.org_n3_reuters-128_124	accident	1198	the war to end war	0.9242045048265999
+http:__aksw.org_n3_reuters-128_44	expiration	123	bruce willis	0.9230769230769231
+http:__aksw.org_n3_reuters-128_18	burnham	367	drexel burnham lambert	0.9230769230769231
+http:__aksw.org_n3_reuters-128_8	netherlands	560	netherlands	0.9226406863457903
+http:__aksw.org_n3_reuters-128_8	netherlands	164	netherlands	0.9226406863457903
+http:__aksw.org_n3_reuters-128_44	sable	615	mercury sable	0.9164490861618799
+http:__aksw.org_n3_reuters-128_33	period	823	soviet union	0.9150885766646304
+http:__aksw.org_n3_reuters-128_96	interstate	293	australia	0.9149722735674677
+http:__aksw.org_n3_reuters-128_96	interstate	17	australia	0.9149722735674677
+http:__aksw.org_n3_reuters-128_67	president	714	united states	0.914145988045644
+http:__aksw.org_n3_reuters-128_55	boeing company	26	boeing	0.9139784946236559
+http:__aksw.org_n3_reuters-128_105	melamed	1743	leo melamed	0.9130434782608695
+http:__aksw.org_n3_reuters-128_105	melamed	1384	leo melamed	0.9130434782608695
+http:__aksw.org_n3_reuters-128_30	il-2	743	interleukin 2	0.9126525369299936
+http:__aksw.org_n3_reuters-128_30	il-2	1932	interleukin 2	0.9126525369299936
+http:__aksw.org_n3_reuters-128_30	il-2	1351	interleukin 2	0.9126525369299936
+http:__aksw.org_n3_reuters-128_30	wash	430	washington (state)	0.9093198992443325
+http:__aksw.org_n3_reuters-128_9	april 28	756	april 28	0.9090909090909091
+http:__aksw.org_n3_reuters-128_43	shr	8	shropshire	0.9090909090909091
+http:__aksw.org_n3_reuters-128_43	shr	105	shropshire	0.9090909090909091
+http:__aksw.org_n3_reuters-128_36	sumita	470	sumita devi	0.9090909090909091
+http:__aksw.org_n3_reuters-128_86	reagan	1226	ronald reagan	0.9083969465648855
+http:__aksw.org_n3_reuters-128_86	president reagan	1216	ronald reagan	0.9083969465648855
+http:__aksw.org_n3_reuters-128_120	cts	77	canada	0.9078014184397163
+http:__aksw.org_n3_reuters-128_120	cts	161	canada	0.9078014184397163
+http:__aksw.org_n3_reuters-128_123	lawton chiles	145	lawton chiles	0.907563025210084
+http:__aksw.org_n3_reuters-128_111	canada	366	canada	0.9072437535491198
+http:__aksw.org_n3_reuters-128_25	burnham	132	drexel burnham lambert	0.9056603773584906
+http:__aksw.org_n3_reuters-128_80	cts	348	canada	0.9039792387543253
+http:__aksw.org_n3_reuters-128_110	new	4	united states	0.9036300777873811
+http:__aksw.org_n3_reuters-128_103	lawton chiles	140	lawton chiles	0.9029126213592233
+http:__aksw.org_n3_reuters-128_80	cts	387	canada	0.9005281690140845
+http:__aksw.org_n3_reuters-128_10	big board	356	new york stock exchange	0.9002557544757033
+http:__aksw.org_n3_reuters-128_92	dlrs	280	dlr band	0.9
+http:__aksw.org_n3_reuters-128_10	new	79	united states	0.8985763693396606
+http:__aksw.org_n3_reuters-128_10	new	377	united states	0.8985763693396606
+http:__aksw.org_n3_reuters-128_10	new	294	united states	0.8985763693396606
+http:__aksw.org_n3_reuters-128_121	u.s. government	32	united states	0.8983945336370202
+http:__aksw.org_n3_reuters-128_16	dlrs	251	docklands light railway	0.896551724137931
+http:__aksw.org_n3_reuters-128_16	dlr	68	docklands light railway	0.896551724137931
+http:__aksw.org_n3_reuters-128_15	dlrs	251	docklands light railway	0.896551724137931
+http:__aksw.org_n3_reuters-128_15	dlr	68	docklands light railway	0.896551724137931
+http:__aksw.org_n3_reuters-128_107	irna	927	islamic republic news agency	0.896551724137931
+http:__aksw.org_n3_reuters-128_109	government	204	united states	0.8958611056186655
+http:__aksw.org_n3_reuters-128_94	hans	230	cathay	0.8944099378881988
+http:__aksw.org_n3_reuters-128_107	destruction	189	september 11 attacks	0.8905325443786982
+http:__aksw.org_n3_reuters-128_39	cts	91	canada	0.8888888888888888
+http:__aksw.org_n3_reuters-128_42	continental	943	europe	0.8874581054859764
+http:__aksw.org_n3_reuters-128_42	continental	521	europe	0.8874581054859764
+http:__aksw.org_n3_reuters-128_42	continental	0	europe	0.8874581054859764
+http:__aksw.org_n3_reuters-128_61	first boston	0	first boston	0.8863636363636364
+http:__aksw.org_n3_reuters-128_33	la pampa	833	la pampa province	0.8844072798819479
+http:__aksw.org_n3_reuters-128_33	la pampa	2323	la pampa province	0.8844072798819479
+http:__aksw.org_n3_reuters-128_33	la pampa	1749	la pampa province	0.8844072798819479
+http:__aksw.org_n3_reuters-128_33	la pampa	1225	la pampa province	0.8844072798819479
+http:__aksw.org_n3_reuters-128_90	april 16	167	april 16	0.8823529411764706
+http:__aksw.org_n3_reuters-128_86	netherlands	1134	netherlands	0.8802608180201541
+http:__aksw.org_n3_reuters-128_66	department of trade and industry	169	united kingdom	0.8795664766887789
+http:__aksw.org_n3_reuters-128_7	dominion	351	canada	0.879468377635197
+http:__aksw.org_n3_reuters-128_67	town	760	new york city	0.8782254413761883
+http:__aksw.org_n3_reuters-128_100	sachs	429	goldman sachs	0.8780487804878049
+http:__aksw.org_n3_reuters-128_100	goldman	420	goldman sachs	0.8780487804878049
+http:__aksw.org_n3_reuters-128_49	middle eastern	2590	middle east	0.8748538011695907
+http:__aksw.org_n3_reuters-128_32	international	179	europe	0.8735440931780366
+http:__aksw.org_n3_reuters-128_37	period	324	soviet union	0.8715415019762845
+http:__aksw.org_n3_reuters-128_43	cts	35	canada	0.8705882352941177
+http:__aksw.org_n3_reuters-128_43	cts	20	canada	0.8705882352941177
+http:__aksw.org_n3_reuters-128_43	cts	112	canada	0.8705882352941177
+http:__aksw.org_n3_reuters-128_84	international	432	europe	0.8697878566203365
+http:__aksw.org_n3_reuters-128_43	manila	248	manila	0.8695652173913043
+http:__aksw.org_n3_reuters-128_69	nations	513	united states	0.8683103238747362
+http:__aksw.org_n3_reuters-128_118	vice	894	vice	0.8654545454545455
+http:__aksw.org_n3_reuters-128_58	sydney	258	australia	0.8643035602748282
+http:__aksw.org_n3_reuters-128_36	president	250	united states	0.8638805498498973
+http:__aksw.org_n3_reuters-128_124	underground	1363	earth	0.8636003172085647
+http:__aksw.org_n3_reuters-128_123	dlrs	528	dlr band	0.8620689655172413
+http:__aksw.org_n3_reuters-128_66	west germany	869	germany	0.8610771747458223
+http:__aksw.org_n3_reuters-128_67	dominion	794	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_67	dominion	697	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_67	dominion	435	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_67	dominion	1321	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_67	dominion	1189	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_67	dominion	0	canada	0.8595579682047305
+http:__aksw.org_n3_reuters-128_42	government	581	united states	0.8583515283842795
+http:__aksw.org_n3_reuters-128_30	april 9	138	april 9	0.8571428571428571
+http:__aksw.org_n3_reuters-128_0	lohn	53	lohn, schaffhausen	0.8571428571428571
+http:__aksw.org_n3_reuters-128_124	government	362	united states	0.8566386950043133
+http:__aksw.org_n3_reuters-128_22	wells fargo	760	wells fargo	0.8562874251497006
+http:__aksw.org_n3_reuters-128_70	u.s. government	32	united states	0.8540994189799871
+http:__aksw.org_n3_reuters-128_100	first boston	401	credit suisse first boston	0.8536585365853658
+http:__aksw.org_n3_reuters-128_13	international	161	europe	0.8494511238891793
+http:__aksw.org_n3_reuters-128_36	french	277	france	0.8483257433699437
+http:__aksw.org_n3_reuters-128_9	government	101	united states	0.8480660504352509
+http:__aksw.org_n3_reuters-128_114	radio	8	emerson radio	0.847457627118644
+http:__aksw.org_n3_reuters-128_106	polish government	288	poland	0.8472188779195762
+http:__aksw.org_n3_reuters-128_33	misiones	727	misiones province	0.8452012383900929
+http:__aksw.org_n3_reuters-128_74	poors	467	henry william poor	0.8421052631578947
+http:__aksw.org_n3_reuters-128_11	spain	308	spain	0.8409893992932862
+http:__aksw.org_n3_reuters-128_24	president	369	united states	0.840295593343474
+http:__aksw.org_n3_reuters-128_84	lme	530	london metal exchange	0.8388157894736842
+http:__aksw.org_n3_reuters-128_51	ibm	136	ibm	0.8384114309728935
+http:__aksw.org_n3_reuters-128_51	ibm	132	ibm	0.8384114309728935
+http:__aksw.org_n3_reuters-128_107	saddams	222	saddam hussein	0.8364849833147943
+http:__aksw.org_n3_reuters-128_107	saddam	881	saddam hussein	0.8364849833147943
+http:__aksw.org_n3_reuters-128_123	lawton	145	lawton chiles	0.8359133126934984
+http:__aksw.org_n3_reuters-128_33	cordoba	681	argentina	0.8358080017277685
+http:__aksw.org_n3_reuters-128_96	donald	0	donald trump	0.8333333333333334
+http:__aksw.org_n3_reuters-128_18	registration	79	securities act of 1933	0.8333333333333334
+http:__aksw.org_n3_reuters-128_126	kodak	8	eastman kodak	0.8333333333333334
+http:__aksw.org_n3_reuters-128_77	period	571	soviet union	0.8328437132784959
+http:__aksw.org_n3_reuters-128_98	tube	81	youtube	0.8307692307692308
+http:__aksw.org_n3_reuters-128_16	date	394	september 11 attacks	0.8305084745762712
+http:__aksw.org_n3_reuters-128_15	date	394	september 11 attacks	0.8305084745762712
+http:__aksw.org_n3_reuters-128_107	corporation	482	bbc	0.829219479653102
+http:__aksw.org_n3_reuters-128_93	reagan	69	ronald reagan	0.8291223404255319
+http:__aksw.org_n3_reuters-128_110	nations	163	united states	0.8287587054485867
+http:__aksw.org_n3_reuters-128_33	cordoba	2272	argentina	0.8276344086021505
+http:__aksw.org_n3_reuters-128_33	cordoba	1710	argentina	0.8276344086021505
+http:__aksw.org_n3_reuters-128_33	cordoba	1216	argentina	0.8276344086021505
+http:__aksw.org_n3_reuters-128_67	last year	811	miss earth 2001	0.8265895953757225
+http:__aksw.org_n3_reuters-128_93	kind	932	ron kind	0.8253968253968254
+http:__aksw.org_n3_reuters-128_24	international	434	europe	0.8247859041244217
+http:__aksw.org_n3_reuters-128_9	montagu	194	lily montagu	0.8235294117647058
+http:__aksw.org_n3_reuters-128_36	japans	433	japan	0.8225851479620324
+http:__aksw.org_n3_reuters-128_66	dti	648	defence technical undergraduate scheme	0.8195991091314031
+http:__aksw.org_n3_reuters-128_91	olii	1154	olius	0.8181818181818182
+http:__aksw.org_n3_reuters-128_109	jovanovich	378	drago jovanovich	0.8181818181818182
+http:__aksw.org_n3_reuters-128_109	jovanovich	177	drago jovanovich	0.8181818181818182
+http:__aksw.org_n3_reuters-128_101	dlrs	154	david lee roth	0.8181818181818182
+http:__aksw.org_n3_reuters-128_51	ibm	407	ibm	0.8176887776387151
+http:__aksw.org_n3_reuters-128_105	chicago	4	windy city (musical)	0.8161209068010076
+http:__aksw.org_n3_reuters-128_37	government	52	united states	0.8154683377308707
+http:__aksw.org_n3_reuters-128_107	president	211	united states	0.8136858765478074
+http:__aksw.org_n3_reuters-128_118	isdn	846	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	204	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	1859	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	1763	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	1483	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	1278	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_118	isdn	1120	integrated services digital network	0.8126934984520123
+http:__aksw.org_n3_reuters-128_55	japan	76	japan	0.8126302881667689
+http:__aksw.org_n3_reuters-128_8	ground	92	earth	0.8059116809116809
+http:__aksw.org_n3_reuters-128_42	series	380	up series	0.8038277511961722
+http:__aksw.org_n3_reuters-128_91	president	1000	united states	0.8031536697247706
+http:__aksw.org_n3_reuters-128_85	lehman brothers	187	lehman brothers	0.8028169014084507
+http:__aksw.org_n3_reuters-128_30	cancer institute	2117	united states	0.8028104041730244
+http:__aksw.org_n3_reuters-128_30	cancer institute	1889	united states	0.8028104041730244
+http:__aksw.org_n3_reuters-128_115	darlington county	247	darlington county, south carolina	0.8016032064128257
+http:__aksw.org_n3_reuters-128_90	april 17	132	april 17	0.8
+http:__aksw.org_n3_reuters-128_72	first time	91	pro evolution soccer 2011	0.8
+http:__aksw.org_n3_reuters-128_33	previous years	3471	2005 uefa champions league final	0.8
+http:__aksw.org_n3_reuters-128_19	year	414	fifth grade	0.8
+http:__aksw.org_n3_reuters-128_16	nassau	23	nassau, bahamas	0.8
+http:__aksw.org_n3_reuters-128_15	nassau	23	nassau, bahamas	0.8
+http:__aksw.org_n3_reuters-128_107	same time	334	same time, same place	0.8
+http:__aksw.org_n3_reuters-128_27	continental	148	europe	0.7948717948717948
+http:__aksw.org_n3_reuters-128_79	nations	981	united states	0.7946139341488179
+http:__aksw.org_n3_reuters-128_79	nations	679	united states	0.7946139341488179
+http:__aksw.org_n3_reuters-128_49	period	703	soviet union	0.7941303944028234
+http:__aksw.org_n3_reuters-128_86	wall	380	wall street	0.7929203539823009
+http:__aksw.org_n3_reuters-128_69	ivory	1516	ivory coast	0.7918231122236129
+http:__aksw.org_n3_reuters-128_42	canada	248	canada	0.7873959571938168
+http:__aksw.org_n3_reuters-128_42	canada	20	canada	0.7873959571938168
+http:__aksw.org_n3_reuters-128_10	nasdaq	303	nasdaq	0.7871198568872988
+http:__aksw.org_n3_reuters-128_62	period	430	soviet union	0.7868852459016393
+http:__aksw.org_n3_reuters-128_14	analysts	837	cost analyst	0.7864077669902912
+http:__aksw.org_n3_reuters-128_116	reagan administration	303	ronald reagan	0.7857304131858207
+http:__aksw.org_n3_reuters-128_71	hrw	521	human rights watch	0.7857142857142857
+http:__aksw.org_n3_reuters-128_29	sun	0	sunoco	0.785234899328859
+http:__aksw.org_n3_reuters-128_118	motorola	1461	motorola	0.7842037116961589
+http:__aksw.org_n3_reuters-128_34	rose	235	england	0.782608695652174
+http:__aksw.org_n3_reuters-128_100	great lakes	276	great lakes chemical corporation	0.782608695652174
+http:__aksw.org_n3_reuters-128_100	great lakes	0	great lakes chemical corporation	0.782608695652174
+http:__aksw.org_n3_reuters-128_113	miti	281	ministry of international trade and industry	0.78239608801956
+http:__aksw.org_n3_reuters-128_36	kiichi	413	kiichi miyazawa	0.7810304449648712
+http:__aksw.org_n3_reuters-128_36	paris	1076	france	0.780307510348906
+http:__aksw.org_n3_reuters-128_33	pampa	836	pampas	0.7787131689717378
+http:__aksw.org_n3_reuters-128_86	u.s.	1111	united states	0.7773712876374473
+http:__aksw.org_n3_reuters-128_49	dean witter	4820	dean witter reynolds	0.7752808988764045
+http:__aksw.org_n3_reuters-128_86	journal	392	the wall street journal	0.7751937984496124
+http:__aksw.org_n3_reuters-128_44	taurus	596	ford taurus	0.7746994249869316
+http:__aksw.org_n3_reuters-128_93	government	334	united states	0.7741935483870968
+http:__aksw.org_n3_reuters-128_58	australian	390	australia	0.7733687299147688
+http:__aksw.org_n3_reuters-128_91	spa	142	spain	0.7729061270376616
+http:__aksw.org_n3_reuters-128_91	spa	11	spain	0.7729061270376616
+http:__aksw.org_n3_reuters-128_91	spa	1097	spain	0.7729061270376616
+http:__aksw.org_n3_reuters-128_66	japans	267	japan	0.7727352605219225
+http:__aksw.org_n3_reuters-128_66	japan	133	japan	0.7727352605219225
+http:__aksw.org_n3_reuters-128_22	tenn	743	tennessee	0.7677725118483413
+http:__aksw.org_n3_reuters-128_0	west germany	59	germany	0.7667844522968198
+http:__aksw.org_n3_reuters-128_49	conoco	4382	conocophillips	0.765625
+http:__aksw.org_n3_reuters-128_55	u.s.	541	united states	0.7650508644171438
+http:__aksw.org_n3_reuters-128_30	tenn.	1170	tennessee	0.7647058823529411
+http:__aksw.org_n3_reuters-128_110	jersey	8	new jersey	0.7647058823529411
+http:__aksw.org_n3_reuters-128_11	denmark	327	denmark	0.7637474541751528
+http:__aksw.org_n3_reuters-128_127	u.s. district	337	united states district court for the southern district of new york	0.76
+http:__aksw.org_n3_reuters-128_103	lawton	140	lawton chiles	0.7591836734693878
+http:__aksw.org_n3_reuters-128_60	luxembourg	298	luxembourg stock exchange	0.7590361445783133
+http:__aksw.org_n3_reuters-128_3	international	10	europe	0.7577789238439058
+http:__aksw.org_n3_reuters-128_58	australia	115	australia	0.7562508539417954
+http:__aksw.org_n3_reuters-128_94	amsterdam	925	amsterdam	0.7544910179640718
+http:__aksw.org_n3_reuters-128_72	world	20	earth	0.7543859649122807
+http:__aksw.org_n3_reuters-128_94	government	574	united states	0.7534107106495622
+http:__aksw.org_n3_reuters-128_93	office	0	congressional budget office	0.7522388059701492
+http:__aksw.org_n3_reuters-128_33	middle	580	dark ages (historiography)	0.7517772511848341
+http:__aksw.org_n3_reuters-128_10	nyse	333	new york stock exchange	0.7517351841964762
+http:__aksw.org_n3_reuters-128_33	pampa	2326	pampas	0.7515960533952408
+http:__aksw.org_n3_reuters-128_33	pampa	1752	pampas	0.7515960533952408
+http:__aksw.org_n3_reuters-128_33	pampa	1228	pampas	0.7515960533952408
+http:__aksw.org_n3_reuters-128_107	tehrans	937	iran	0.75005382131324
+http:__aksw.org_n3_reuters-128_107	tehran	789	iran	0.75005382131324
+http:__aksw.org_n3_reuters-128_107	tehran	495	iran	0.75005382131324
+http:__aksw.org_n3_reuters-128_107	tehran	127	iran	0.75005382131324
+http:__aksw.org_n3_reuters-128_74	stifel	501	stifel	0.75
+http:__aksw.org_n3_reuters-128_74	stifel	168	stifel	0.75
+http:__aksw.org_n3_reuters-128_72	hires	399	w. m. keck observatory	0.75
+http:__aksw.org_n3_reuters-128_51	dlrs	544	arise the republic	0.75
+http:__aksw.org_n3_reuters-128_51	dlrs	501	arise the republic	0.75
+http:__aksw.org_n3_reuters-128_119	inc	233	baxter international	0.75
+http:__aksw.org_n3_reuters-128_79	rio	630	rio de janeiro	0.7491694352159468
+http:__aksw.org_n3_reuters-128_58	australian	183	australia	0.7470404136617227
+http:__aksw.org_n3_reuters-128_124	federal government	354	united states	0.7442594653523814
+http:__aksw.org_n3_reuters-128_31	georgia power	992	southern company	0.7438136826783115
+http:__aksw.org_n3_reuters-128_31	georgia power	713	southern company	0.7438136826783115
+http:__aksw.org_n3_reuters-128_31	georgia power	233	southern company	0.7438136826783115
+http:__aksw.org_n3_reuters-128_31	georgia power	1612	southern company	0.7438136826783115
+http:__aksw.org_n3_reuters-128_31	georgia power	1209	southern company	0.7438136826783115
+http:__aksw.org_n3_reuters-128_99	france	286	france	0.7428248587570622
+http:__aksw.org_n3_reuters-128_79	sao	608	são paulo indy 300	0.7422680412371134
+http:__aksw.org_n3_reuters-128_31	government	2066	united states	0.7421017368448178
+http:__aksw.org_n3_reuters-128_127	u.s. district court	337	united states district court	0.7419354838709677
+http:__aksw.org_n3_reuters-128_46	lehman brothers	241	lehman brothers	0.7391304347826086
+http:__aksw.org_n3_reuters-128_113	international	247	europe	0.7384229321494065
+http:__aksw.org_n3_reuters-128_61	state	758	united states	0.7381726951918836
+http:__aksw.org_n3_reuters-128_107	second city	1041	windy city (musical)	0.737527114967462
+http:__aksw.org_n3_reuters-128_113	president	948	united states	0.7372247204991024
+http:__aksw.org_n3_reuters-128_106	part of	613	russian partition	0.7368421052631579
+http:__aksw.org_n3_reuters-128_57	u.s.	61	united states	0.7356065378692426
+http:__aksw.org_n3_reuters-128_14	affair	501	affair (album)	0.7352941176470589
+http:__aksw.org_n3_reuters-128_68	raytheon	0	raytheon	0.7333333333333333
+http:__aksw.org_n3_reuters-128_61	texacos	637	texaco	0.7316455696202532
+http:__aksw.org_n3_reuters-128_61	texacos	407	texaco	0.7316455696202532
+http:__aksw.org_n3_reuters-128_61	texacos	265	texaco	0.7316455696202532
+http:__aksw.org_n3_reuters-128_61	texaco	69	texaco	0.7316455696202532
+http:__aksw.org_n3_reuters-128_127	ohio	218	ohio	0.7313432835820896
+http:__aksw.org_n3_reuters-128_49	monsanto	3597	monsanto	0.7302158273381295
+http:__aksw.org_n3_reuters-128_118	american telephone and telegraph	346	at&t	0.728021978021978
+http:__aksw.org_n3_reuters-128_102	west germanys	0	germany	0.7278234530506275
+http:__aksw.org_n3_reuters-128_102	west germany	240	germany	0.7278234530506275
+http:__aksw.org_n3_reuters-128_108	total	323	cbs	0.7272727272727273
+http:__aksw.org_n3_reuters-128_108	april 13	121	april 13	0.7272727272727273
+http:__aksw.org_n3_reuters-128_107	pumping station	1131	chicago avenue pumping station	0.7272727272727273
+http:__aksw.org_n3_reuters-128_115	hoechst	853	hoechst ag	0.725328947368421
+http:__aksw.org_n3_reuters-128_115	hoechst	740	hoechst ag	0.725328947368421
+http:__aksw.org_n3_reuters-128_115	hoechst	532	hoechst ag	0.725328947368421
+http:__aksw.org_n3_reuters-128_115	hoechst	453	hoechst ag	0.725328947368421
+http:__aksw.org_n3_reuters-128_115	hoechst	0	hoechst ag	0.725328947368421
+http:__aksw.org_n3_reuters-128_31	island	2110	irish republic	0.7248528122259802
+http:__aksw.org_n3_reuters-128_57	u.s. district	61	united states district court for the southern district of new york	0.7241379310344828
+http:__aksw.org_n3_reuters-128_24	monetary fund	448	international convention on the establishment of an international fund for compensation for oil pollution damage	0.7236842105263158
+http:__aksw.org_n3_reuters-128_105	cmes	475	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cmes	1046	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	715	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	585	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	33	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	300	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	1321	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_105	cme	1156	chicago mercantile exchange	0.7219791316055201
+http:__aksw.org_n3_reuters-128_111	u.s.	12	united states	0.7210003677822729
+http:__aksw.org_n3_reuters-128_111	u.s	991	united states	0.7210003677822729
+http:__aksw.org_n3_reuters-128_121	government	37	united states	0.7204119764845281
+http:__aksw.org_n3_reuters-128_7	dominion bank	351	toronto-dominion bank	0.72
+http:__aksw.org_n3_reuters-128_93	president	59	united states	0.7196092619392185
+http:__aksw.org_n3_reuters-128_118	american	346	united states	0.7191491925765244
+http:__aksw.org_n3_reuters-128_111	u.s.	1227	united states	0.7179844506381106
+http:__aksw.org_n3_reuters-128_111	u.s.	1119	united states	0.7179844506381106
+http:__aksw.org_n3_reuters-128_60	merrill	150	merrill lynch	0.717948717948718
+http:__aksw.org_n3_reuters-128_49	u.s.	5099	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	35	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	2668	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	2419	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	1924	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	1735	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	123	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_49	u.s.	1096	united states	0.7168458453141884
+http:__aksw.org_n3_reuters-128_29	ny	137	new york city	0.7157894736842105
+http:__aksw.org_n3_reuters-128_24	governments	482	united states	0.7154178465463753
+http:__aksw.org_n3_reuters-128_24	government	792	united states	0.7154178465463753
+http:__aksw.org_n3_reuters-128_24	government	639	united states	0.7154178465463753
+http:__aksw.org_n3_reuters-128_24	government	12	united states	0.7154178465463753
+http:__aksw.org_n3_reuters-128_83	spain	114	spain	0.7136563876651982
+http:__aksw.org_n3_reuters-128_79	states	598	united states	0.7119147702565589
+http:__aksw.org_n3_reuters-128_69	brazil	1529	brazil	0.7104532089627902
+http:__aksw.org_n3_reuters-128_69	brazil	1258	brazil	0.7104532089627902
+http:__aksw.org_n3_reuters-128_19	brazil	337	brazil	0.7092198581560284
+http:__aksw.org_n3_reuters-128_40	digest	203	reader's digest	0.7078651685393258
+http:__aksw.org_n3_reuters-128_40	digest	12	reader's digest	0.7078651685393258
+http:__aksw.org_n3_reuters-128_12	oil	15	oilexco	0.7058823529411765
+http:__aksw.org_n3_reuters-128_106	paris	891	france	0.7056825637792844
+http:__aksw.org_n3_reuters-128_30	new england	171	north america	0.7047583364556014
+http:__aksw.org_n3_reuters-128_111	last year	2953	miss earth 2001	0.7037037037037037
+http:__aksw.org_n3_reuters-128_35	moodys	330	moody's investors service	0.7012195121951219
+http:__aksw.org_n3_reuters-128_35	moodys	255	moody's investors service	0.7012195121951219
+http:__aksw.org_n3_reuters-128_35	moodys	0	moody's investors service	0.7012195121951219
+http:__aksw.org_n3_reuters-128_127	u.s.	337	united states	0.6998947526687717
+http:__aksw.org_n3_reuters-128_91	europe	709	europe	0.6997264021887825
+http:__aksw.org_n3_reuters-128_123	u.s.	4	united states	0.6987676280015246
+http:__aksw.org_n3_reuters-128_36	nations	36	united states	0.6968854815524677
+http:__aksw.org_n3_reuters-128_67	u.s.	1031	united states	0.6947825915947217
+http:__aksw.org_n3_reuters-128_67	u.s	1497	united states	0.6947825915947217
+http:__aksw.org_n3_reuters-128_56	aid	653	hiv/aids	0.6944444444444444
+http:__aksw.org_n3_reuters-128_51	international	95	europe	0.6924829157175398
+http:__aksw.org_n3_reuters-128_85	lehman	187	lehman brothers	0.6923076923076923
+http:__aksw.org_n3_reuters-128_56	mci communications	92	mci inc.	0.690625
+http:__aksw.org_n3_reuters-128_95	registration	82	securities act of 1933	0.6896551724137931
+http:__aksw.org_n3_reuters-128_17	states	191	united states	0.6892283890930188
+http:__aksw.org_n3_reuters-128_119	reuter	514	paul reuter	0.6885245901639344
+http:__aksw.org_n3_reuters-128_113	japans	499	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_113	japans	228	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_113	japans	1377	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_113	japan	1851	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_113	japan	1808	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_113	japan	1123	japan	0.687555771154111
+http:__aksw.org_n3_reuters-128_67	last year	1397	miss earth 2001	0.6875
+http:__aksw.org_n3_reuters-128_67	u.s.	1222	united states	0.6873097635214236
+http:__aksw.org_n3_reuters-128_71	april 13	686	april 13	0.6863905325443787
+http:__aksw.org_n3_reuters-128_71	april 13	21	april 13	0.6863905325443787
+http:__aksw.org_n3_reuters-128_107	baghdad	1057	iraq	0.6856826568265683
+http:__aksw.org_n3_reuters-128_71	u.s.	279	united states	0.6837799602238944
+http:__aksw.org_n3_reuters-128_71	u.s.	176	united states	0.6837799602238944
+http:__aksw.org_n3_reuters-128_58	reuters	704	reuters	0.6827586206896552
+http:__aksw.org_n3_reuters-128_109	u.s.	350	united states	0.6819190117872211
+http:__aksw.org_n3_reuters-128_16	dominion	8	canada	0.6791171477079796
+http:__aksw.org_n3_reuters-128_15	dominion	8	canada	0.6791171477079796
+http:__aksw.org_n3_reuters-128_119	equipment	151	vox (musical equipment)	0.6791044776119403
+http:__aksw.org_n3_reuters-128_118	northern	1433	north america	0.6783369803063457
+http:__aksw.org_n3_reuters-128_60	kodaks	333	eastman kodak	0.6779661016949152
+http:__aksw.org_n3_reuters-128_60	kodak	8	eastman kodak	0.6779661016949152
+http:__aksw.org_n3_reuters-128_91	italiana	1145	treccani	0.6774193548387096
+http:__aksw.org_n3_reuters-128_30	national	2108	united states	0.6755974105230408
+http:__aksw.org_n3_reuters-128_30	national	1880	united states	0.6755974105230408
+http:__aksw.org_n3_reuters-128_116	carter administration	575	john s. carter	0.6751968503937008
+http:__aksw.org_n3_reuters-128_116	carter administration	362	john s. carter	0.6751968503937008
+http:__aksw.org_n3_reuters-128_68	rise	23	boston dynamics	0.6746987951807228
+http:__aksw.org_n3_reuters-128_66	international	555	europe	0.6739249972506324
+http:__aksw.org_n3_reuters-128_10	u.s.	426	united states	0.6723424665747347
+http:__aksw.org_n3_reuters-128_127	district court	342	united states district court	0.6720686367969495
+http:__aksw.org_n3_reuters-128_33	santa	696	santa fe (group)	0.6708074534161491
+http:__aksw.org_n3_reuters-128_33	santa	3219	santa fe (group)	0.6708074534161491
+http:__aksw.org_n3_reuters-128_33	santa	2281	santa fe (group)	0.6708074534161491
+http:__aksw.org_n3_reuters-128_33	santa	1722	santa fe (group)	0.6708074534161491
+http:__aksw.org_n3_reuters-128_13	u.s.	367	united states	0.6679327976625274
+http:__aksw.org_n3_reuters-128_57	district	66	washington, d.c.	0.6675890695261155
+http:__aksw.org_n3_reuters-128_74	pauli	521	paulus potter	0.6666666666666666
+http:__aksw.org_n3_reuters-128_48	last year	246	2009 kazakhstan cup	0.6666666666666666
+http:__aksw.org_n3_reuters-128_41	avnet	189	avnet	0.6666666666666666
+http:__aksw.org_n3_reuters-128_41	avnet	0	avnet	0.6666666666666666
+http:__aksw.org_n3_reuters-128_127	reuter	451	james b. reuter	0.6666666666666666
+http:__aksw.org_n3_reuters-128_127	ohio company	44	ohio company of associates	0.6666666666666666
+http:__aksw.org_n3_reuters-128_126	stanley	108	morgan stanley	0.6666666666666666
+http:__aksw.org_n3_reuters-128_112	e.f. hutton	27	edward francis hutton	0.6666666666666666
+http:__aksw.org_n3_reuters-128_50	japan	94	japan	0.6659192825112108
+http:__aksw.org_n3_reuters-128_127	southern district	364	united states district court	0.6629834254143646
+http:__aksw.org_n3_reuters-128_93	james miller	41	james miller (general)	0.6626506024096386
+http:__aksw.org_n3_reuters-128_49	dean	4820	university of chicago	0.662303664921466
+http:__aksw.org_n3_reuters-128_124	quebec	129	quebec	0.6614349775784754
+http:__aksw.org_n3_reuters-128_124	quebec	0	quebec	0.6614349775784754
+http:__aksw.org_n3_reuters-128_96	donald trump	0	donald trump	0.660377358490566
+http:__aksw.org_n3_reuters-128_86	winans	615	r. foster winans	0.6601208459214502
+http:__aksw.org_n3_reuters-128_86	winans	419	r. foster winans	0.6601208459214502
+http:__aksw.org_n3_reuters-128_86	winans	233	r. foster winans	0.6601208459214502
+http:__aksw.org_n3_reuters-128_77	net	1786	netherlands	0.6598400199196988
+http:__aksw.org_n3_reuters-128_68	u.s.	484	united states	0.6595340811044004
+http:__aksw.org_n3_reuters-128_84	white	19	europe	0.6593790992566682
+http:__aksw.org_n3_reuters-128_69	ivory coast	1516	ivory coast	0.6586785347483738
+http:__aksw.org_n3_reuters-128_94	bourse	935	paris bourse	0.6585365853658537
+http:__aksw.org_n3_reuters-128_9	april	756	april 2003	0.6585365853658537
+http:__aksw.org_n3_reuters-128_9	april	140	april 2003	0.6585365853658537
+http:__aksw.org_n3_reuters-128_33	aires	656	vast aire	0.6585365853658537
+http:__aksw.org_n3_reuters-128_33	aires	1778	vast aire	0.6585365853658537
+http:__aksw.org_n3_reuters-128_33	aires	1245	vast aire	0.6585365853658537
+http:__aksw.org_n3_reuters-128_79	brasilia	194	brasília	0.658008658008658
+http:__aksw.org_n3_reuters-128_33	aires	2343	vast aire	0.656934306569343
+http:__aksw.org_n3_reuters-128_9	u.k.	340	united states	0.6545922269345755
+http:__aksw.org_n3_reuters-128_36	u.s.	59	united states	0.6544187708432587
+http:__aksw.org_n3_reuters-128_49	union	2984	united states	0.6542772022422881
+http:__aksw.org_n3_reuters-128_84	white	999	europe	0.6539928096742564
+http:__aksw.org_n3_reuters-128_18	helen	322	helen of troy	0.6532663316582915
+http:__aksw.org_n3_reuters-128_52	fromkin	218	david fromkin	0.6521739130434783
+http:__aksw.org_n3_reuters-128_30	search	2795	eternal search	0.6520376175548589
+http:__aksw.org_n3_reuters-128_30	search	2325	eternal search	0.6520376175548589
+http:__aksw.org_n3_reuters-128_49	middle	2590	dark ages (historiography)	0.6513615733736763
+http:__aksw.org_n3_reuters-128_106	u.s.	1363	united states	0.6508092078809811
+http:__aksw.org_n3_reuters-128_29	suns	233	sunoco	0.65
+http:__aksw.org_n3_reuters-128_29	sun	9	sunoco	0.65
+http:__aksw.org_n3_reuters-128_9	sons	206	saviour (comics)	0.6493506493506493
+http:__aksw.org_n3_reuters-128_30	william	1121	william coley	0.6481099656357389
+http:__aksw.org_n3_reuters-128_121	u.s.	32	united states	0.6470161874848998
+http:__aksw.org_n3_reuters-128_18	helen	0	helen of troy	0.6467661691542289
+http:__aksw.org_n3_reuters-128_66	japan	933	japan	0.6444127295979835
+http:__aksw.org_n3_reuters-128_66	japan	854	japan	0.6444127295979835
+http:__aksw.org_n3_reuters-128_66	japan	447	japan	0.6444127295979835
+http:__aksw.org_n3_reuters-128_49	union carbide	2984	union carbide	0.644106463878327
+http:__aksw.org_n3_reuters-128_30	philadelphias	2418	philadelphia	0.6410605030591434
+http:__aksw.org_n3_reuters-128_33	sources	197	the source (musician)	0.6403940886699507
+http:__aksw.org_n3_reuters-128_58	queensland	804	queensland	0.64
+http:__aksw.org_n3_reuters-128_117	co.	383	county dublin	0.64
+http:__aksw.org_n3_reuters-128_100	boston	407	boston	0.64
+http:__aksw.org_n3_reuters-128_3	tube	371	youtube	0.6376811594202898
+http:__aksw.org_n3_reuters-128_52	president	57	united states	0.6364093116730866
+http:__aksw.org_n3_reuters-128_52	president	156	united states	0.6364093116730866
+http:__aksw.org_n3_reuters-128_14	tomorrow	87	tomorrow (sean kingston album)	0.6363636363636364
+http:__aksw.org_n3_reuters-128_14	tomorrow	289	tomorrow (sean kingston album)	0.6363636363636364
+http:__aksw.org_n3_reuters-128_13	federal	39	united states	0.6362004694187491
+http:__aksw.org_n3_reuters-128_85	shearson lehman brothers	178	lehman brothers	0.6356877323420075
+http:__aksw.org_n3_reuters-128_113	ministry of international trade and industry	235	ministry of international trade and industry	0.6353408338848445
+http:__aksw.org_n3_reuters-128_87	northwest	403	northwest airlines	0.6348547717842323
+http:__aksw.org_n3_reuters-128_77	brazils	245	brazil	0.6343470842115828
+http:__aksw.org_n3_reuters-128_77	brazil	2185	brazil	0.6343470842115828
+http:__aksw.org_n3_reuters-128_77	brazil	211	brazil	0.6343470842115828
+http:__aksw.org_n3_reuters-128_77	brazil	1748	brazil	0.6343470842115828
+http:__aksw.org_n3_reuters-128_77	brazil	1531	brazil	0.6343470842115828
+http:__aksw.org_n3_reuters-128_107	irans	1172	iran	0.6343079780067727
+http:__aksw.org_n3_reuters-128_107	iran	619	iran	0.6343079780067727
+http:__aksw.org_n3_reuters-128_107	iran	554	iran	0.6343079780067727
+http:__aksw.org_n3_reuters-128_107	iran	0	iran	0.6343079780067727
+http:__aksw.org_n3_reuters-128_24	way out	735	way out (roxette song)	0.6338028169014085
+http:__aksw.org_n3_reuters-128_94	state	67	united states	0.632760989010989
+http:__aksw.org_n3_reuters-128_94	state	317	united states	0.632760989010989
+http:__aksw.org_n3_reuters-128_115	federal	608	united states	0.6325217178514622
+http:__aksw.org_n3_reuters-128_83	alava	105	álava	0.631578947368421
+http:__aksw.org_n3_reuters-128_119	u.s.	196	united states	0.6309651315006545
+http:__aksw.org_n3_reuters-128_119	u.s.	138	united states	0.6309651315006545
+http:__aksw.org_n3_reuters-128_66	holland	886	netherlands	0.6307577454273983
+http:__aksw.org_n3_reuters-128_37	federal	4	united states	0.630169291670176
+http:__aksw.org_n3_reuters-128_82	state	885	united states	0.6294630374791816
+http:__aksw.org_n3_reuters-128_58	states	641	united states	0.6277002766495968
+http:__aksw.org_n3_reuters-128_58	july	653	july 11	0.6276923076923077
+http:__aksw.org_n3_reuters-128_98	dlrs	133	docklands light railway	0.625
+http:__aksw.org_n3_reuters-128_26	dlrs	275	dirty little rabbits	0.625
+http:__aksw.org_n3_reuters-128_26	dlrs	198	dirty little rabbits	0.625
+http:__aksw.org_n3_reuters-128_69	ghana	1540	gold coast (british colony)	0.6248662529424353
+http:__aksw.org_n3_reuters-128_14	volkswagen	0	volkswagen group of america	0.621301775147929
+http:__aksw.org_n3_reuters-128_118	intel	1356	intel	0.6210526315789474
+http:__aksw.org_n3_reuters-128_67	edelman	1242	edelman (firm)	0.6209150326797386
+http:__aksw.org_n3_reuters-128_118	reuter	2005	timothy reuter	0.620253164556962
+http:__aksw.org_n3_reuters-128_36	group of seven	684	g7	0.6183783783783784
+http:__aksw.org_n3_reuters-128_36	group of seven	1058	g7	0.6183783783783784
+http:__aksw.org_n3_reuters-128_61	randol	798	e. randol schoenberg	0.6179775280898876
+http:__aksw.org_n3_reuters-128_61	randol	34	e. randol schoenberg	0.6179775280898876
+http:__aksw.org_n3_reuters-128_30	england	175	united kingdom	0.6164405092471316
+http:__aksw.org_n3_reuters-128_30	promise	1034	promise (sade album)	0.6155015197568389
+http:__aksw.org_n3_reuters-128_9	aircraft industry	1039	pratt & whitney	0.6153846153846154
+http:__aksw.org_n3_reuters-128_16	toronto	0	toronto	0.6153846153846154
+http:__aksw.org_n3_reuters-128_15	toronto	0	toronto	0.6153846153846154
+http:__aksw.org_n3_reuters-128_94	year	211	fifth grade	0.6134969325153374
+http:__aksw.org_n3_reuters-128_127	ohio	44	ohio	0.6122605363984674
+http:__aksw.org_n3_reuters-128_127	ohio	385	ohio	0.6122605363984674
+http:__aksw.org_n3_reuters-128_58	south australian	384	south australia	0.6111636707663197
+http:__aksw.org_n3_reuters-128_58	south australian	177	south australia	0.6111636707663197
+http:__aksw.org_n3_reuters-128_106	governments	1234	united states	0.6110769521827555
+http:__aksw.org_n3_reuters-128_106	government	925	united states	0.6110769521827555
+http:__aksw.org_n3_reuters-128_106	government	56	united states	0.6110769521827555
+http:__aksw.org_n3_reuters-128_106	government	295	united states	0.6110769521827555
+http:__aksw.org_n3_reuters-128_69	major	477	major league baseball	0.6110599078341014
+http:__aksw.org_n3_reuters-128_115	american	523	united states	0.6105719400734948
+http:__aksw.org_n3_reuters-128_43	atlas	198	atlas ii	0.6101694915254238
+http:__aksw.org_n3_reuters-128_64	sciences	13	england	0.6098654708520179
+http:__aksw.org_n3_reuters-128_9	clark	159	clark l. hull	0.6090225563909775
+http:__aksw.org_n3_reuters-128_107	prime	87	prime minister of iran	0.6084598698481561
+http:__aksw.org_n3_reuters-128_36	miyazawa	420	kiichi miyazawa	0.6075069508804448
+http:__aksw.org_n3_reuters-128_70	u.s.	32	united states	0.6062318619214908
+http:__aksw.org_n3_reuters-128_42	a series	378	sharpe (tv series)	0.6060606060606061
+http:__aksw.org_n3_reuters-128_41	registration	70	securities act of 1933	0.6060606060606061
+http:__aksw.org_n3_reuters-128_14	volkswagen ag	0	volkswagen	0.6060606060606061
+http:__aksw.org_n3_reuters-128_70	government	37	united states	0.6051502145922747
+http:__aksw.org_n3_reuters-128_46	lehman	241	lehman brothers	0.6049382716049383
+http:__aksw.org_n3_reuters-128_113	u.s.	632	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	336	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	2409	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	1704	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	1450	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	119	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_113	u.s.	1103	united states	0.6044004350657851
+http:__aksw.org_n3_reuters-128_46	shearson lehman brothers	232	lehman brothers	0.6040609137055838
+http:__aksw.org_n3_reuters-128_113	u.s.	781	united states	0.6035729394402266
+http:__aksw.org_n3_reuters-128_36	otto	265	greece	0.6013422818791946
+http:__aksw.org_n3_reuters-128_66	canada	824	canada	0.6009255755741189
+http:__aksw.org_n3_reuters-128_31	vogtle	140	vogtle electric generating plant	0.6008708272859217
+http:__aksw.org_n3_reuters-128_31	vogtle	1246	vogtle electric generating plant	0.6008708272859217
+http:__aksw.org_n3_reuters-128_44	ford taurus	591	ford taurus	0.6003415883859948
+http:__aksw.org_n3_reuters-128_9	sir francis	911	sir francis baring, 1st baronet	0.6
+http:__aksw.org_n3_reuters-128_86	increase	932	increase sumner	0.6
+http:__aksw.org_n3_reuters-128_86	r. foster	409	r. f. foster (historian)	0.6
+http:__aksw.org_n3_reuters-128_84	chamber of commerce	446	chamber of commerce	0.6
+http:__aksw.org_n3_reuters-128_79	agriculture ministry	108	ministry of agriculture and rural development (poland)	0.6
+http:__aksw.org_n3_reuters-128_54	american telephone and telegraph	0	at&t	0.6
+http:__aksw.org_n3_reuters-128_46	registration	29	securities act of 1933	0.6
+http:__aksw.org_n3_reuters-128_14	parent	567	dan parent	0.6
+http:__aksw.org_n3_reuters-128_14	parent	1091	dan parent	0.6
+http:__aksw.org_n3_reuters-128_118	john east	877	john east	0.6
+http:__aksw.org_n3_reuters-128_111	last year	996	miss earth 2001	0.6
+http:__aksw.org_n3_reuters-128_105	response	436	a.n.s.w.e.r.	0.6
+http:__aksw.org_n3_reuters-128_103	dlrs	450	dlr band	0.6
+http:__aksw.org_n3_reuters-128_115	american	844	united states	0.5993303571428571
+http:__aksw.org_n3_reuters-128_55	tokyo	298	tokyo	0.5992555831265509
+http:__aksw.org_n3_reuters-128_11	belgium	289	belgium	0.5949008498583569
+http:__aksw.org_n3_reuters-128_49	home	1001	new york city	0.5947717518532969
+http:__aksw.org_n3_reuters-128_40	capital	106	greater london	0.5934997644842205
+http:__aksw.org_n3_reuters-128_113	home	617	new york city	0.5925849047565824
+http:__aksw.org_n3_reuters-128_33	case	1128	classic case	0.5921052631578947
+http:__aksw.org_n3_reuters-128_30	street	224	gabby street	0.5912408759124088
+http:__aksw.org_n3_reuters-128_69	boards	1459	billboard hot 100	0.5909943714821764
+http:__aksw.org_n3_reuters-128_19	dlrs	22	david lee roth	0.5909090909090909
+http:__aksw.org_n3_reuters-128_66	switzerland	801	switzerland	0.5904059040590406
+http:__aksw.org_n3_reuters-128_49	eastern	2597	middle east	0.5903829029385574
+http:__aksw.org_n3_reuters-128_49	flurry	2875	philadelphia church of god	0.5901639344262295
+http:__aksw.org_n3_reuters-128_40	stowe	150	leland stowe	0.5901639344262295
+http:__aksw.org_n3_reuters-128_49	texas gulf coast	4498	gulf coast of the united states	0.5898550724637681
+http:__aksw.org_n3_reuters-128_11	ecus	166	european currency unit	0.588957055214724
+http:__aksw.org_n3_reuters-128_36	goria	905	giovanni goria	0.5887850467289719
+http:__aksw.org_n3_reuters-128_36	goria	1000	giovanni goria	0.5887850467289719
+http:__aksw.org_n3_reuters-128_71	moisture	356	pet your friends	0.5882352941176471
+http:__aksw.org_n3_reuters-128_71	moisture	257	pet your friends	0.5882352941176471
+http:__aksw.org_n3_reuters-128_58	appointment	425	president of the european council	0.5882352941176471
+http:__aksw.org_n3_reuters-128_50	future	202	flashforward	0.5882352941176471
+http:__aksw.org_n3_reuters-128_30	william west	1121	william west (botanist)	0.5882352941176471
+http:__aksw.org_n3_reuters-128_67	dlrs	1429	german aerospace center	0.5877862595419847
+http:__aksw.org_n3_reuters-128_60	lynch	158	merrill lynch	0.5877862595419847
+http:__aksw.org_n3_reuters-128_103	budget committee	11	united states senate committee on the budget	0.5877862595419847
+http:__aksw.org_n3_reuters-128_111	inc	3048	baxter international	0.5869565217391305
+http:__aksw.org_n3_reuters-128_33	sources	2837	the source (musician)	0.5864661654135338
+http:__aksw.org_n3_reuters-128_33	sources	2019	the source (musician)	0.5864661654135338
+http:__aksw.org_n3_reuters-128_81	general	42	general motors	0.5863192182410424
+http:__aksw.org_n3_reuters-128_10	york	83	toronto	0.5859872611464968
+http:__aksw.org_n3_reuters-128_84	todays	354	today is the day	0.5844155844155844
+http:__aksw.org_n3_reuters-128_42	bank of canada	12	bank of canada	0.5844155844155844
+http:__aksw.org_n3_reuters-128_21	federal	191	united states	0.5841699743170675
+http:__aksw.org_n3_reuters-128_21	federal	135	united states	0.5841699743170675
+http:__aksw.org_n3_reuters-128_94	onno	496	onno ruding	0.5833333333333334
+http:__aksw.org_n3_reuters-128_3	north country	452	northern england	0.5833333333333334
+http:__aksw.org_n3_reuters-128_21	federal	0	united states	0.5830215154349859
+http:__aksw.org_n3_reuters-128_105	today	1769	today (bbc radio 4)	0.5813953488372093
+http:__aksw.org_n3_reuters-128_49	dow	749	dow chemical company	0.5807129718840326
+http:__aksw.org_n3_reuters-128_49	dow	1748	dow chemical company	0.5807129718840326
+http:__aksw.org_n3_reuters-128_49	dow	1501	dow chemical company	0.5807129718840326
+http:__aksw.org_n3_reuters-128_49	dow	766	dow chemical company	0.5807129718840326
+http:__aksw.org_n3_reuters-128_30	search	664	eternal search	0.5804651162790697
+http:__aksw.org_n3_reuters-128_59	r.	311	r. kelly	0.5797101449275363
+http:__aksw.org_n3_reuters-128_30	way	1272	gerard way	0.5796370967741935
+http:__aksw.org_n3_reuters-128_16	london	278	greater london	0.5780645161290323
+http:__aksw.org_n3_reuters-128_15	london	278	greater london	0.5780645161290323
+http:__aksw.org_n3_reuters-128_49	fortunes	2107	fortune (magazine)	0.5778688524590164
+http:__aksw.org_n3_reuters-128_30	steven	1856	steven rosenberg	0.5776072549703523
+http:__aksw.org_n3_reuters-128_26	april 1	377	april 1	0.5769230769230769
+http:__aksw.org_n3_reuters-128_121	federal	4	united states	0.5755074083420455
+http:__aksw.org_n3_reuters-128_121	federal	327	united states	0.5755074083420455
+http:__aksw.org_n3_reuters-128_99	tonnes	51	wolfgang tonne	0.5737704918032787
+http:__aksw.org_n3_reuters-128_99	tonnes	475	wolfgang tonne	0.5737704918032787
+http:__aksw.org_n3_reuters-128_99	tonnes	321	wolfgang tonne	0.5737704918032787
+http:__aksw.org_n3_reuters-128_66	germany	874	germany	0.57337978707161
+http:__aksw.org_n3_reuters-128_123	budget committee	16	united states senate committee on the budget	0.5724907063197026
+http:__aksw.org_n3_reuters-128_81	general	0	general motors	0.5723370429252782
+http:__aksw.org_n3_reuters-128_33	buenos aires	1238	buenos aires province	0.5718862635162195
+http:__aksw.org_n3_reuters-128_91	milan	514	milan	0.571608040201005
+http:__aksw.org_n3_reuters-128_56	prism	287	prism (surveillance program)	0.5714285714285714
+http:__aksw.org_n3_reuters-128_42	series two	380	big brother 2 (uk)	0.5714285714285714
+http:__aksw.org_n3_reuters-128_41	dlrs	135	arise the republic	0.5714285714285714
+http:__aksw.org_n3_reuters-128_38	period	105	soviet union	0.5714285714285714
+http:__aksw.org_n3_reuters-128_31	robert w.	736	robert w. "bo" williams	0.5714285714285714
+http:__aksw.org_n3_reuters-128_22	paramus	267	paramus, new jersey	0.5714285714285714
+http:__aksw.org_n3_reuters-128_13	dlrs	101	german aerospace center	0.5714285714285714
+http:__aksw.org_n3_reuters-128_112	hutton	32	edward francis hutton	0.5714285714285714
+http:__aksw.org_n3_reuters-128_49	dlrs	1662	german aerospace center	0.5712285614280714
+http:__aksw.org_n3_reuters-128_79	parana	619	paraná (state)	0.5700534759358289
+http:__aksw.org_n3_reuters-128_30	chase	2432	bruce chase	0.5699831365935919
+http:__aksw.org_n3_reuters-128_77	j.p. morgan	0	j. p. morgan	0.5698924731182796
+http:__aksw.org_n3_reuters-128_44	mercury	607	mercury (automobile)	0.56951871657754
+http:__aksw.org_n3_reuters-128_29	harbor	140	new york harbor	0.5675675675675675
+http:__aksw.org_n3_reuters-128_105	poors	1064	henry william poor	0.5675675675675675
+http:__aksw.org_n3_reuters-128_93	budget committee	408	united states house committee on the budget	0.5670650730411687
+http:__aksw.org_n3_reuters-128_93	budget committees	129	united states house committee on the budget	0.5670650730411687
+http:__aksw.org_n3_reuters-128_93	u.s.	748	united states	0.5668057566209657
+http:__aksw.org_n3_reuters-128_22	myrtle beach	647	myrtle beach air force base	0.5660377358490566
+http:__aksw.org_n3_reuters-128_18	drexel	360	drexel burnham lambert	0.5660377358490566
+http:__aksw.org_n3_reuters-128_118	international standard	214	itu-t	0.5655708731000354
+http:__aksw.org_n3_reuters-128_49	duponts	4374	dupont	0.5647228741650118
+http:__aksw.org_n3_reuters-128_49	dupont	3581	dupont	0.5647228741650118
+http:__aksw.org_n3_reuters-128_44	date	134	september 11 attacks	0.5647058823529412
+http:__aksw.org_n3_reuters-128_79	brazils	22	brazil	0.5642131979695432
+http:__aksw.org_n3_reuters-128_79	brazil	443	brazil	0.5642131979695432
+http:__aksw.org_n3_reuters-128_44	momentum	284	secret (ayumi hamasaki album)	0.5625
+http:__aksw.org_n3_reuters-128_111	eileen	1449	eileen hiscock	0.5625
+http:__aksw.org_n3_reuters-128_31	state	657	united states	0.5619527829893683
+http:__aksw.org_n3_reuters-128_45	far east	391	cathay	0.5617719114044297
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	740	hoechst ag	0.561447286338116
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	453	hoechst ag	0.561447286338116
+http:__aksw.org_n3_reuters-128_115	hoechst celanese	0	hoechst ag	0.561447286338116
+http:__aksw.org_n3_reuters-128_33	la	833	figure 8 (album)	0.5609756097560976
+http:__aksw.org_n3_reuters-128_33	la	2323	figure 8 (album)	0.5609756097560976
+http:__aksw.org_n3_reuters-128_33	la	1749	figure 8 (album)	0.5609756097560976
+http:__aksw.org_n3_reuters-128_33	la	1225	figure 8 (album)	0.5609756097560976
+http:__aksw.org_n3_reuters-128_10	york	298	toronto	0.5588962108731467
+http:__aksw.org_n3_reuters-128_36	baker	973	george baker (politician)	0.5576407506702413
+http:__aksw.org_n3_reuters-128_59	president	66	united states	0.5575459023734886
+http:__aksw.org_n3_reuters-128_59	president	139	united states	0.5575459023734886
+http:__aksw.org_n3_reuters-128_45	sub-saharan	305	sahara	0.5573770491803278
+http:__aksw.org_n3_reuters-128_49	analyst	4807	cost analyst	0.5567765567765568
+http:__aksw.org_n3_reuters-128_49	analysts	917	cost analyst	0.5567765567765568
+http:__aksw.org_n3_reuters-128_54	american	0	united states	0.5560095335376234
+http:__aksw.org_n3_reuters-128_95	drexel	258	drexel burnham lambert	0.5555555555555556
+http:__aksw.org_n3_reuters-128_36	leigh	549	edward leigh	0.5540704738760632
+http:__aksw.org_n3_reuters-128_85	shearson	178	shearson	0.5539568345323741
+http:__aksw.org_n3_reuters-128_111	last year	1606	miss earth 2001	0.5532786885245902
+http:__aksw.org_n3_reuters-128_117	transmission	637	allison transmission	0.5526802218114603
+http:__aksw.org_n3_reuters-128_30	durant	2408	don durant	0.5524861878453039
+http:__aksw.org_n3_reuters-128_66	government	382	united states	0.5524534146046901
+http:__aksw.org_n3_reuters-128_66	government	140	united states	0.5524534146046901
+http:__aksw.org_n3_reuters-128_66	government	895	united states	0.5524534146046901
+http:__aksw.org_n3_reuters-128_116	states	869	united states	0.552233198831223
+http:__aksw.org_n3_reuters-128_16	dominion bank	8	toronto-dominion bank	0.5517241379310345
+http:__aksw.org_n3_reuters-128_15	dominion bank	8	toronto-dominion bank	0.5517241379310345
+http:__aksw.org_n3_reuters-128_36	communique	806	communiqué (band)	0.5515151515151515
+http:__aksw.org_n3_reuters-128_42	dlrs	715	docklands light railway	0.5513126491646778
+http:__aksw.org_n3_reuters-128_42	dlrs	693	docklands light railway	0.5513126491646778
+http:__aksw.org_n3_reuters-128_42	dlrs	493	docklands light railway	0.5513126491646778
+http:__aksw.org_n3_reuters-128_42	dlr	180	docklands light railway	0.5513126491646778
+http:__aksw.org_n3_reuters-128_11	france	211	france	0.5508262393590385
+http:__aksw.org_n3_reuters-128_30	rosenberg	2484	steven rosenberg	0.5507149983372132
+http:__aksw.org_n3_reuters-128_30	rosenberg	1863	steven rosenberg	0.5507149983372132
+http:__aksw.org_n3_reuters-128_49	cain	4713	john mccain	0.5490196078431373
+http:__aksw.org_n3_reuters-128_49	cain	4327	john mccain	0.5490196078431373
+http:__aksw.org_n3_reuters-128_49	cain	4150	john mccain	0.5490196078431373
+http:__aksw.org_n3_reuters-128_49	cain	406	john mccain	0.5490196078431373
+http:__aksw.org_n3_reuters-128_4	james	63	james mcnerney	0.5486284289276808
+http:__aksw.org_n3_reuters-128_10	york	381	toronto	0.5480613893376414
+http:__aksw.org_n3_reuters-128_30	cancer center	2438	nci-designated cancer center	0.5471698113207547
+http:__aksw.org_n3_reuters-128_36	edouard	301	édouard thouvenel	0.5462184873949579
+http:__aksw.org_n3_reuters-128_78	registration	70	securities act of 1933	0.5454545454545454
+http:__aksw.org_n3_reuters-128_7	dlrs	306	dún laoghaire–rathdown	0.5454545454545454
+http:__aksw.org_n3_reuters-128_7	dlrs	147	dún laoghaire–rathdown	0.5454545454545454
+http:__aksw.org_n3_reuters-128_32	paine	166	terry paine	0.5454545454545454
+http:__aksw.org_n3_reuters-128_112	kidder	350	kidder, peabody & co.	0.5454545454545454
+http:__aksw.org_n3_reuters-128_112	kidder	0	kidder, peabody & co.	0.5454545454545454
+http:__aksw.org_n3_reuters-128_113	states	2229	united states	0.5451554171145283
+http:__aksw.org_n3_reuters-128_30	west	2498	north america	0.5449202350965575
+http:__aksw.org_n3_reuters-128_87	unions	332	united states	0.5440031152647975
+http:__aksw.org_n3_reuters-128_12	bell	105	wayne bell (computer specialist)	0.5434782608695652
+http:__aksw.org_n3_reuters-128_118	today	560	empire today	0.5432098765432098
+http:__aksw.org_n3_reuters-128_118	today	468	empire today	0.5432098765432098
+http:__aksw.org_n3_reuters-128_116	u.s.	841	united states	0.542006779661017
+http:__aksw.org_n3_reuters-128_116	u.s.	65	united states	0.542006779661017
+http:__aksw.org_n3_reuters-128_36	italy	1088	europe	0.5404904401249934
+http:__aksw.org_n3_reuters-128_113	united states	2222	united states	0.5403699220326187
+http:__aksw.org_n3_reuters-128_124	federal	267	united states	0.5399821493504346
+http:__aksw.org_n3_reuters-128_33	lands	1002	earth	0.5399091974223784
+http:__aksw.org_n3_reuters-128_66	britain	0	united kingdom	0.5394387342649266
+http:__aksw.org_n3_reuters-128_30	milestone	647	milestones (magazine)	0.5393634840871022
+http:__aksw.org_n3_reuters-128_124	dlrs	518	german aerospace center	0.5393258426966292
+http:__aksw.org_n3_reuters-128_66	government	1184	united states	0.5374123769124842
+http:__aksw.org_n3_reuters-128_82	reuters	168	reuters	0.5371372356123955
+http:__aksw.org_n3_reuters-128_82	reuters	1112	reuters	0.5371372356123955
+http:__aksw.org_n3_reuters-128_50	federal	136	united states	0.536741214057508
+http:__aksw.org_n3_reuters-128_50	federal	0	united states	0.536741214057508
+http:__aksw.org_n3_reuters-128_66	u.s.	981	united states	0.536380731954289
+http:__aksw.org_n3_reuters-128_66	u.s.	818	united states	0.536380731954289
+http:__aksw.org_n3_reuters-128_66	u.s.	124	united states	0.536380731954289
+http:__aksw.org_n3_reuters-128_11	u.k.	249	united states	0.5362978837396196
+http:__aksw.org_n3_reuters-128_49	ones	911	gulf war	0.5360872592248782
+http:__aksw.org_n3_reuters-128_111	result	3191	2007 pan american judo championships	0.5357142857142857
+http:__aksw.org_n3_reuters-128_119	london	74	greater london	0.5353913314624259
+http:__aksw.org_n3_reuters-128_42	lloyds bank	236	lloyds bank	0.5343595382078065
+http:__aksw.org_n3_reuters-128_42	lloyds bank	219	lloyds bank	0.5343595382078065
+http:__aksw.org_n3_reuters-128_9	sir	911	order of the british empire	0.5333333333333333
+http:__aksw.org_n3_reuters-128_9	christopher clark	147	christopher f. clark	0.5333333333333333
+http:__aksw.org_n3_reuters-128_53	freeport	259	freeport-mcmoran	0.5333333333333333
+http:__aksw.org_n3_reuters-128_33	corrientes	743	corrientes province	0.5323349217154527
+http:__aksw.org_n3_reuters-128_66	u.s.	1024	united states	0.5321922776857694
+http:__aksw.org_n3_reuters-128_68	dlrs	66	david lee roth	0.5321637426900585
+http:__aksw.org_n3_reuters-128_74	moodys	434	john moody (financial analyst)	0.5319148936170213
+http:__aksw.org_n3_reuters-128_49	garo	4792	garo yepremian	0.5315967197298601
+http:__aksw.org_n3_reuters-128_44	sales	278	billboard hot 100	0.5313653136531366
+http:__aksw.org_n3_reuters-128_105	leo	1380	leo melamed	0.5308988764044944
+http:__aksw.org_n3_reuters-128_117	approval	712	munich agreement	0.5306122448979592
+http:__aksw.org_n3_reuters-128_31	georgia	26	georgia (u.s. state)	0.5303781896106988
+http:__aksw.org_n3_reuters-128_49	world	834	earth	0.5302340290955092
+http:__aksw.org_n3_reuters-128_87	republic airlines	74	republic airlines (1979–1986)	0.5294117647058824
+http:__aksw.org_n3_reuters-128_78	avnets	275	avnet	0.5294117647058824
+http:__aksw.org_n3_reuters-128_78	avnet	312	avnet	0.5294117647058824
+http:__aksw.org_n3_reuters-128_78	avnet	0	avnet	0.5294117647058824
+http:__aksw.org_n3_reuters-128_42	approval	592	munich agreement	0.5294117647058824
+http:__aksw.org_n3_reuters-128_93	today	205	today (uk newspaper)	0.5283018867924528
+http:__aksw.org_n3_reuters-128_33	province	662	provinces of argentina	0.5275263029116711
+http:__aksw.org_n3_reuters-128_33	buenos aires	649	buenos aires province	0.5261180007515971
+http:__aksw.org_n3_reuters-128_33	buenos aires	2336	buenos aires province	0.5261180007515971
+http:__aksw.org_n3_reuters-128_33	buenos aires	1771	buenos aires province	0.5261180007515971
+http:__aksw.org_n3_reuters-128_45	edouard	285	edouard saouma	0.5252100840336135
+http:__aksw.org_n3_reuters-128_99	tunisia	345	tunisia	0.5238828967642527
+http:__aksw.org_n3_reuters-128_99	tunisia	266	tunisia	0.5238828967642527
+http:__aksw.org_n3_reuters-128_99	tunisia	0	tunisia	0.5238828967642527
+http:__aksw.org_n3_reuters-128_36	baker	940	james baker	0.5229357798165137
+http:__aksw.org_n3_reuters-128_124	noranda	99	noranda (mining company)	0.5226130653266332
+http:__aksw.org_n3_reuters-128_124	noranda	763	noranda (mining company)	0.5226130653266332
+http:__aksw.org_n3_reuters-128_124	noranda	617	noranda (mining company)	0.5226130653266332
+http:__aksw.org_n3_reuters-128_124	noranda	459	noranda (mining company)	0.5226130653266332
+http:__aksw.org_n3_reuters-128_124	noranda	1459	noranda (mining company)	0.5226130653266332
+http:__aksw.org_n3_reuters-128_57	detroit	84	motown	0.5224489795918368
+http:__aksw.org_n3_reuters-128_110	new jersey	4	new jersey	0.5219683655536028
+http:__aksw.org_n3_reuters-128_17	western states	183	western united states	0.5217391304347826
+http:__aksw.org_n3_reuters-128_23	distribution	5	fontana distribution	0.5208333333333334
+http:__aksw.org_n3_reuters-128_33	chaco	764	gran chaco	0.519376747902517
+http:__aksw.org_n3_reuters-128_33	chaco	2294	gran chaco	0.519376747902517
+http:__aksw.org_n3_reuters-128_66	u.k.	1179	united states	0.5190196561998014
+http:__aksw.org_n3_reuters-128_66	u.k	735	united states	0.5190196561998014
+http:__aksw.org_n3_reuters-128_44	sales	189	billboard hot 100	0.518918918918919
+http:__aksw.org_n3_reuters-128_55	inspectors	371	inspector gadget	0.5185185185185185
+http:__aksw.org_n3_reuters-128_50	osaka	69	osaka	0.5185185185185185
+http:__aksw.org_n3_reuters-128_21	osaka, japan	93	osaka	0.5180670439703962
+http:__aksw.org_n3_reuters-128_66	u.k.	795	united states	0.5156051864589073
+http:__aksw.org_n3_reuters-128_66	u.k.	1000	united states	0.5156051864589073
+http:__aksw.org_n3_reuters-128_45	africa	317	africa	0.5153655277724757
+http:__aksw.org_n3_reuters-128_67	dlrs	1392	german aerospace center	0.5133333333333333
+http:__aksw.org_n3_reuters-128_106	polands	912	poland	0.5129685215115831
+http:__aksw.org_n3_reuters-128_106	polands	20	poland	0.5129685215115831
+http:__aksw.org_n3_reuters-128_106	poland	488	poland	0.5129685215115831
+http:__aksw.org_n3_reuters-128_106	poland	227	poland	0.5129685215115831
+http:__aksw.org_n3_reuters-128_60	eastman kodaks	325	george eastman	0.5128205128205128
+http:__aksw.org_n3_reuters-128_60	eastman kodak	0	george eastman	0.5128205128205128
+http:__aksw.org_n3_reuters-128_60	eastman	325	george eastman	0.5128205128205128
+http:__aksw.org_n3_reuters-128_60	eastman	0	george eastman	0.5128205128205128
+http:__aksw.org_n3_reuters-128_49	dlrs	4435	german aerospace center	0.5124018838304553
+http:__aksw.org_n3_reuters-128_49	dlrs	4259	german aerospace center	0.5124018838304553
+http:__aksw.org_n3_reuters-128_49	dlrs	3038	german aerospace center	0.5124018838304553
+http:__aksw.org_n3_reuters-128_49	dlrs	2060	german aerospace center	0.5124018838304553
+http:__aksw.org_n3_reuters-128_49	dlrs	1774	german aerospace center	0.5124018838304553
+http:__aksw.org_n3_reuters-128_101	northern	0	north america	0.5121951219512195
+http:__aksw.org_n3_reuters-128_49	grace	3153	michael p. grace	0.5117622781675609
+http:__aksw.org_n3_reuters-128_9	tombs	923	egyptian pyramids	0.5102040816326531
+http:__aksw.org_n3_reuters-128_56	variety	626	variety, the children's charity	0.5102040816326531
+http:__aksw.org_n3_reuters-128_118	protocol	1768	internet protocol	0.5096165332696213
+http:__aksw.org_n3_reuters-128_36	decisions	1136	royal commission on the defence of the united kingdom	0.509090909090909
+http:__aksw.org_n3_reuters-128_86	john	35	john f. kennedy	0.5090168702734148
+http:__aksw.org_n3_reuters-128_7	toronto	98	toronto	0.5057167985927881
+http:__aksw.org_n3_reuters-128_7	toronto	229	toronto	0.5057167985927881
+http:__aksw.org_n3_reuters-128_30	west	1129	north america	0.5053205294575656
+http:__aksw.org_n3_reuters-128_86	foster	412	preston foster	0.5051546391752577
+http:__aksw.org_n3_reuters-128_67	burlington	80	burlington, vermont	0.5043227665706052
+http:__aksw.org_n3_reuters-128_66	hong kong	843	cathay	0.5035128205128205
+http:__aksw.org_n3_reuters-128_27	atlantic city	307	atlantic city, new jersey	0.5014925373134328
+http:__aksw.org_n3_reuters-128_27	atlantic city	234	atlantic city, new jersey	0.5014925373134328
+http:__aksw.org_n3_reuters-128_72	pan	0	panama	0.5013927576601671
+http:__aksw.org_n3_reuters-128_97	sources	131	source uk services	0.5
+http:__aksw.org_n3_reuters-128_95	cna	244	netware	0.5
+http:__aksw.org_n3_reuters-128_95	cna	0	netware	0.5
+http:__aksw.org_n3_reuters-128_93	prospects	992	prospects (tv series)	0.5
+http:__aksw.org_n3_reuters-128_93	last five years	859	the last five years	0.5
+http:__aksw.org_n3_reuters-128_93	dlrs	655	david lee roth	0.5
+http:__aksw.org_n3_reuters-128_91	picco	1060	costanzo picco	0.5
+http:__aksw.org_n3_reuters-128_90	april	167	april hunter	0.5
+http:__aksw.org_n3_reuters-128_90	april	132	april hunter	0.5
+http:__aksw.org_n3_reuters-128_86	major cases	775	major case squad	0.5
+http:__aksw.org_n3_reuters-128_86	dlrs	863	david lee roth	0.5
+http:__aksw.org_n3_reuters-128_85	avx	0	advanced vector extensions	0.5
+http:__aksw.org_n3_reuters-128_78	dlr	112	german aerospace center	0.5
+http:__aksw.org_n3_reuters-128_75	pct	161	presbyterian church in taiwan	0.5
+http:__aksw.org_n3_reuters-128_62	van	136	van brederode	0.5
+http:__aksw.org_n3_reuters-128_61	agreement	712	dayton agreement	0.5
+http:__aksw.org_n3_reuters-128_61	pzl	475	pzl	0.5
+http:__aksw.org_n3_reuters-128_50	ozaki	45	nana ozaki	0.5
+http:__aksw.org_n3_reuters-128_5	lasar	223	lasar segall	0.5
+http:__aksw.org_n3_reuters-128_5	lasar	124	lasar segall	0.5
+http:__aksw.org_n3_reuters-128_49	same time	2329	same time, next year (film)	0.5
+http:__aksw.org_n3_reuters-128_46	avx	200	advanced vector extensions	0.5
+http:__aksw.org_n3_reuters-128_46	avx	0	advanced vector extensions	0.5
+http:__aksw.org_n3_reuters-128_43	revs	74	redlands east valley high school	0.5
+http:__aksw.org_n3_reuters-128_43	revs	164	redlands east valley high school	0.5
+http:__aksw.org_n3_reuters-128_35	avco	461	avco	0.5
+http:__aksw.org_n3_reuters-128_35	avco	179	avco	0.5
+http:__aksw.org_n3_reuters-128_35	avco	168	avco	0.5
+http:__aksw.org_n3_reuters-128_35	avco	129	avco	0.5
+http:__aksw.org_n3_reuters-128_33	yesterday	115	yesterday (beatles song)	0.5
+http:__aksw.org_n3_reuters-128_32	yesterdays	285	grey's anatomy (season 2)	0.5
+http:__aksw.org_n3_reuters-128_26	first boston	112	credit suisse first boston	0.5
+http:__aksw.org_n3_reuters-128_25	brown	162	david brown (golfer)	0.5
+http:__aksw.org_n3_reuters-128_126	eastman kodak	0	eastman kodak	0.5
+http:__aksw.org_n3_reuters-128_124	raymond	22	raymond bailey	0.5
+http:__aksw.org_n3_reuters-128_122	quist	138	adrian quist	0.5
+http:__aksw.org_n3_reuters-128_100	inc	464	baxter international	0.5
+http:__aksw.org_n3_reuters-128_57	u.s. district court	61	united states district court	0.49949238578680205
+http:__aksw.org_n3_reuters-128_113	tokyo	1960	tokyo	0.4990775196222521
+http:__aksw.org_n3_reuters-128_67	thomas bell	737	thomas bell (politician)	0.49808429118773945
+http:__aksw.org_n3_reuters-128_7	toronto	343	toronto	0.4966887417218543
+http:__aksw.org_n3_reuters-128_116	united states	862	united states	0.49428320140721194
+http:__aksw.org_n3_reuters-128_58	south	177	irish republic	0.49278579356270813
+http:__aksw.org_n3_reuters-128_107	attacks	739	september 11 attacks	0.4920420264225528
+http:__aksw.org_n3_reuters-128_84	london	507	england	0.4918764968606382
+http:__aksw.org_n3_reuters-128_52	president of	57	president of bolivia	0.4918032786885246
+http:__aksw.org_n3_reuters-128_52	president of	156	president of bolivia	0.4918032786885246
+http:__aksw.org_n3_reuters-128_46	shearson	232	shearson	0.4918032786885246
+http:__aksw.org_n3_reuters-128_107	mousavi	776	mir-hossein mousavi	0.4918032786885246
+http:__aksw.org_n3_reuters-128_107	mousavi	420	mir-hossein mousavi	0.4918032786885246
+http:__aksw.org_n3_reuters-128_107	mousavi	114	mir-hossein mousavi	0.4918032786885246
+http:__aksw.org_n3_reuters-128_51	cms	187	conversational monitor system	0.49
+http:__aksw.org_n3_reuters-128_51	cms	0	conversational monitor system	0.49
+http:__aksw.org_n3_reuters-128_94	today	86	waking up (onerepublic album)	0.4897959183673469
+http:__aksw.org_n3_reuters-128_79	sul	644	algarve	0.48951048951048953
+http:__aksw.org_n3_reuters-128_4	president	78	united states	0.4882795223352499
+http:__aksw.org_n3_reuters-128_4	president	169	united states	0.4882795223352499
+http:__aksw.org_n3_reuters-128_111	wall	684	wall street	0.48812664907651715
+http:__aksw.org_n3_reuters-128_27	american	254	united states	0.48727970925049713
+http:__aksw.org_n3_reuters-128_7	bache	0	jules bache	0.48639455782312924
+http:__aksw.org_n3_reuters-128_118	rockwell	1378	haswell (microarchitecture)	0.48524150268336314
+http:__aksw.org_n3_reuters-128_84	problems	261	villa elaine	0.48514851485148514
+http:__aksw.org_n3_reuters-128_31	georgia	992	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	713	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	414	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	233	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	1612	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	1209	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_31	georgia	1166	georgia (u.s. state)	0.4848562440558929
+http:__aksw.org_n3_reuters-128_74	burns	514	otway burns	0.48484848484848486
+http:__aksw.org_n3_reuters-128_123	reuter	639	stefan reuter	0.48484848484848486
+http:__aksw.org_n3_reuters-128_103	today	318	today is the day	0.48484848484848486
+http:__aksw.org_n3_reuters-128_111	asher	323	asher edelman	0.484375
+http:__aksw.org_n3_reuters-128_91	italy	18	italy	0.48403876690576575
+http:__aksw.org_n3_reuters-128_49	chicago	3071	windy city (musical)	0.483996186325252
+http:__aksw.org_n3_reuters-128_65	merck	0	merck & co.	0.4838709677419355
+http:__aksw.org_n3_reuters-128_13	dlrs	382	german aerospace center	0.4838709677419355
+http:__aksw.org_n3_reuters-128_13	dlrs	323	german aerospace center	0.4838709677419355
+http:__aksw.org_n3_reuters-128_118	protocols	1924	internet protocol	0.4836186373427049
+http:__aksw.org_n3_reuters-128_58	south	384	irish republic	0.482923645855993
+http:__aksw.org_n3_reuters-128_66	australia	832	australia	0.4827075338806043
+http:__aksw.org_n3_reuters-128_30	franklin	1160	rosalind franklin	0.48224970083765456
+http:__aksw.org_n3_reuters-128_70	federal	4	united states	0.48190381755081807
+http:__aksw.org_n3_reuters-128_70	federal	157	united states	0.48190381755081807
+http:__aksw.org_n3_reuters-128_82	london	330	greater london	0.4794599018003273
+http:__aksw.org_n3_reuters-128_45	east	395	germany	0.4792106243018493
+http:__aksw.org_n3_reuters-128_111	west	3258	north america	0.4790224032586558
+http:__aksw.org_n3_reuters-128_33	damage	520	van damage	0.4789473684210526
+http:__aksw.org_n3_reuters-128_111	target	2912	target corporation	0.47770700636942676
+http:__aksw.org_n3_reuters-128_66	france	861	france	0.4775514839491217
+http:__aksw.org_n3_reuters-128_36	british	481	united states	0.47741596638655465
+http:__aksw.org_n3_reuters-128_55	national	546	united states	0.47710590702551553
+http:__aksw.org_n3_reuters-128_82	london	1351	greater london	0.4770784138099503
+http:__aksw.org_n3_reuters-128_117	union	687	united states	0.4770523737964045
+http:__aksw.org_n3_reuters-128_117	union	389	united states	0.4770523737964045
+http:__aksw.org_n3_reuters-128_117	union	359	united states	0.4770523737964045
+http:__aksw.org_n3_reuters-128_117	union	112	united states	0.4770523737964045
+http:__aksw.org_n3_reuters-128_117	union	1031	united states	0.4770523737964045
+http:__aksw.org_n3_reuters-128_69	delegate	993	virginia house of delegates	0.47643979057591623
+http:__aksw.org_n3_reuters-128_114	emerson	0	emerson radio	0.47619047619047616
+http:__aksw.org_n3_reuters-128_93	risk	878	charles risk	0.47547169811320755
+http:__aksw.org_n3_reuters-128_118	vice president	894	university of chicago	0.4752475247524752
+http:__aksw.org_n3_reuters-128_49	dd	3589	d (new york city subway service)	0.47368421052631576
+http:__aksw.org_n3_reuters-128_108	france	12	france	0.47178581388863067
+http:__aksw.org_n3_reuters-128_87	airline	31	united airlines	0.47109207708779444
+http:__aksw.org_n3_reuters-128_86	id	206	mush records	0.47058823529411764
+http:__aksw.org_n3_reuters-128_67	reuters	336	thomson reuters	0.47058823529411764
+http:__aksw.org_n3_reuters-128_61	today	80	today (u.s. tv program)	0.47058823529411764
+http:__aksw.org_n3_reuters-128_120	preston	1	cambridge, ontario	0.47058823529411764
+http:__aksw.org_n3_reuters-128_82	tokyo	320	tokyo	0.4681724845995893
+http:__aksw.org_n3_reuters-128_31	news	761	news corporation	0.46674182638105977
+http:__aksw.org_n3_reuters-128_24	economist	907	the economist	0.46601941747572817
+http:__aksw.org_n3_reuters-128_12	houston	86	houston texans	0.46551724137931033
+http:__aksw.org_n3_reuters-128_3	country	458	united states	0.46432445965117247
+http:__aksw.org_n3_reuters-128_81	motors	8	general motors	0.4642857142857143
+http:__aksw.org_n3_reuters-128_81	motors	50	general motors	0.4642857142857143
+http:__aksw.org_n3_reuters-128_60	capital	164	greater london	0.4634760705289673
+http:__aksw.org_n3_reuters-128_3	north	452	north america	0.46319272125723737
+http:__aksw.org_n3_reuters-128_101	systems	410	cisco systems	0.4623921085080148
+http:__aksw.org_n3_reuters-128_101	systems	338	cisco systems	0.4623921085080148
+http:__aksw.org_n3_reuters-128_8	date	244	september 11 attacks	0.46232701178882624
+http:__aksw.org_n3_reuters-128_86	u.s. ambassador	1111	ambassadors of the united states	0.4619289340101523
+http:__aksw.org_n3_reuters-128_36	p.m.	782	prime minister of canada	0.4617550445800094
+http:__aksw.org_n3_reuters-128_36	p.m.	729	prime minister of canada	0.4617550445800094
+http:__aksw.org_n3_reuters-128_86	definition	87	definition (tv series)	0.46153846153846156
+http:__aksw.org_n3_reuters-128_86	definition	270	definition (tv series)	0.46153846153846156
+http:__aksw.org_n3_reuters-128_79	sao paulo	608	são paulo (state)	0.46084434418304865
+http:__aksw.org_n3_reuters-128_8	countrys	701	united states	0.4605457106357889
+http:__aksw.org_n3_reuters-128_61	purchase	57	walking purchase	0.4602510460251046
+http:__aksw.org_n3_reuters-128_27	atlantic	234	atlantic ocean	0.4592094196804037
+http:__aksw.org_n3_reuters-128_49	old ones	907	old ones (palladium books)	0.45871559633027525
+http:__aksw.org_n3_reuters-128_49	warner	3052	warner bros.	0.45871559633027525
+http:__aksw.org_n3_reuters-128_107	city	1048	greater london	0.45825959447843456
+http:__aksw.org_n3_reuters-128_107	iraqis	640	iraq	0.4581812802051484
+http:__aksw.org_n3_reuters-128_42	capital	56	greater london	0.4574329224075417
+http:__aksw.org_n3_reuters-128_113	mitis	2177	mitis	0.45660377358490567
+http:__aksw.org_n3_reuters-128_65	merck	305	merck & co.	0.45652173913043476
+http:__aksw.org_n3_reuters-128_113	reagans	2103	ronald reagan	0.4554260994187744
+http:__aksw.org_n3_reuters-128_113	reagans	1664	ronald reagan	0.4554260994187744
+http:__aksw.org_n3_reuters-128_113	reagan	958	ronald reagan	0.4554260994187744
+http:__aksw.org_n3_reuters-128_113	reagan	1815	ronald reagan	0.4554260994187744
+http:__aksw.org_n3_reuters-128_113	reagan	1188	ronald reagan	0.4554260994187744
+http:__aksw.org_n3_reuters-128_7	prudential	38	prudential financial	0.45454545454545453
+http:__aksw.org_n3_reuters-128_27	new company	90	new river (england)	0.45454545454545453
+http:__aksw.org_n3_reuters-128_27	new company	345	new river (england)	0.45454545454545453
+http:__aksw.org_n3_reuters-128_107	british	461	united states	0.4537732596408011
+http:__aksw.org_n3_reuters-128_77	march	1920	march engineering	0.45368620037807184
+http:__aksw.org_n3_reuters-128_33	buenos	649	descemer bueno	0.45336225596529284
+http:__aksw.org_n3_reuters-128_33	buenos	1771	descemer bueno	0.45336225596529284
+http:__aksw.org_n3_reuters-128_27	midland	9	the midlands	0.45149253731343286
+http:__aksw.org_n3_reuters-128_69	london	581	greater london	0.4501408450704225
+http:__aksw.org_n3_reuters-128_18	helen of troy	322	helen of troy	0.44964028776978415
+http:__aksw.org_n3_reuters-128_18	helen of troy	0	helen of troy	0.44964028776978415
+http:__aksw.org_n3_reuters-128_106	state	542	united states	0.4494941117930005
+http:__aksw.org_n3_reuters-128_57	district court	66	united states district court	0.44911359159553516
+http:__aksw.org_n3_reuters-128_71	country	127	united states	0.4489090160559901
+http:__aksw.org_n3_reuters-128_49	leap	2075	law enforcement against prohibition	0.44782168186423504
+http:__aksw.org_n3_reuters-128_87	airlines	83	united airlines	0.44776119402985076
+http:__aksw.org_n3_reuters-128_87	airlines	413	united airlines	0.44776119402985076
+http:__aksw.org_n3_reuters-128_30	seattle	421	seattle	0.44587155963302755
+http:__aksw.org_n3_reuters-128_116	reagan	303	ronald reagan	0.4458152250105145
+http:__aksw.org_n3_reuters-128_116	reagan	145	ronald reagan	0.4458152250105145
+http:__aksw.org_n3_reuters-128_81	moodys	543	jim moody	0.44545454545454544
+http:__aksw.org_n3_reuters-128_36	james baker	934	james baker	0.44541484716157204
+http:__aksw.org_n3_reuters-128_127	columbus, ohio	208	columbus, ohio	0.4453125
+http:__aksw.org_n3_reuters-128_117	agreement	64	destroyers for bases agreement	0.4448078495502862
+http:__aksw.org_n3_reuters-128_117	agreement	217	destroyers for bases agreement	0.4448078495502862
+http:__aksw.org_n3_reuters-128_117	agreement	1087	destroyers for bases agreement	0.4448078495502862
+http:__aksw.org_n3_reuters-128_94	van	235	vancouver	0.4444444444444444
+http:__aksw.org_n3_reuters-128_94	van	667	vancouver	0.4444444444444444
+http:__aksw.org_n3_reuters-128_57	contrary	519	to the contrary	0.4444444444444444
+http:__aksw.org_n3_reuters-128_105	reconstruction	797	allan l. benson	0.4444444444444444
+http:__aksw.org_n3_reuters-128_79	grande	634	ariana grande	0.4430769230769231
+http:__aksw.org_n3_reuters-128_59	sales	204	billboard hot 100	0.4424778761061947
+http:__aksw.org_n3_reuters-128_49	experts	3280	expert (magazine)	0.4419062623079953
+http:__aksw.org_n3_reuters-128_80	march	744	gary march	0.44171779141104295
+http:__aksw.org_n3_reuters-128_80	march	694	gary march	0.44171779141104295
+http:__aksw.org_n3_reuters-128_82	countries	994	united states	0.44140745303356943
+http:__aksw.org_n3_reuters-128_30	end of the beginning	2297	end of the beginning (song)	0.4405594405594406
+http:__aksw.org_n3_reuters-128_18	troy	9	troy	0.44
+http:__aksw.org_n3_reuters-128_18	troy	331	troy	0.44
+http:__aksw.org_n3_reuters-128_33	santa fe	696	santa fe province	0.439686369119421
+http:__aksw.org_n3_reuters-128_33	santa fe	3219	santa fe province	0.439686369119421
+http:__aksw.org_n3_reuters-128_33	santa fe	2281	santa fe province	0.439686369119421
+http:__aksw.org_n3_reuters-128_33	santa fe	1722	santa fe province	0.439686369119421
+http:__aksw.org_n3_reuters-128_33	buenos	2336	descemer bueno	0.43907563025210083
+http:__aksw.org_n3_reuters-128_33	buenos	1238	descemer bueno	0.43907563025210083
+http:__aksw.org_n3_reuters-128_82	sir	205	order of the british empire	0.43875
+http:__aksw.org_n3_reuters-128_14	proposal	911	the proposal (film)	0.43859649122807015
+http:__aksw.org_n3_reuters-128_82	countries	849	united states	0.43851687880464857
+http:__aksw.org_n3_reuters-128_86	shad	40	project shad	0.4375
+http:__aksw.org_n3_reuters-128_33	damage	3163	van damage	0.4375
+http:__aksw.org_n3_reuters-128_22	national	496	united states	0.4365994922246906
+http:__aksw.org_n3_reuters-128_22	national	0	united states	0.4365994922246906
+http:__aksw.org_n3_reuters-128_7	bache	366	jules bache	0.43597560975609756
+http:__aksw.org_n3_reuters-128_79	space	1038	dspace	0.4358353510895884
+http:__aksw.org_n3_reuters-128_58	adelaide	472	adelaide	0.43478260869565216
+http:__aksw.org_n3_reuters-128_3	perfume	340	perfume (japanese band)	0.43333333333333335
+http:__aksw.org_n3_reuters-128_10	new york	79	new york city	0.4324395373291272
+http:__aksw.org_n3_reuters-128_10	new york	377	new york city	0.4324395373291272
+http:__aksw.org_n3_reuters-128_10	new york	294	new york city	0.4324395373291272
+http:__aksw.org_n3_reuters-128_27	marina	219	golden nugget atlantic city	0.43243243243243246
+http:__aksw.org_n3_reuters-128_16	branch	30	branch barrett rickey	0.43243243243243246
+http:__aksw.org_n3_reuters-128_15	branch	30	branch barrett rickey	0.43243243243243246
+http:__aksw.org_n3_reuters-128_36	karl	260	karl marx	0.4322766570605187
+http:__aksw.org_n3_reuters-128_49	favor	3467	the favor	0.43115438108484005
+http:__aksw.org_n3_reuters-128_80	activities	519	hms activity (d94)	0.43103448275862066
+http:__aksw.org_n3_reuters-128_101	northern	321	north america	0.4307692307692308
+http:__aksw.org_n3_reuters-128_7	bache	49	jules bache	0.4307228915662651
+http:__aksw.org_n3_reuters-128_115	north	132	north carolina	0.42997588573548506
+http:__aksw.org_n3_reuters-128_0	germany	64	germany	0.4298245614035088
+http:__aksw.org_n3_reuters-128_42	lloyds	236	lloyds bank	0.4297297297297297
+http:__aksw.org_n3_reuters-128_42	lloyds	219	lloyds bank	0.4297297297297297
+http:__aksw.org_n3_reuters-128_31	march	1188	sherman's march to the sea	0.4293732460243218
+http:__aksw.org_n3_reuters-128_61	boston	6	american revolutionary war	0.4291845493562232
+http:__aksw.org_n3_reuters-128_68	dlrs	426	david lee roth	0.42857142857142855
+http:__aksw.org_n3_reuters-128_68	dlrs	396	david lee roth	0.42857142857142855
+http:__aksw.org_n3_reuters-128_68	dlrs	333	david lee roth	0.42857142857142855
+http:__aksw.org_n3_reuters-128_104	yankee	0	26th infantry division (united states)	0.42857142857142855
+http:__aksw.org_n3_reuters-128_115	fayetteville	276	fayetteville, north carolina	0.42780107849011384
+http:__aksw.org_n3_reuters-128_72	pan	317	panama	0.42755344418052255
+http:__aksw.org_n3_reuters-128_72	pan	180	panama	0.42755344418052255
+http:__aksw.org_n3_reuters-128_72	pan	13	panama	0.42755344418052255
+http:__aksw.org_n3_reuters-128_80	fleets	629	royal navy	0.4265927977839335
+http:__aksw.org_n3_reuters-128_80	fleets	495	royal navy	0.4265927977839335
+http:__aksw.org_n3_reuters-128_80	fleet	472	royal navy	0.4265927977839335
+http:__aksw.org_n3_reuters-128_80	fleet	0	royal navy	0.4265927977839335
+http:__aksw.org_n3_reuters-128_127	southern	364	united states district court for the southern district of ohio	0.4257178526841448
+http:__aksw.org_n3_reuters-128_81	general motors	42	general motors	0.42559109874826145
+http:__aksw.org_n3_reuters-128_81	general motors	0	general motors	0.42559109874826145
+http:__aksw.org_n3_reuters-128_87	dlrs	134	dún laoghaire–rathdown	0.425531914893617
+http:__aksw.org_n3_reuters-128_94	dutch	473	germany	0.4251500302813412
+http:__aksw.org_n3_reuters-128_30	approaches	2548	italian campaign (world war ii)	0.4244031830238727
+http:__aksw.org_n3_reuters-128_105	paul	140	paul milgrom	0.42355889724310775
+http:__aksw.org_n3_reuters-128_111	johnson	2396	jeff johnson (canadian football)	0.4235294117647059
+http:__aksw.org_n3_reuters-128_111	johnson	2385	jeff johnson (canadian football)	0.4235294117647059
+http:__aksw.org_n3_reuters-128_58	affairs	24	black tie affair	0.4225352112676056
+http:__aksw.org_n3_reuters-128_123	chiles	501	lawton chiles	0.42235494880546076
+http:__aksw.org_n3_reuters-128_123	chiles	373	lawton chiles	0.42235494880546076
+http:__aksw.org_n3_reuters-128_123	chiles	152	lawton chiles	0.42235494880546076
+http:__aksw.org_n3_reuters-128_91	sifi	1161	mokdad sifi	0.4186046511627907
+http:__aksw.org_n3_reuters-128_118	sets	1634	config.sys	0.4186046511627907
+http:__aksw.org_n3_reuters-128_118	set	51	config.sys	0.4186046511627907
+http:__aksw.org_n3_reuters-128_87	dlrs	219	dún laoghaire–rathdown	0.4166666666666667
+http:__aksw.org_n3_reuters-128_8	aim	829	aim-65	0.4158415841584158
+http:__aksw.org_n3_reuters-128_31	total	346	cbs	0.4149700598802395
+http:__aksw.org_n3_reuters-128_31	country	954	united states	0.41496188705760967
+http:__aksw.org_n3_reuters-128_19	dlrs	9	david lee roth	0.41379310344827586
+http:__aksw.org_n3_reuters-128_19	dlrs	399	david lee roth	0.41379310344827586
+http:__aksw.org_n3_reuters-128_19	dlrs	320	david lee roth	0.41379310344827586
+http:__aksw.org_n3_reuters-128_19	dlrs	295	david lee roth	0.41379310344827586
+http:__aksw.org_n3_reuters-128_124	years ago	851	before present	0.41379310344827586
+http:__aksw.org_n3_reuters-128_124	years ago	1297	before present	0.41379310344827586
+http:__aksw.org_n3_reuters-128_124	years ago	1212	before present	0.41379310344827586
+http:__aksw.org_n3_reuters-128_69	rules	798	british empire	0.41292859776330343
+http:__aksw.org_n3_reuters-128_69	rules	538	british empire	0.41292859776330343
+http:__aksw.org_n3_reuters-128_33	return	346	return (law & order)	0.4129032258064516
+http:__aksw.org_n3_reuters-128_66	london	990	greater london	0.4128763975858777
+http:__aksw.org_n3_reuters-128_66	london	548	greater london	0.4128763975858777
+http:__aksw.org_n3_reuters-128_9	samuel	187	samuel j. palmisano	0.41284403669724773
+http:__aksw.org_n3_reuters-128_52	nantucket	0	nantucket	0.41237113402061853
+http:__aksw.org_n3_reuters-128_118	john	877	john h. hall (inventor)	0.41212956581667815
+http:__aksw.org_n3_reuters-128_69	number two	1277	leoben conoy	0.4117647058823529
+http:__aksw.org_n3_reuters-128_105	surveillance program	603	terrorist surveillance program	0.4117647058823529
+http:__aksw.org_n3_reuters-128_105	surveillance program	1792	terrorist surveillance program	0.4117647058823529
+http:__aksw.org_n3_reuters-128_105	surveillance program	118	terrorist surveillance program	0.4117647058823529
+http:__aksw.org_n3_reuters-128_116	carter	575	john s. carter	0.4116988972350967
+http:__aksw.org_n3_reuters-128_116	carter	401	john s. carter	0.4116988972350967
+http:__aksw.org_n3_reuters-128_116	carter	362	john s. carter	0.4116988972350967
+http:__aksw.org_n3_reuters-128_56	mcis	282	mci inc.	0.41154562383612664
+http:__aksw.org_n3_reuters-128_56	mci	92	mci inc.	0.41154562383612664
+http:__aksw.org_n3_reuters-128_36	sources	851	virgin records	0.41120381406436235
+http:__aksw.org_n3_reuters-128_36	sources	637	virgin records	0.41120381406436235
+http:__aksw.org_n3_reuters-128_23	universal	125	universal music group	0.410958904109589
+http:__aksw.org_n3_reuters-128_25	drexel	125	drexel burnham lambert	0.41025641025641024
+http:__aksw.org_n3_reuters-128_66	department of trade	169	department of trade (1956–63)	0.4096728307254623
+http:__aksw.org_n3_reuters-128_49	heyman	4016	samuel j. heyman	0.40947075208913647
+http:__aksw.org_n3_reuters-128_49	heyman	1898	samuel j. heyman	0.40947075208913647
+http:__aksw.org_n3_reuters-128_120	claims	346	louisiana purchase	0.4090909090909091
+http:__aksw.org_n3_reuters-128_118	sets	1269	config.sys	0.4090909090909091
+http:__aksw.org_n3_reuters-128_11	traders	200	rogue traders	0.4090909090909091
+http:__aksw.org_n3_reuters-128_124	province	46	ontario	0.4084033613445378
+http:__aksw.org_n3_reuters-128_49	mistakes	4001	blue october (british band)	0.40811153358681873
+http:__aksw.org_n3_reuters-128_27	carnival	118	carnival corporation & plc	0.40772532188841204
+http:__aksw.org_n3_reuters-128_82	reuter	944	paul reuter	0.4074074074074074
+http:__aksw.org_n3_reuters-128_82	reuter	419	paul reuter	0.4074074074074074
+http:__aksw.org_n3_reuters-128_107	broadcasting corporation	469	sri lanka broadcasting corporation	0.4074074074074074
+http:__aksw.org_n3_reuters-128_115	darlington	247	darlington county, south carolina	0.40721102863202546
+http:__aksw.org_n3_reuters-128_74	capital	85	greater london	0.407108239095315
+http:__aksw.org_n3_reuters-128_124	taylor	1096	frederick winslow taylor	0.4064516129032258
+http:__aksw.org_n3_reuters-128_81	merrill	189	merrill lynch	0.4057971014492754
+http:__aksw.org_n3_reuters-128_118	dlrs	1250	dirty little rabbits	0.40540540540540543
+http:__aksw.org_n3_reuters-128_118	dlrs	1236	dirty little rabbits	0.40540540540540543
+http:__aksw.org_n3_reuters-128_61	william	26	bill clinton	0.40414507772020725
+http:__aksw.org_n3_reuters-128_116	countries	741	united states	0.4037811251152782
+http:__aksw.org_n3_reuters-128_117	colorado	991	colorado	0.4033751800782054
+http:__aksw.org_n3_reuters-128_117	colorado	822	colorado	0.4033751800782054
+http:__aksw.org_n3_reuters-128_117	colorado	743	colorado	0.4033751800782054
+http:__aksw.org_n3_reuters-128_117	colorado	551	colorado	0.4033751800782054
+http:__aksw.org_n3_reuters-128_117	colorado	21	colorado	0.4033751800782054
+http:__aksw.org_n3_reuters-128_118	advanced	913	advanced chemistry	0.40229885057471265
+http:__aksw.org_n3_reuters-128_118	advanced	280	advanced chemistry	0.40229885057471265
+http:__aksw.org_n3_reuters-128_118	advanced	1614	advanced chemistry	0.40229885057471265
+http:__aksw.org_n3_reuters-128_118	advanced	0	advanced chemistry	0.40229885057471265
+http:__aksw.org_n3_reuters-128_30	wall street	219	wall street	0.4021164021164021
+http:__aksw.org_n3_reuters-128_52	james	30	john s. carter	0.40148698884758366
+http:__aksw.org_n3_reuters-128_67	bell	744	bell aliant	0.40066592674805773
+http:__aksw.org_n3_reuters-128_59	john r.	306	randy kuhl	0.4
+http:__aksw.org_n3_reuters-128_53	holders	393	nick holder	0.4
+http:__aksw.org_n3_reuters-128_42	end	113	geneva conference (1954)	0.4
+http:__aksw.org_n3_reuters-128_4	bertil	152	bertil hult	0.4
+http:__aksw.org_n3_reuters-128_32	close	308	brian close	0.4
+http:__aksw.org_n3_reuters-128_3	amadeus	383	wolfgang amadeus mozart	0.4
+http:__aksw.org_n3_reuters-128_2	erskine	67	albert russel erskine	0.4
+http:__aksw.org_n3_reuters-128_2	erskine	256	albert russel erskine	0.4
+http:__aksw.org_n3_reuters-128_120	results	516	red bull drifting world championship	0.4
+http:__aksw.org_n3_reuters-128_120	results	441	red bull drifting world championship	0.4
+http:__aksw.org_n3_reuters-128_104	yale	77	yale (company)	0.4
+http:__aksw.org_n3_reuters-128_0	gmbh	45	auto union	0.4
+http:__aksw.org_n3_reuters-128_27	atlantic	307	atlantic ocean	0.3993660855784469
+http:__aksw.org_n3_reuters-128_49	specialty	4603	forte	0.3977401129943503
+http:__aksw.org_n3_reuters-128_49	specialty	3492	forte	0.3977401129943503
+http:__aksw.org_n3_reuters-128_49	specialty	4089	forte	0.3977401129943503
+http:__aksw.org_n3_reuters-128_84	delivery	869	delivery (band)	0.39705882352941174
+http:__aksw.org_n3_reuters-128_67	burlingtons	1119	burlington, vermont	0.39622641509433965
+http:__aksw.org_n3_reuters-128_67	burlington	1080	burlington, vermont	0.39622641509433965
+http:__aksw.org_n3_reuters-128_86	ambassador	1116	ambassadors of the united states	0.39565217391304347
+http:__aksw.org_n3_reuters-128_127	columbus	208	columbus, ohio	0.3956043956043956
+http:__aksw.org_n3_reuters-128_106	long term	819	long-term capital management	0.3953488372093023
+http:__aksw.org_n3_reuters-128_102	germanys	5	germany	0.3953281271407042
+http:__aksw.org_n3_reuters-128_102	germany	245	germany	0.3953281271407042
+http:__aksw.org_n3_reuters-128_124	operations	978	gulf war	0.3952569169960474
+http:__aksw.org_n3_reuters-128_124	operations	926	gulf war	0.3952569169960474
+http:__aksw.org_n3_reuters-128_30	emeryville	369	emeryville, california	0.3950617283950617
+http:__aksw.org_n3_reuters-128_10	profile	411	profile records	0.3950617283950617
+http:__aksw.org_n3_reuters-128_111	ashers	2672	asher edelman	0.39490445859872614
+http:__aksw.org_n3_reuters-128_114	dlrs	43	david lee roth	0.39473684210526316
+http:__aksw.org_n3_reuters-128_114	dlrs	172	david lee roth	0.39473684210526316
+http:__aksw.org_n3_reuters-128_58	member of the	513	member of the legislative assembly	0.39325842696629215
+http:__aksw.org_n3_reuters-128_109	canadas	342	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_109	canada	90	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_109	canada	246	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_109	canada	188	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_109	canada	123	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_109	canada	11	canada	0.3924796915668434
+http:__aksw.org_n3_reuters-128_30	makers	324	make (magazine)	0.3923705722070845
+http:__aksw.org_n3_reuters-128_116	holder	701	eric holder	0.3914510686164229
+http:__aksw.org_n3_reuters-128_66	london	604	greater london	0.39065532858859414
+http:__aksw.org_n3_reuters-128_60	markets	172	new york stock exchange	0.3898305084745763
+http:__aksw.org_n3_reuters-128_3	london	234	greater london	0.3894526225525225
+http:__aksw.org_n3_reuters-128_36	stoltenberg	223	robert stoltenberg	0.3894230769230769
+http:__aksw.org_n3_reuters-128_49	shift	4038	red shift (comics)	0.3890818858560794
+http:__aksw.org_n3_reuters-128_103	chiles	419	chile	0.3867713004484305
+http:__aksw.org_n3_reuters-128_103	chiles	291	chile	0.3867713004484305
+http:__aksw.org_n3_reuters-128_103	chiles	147	chile	0.3867713004484305
+http:__aksw.org_n3_reuters-128_118	micro	922	microchip (comics)	0.3865546218487395
+http:__aksw.org_n3_reuters-128_118	micro	9	microchip (comics)	0.3865546218487395
+http:__aksw.org_n3_reuters-128_118	micro	289	microchip (comics)	0.3865546218487395
+http:__aksw.org_n3_reuters-128_118	micro	1623	microchip (comics)	0.3865546218487395
+http:__aksw.org_n3_reuters-128_30	side	1238	bark at the moon	0.38636363636363635
+http:__aksw.org_n3_reuters-128_27	city	316	greater london	0.38555571167626806
+http:__aksw.org_n3_reuters-128_27	city	243	greater london	0.38555571167626806
+http:__aksw.org_n3_reuters-128_80	providence	244	providence (the x-files)	0.3855421686746988
+http:__aksw.org_n3_reuters-128_59	joseph	42	joseph cao	0.38461538461538464
+http:__aksw.org_n3_reuters-128_16	hambros	156	hambros bank	0.38461538461538464
+http:__aksw.org_n3_reuters-128_15	hambros	156	hambros bank	0.38461538461538464
+http:__aksw.org_n3_reuters-128_119	gec	34	general electric company plc	0.3842364532019704
+http:__aksw.org_n3_reuters-128_119	gec	240	general electric company plc	0.3842364532019704
+http:__aksw.org_n3_reuters-128_49	armen	4992	armen gilliam	0.38403990024937656
+http:__aksw.org_n3_reuters-128_49	armen	4797	armen gilliam	0.38403990024937656
+http:__aksw.org_n3_reuters-128_30	wall	219	the wall	0.38399024786672087
+http:__aksw.org_n3_reuters-128_118	set	1144	config.sys	0.3823008849557522
+http:__aksw.org_n3_reuters-128_108	april	121	serge april	0.38181818181818183
+http:__aksw.org_n3_reuters-128_33	formosa	780	formosa province	0.3812292358803987
+http:__aksw.org_n3_reuters-128_109	inc	195	baxter international	0.38095238095238093
+http:__aksw.org_n3_reuters-128_119	general electric	0	general electric	0.3806646525679758
+http:__aksw.org_n3_reuters-128_49	houston	1487	houston	0.3802892340653455
+http:__aksw.org_n3_reuters-128_94	dsm	35	dsm (company)	0.38
+http:__aksw.org_n3_reuters-128_57	agreement	534	munich agreement	0.379746835443038
+http:__aksw.org_n3_reuters-128_33	pct	1464	patent cooperation treaty	0.3797086891009543
+http:__aksw.org_n3_reuters-128_33	pct	1100	patent cooperation treaty	0.3797086891009543
+http:__aksw.org_n3_reuters-128_124	region	304	middle east	0.3796962430055955
+http:__aksw.org_n3_reuters-128_111	cannon	3228	edwin q. cannon	0.37915742793791574
+http:__aksw.org_n3_reuters-128_111	cannon	3171	edwin q. cannon	0.37915742793791574
+http:__aksw.org_n3_reuters-128_9	year	1405	fifth grade	0.37894736842105264
+http:__aksw.org_n3_reuters-128_86	next year	1011	1985 in canada	0.3787878787878788
+http:__aksw.org_n3_reuters-128_52	howard	211	howard baker	0.376984126984127
+http:__aksw.org_n3_reuters-128_109	cbs	514	cbs	0.37662337662337664
+http:__aksw.org_n3_reuters-128_109	cbs	506	cbs	0.37662337662337664
+http:__aksw.org_n3_reuters-128_106	stockholm	354	stockholm	0.3762240164920117
+http:__aksw.org_n3_reuters-128_69	harvest	1194	body harvest	0.37591776798825255
+http:__aksw.org_n3_reuters-128_9	rolls	953	charles rolls	0.37577639751552794
+http:__aksw.org_n3_reuters-128_9	rolls	46	charles rolls	0.37577639751552794
+http:__aksw.org_n3_reuters-128_9	rolls	1574	charles rolls	0.37577639751552794
+http:__aksw.org_n3_reuters-128_9	rolls	1177	charles rolls	0.37577639751552794
+http:__aksw.org_n3_reuters-128_9	rolls	1071	charles rolls	0.37577639751552794
+http:__aksw.org_n3_reuters-128_77	status	149	facebook	0.37575757575757573
+http:__aksw.org_n3_reuters-128_9	suggestions	936	trace	0.375
+http:__aksw.org_n3_reuters-128_86	r.	409	r. kelly	0.375
+http:__aksw.org_n3_reuters-128_123	stalemate	43	stalemate (song)	0.375
+http:__aksw.org_n3_reuters-128_111	rumors	620	rumors (timex social club song)	0.37457627118644066
+http:__aksw.org_n3_reuters-128_49	john	1261	john d. rockefeller	0.3737040906533794
+http:__aksw.org_n3_reuters-128_99	campaign	387	battle of france	0.3727810650887574
+http:__aksw.org_n3_reuters-128_127	district	373	washington, d.c.	0.3724696356275304
+http:__aksw.org_n3_reuters-128_127	district	342	washington, d.c.	0.3724696356275304
+http:__aksw.org_n3_reuters-128_42	class	372	german battleship bismarck	0.37220843672456577
+http:__aksw.org_n3_reuters-128_45	year before	87	1735 in literature	0.37209302325581395
+http:__aksw.org_n3_reuters-128_36	robin	543	robin harris (author)	0.371900826446281
+http:__aksw.org_n3_reuters-128_55	board	577	national transportation safety board	0.371579452712434
+http:__aksw.org_n3_reuters-128_106	efforts	1210	camp david accords	0.37144938091769847
+http:__aksw.org_n3_reuters-128_119	rumour	356	the rumour	0.37037037037037035
+http:__aksw.org_n3_reuters-128_84	border	832	border guard corps	0.3698630136986301
+http:__aksw.org_n3_reuters-128_111	professionals	696	national hockey league	0.3696633113502256
+http:__aksw.org_n3_reuters-128_113	semiconductor industry	1455	silicon saxony	0.36893203883495146
+http:__aksw.org_n3_reuters-128_89	madeira	213	portugal	0.36885245901639346
+http:__aksw.org_n3_reuters-128_89	madeira	0	portugal	0.36885245901639346
+http:__aksw.org_n3_reuters-128_55	survivors	237	survivor (destiny's child album)	0.3684210526315789
+http:__aksw.org_n3_reuters-128_111	thomson	1467	thomson reuters	0.3677536231884058
+http:__aksw.org_n3_reuters-128_72	pan am	317	pan am (tv series)	0.36674259681093396
+http:__aksw.org_n3_reuters-128_72	pan am	13	pan am (tv series)	0.36674259681093396
+http:__aksw.org_n3_reuters-128_72	pan am	0	pan am (tv series)	0.36674259681093396
+http:__aksw.org_n3_reuters-128_72	pan am	180	pan am (tv series)	0.36674259681093396
+http:__aksw.org_n3_reuters-128_68	net	49	netherlands	0.36666666666666664
+http:__aksw.org_n3_reuters-128_10	cor	133	cor boonstra	0.3663003663003663
+http:__aksw.org_n3_reuters-128_61	getty	729	getty oil	0.36548223350253806
+http:__aksw.org_n3_reuters-128_61	getty	655	getty oil	0.36548223350253806
+http:__aksw.org_n3_reuters-128_93	james	41	james miller (general)	0.36504424778761063
+http:__aksw.org_n3_reuters-128_66	arrangements	949	grammy award for best instrumental arrangement	0.3650107991360691
+http:__aksw.org_n3_reuters-128_36	jacques	341	jacques chirac	0.36486486486486486
+http:__aksw.org_n3_reuters-128_27	cruise lines	127	cruise line	0.36423841059602646
+http:__aksw.org_n3_reuters-128_66	september	1086	september 7	0.36417261719962746
+http:__aksw.org_n3_reuters-128_81	poors	583	enoch poor	0.36363636363636365
+http:__aksw.org_n3_reuters-128_105	commitment	1826	commitment (seal album)	0.36363636363636365
+http:__aksw.org_n3_reuters-128_124	operations	427	gulf war	0.3634669151910531
+http:__aksw.org_n3_reuters-128_111	analysts	2301	cost analyst	0.36254980079681276
+http:__aksw.org_n3_reuters-128_111	analysts	203	cost analyst	0.36254980079681276
+http:__aksw.org_n3_reuters-128_36	giovanni	896	giovanni malagodi	0.36227544910179643
+http:__aksw.org_n3_reuters-128_109	rinehart	69	mary roberts rinehart	0.3622291021671827
+http:__aksw.org_n3_reuters-128_109	rinehart	480	mary roberts rinehart	0.3622291021671827
+http:__aksw.org_n3_reuters-128_30	total	2144	cbs	0.3615023474178404
+http:__aksw.org_n3_reuters-128_86	successor	1188	xbox 360	0.3614457831325301
+http:__aksw.org_n3_reuters-128_109	brace	372	donald brace	0.36129032258064514
+http:__aksw.org_n3_reuters-128_109	brace	171	donald brace	0.36129032258064514
+http:__aksw.org_n3_reuters-128_86	street	385	amie street	0.3609022556390977
+http:__aksw.org_n3_reuters-128_86	appropriations	301	united states senate committee on appropriations	0.3609022556390977
+http:__aksw.org_n3_reuters-128_13	salomon	144	salomon brothers	0.3609022556390977
+http:__aksw.org_n3_reuters-128_67	query	361	archibald query	0.36036036036036034
+http:__aksw.org_n3_reuters-128_86	recommendation	622	world wide web consortium	0.36
+http:__aksw.org_n3_reuters-128_40	pct	243	p.c.t	0.36
+http:__aksw.org_n3_reuters-128_31	southerns	223	south africa	0.3589963805901478
+http:__aksw.org_n3_reuters-128_111	operations	1669	gulf war	0.358974358974359
+http:__aksw.org_n3_reuters-128_30	center	2445	anadolu medical center	0.35881006864988557
+http:__aksw.org_n3_reuters-128_117	brighton	148	brighton, colorado	0.3583617747440273
+http:__aksw.org_n3_reuters-128_96	trump	7	donald trump	0.35714285714285715
+http:__aksw.org_n3_reuters-128_96	trump	283	donald trump	0.35714285714285715
+http:__aksw.org_n3_reuters-128_67	asher	1236	michael asher (artist)	0.3567193675889328
+http:__aksw.org_n3_reuters-128_124	savoie	30	robert savoie	0.3564356435643564
+http:__aksw.org_n3_reuters-128_107	news	915	bbc news	0.3533501896333755
+http:__aksw.org_n3_reuters-128_117	territories	939	hong kong	0.3533019832345124
+http:__aksw.org_n3_reuters-128_31	southern	509	south africa	0.3530831422710269
+http:__aksw.org_n3_reuters-128_31	southern	193	south africa	0.3530831422710269
+http:__aksw.org_n3_reuters-128_64	equipment	159	vox (musical equipment)	0.35294117647058826
+http:__aksw.org_n3_reuters-128_64	equipment	136	vox (musical equipment)	0.35294117647058826
+http:__aksw.org_n3_reuters-128_125	digital	8	itunes	0.35294117647058826
+http:__aksw.org_n3_reuters-128_49	challenge	3918	marlboro challenge	0.3516153268219384
+http:__aksw.org_n3_reuters-128_66	tokyo	970	tokyo	0.3507011449890647
+http:__aksw.org_n3_reuters-128_94	dsms	363	dsm (company)	0.3496932515337423
+http:__aksw.org_n3_reuters-128_94	dsm	624	dsm (company)	0.3496932515337423
+http:__aksw.org_n3_reuters-128_94	dsm	217	dsm (company)	0.3496932515337423
+http:__aksw.org_n3_reuters-128_9	rolls royce	46	rolls-royce motor cars	0.34918160561184725
+http:__aksw.org_n3_reuters-128_58	code	611	iso 4217	0.3486590038314176
+http:__aksw.org_n3_reuters-128_79	brito	884	sthefany brito	0.3473282442748092
+http:__aksw.org_n3_reuters-128_79	brito	534	sthefany brito	0.3473282442748092
+http:__aksw.org_n3_reuters-128_79	brito	173	sthefany brito	0.3473282442748092
+http:__aksw.org_n3_reuters-128_79	brito	1242	sthefany brito	0.3473282442748092
+http:__aksw.org_n3_reuters-128_27	midland	375	the midlands	0.34632683658170915
+http:__aksw.org_n3_reuters-128_27	midland	263	the midlands	0.34632683658170915
+http:__aksw.org_n3_reuters-128_107	basra	48	basra	0.3462204270051933
+http:__aksw.org_n3_reuters-128_107	basra	1028	basra	0.3462204270051933
+http:__aksw.org_n3_reuters-128_55	inspection	332	her majesty's inspectorate of education	0.34615384615384615
+http:__aksw.org_n3_reuters-128_106	countrys	728	united states	0.345965195189142
+http:__aksw.org_n3_reuters-128_106	countrys	122	united states	0.345965195189142
+http:__aksw.org_n3_reuters-128_79	reuters	209	markus reuter	0.34594594594594597
+http:__aksw.org_n3_reuters-128_30	copy	267	copy (musician)	0.345679012345679
+http:__aksw.org_n3_reuters-128_30	copy	1579	copy (musician)	0.345679012345679
+http:__aksw.org_n3_reuters-128_124	taylor	1025	frederick winslow taylor	0.345679012345679
+http:__aksw.org_n3_reuters-128_115	north carolina	132	north carolina	0.3448060075093867
+http:__aksw.org_n3_reuters-128_11	commission	7	european commission	0.3446153846153846
+http:__aksw.org_n3_reuters-128_36	last night	946	justified (album)	0.343980343980344
+http:__aksw.org_n3_reuters-128_11	series	85	up series	0.34394904458598724
+http:__aksw.org_n3_reuters-128_3	dlrs	72	docklands light railway	0.3439306358381503
+http:__aksw.org_n3_reuters-128_3	dlrs	408	docklands light railway	0.3439306358381503
+http:__aksw.org_n3_reuters-128_3	dlrs	197	docklands light railway	0.3439306358381503
+http:__aksw.org_n3_reuters-128_3	dlrs	101	docklands light railway	0.3439306358381503
+http:__aksw.org_n3_reuters-128_124	minister	13	prime minister of canada	0.3435114503816794
+http:__aksw.org_n3_reuters-128_107	operation	583	gulf war	0.34335744194899126
+http:__aksw.org_n3_reuters-128_10	system	310	imperial court system	0.34210526315789475
+http:__aksw.org_n3_reuters-128_49	kind	4628	the fourth kind	0.3410526315789474
+http:__aksw.org_n3_reuters-128_6	home	57	new york city	0.34071550255536626
+http:__aksw.org_n3_reuters-128_6	home	0	new york city	0.34071550255536626
+http:__aksw.org_n3_reuters-128_115	south carolina	151	south carolina	0.33991731740927883
+http:__aksw.org_n3_reuters-128_105	john	1334	john f. sandner	0.3392857142857143
+http:__aksw.org_n3_reuters-128_8	reuters	182	reuters	0.3384615384615385
+http:__aksw.org_n3_reuters-128_63	mosaic	174	netscape navigator	0.3380281690140845
+http:__aksw.org_n3_reuters-128_63	mosaic	142	netscape navigator	0.3380281690140845
+http:__aksw.org_n3_reuters-128_111	edward johnson	2378	eddie johnson (english footballer)	0.3373493975903614
+http:__aksw.org_n3_reuters-128_22	hackensack	444	hackensack, new jersey	0.33540372670807456
+http:__aksw.org_n3_reuters-128_36	gerhard	215	gerhard narholz	0.33507853403141363
+http:__aksw.org_n3_reuters-128_36	sign	589	sign (band)	0.3349875930521092
+http:__aksw.org_n3_reuters-128_97	half	105	half pipe (roller coaster)	0.3333333333333333
+http:__aksw.org_n3_reuters-128_94	autumn	659	autumn (band)	0.3333333333333333
+http:__aksw.org_n3_reuters-128_9	equipment	1136	weaponry of the australian army	0.3333333333333333
+http:__aksw.org_n3_reuters-128_88	dlr	72	david lee roth	0.3333333333333333
+http:__aksw.org_n3_reuters-128_81	standard	570	holden special	0.3333333333333333
+http:__aksw.org_n3_reuters-128_80	president of	459	stop the war coalition	0.3333333333333333
+http:__aksw.org_n3_reuters-128_75	march	34	george tandy, jr.	0.3333333333333333
+http:__aksw.org_n3_reuters-128_62	der	140	der nister	0.3333333333333333
+http:__aksw.org_n3_reuters-128_57	voice messaging	295	dear jayne	0.3333333333333333
+http:__aksw.org_n3_reuters-128_42	sale	184	boc aviation	0.3333333333333333
+http:__aksw.org_n3_reuters-128_39	purchase	54	louisiana purchase	0.3333333333333333
+http:__aksw.org_n3_reuters-128_18	lambert	375	john william lambert	0.3333333333333333
+http:__aksw.org_n3_reuters-128_14	surprise	981	better than ezra	0.3333333333333333
+http:__aksw.org_n3_reuters-128_13	todays	0	waking up (onerepublic album)	0.3333333333333333
+http:__aksw.org_n3_reuters-128_127	excess	412	operation excess	0.3333333333333333
+http:__aksw.org_n3_reuters-128_125	pct	51	pacific crest trail	0.3333333333333333
+http:__aksw.org_n3_reuters-128_125	dlrs	37	david lee roth	0.3333333333333333
+http:__aksw.org_n3_reuters-128_118	nt	1454	nt (cassette)	0.3333333333333333
+http:__aksw.org_n3_reuters-128_115	agreement	577	yalta conference	0.3333333333333333
+http:__aksw.org_n3_reuters-128_114	pct	57	tunisian communist party	0.3333333333333333
+http:__aksw.org_n3_reuters-128_110	friday	101	friday iyam	0.3333333333333333
+http:__aksw.org_n3_reuters-128_107	news agency	915	reuters	0.3333333333333333
+http:__aksw.org_n3_reuters-128_115	carolina	810	north carolina	0.33313352315300465
+http:__aksw.org_n3_reuters-128_115	carolina	157	north carolina	0.33313352315300465
+http:__aksw.org_n3_reuters-128_115	carolina	138	north carolina	0.33313352315300465
+http:__aksw.org_n3_reuters-128_22	key west	603	key west	0.3328840970350404
+http:__aksw.org_n3_reuters-128_71	tonnes	76	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	646	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	602	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	567	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	513	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	472	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_71	tonnes	438	wolfgang tonne	0.3325635103926097
+http:__aksw.org_n3_reuters-128_49	houston	1319	houston	0.33175355450236965
+http:__aksw.org_n3_reuters-128_49	trouble	3339	trouble (coldplay song)	0.3309466984884646
+http:__aksw.org_n3_reuters-128_77	side	989	a-side and b-side	0.330749354005168
+http:__aksw.org_n3_reuters-128_49	gulf coast	4504	gulf of mexico	0.3304007820136852
+http:__aksw.org_n3_reuters-128_124	access	732	access (company)	0.3302752293577982
+http:__aksw.org_n3_reuters-128_84	yesterday	197	yesterday (beatles song)	0.32904884318766064
+http:__aksw.org_n3_reuters-128_115	south carolina	804	south carolina	0.3284562555986862
+http:__aksw.org_n3_reuters-128_22	capital	396	greater london	0.3284313725490196
+http:__aksw.org_n3_reuters-128_22	custom	619	kimber custom	0.32751937984496127
+http:__aksw.org_n3_reuters-128_81	lynch	197	bill lynch	0.32710280373831774
+http:__aksw.org_n3_reuters-128_111	candidate	192	the candidate (lost)	0.32688588007736946
+http:__aksw.org_n3_reuters-128_113	dlrs	914	german aerospace center	0.3268371904181892
+http:__aksw.org_n3_reuters-128_113	dlrs	1762	german aerospace center	0.3268371904181892
+http:__aksw.org_n3_reuters-128_10	der	141	der nister	0.32666666666666666
+http:__aksw.org_n3_reuters-128_20	capital	166	greater london	0.3260025873221216
+http:__aksw.org_n3_reuters-128_55	september	970	september 7	0.32447817836812143
+http:__aksw.org_n3_reuters-128_61	oil	661	getty oil	0.32379623168178645
+http:__aksw.org_n3_reuters-128_102	last years	425	eurovision song contest 2005	0.32345013477088946
+http:__aksw.org_n3_reuters-128_49	gra	3160	guevarista revolutionary army	0.3230769230769231
+http:__aksw.org_n3_reuters-128_83	ccl	147	creative commons	0.3218390804597701
+http:__aksw.org_n3_reuters-128_83	ccl	0	creative commons	0.3218390804597701
+http:__aksw.org_n3_reuters-128_107	operations	29	gulf war	0.32114882506527415
+http:__aksw.org_n3_reuters-128_107	operations	274	gulf war	0.32114882506527415
+http:__aksw.org_n3_reuters-128_111	dlrs	1601	david lee roth	0.3203559510567297
+http:__aksw.org_n3_reuters-128_44	ford	0	ford motor company	0.32000791608945184
+http:__aksw.org_n3_reuters-128_14	sources	1009	source uk services	0.32
+http:__aksw.org_n3_reuters-128_69	world	89	earth	0.3197045391853373
+http:__aksw.org_n3_reuters-128_69	world	205	earth	0.3197045391853373
+http:__aksw.org_n3_reuters-128_69	world	1107	earth	0.3197045391853373
+http:__aksw.org_n3_reuters-128_49	close	1850	glenn close	0.3191489361702128
+http:__aksw.org_n3_reuters-128_49	john	2226	john d. rockefeller	0.31910513313203404
+http:__aksw.org_n3_reuters-128_26	boston	118	boston	0.3185840707964602
+http:__aksw.org_n3_reuters-128_51	card	326	config.sys	0.3175462336490753
+http:__aksw.org_n3_reuters-128_109	winston	82	winston churchill as writer	0.3172690763052209
+http:__aksw.org_n3_reuters-128_109	winston	493	winston churchill as writer	0.3172690763052209
+http:__aksw.org_n3_reuters-128_49	mtc	3609	mandarin training center	0.31724137931034485
+http:__aksw.org_n3_reuters-128_113	equipment	751	vox (musical equipment)	0.31684876365727427
+http:__aksw.org_n3_reuters-128_41	dillon	433	dillon, read & co.	0.3157894736842105
+http:__aksw.org_n3_reuters-128_30	hand	2661	hands (little boots album)	0.31534569983136596
+http:__aksw.org_n3_reuters-128_107	today	897	today (bbc radio 4)	0.3153409090909091
+http:__aksw.org_n3_reuters-128_107	today	695	today (bbc radio 4)	0.3153409090909091
+http:__aksw.org_n3_reuters-128_107	today	545	today (bbc radio 4)	0.3153409090909091
+http:__aksw.org_n3_reuters-128_107	today	1108	today (bbc radio 4)	0.3153409090909091
+http:__aksw.org_n3_reuters-128_52	john	102	john f. kennedy	0.31527093596059114
+http:__aksw.org_n3_reuters-128_22	meyer	466	leo j. meyer	0.31516743269862113
+http:__aksw.org_n3_reuters-128_69	worlds	924	earth	0.3137917389583904
+http:__aksw.org_n3_reuters-128_69	worlds	1488	earth	0.3137917389583904
+http:__aksw.org_n3_reuters-128_69	worlds	1270	earth	0.3137917389583904
+http:__aksw.org_n3_reuters-128_84	chamber	446	mindwarp chamber	0.3137254901960784
+http:__aksw.org_n3_reuters-128_56	college	657	cornell university	0.31343283582089554
+http:__aksw.org_n3_reuters-128_45	world	0	earth	0.31262687779131143
+http:__aksw.org_n3_reuters-128_127	le	0	le roy d. downs	0.3125
+http:__aksw.org_n3_reuters-128_107	iraqs	65	iraq	0.31240183136717575
+http:__aksw.org_n3_reuters-128_107	iraqs	1035	iraq	0.31240183136717575
+http:__aksw.org_n3_reuters-128_107	iraq	685	iraq	0.31240183136717575
+http:__aksw.org_n3_reuters-128_33	pct	3262	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	3013	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2872	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2786	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2616	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2431	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2248	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2179	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	2065	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	1956	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	1663	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_33	pct	1568	patent cooperation treaty	0.3120099050763516
+http:__aksw.org_n3_reuters-128_49	outlook	273	saturn outlook	0.310752688172043
+http:__aksw.org_n3_reuters-128_106	bid	563	accession of turkey to the european union	0.31047172967547676
+http:__aksw.org_n3_reuters-128_93	postal	307	royal mail	0.3103448275862069
+http:__aksw.org_n3_reuters-128_84	pct	800	patent cooperation treaty	0.310126582278481
+http:__aksw.org_n3_reuters-128_31	station	161	royal navy	0.3093636833936886
+http:__aksw.org_n3_reuters-128_107	prime minister	87	winston churchill as writer	0.30809743252139565
+http:__aksw.org_n3_reuters-128_68	appliances	186	suning appliance	0.3076923076923077
+http:__aksw.org_n3_reuters-128_67	dufour	976	lisette dufour	0.3076923076923077
+http:__aksw.org_n3_reuters-128_67	dufour	575	lisette dufour	0.3076923076923077
+http:__aksw.org_n3_reuters-128_67	dufour	324	lisette dufour	0.3076923076923077
+http:__aksw.org_n3_reuters-128_60	dlrs	270	german aerospace center	0.3076923076923077
+http:__aksw.org_n3_reuters-128_60	dlr	49	german aerospace center	0.3076923076923077
+http:__aksw.org_n3_reuters-128_29	today	180	today (u.s. tv program)	0.3076923076923077
+http:__aksw.org_n3_reuters-128_123	next year	271	next year	0.3076923076923077
+http:__aksw.org_n3_reuters-128_123	next year	195	next year	0.3076923076923077
+http:__aksw.org_n3_reuters-128_30	today	469	waking up (onerepublic album)	0.30727762803234504
+http:__aksw.org_n3_reuters-128_49	borg	3047	veda ann borg	0.30627871362940273
+http:__aksw.org_n3_reuters-128_111	avondale	1039	avondale, pennsylvania	0.3060538116591928
+http:__aksw.org_n3_reuters-128_49	gulf	4504	gulf war	0.30565632137578935
+http:__aksw.org_n3_reuters-128_6	office	62	colonial office	0.3050847457627119
+http:__aksw.org_n3_reuters-128_22	wayne	383	wayne madsen	0.3048523206751055
+http:__aksw.org_n3_reuters-128_106	problem	971	problem (ariana grande song)	0.3047619047619048
+http:__aksw.org_n3_reuters-128_106	problem	711	problem (ariana grande song)	0.3047619047619048
+http:__aksw.org_n3_reuters-128_94	journalists	250	the guardian	0.3046875
+http:__aksw.org_n3_reuters-128_36	reuter	155	paul reuter	0.30434782608695654
+http:__aksw.org_n3_reuters-128_13	brothers	152	brothers grimm	0.3041825095057034
+http:__aksw.org_n3_reuters-128_67	michel	317	michel chossudovsky	0.30286738351254483
+http:__aksw.org_n3_reuters-128_13	years	452	fifth grade	0.3027027027027027
+http:__aksw.org_n3_reuters-128_80	today	255	empire today	0.3018867924528302
+http:__aksw.org_n3_reuters-128_12	capital	431	greater london	0.30099228224917307
+http:__aksw.org_n3_reuters-128_67	thomas	737	dave thomas (actor)	0.3005828476269775
+http:__aksw.org_n3_reuters-128_14	marks	472	mark hurd	0.30027173913043476
+http:__aksw.org_n3_reuters-128_14	marks	130	mark hurd	0.30027173913043476
+http:__aksw.org_n3_reuters-128_49	january	4446	january low wye san	0.3001531393568147

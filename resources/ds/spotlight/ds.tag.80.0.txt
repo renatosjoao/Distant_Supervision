@@ -1,0 +1,91 @@
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	lil wayne	236	lil wayne	0.6470625
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	tha carter iv	83	tha carter iv	0.64007187
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence2	international monetary fund	51	international monetary fund	0.618625
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence5	alzheimer’s disease	100	alzheimer's disease	0.60303056
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence5	google car	48	google self-driving car	0.59295
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	toyota prius	106	toyota prius	0.588235
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	i am not a human being	140	i am not a human being	0.58507186
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	cubism	174	cubism	0.58441347
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	renminbi	182	renminbi	0.58114046
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence0	the internet	161	library	0.57843184
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence0	lil wayne	0	lil wayne	0.5776467
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence2	cska moscow	243	pbc cska moscow	0.57263637
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	0.55276364
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	grand central terminal	201	grand central terminal	0.54608124
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	timothy f. geithner	61	timothy geithner	0.53889364
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence1	rikers island	90	rikers island	0.53647
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	hypertext markup language	39	html	0.5278242
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	0.5276167
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	the internet	25	library	0.52745
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	futurism	185	futurism	0.5251653
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	unter den linden	72	unter den linden	0.51771766
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence6	old way	94	old and in the way (album)	0.5
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	alice roosevelt longworth	71	alice roosevelt longworth	0.5
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence5	smartphone	161	smartphone	0.4987437
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	beef tenderloin	25	beef tenderloin	0.495248
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence0	internet privacy	13	internet privacy	0.47971672
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	world war i	74	world war i	0.46982083
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	turku	196	turku	0.45668966
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	turku	85	turku	0.45442402
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	clove	104	clove	0.44708148
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence2	russia	162	russia	0.43808088
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence5	ancient greece	84	ancient greece	0.43530953
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	brick gothic	195	brick gothic	0.43294877
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	green roof	167	green roof	0.43239427
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	turku	128	turku	0.42480633
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence1	russia	12	russia	0.41055912
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence3	russia	180	russia	0.40352103
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence5	traffic light	93	traffic light	0.39876872
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	html 5	183	html5	0.38117877
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence0	marijuana	77	cannabis (drug)	0.3688364
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	modernist	102	modernism	0.35205185
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence1	marijuana	126	cannabis (drug)	0.3497864
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence4	medical marijuana	43	medical cannabis	0.3385523
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	gawkiness	54	social skills	0.33235416
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	japan	128	japan	0.3307228
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence6	marijuana	41	cannabis (drug)	0.33046496
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence5	self-esteem	196	self-esteem	0.32650208
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence5	nausea	64	nausea	0.32486245
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	social psychologist	49	social psychology	0.31853363
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	finland	103	finland	0.31615204
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence7	classicism	17	classicism	0.30846077
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	moscow	22	moscow	0.30845648
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	france	127	france	0.3060144
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	ostbahnhof	147	berlin ostbahnhof	0.30465734
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence3	basketball	166	basketball	0.30436513
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	italy	135	italy	0.30072704
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence5	new wave	189	new wave music	0.3007093
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	finnish	123	finnish language	0.29993558
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	obama administration	175	presidency of barack obama	0.2982434
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence5	e-mail	102	email	0.29443073
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	jennifer cole	32	jennifer cole	0.29166666
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	china	151	china	0.2899314
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	germany	146	germany	0.2888686
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence5	cappuccino	97	cappuccino	0.28594655
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	garlic	97	garlic	0.2858984
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence7	ideology	34	ideology	0.28471062
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	grand boulevard	53	grand boulevard (budapest)	0.28334263
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	berlin	246	berlin	0.2804657
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence5	italian renaissance	104	italian renaissance	0.27925417
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	lombard street	27	lombard street (san francisco)	0.27272198
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence5	undergrads	122	undergrads	0.26458004
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence7	purity	72	virtue	0.25950047
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	canada	117	canada	0.25825125
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	highway 1	29	california state route 1	0.25798285
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	los angeles	65	los angeles	0.2557963
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence0	accordion	55	accordion	0.25253475
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence0	conspiracy theories	53	conspiracy theory	0.25213057
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence0	boilerplate	0	sheet metal	0.25167674
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	fiberglass	66	fiberglass	0.25141084
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence5	social support	228	social support	0.24537244
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	san francisco	47	san francisco	0.2452363
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	usher	137	usher (singer)	0.24517196
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	sauna	77	sauna	0.24489328
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence3	boiler room	161	mechanical room	0.24460231
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	hedonist	117	hedonism	0.24431354
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	san francisco	45	san francisco	0.24072416
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	guggenheim museum	23	guggenheim museum bilbao	0.23922636
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence7	political	123	political philosophy	0.2373886
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	internet	159	internet	0.23157677
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	classicism	108	classicism	0.23045895
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence4	charge	35	criminal charge	0.22930779

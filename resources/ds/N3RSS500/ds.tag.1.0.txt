@@ -1,0 +1,12 @@
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	0.803925
+http:__aksw.org_n3_rss-500_151	fa cup	16	fa cup	0.80367815
+http:__aksw.org_n3_rss-500_232	boomer esiason	22	boomer esiason	0.7750643
+http:__aksw.org_n3_rss-500_326	brandon belt	21	brandon belt	0.77451664
+http:__aksw.org_n3_rss-500_232	dan marino	64	dan marino	0.77450716
+http:__aksw.org_n3_rss-500_230	don mattingly	68	don mattingly	0.7647
+http:__aksw.org_n3_rss-500_467	peter o'malley	105	peter o'malley	0.7612875
+http:__aksw.org_n3_rss-500_353	hezbollah	27	hezbollah	0.7568538
+http:__aksw.org_n3_rss-500_261	manchester city	123	manchester city f.c.	0.74719
+http:__aksw.org_n3_rss-500_96	baltimore orioles	136	baltimore orioles	0.74057305
+http:__aksw.org_n3_rss-500_261	yaya toure	74	yaya touré	0.7352867
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	0.7330308

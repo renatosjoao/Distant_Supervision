@@ -1,0 +1,202 @@
+chtb_267.eng	xinhua news agency	424	xinhua news agency	1.0
+chtb_267.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_267.eng	weir group	74	weir group	1.0
+chtb_267.eng	weir group	3128	weir group	1.0
+chtb_267.eng	weir group	2316	weir group	1.0
+chtb_267.eng	weir group	2159	weir group	1.0
+chtb_267.eng	weir group	2104	weir group	1.0
+chtb_267.eng	weir group	1731	weir group	1.0
+chtb_267.eng	weir group	1427	weir group	1.0
+chtb_267.eng	jiangsu province	155	jiangsu	1.0
+chtb_227.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_227.eng	baltic sea	81	baltic sea	1.0
+chtb_227.eng	baltic sea	535	baltic sea	1.0
+chtb_227.eng	baltic sea	397	baltic sea	1.0
+chtb_227.eng	baltic sea	202	baltic sea	1.0
+chtb_227.eng	baltic sea	1057	baltic sea	1.0
+chtb_227.eng	baltic sea	1028	baltic sea	1.0
+chtb_171.eng	alberto fujimori	73	alberto fujimori	1.0
+chtb_165.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_165.eng	waitan	2307	the bund	1.0
+chtb_165.eng	japan industrial bank	1933	industrial bank of japan	1.0
+voa20001223.2000.0139	vojislav kostunica	40	vojislav koštunica	1.0
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	1.0
+voa20001223.2000.0139	democratic opposition of serbia	138	democratic opposition of serbia	1.0
+voa20001220.2000.0060	voa news	19	voice of america	1.0
+voa20001220.2000.0060	housing and urban development	701	united states department of housing and urban development	1.0
+voa20001220.2000.0060	george w bush	45	george w. bush	1.0
+voa20001208.2000.1275	national ice hockey league	88	national ice hockey league	1.0
+voa20001129.2000.0364	us supreme court	168	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	472	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	3473	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	2475	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	2023	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	1832	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	1545	supreme court of the united states	1.0
+voa20001129.2000.0364	lawrence tribe	770	laurence tribe	1.0
+voa20001129.2000.0364	federal courts	248	federal judiciary of the united states	1.0
+pri20001201.2000.1828	us supreme court	63	supreme court of the united states	1.0
+pri20001201.2000.1828	us supreme court	1013	supreme court of the united states	1.0
+pri20001201.2000.1828	sandra day o'connor	776	sandra day o'connor	1.0
+pri20001201.2000.1828	george w. bush	317	george w. bush	1.0
+pri20001201.2000.1828	florida supreme court	541	supreme court of florida	1.0
+pri20001201.2000.1828	florida supreme court	1144	supreme court of florida	1.0
+pri20001201.2000.1828	federal high court	498	islamabad high court	1.0
+pri20001128.2000.0055	palm beach county	667	palm beach county, florida	1.0
+pri20001128.2000.0055	npr news	18	npr	1.0
+pri20001128.2000.0055	npr	282	npr	1.0
+pri20001128.2000.0055	npr	2814	npr	1.0
+pri20001128.2000.0055	npr	1824	npr	1.0
+pri20001128.2000.0055	miami dade county	513	miami-dade county, florida	1.0
+pri20001128.2000.0055	miami	1107	miami-dade county, florida	1.0
+pri20001128.2000.0055	kplu	2065	knkx	1.0
+pri20001128.2000.0055	corey flintoff	46	corey flintoff	1.0
+pri20001122.2000.0320	npr news	348	npr	1.0
+pri20001122.2000.0320	ehud barak	296	ehud barak	1.0
+pri20001122.2000.0320	corey flintoff	332	corey flintoff	1.0
+pri20001031.2000.1824	singapore airlines	62	singapore airlines	1.0
+pri20001031.2000.1824	singapore airlines	373	singapore airlines	1.0
+nyt20001217.2241.0165	westchester county airport	1788	westchester county airport	1.0
+nyt20001217.2241.0165	n.y. times news service	258	the new york times company	1.0
+nyt20001217.2241.0165	los angeles international	1664	los angeles international airport	1.0
+nyt20001217.2241.0165	john wayne airport	1736	john wayne airport	1.0
+nyt20001217.2241.0165	federal aviation administration	2704	federal aviation administration	1.0
+nyt20001217.2241.0165	chicago o'hare	539	o'hare international airport	1.0
+nyt20001217.2241.0165	calif.	1773	california	1.0
+nyt20001129.2040.0383	n.y. times news service	281	the new york times company	1.0
+nyt20001129.2040.0383	florida supreme court	585	supreme court of florida	1.0
+nyt20001129.2040.0383	florida supreme court	4157	supreme court of florida	1.0
+nyt20001129.2040.0383	florida supreme court	2653	supreme court of florida	1.0
+nyt20001129.2040.0383	david boies	2321	david boies	1.0
+nyt20001125.1558.0117	n.y. times news service	13	the new york times company	1.0
+nyt20001125.1558.0117	michigan department of natural resources	895	michigan department of natural resources	1.0
+nyt20001125.1558.0117	grosse pointe park	55	grosse pointe park, michigan	1.0
+nyt20001124.2050.0257	n.y. times news service	70	the new york times company	1.0
+nyt20001124.2050.0257	mark landler	30	mark landler	1.0
+nyt20001124.2050.0257	joseph estrada	1195	joseph estrada	1.0
+nyt20001124.2050.0257	international monetary fund	552	international monetary fund	1.0
+nyt20001124.2050.0257	imf	711	international monetary fund	1.0
+nyt20001124.2050.0257	imf	3610	international monetary fund	1.0
+nyt20001124.2050.0257	imf	3247	international monetary fund	1.0
+nyt20001124.2050.0257	imf	3191	international monetary fund	1.0
+nyt20001124.2050.0257	hong kong general chamber of commerce	2673	hong kong general chamber of commerce	1.0
+nyt20001124.2050.0257	chen shui-bian	1242	chen shui-bian	1.0
+nyt20001123.1511.0062	wall street journal	569	the wall street journal	1.0
+nyt20001123.1511.0062	volvo	3293	volvo	1.0
+nyt20001123.1511.0062	times square	2404	times square	1.0
+nyt20001123.1511.0062	sun microsystems	790	sun microsystems	1.0
+nyt20001123.1511.0062	scotties	1381	scotties	1.0
+nyt20001123.1511.0062	stuart elliott	26	stuart elliott (drummer)	1.0
+nyt20001123.1511.0062	roundabout theater company	2346	roundabout theatre company	1.0
+nyt20001123.1511.0062	reader's digest association	2519	trusted media brands, inc.	1.0
+nyt20001123.1511.0062	reader's digest	2692	reader's digest	1.0
+nyt20001123.1511.0062	n.y. times news service	68	the new york times company	1.0
+nyt20001123.1511.0062	msn	3113	msn	1.0
+nyt20001123.1511.0062	lucent technologies	3595	lucent	1.0
+nyt20001123.1511.0062	john corbett	3879	john corbett	1.0
+nyt20001123.1511.0062	james l. brooks	2172	james l. brooks	1.0
+nyt20001123.1511.0062	jack nicholson	2127	jack nicholson	1.0
+nyt20001123.1511.0062	houston grand opera	4040	houston grand opera	1.0
+nyt20001123.1511.0062	helen hunt	2143	helen hunt	1.0
+nyt20001123.1511.0062	gristede	1249	wiefelstede	1.0
+nyt20001123.1511.0062	greg kinnear	2155	greg kinnear	1.0
+nyt20001123.1511.0062	fidelity investments	932	fidelity investments	1.0
+nyt20001123.1511.0062	campbell soup co.	2214	campbell soup company	1.0
+nyt20001123.1511.0062	avaya communication	3632	avaya	1.0
+nyt20001123.1511.0062	arthur godfrey	3487	arthur godfrey	1.0
+nyt20001123.1511.0062	american airlines theater	2421	american airlines theatre	1.0
+nyt20001123.1511.0062	aiden shaw	3999	aiden shaw	1.0
+nyt20001109.1946.0315	university of florida	4289	university of florida	1.0
+nyt20001109.1946.0315	sierra club	4003	sierra club	1.0
+nyt20001109.1946.0315	quastler	2833	henry quastler	1.0
+nyt20001109.1946.0315	n.y. times news service	46	the new york times company	1.0
+nyt20001109.1946.0315	gainesville	4314	gainesville, florida	1.0
+nyt20001109.1946.0315	florida green party	3506	green party of florida	1.0
+nyt20001109.1946.0315	everglades	4161	everglades	1.0
+nyt20001109.1946.0315	everglades	3950	everglades	1.0
+nyt20001109.1946.0315	dorothy byrne	3463	dorothy byrne (mezzo-soprano)	1.0
+nyt20001106.1705.0187	n.y. times news service	275	the new york times company	1.0
+nyt20001106.1705.0187	frank bruni	236	frank bruni	1.0
+nyt20001101.2212.0429	time	2036	time (magazine)	1.0
+nyt20001101.2212.0429	stephen case	597	steve case	1.0
+nyt20001101.2212.0429	sanford c. bernstein	1592	alliancebernstein	1.0
+nyt20001101.2212.0429	roger mcnamee	2128	roger mcnamee	1.0
+nyt20001101.2212.0429	nbc	2665	nbc	1.0
+nyt20001101.2212.0429	n.y. times news service	57	the new york times company	1.0
+nyt20001101.2212.0429	merrill lynch	2465	merrill lynch	1.0
+nyt20001101.2212.0429	john schreiber	2698	john schreiber	1.0
+nyt20001101.2212.0429	capital cities/abc	1921	capital cities/abc inc.	1.0
+nyt20001101.2212.0429	alex berenson	16	alex berenson	1.0
+nyt20001002.1754.0290	national marine fisheries service	672	national marine fisheries service	1.0
+nyt20001002.1754.0290	national marine fisheries service	4042	national marine fisheries service	1.0
+nyt20001002.1754.0290	n.y. times news service	195	the new york times company	1.0
+nyt20001002.1754.0290	gulf of mexico	302	gulf of mexico	1.0
+nyt20001002.1754.0290	gulf of mexico	1961	gulf of mexico	1.0
+nyt20001002.1754.0290	gulf	738	gulf of mexico	1.0
+nyt20001002.1754.0290	gulf	466	gulf of mexico	1.0
+nyt20001002.1754.0290	gulf	2036	gulf of mexico	1.0
+nyt20001002.1754.0290	gulf	1633	gulf of mexico	1.0
+nyt20001002.1754.0290	dauphin island sea lab	1342	dauphin island sea lab	1.0
+apw20001225.2035.0477	tribal voice	3612	tribal voice	1.0
+apw20001225.2035.0477	time warner	1302	time warner	1.0
+apw20001225.2035.0477	time warner	1018	time warner	1.0
+apw20001225.2035.0477	roelands	417	roelands, western australia	1.0
+apw20001225.2035.0477	roelands	219	roelands, western australia	1.0
+apw20001225.2035.0477	media metrix	3297	comscore	1.0
+apw20001225.2035.0477	jonathan sacks	2096	jonathan sacks	1.0
+apw20001225.2035.0477	icq	2185	icq	1.0
+apw20001225.2035.0477	federal communications commission	870	federal communications commission	1.0
+apw20001225.2035.0477	fcc	2583	federal communications commission	1.0
+apw20001225.2035.0477	brian park	4112	brian park	1.0
+apw20001225.2035.0477	america online	4347	aol	1.0
+apw20001225.2035.0477	america online	310	aol	1.0
+apw20001225.2035.0477	ap	14	associated press	1.0
+apw20001225.2035.0477	aol	915	aol	1.0
+apw20001225.2035.0477	aol	3723	aol	1.0
+apw20001225.2035.0477	aol	3644	aol	1.0
+apw20001225.2035.0477	aol	3513	aol	1.0
+apw20001225.2035.0477	aol	3258	aol	1.0
+apw20001225.2035.0477	aol	3210	aol	1.0
+apw20001225.2035.0477	aol	2951	aol	1.0
+apw20001225.2035.0477	aol	2363	aol	1.0
+apw20001225.2035.0477	aol	2132	aol	1.0
+apw20001225.2035.0477	aol	1139	aol	1.0
+apw20001219.1316.0416	dove valley	321	dove valley, colorado	1.0
+apw20001218.2221.0727	cuming county	557	cuming county, nebraska	1.0
+apw20001218.2221.0727	calif.	1810	california	1.0
+apw20001216.2012.0590	dale county	991	dale county, alabama	1.0
+apw20001216.2012.0590	dale county	1091	dale county, alabama	1.0
+apw20001216.2012.0590	ala.	14	alabama	1.0
+apw20001211.0507.0196	road & track	1126	road & track	1.0
+apw20001211.0507.0196	larry little	806	larry little	1.0
+apw20001211.0507.0196	hemet	1998	hemet, california	1.0
+apw20001211.0507.0196	das motorrad	711	motorrad (magazine)	1.0
+apw20001211.0507.0196	calif.	14	california	1.0
+apw20001211.0507.0196	costa mesa	2	costa mesa, california	1.0
+apw20001211.0507.0196	ark.	960	arkansas	1.0
+apw20001208.1126.0362	yavlinsky	1931	grigory yavlinsky	1.0
+apw20001208.1126.0362	vladimir putin	371	vladimir putin	1.0
+apw20001208.1126.0362	vladimir lenin	530	vladimir lenin	1.0
+apw20001208.1126.0362	union of right forces	1597	union of right forces	1.0
+apw20001208.1126.0362	mikhail glinka	1139	mikhail glinka	1.0
+apw20001208.1126.0362	komsomolskaya pravda	2201	komsomolskaya pravda	1.0
+apw20001208.1126.0362	josef stalin	549	joseph stalin	1.0
+apw20001208.1126.0362	grigory yavlinsky	1494	grigory yavlinsky	1.0
+apw20001208.1126.0362	gennady seleznyov	2952	gennadiy seleznyov	1.0
+apw20001208.1126.0362	boris yeltsin	2073	boris yeltsin	1.0
+apw20001207.2118.0838	zhou	4176	zhou zhonghe	1.0
+apw20001207.2118.0838	zhou	3127	zhou zhonghe	1.0
+apw20001207.2118.0838	zhou	2280	zhou zhonghe	1.0
+apw20001207.2118.0838	zhou	1605	zhou zhonghe	1.0
+apw20001207.2118.0838	zhonghe zhou	428	zhou zhonghe	1.0
+apw20001207.2118.0838	thomas r. holtz jr.	1002	thomas r. holtz jr.	1.0
+apw20001207.2118.0838	protopteryx	851	protopteryx	1.0
+apw20001207.2118.0838	protopteryx	2019	protopteryx	1.0
+apw20001207.2118.0838	michael novacek	4062	michael j. novacek	1.0
+apw20001207.2118.0838	feduccia	3322	alan feduccia	1.0
+apw20001207.2118.0838	feduccia	3049	alan feduccia	1.0
+apw20001207.2118.0838	chinese academy of sciences	448	chinese academy of sciences	1.0
+apw20001207.2118.0838	american museum of natural history	4104	american museum of natural history	1.0
+apw20001207.2118.0838	alan feduccia	1199	alan feduccia	1.0
+apw20001203.1456.0329	j.c. watts	54	j. c. watts	1.0
+apw20001203.1456.0329	greenbrier hotel	356	the greenbrier	1.0

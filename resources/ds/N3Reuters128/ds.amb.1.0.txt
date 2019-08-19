@@ -1,0 +1,5 @@
+http:__aksw.org_n3_reuters-128_99	coface	417	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_99	coface	178	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_95	securities and exchange commission	45	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_93	office of management and budget	0	office of management and budget	1.0

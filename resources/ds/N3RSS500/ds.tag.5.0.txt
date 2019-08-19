@@ -1,0 +1,63 @@
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	0.803925
+http:__aksw.org_n3_rss-500_151	fa cup	16	fa cup	0.80367815
+http:__aksw.org_n3_rss-500_232	boomer esiason	22	boomer esiason	0.7750643
+http:__aksw.org_n3_rss-500_326	brandon belt	21	brandon belt	0.77451664
+http:__aksw.org_n3_rss-500_232	dan marino	64	dan marino	0.77450716
+http:__aksw.org_n3_rss-500_230	don mattingly	68	don mattingly	0.7647
+http:__aksw.org_n3_rss-500_467	peter o'malley	105	peter o'malley	0.7612875
+http:__aksw.org_n3_rss-500_353	hezbollah	27	hezbollah	0.7568538
+http:__aksw.org_n3_rss-500_261	manchester city	123	manchester city f.c.	0.74719
+http:__aksw.org_n3_rss-500_96	baltimore orioles	136	baltimore orioles	0.74057305
+http:__aksw.org_n3_rss-500_261	yaya toure	74	yaya touré	0.7352867
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	0.7330308
+http:__aksw.org_n3_rss-500_310	barack obama	115	barack obama	0.7324167
+http:__aksw.org_n3_rss-500_96	boston red sox	0	boston red sox	0.7322769
+http:__aksw.org_n3_rss-500_278	jerry rice	22	jerry rice	0.7320333
+http:__aksw.org_n3_rss-500_278	joe montana	122	joe montana	0.73093337
+http:__aksw.org_n3_rss-500_481	manchester city	112	manchester city f.c.	0.7306344
+http:__aksw.org_n3_rss-500_352	seattle mariners	22	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_287	seattle mariners	28	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_285	seattle mariners	28	seattle mariners	0.7294091
+http:__aksw.org_n3_rss-500_280	michael irvin	120	michael irvin	0.72875
+http:__aksw.org_n3_rss-500_13	al shabaab	33	al-shabaab (militant group)	0.7284312
+http:__aksw.org_n3_rss-500_113	philadelphia 76ers	129	philadelphia 76ers	0.72638637
+http:__aksw.org_n3_rss-500_182	geno auriemma	51	geno auriemma	0.7257375
+http:__aksw.org_n3_rss-500_278	steve young	138	steve young	0.7244
+http:__aksw.org_n3_rss-500_26	andrea hlavackova	149	andrea hlaváčková	0.7214042
+http:__aksw.org_n3_rss-500_352	tampa bay rays	112	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_287	tampa bay rays	118	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_285	tampa bay rays	118	tampa bay rays	0.7205091
+http:__aksw.org_n3_rss-500_405	julia goerges	11	julia görges	0.7202542
+http:__aksw.org_n3_rss-500_261	gervinho	180	gervinho	0.7156867
+http:__aksw.org_n3_rss-500_279	michael irvin	99	michael irvin	0.7134357
+http:__aksw.org_n3_rss-500_405	casey dellacqua	131	casey dellacqua	0.71061665
+http:__aksw.org_n3_rss-500_481	carlos tevez	52	carlos tevez	0.71054065
+http:__aksw.org_n3_rss-500_18	alejandro mayorkas	11	alejandro mayorkas	0.7098
+http:__aksw.org_n3_rss-500_481	samir nasri	69	samir nasri	0.7088281
+http:__aksw.org_n3_rss-500_61	boston red sox	167	boston red sox	0.70868576
+http:__aksw.org_n3_rss-500_353	hassan nasrallah	50	hassan nasrallah	0.7073923
+http:__aksw.org_n3_rss-500_477	peyton manning	105	peyton manning	0.7070158
+http:__aksw.org_n3_rss-500_481	yaya toure	39	yaya touré	0.7069844
+http:__aksw.org_n3_rss-500_35	steve jobs	45	steve jobs	0.7056072
+http:__aksw.org_n3_rss-500_467	los angeles dodgers	79	los angeles dodgers	0.7049
+http:__aksw.org_n3_rss-500_113	tom thibodeau	38	tom thibodeau	0.7048136
+http:__aksw.org_n3_rss-500_255	windows phone 8	42	windows phone 8	0.70433784
+http:__aksw.org_n3_rss-500_189	brett favre	109	brett favre	0.7042
+http:__aksw.org_n3_rss-500_115	boomer esiason	16	boomer esiason	0.70274997
+http:__aksw.org_n3_rss-500_287	felix hernandez	0	félix hernández	0.7023182
+http:__aksw.org_n3_rss-500_285	felix hernandez	0	félix hernández	0.7023182
+http:__aksw.org_n3_rss-500_113	kenny smith	0	kenny smith	0.7014273
+http:__aksw.org_n3_rss-500_61	baltimore orioles	123	baltimore orioles	0.70112145
+http:__aksw.org_n3_rss-500_398	philipp kohlschreiber	339	philipp kohlschreiber	0.700626
+http:__aksw.org_n3_rss-500_386	philipp kohlschreiber	339	philipp kohlschreiber	0.700626
+http:__aksw.org_n3_rss-500_313	mitt romney	36	mitt romney	0.7001219
+http:__aksw.org_n3_rss-500_333	oakland athletics	63	oakland athletics	0.6986
+http:__aksw.org_n3_rss-500_261	sabri lamouchi	32	sabri lamouchi	0.6984233
+http:__aksw.org_n3_rss-500_26	bethanie mattek-sands	176	bethanie mattek-sands	0.69836664
+http:__aksw.org_n3_rss-500_398	lukasz kubot	105	łukasz kubot	0.698274
+http:__aksw.org_n3_rss-500_386	lukasz kubot	105	łukasz kubot	0.698274
+http:__aksw.org_n3_rss-500_398	andreas seppi	130	andreas seppi	0.69772804
+http:__aksw.org_n3_rss-500_386	andreas seppi	130	andreas seppi	0.69772804
+http:__aksw.org_n3_rss-500_182	u.s. women 's basketball team	123	united states women's national basketball team	0.6968125
+http:__aksw.org_n3_rss-500_398	yen-hsun lu	72	lu yen-hsun	0.696394
+http:__aksw.org_n3_rss-500_386	yen-hsun lu	72	lu yen-hsun	0.696394

@@ -1,0 +1,123 @@
+-docstart- (judas%20priest_11.txt)	sad wings of destiny tour	390	sad wings of destiny tour	0.99805
+-docstart- (boris%20(band)_4.txt)	thing which solomon overlooked 3	52	the thing which solomon overlooked 3	0.99740005
+-docstart- (boris%20(band)_4.txt)	thing which solomon overlooked 2	6	the thing which solomon overlooked 2	0.99740005
+-docstart- (deep%20purple_7.txt)	deep purple european tour	102	deep purple european tour	0.996575
+-docstart- (judas%20priest_11.txt)	sin after sin tour	428	sin after sin tour	0.99608755
+-docstart- (judas%20priest_11.txt)	stained class tour	454	stained class tour	0.99491
+-docstart- (deep%20purple_7.txt)	in rock world tour	171	in rock world tour	0.99362504
+-docstart- (judas%20priest_11.txt)	rocka rolla tour	366	rocka rolla tour	0.98889995
+-docstart- (led%20zeppelin_27.txt)	in through the out door	173	in through the out door	0.98693335
+-docstart- (soulfly_12.txt)	soulfly	9	soulfly (album)	0.98665
+-docstart- (led%20zeppelin_27.txt)	houses of the holy	100	houses of the holy	0.9866084
+-docstart- (led%20zeppelin_27.txt)	led zeppelin iii	49	led zeppelin iii	0.98595
+-docstart- (led%20zeppelin_27.txt)	physical graffiti	128	physical graffiti	0.98397493
+-docstart- (accept_2.txt)	objection overruled	187	objection overruled	0.98152924
+-docstart- (accept_2.txt)	eat the heat	165	eat the heat	0.9812
+-docstart- (accept_2.txt)	blood of the nations	253	blood of the nations	0.980875
+-docstart- (led%20zeppelin_27.txt)	led zeppelin iv	75	led zeppelin iv	0.9794251
+-docstart- (accept_2.txt)	restless and wild	64	restless and wild	0.9786
+-docstart- (rage%20(band)_3.txt)	10 years in rage	201	10 years in rage	0.97803426
+-docstart- (rage%20(band)_3.txt)	secrets in a weird world	91	secrets in a weird world	0.97762114
+-docstart- (rage%20(band)_3.txt)	reflections of a shadow	125	reflections of a shadow	0.97762114
+-docstart- (rage%20(band)_3.txt)	welcome to the other side	328	welcome to the other side	0.9776211
+-docstart- (rage%20(band)_3.txt)	execution guaranteed	40	execution guaranteed	0.9773158
+-docstart- (rage%20(band)_3.txt)	black in mind	227	black in mind	0.97731316
+-docstart- (rage%20(band)_3.txt)	strings to a web	451	strings to a web	0.9771079
+-docstart- (rage%20(band)_3.txt)	speak of the dead	399	speak of the dead	0.9770079
+-docstart- (rage%20(band)_3.txt)	soundchaser	378	soundchaser	0.9768
+-docstart- (rush%20(band)_16.txt)	test for echo	347	test for echo	0.97368157
+-docstart- (rush%20(band)_16.txt)	roll the bones	301	roll the bones	0.97367895
+-docstart- (rush%20(band)_16.txt)	caress of steel	52	caress of steel	0.9735737
+-docstart- (rush%20(band)_16.txt)	snakes & arrows	410	snakes & arrows	0.97336316
+-docstart- (rush%20(band)_16.txt)	hold your fire	261	hold your fire	0.97243947
+-docstart- (rush%20(band)_16.txt)	farewell to kings	93	a farewell to kings	0.9724394
+-docstart- (judas%20priest_14.txt)	ram it down	287	ram it down	0.97093236
+-docstart- (judas%20priest_14.txt)	stained class	90	stained class	0.97069705
+-docstart- (judas%20priest_14.txt)	angel of retribution	367	angel of retribution	0.97069705
+-docstart- (judas%20priest_14.txt)	jugulator	328	jugulator	0.9704677
+-docstart- (judas%20priest_14.txt)	sin after sin	67	sin after sin	0.9704647
+-docstart- (judas%20priest_14.txt)	rocka rolla	16	rocka rolla	0.97000587
+-docstart- (judas%20priest_14.txt)	screaming for vengeance	207	screaming for vengeance	0.96943235
+-docstart- (judas%20priest_14.txt)	sad wings of destiny	37	sad wings of destiny	0.96943235
+-docstart- (deep%20purple_7.txt)	book of taliesyn tour	72	the book of taliesyn tour	0.9647125
+-docstart- (deep%20purple_7.txt)	shades of deep purple tour	33	shades of deep purple tour	0.9612875
+-docstart- (ac%2fdc_21.txt)	razors edge	336	the razors edge (ac/dc album)	0.95767057
+-docstart- (ac%2fdc_21.txt)	blow up your video	304	blow up your video	0.95744115
+-docstart- (ac%2fdc_21.txt)	flick of the switch	228	flick of the switch	0.9574411
+-docstart- (ac%2fdc_21.txt)	let there be rock	88	let there be rock	0.9574265
+-docstart- (ac%2fdc_21.txt)	who made who	282	who made who	0.9573264
+-docstart- (ac%2fdc_21.txt)	ballbreaker	357	ballbreaker	0.95696765
+-docstart- (aria%20(band)_2.txt)	generator zla	183	generator zla	0.95686543
+-docstart- (aria%20(band)_2.txt)	noch koroche dnia	128	noch koroche dnya	0.95656157
+-docstart- (aria%20(band)_2.txt)	night is shorter than day	154	noch koroche dnya	0.95656157
+-docstart- (aria%20(band)_2.txt)	kreshchenie ognyom	247	kreshchenie ognyom	0.9562462
+-docstart- (aria%20(band)_2.txt)	krov za krov	88	krov za krov	0.9554962
+-docstart- (ac%2fdc_21.txt)	dirty deeds done dirt cheap	51	dirty deeds done dirt cheap	0.95513237
+-docstart- (aria%20(band)_2.txt)	geroy asfalta	4	geroy asfalta	0.9548961
+-docstart- (accept_2.txt)	i' m a rebel	25	i'm a rebel (song)	0.9499959
+-docstart- (whitesnake_9.txt)	ready an' willing	74	ready an' willing	0.94992274
+-docstart- (whitesnake_9.txt)	restless heart	221	restless heart (whitesnake album)	0.9497454
+-docstart- (whitesnake_9.txt)	come an' get it	101	come an' get it	0.9497454
+-docstart- (whitesnake_9.txt)	slide it in	152	slide it in	0.94938636
+-docstart- (moonspell_7.txt)	under satan	173	under satanæ	0.9492333
+-docstart- (whitesnake_9.txt)	lovehunter	54	lovehunter	0.94901824
+-docstart- (moonspell_7.txt)	darkness and hope	106	darkness and hope	0.94858336
+-docstart- (skyclad%20(band)_8.txt)	in the... all together	93	in the... all together	0.94838333
+-docstart- (loudness%20(band)_6.txt)	soldier' s just came back	114	the soldier's just came back	0.94762856
+-docstart- (loudness%20(band)_6.txt)	loudness live 2002	149	loudness live 2002	0.94762856
+-docstart- (loudness%20(band)_6.txt)	loud' n' raw	68	loud 'n' raw	0.94762856
+-docstart- (loudness%20(band)_6.txt)	live loudest at the budokan' 91	177	live loudest at the budokan '91	0.94762856
+-docstart- (loudness%20(band)_6.txt)	eurobounds	90	eurobounds	0.94762856
+-docstart- (loudness%20(band)_6.txt)	8186 live	23	8186 live	0.94762856
+-docstart- (gotthard%20(band)_1.txt)	human zoo	44	human zoo (gotthard album)	0.9473282
+-docstart- (moonspell_7.txt)	butterfly effect	80	the butterfly effect (moonspell album)	0.94727224
+-docstart- (skyclad%20(band)_8.txt)	vintage whine	13	vintage whine	0.94706666
+-docstart- (ac%2fdc_21.txt)	highway to hell	133	highway to hell	0.9449794
+-docstart- (michael%20schenker%20group_0.txt)	be aware of scorpions	125	be aware of scorpions	0.94392
+-docstart- (michael%20schenker%20group_0.txt)	unforgiven	105	the unforgiven (album)	0.94333
+-docstart- (behemoth%20(band)_8.txt)	bewitching the pomerania	49	bewitching the pomerania	0.9431417
+-docstart- (michael%20schenker%20group_0.txt)	arachnophobiac	156	arachnophobiac	0.943135
+-docstart- (michael%20schenker%20group_0.txt)	tales of rock' n' roll	203	tales of rock'n'roll	0.94313
+-docstart- (behemoth%20(band)_8.txt)	and the forests dream eternally	8	and the forests dream eternally	0.94281673
+-docstart- (michael%20schenker%20group_0.txt)	in the midst of beauty	235	in the midst of beauty	0.94254506
+-docstart- (moonspell_7.txt)	wolfheart	16	wolfheart	0.9422611
+-docstart- (behemoth%20(band)_8.txt)	antichristian phenomenon	83	antichristian phenomenon	0.94151664
+-docstart- (behemoth%20(band)_8.txt)	ezkaton	166	ezkaton	0.9392084
+-docstart- (lunatica_0.txt)	rhapsody of fire	38	rhapsody of fire	0.9333333
+-docstart- (running%20wild%20(band)_4.txt)	branded and exiled	56	branded and exiled	0.93290716
+-docstart- (scorpions%20(band)_3.txt)	scorpions tour 2003	529	scorpions tour 2003	0.93284374
+-docstart- (running%20wild%20(band)_4.txt)	rogues en vogue	308	rogues en vogue	0.93221426
+-docstart- (running%20wild%20(band)_4.txt)	blazon stone	155	blazon stone	0.9320679
+-docstart- (ac%2fdc_21.txt)	powerage	115	powerage	0.9317744
+-docstart- (ac%2fdc_21.txt)	back in black	158	back in black	0.9315374
+-docstart- (running%20wild%20(band)_4.txt)	gates to purgatory	28	gates to purgatory	0.93053216
+-docstart- (running%20wild%20(band)_4.txt)	black hand inn	201	black hand inn	0.93039286
+-docstart- (rush%20(band)_16.txt)	clockwork angels	435	clockwork angels	0.9283427
+-docstart- (scorpions%20(band)_3.txt)	scorpions tour 2002	500	scorpions tour 2002	0.9254929
+-docstart- (meshuggah_6.txt)	obzen	146	obzen	0.92484164
+-docstart- (meshuggah_6.txt)	contradictions collapse	18	contradictions collapse	0.92484164
+-docstart- (meshuggah_6.txt)	chaosphere	82	chaosphere	0.92484164
+-docstart- (meshuggah_6.txt)	destroy erase improve	51	destroy erase improve	0.9241917
+-docstart- (scorpions%20(band)_3.txt)	unbreakable world tour	563	unbreakable world tour (scorpions tour)	0.92380714
+-docstart- (shining%20star%20(band)_1.txt)	pyramaze	11	pyramaze	0.923525
+-docstart- (scorpions%20(band)_3.txt)	humanity world tour	600	humanity world tour	0.92324996
+-docstart- (meshuggah_6.txt)	catch thirtythree	119	catch thirtythree	0.9228916
+-docstart- (judas%20priest_11.txt)	world vengeance tour	613	world vengeance tour	0.92181873
+-docstart- (lunatica_0.txt)	kamelot	56	kamelot	0.9202666
+-docstart- (raging%20speedhorn_3.txt)	before the sea was built	128	before the sea was built	0.91999
+-docstart- (dark%20moor_0.txt)	dark moor	105	dark moor (album)	0.9190429
+-docstart- (aria%20(band)_2.txt)	igra s ognyom	45	igra s ognyom	0.9184
+-docstart- (dark%20moor_0.txt)	gates of oblivion	78	the gates of oblivion	0.91764283
+-docstart- (raging%20speedhorn_3.txt)	how the great have fallen	93	how the great have fallen	0.91726005
+-docstart- (scorpions%20(band)_3.txt)	get your sting and blackout world tour	634	get your sting and blackout world tour	0.91622853
+-docstart- (ac%2fdc_21.txt)	for those about to rock	181	for those about to rock we salute you	0.91596496
+-docstart- (green%20carnation_3.txt)	blood red throne	68	blood red throne	0.9156857
+-docstart- (lunatica_0.txt)	edguy	65	edguy	0.91568327
+-docstart- (raging%20speedhorn_3.txt)	raging speedhorn	9	raging speedhorn (album)	0.91568005
+-docstart- (meshuggah_7.txt)	psykisk testbild	19	meshuggah (ep)	0.9152125
+-docstart- (meshuggah_7.txt)	true human design	82	the true human design	0.9142375
+-docstart- (meshuggah_7.txt)	selfcaged	59	selfcaged	0.9142375
+-docstart- (lacuna%20coil_9.txt)	unleashed memories	40	unleashed memories	0.91412
+-docstart- (lacuna%20coil_9.txt)	shallow life	105	shallow life	0.91412
+-docstart- (raging%20speedhorn_3.txt)	we will be dead tomorrow	35	we will be dead tomorrow	0.91411
+-docstart- (scorpions%20(band)_3.txt)	savage amusement	293	savage amusement	0.91364366

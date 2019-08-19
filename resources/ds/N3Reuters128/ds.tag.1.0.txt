@@ -1,0 +1,8 @@
+http:__aksw.org_n3_reuters-128_65	angiotensin converting enzyme inhibitor	148	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	ace inhibitor	334	ace inhibitor	0.76918805
+http:__aksw.org_n3_reuters-128_65	vaseretic	100	enalapril	0.74220234
+http:__aksw.org_n3_reuters-128_65	hydrodiuril	383	hydrochlorothiazide	0.7403333
+http:__aksw.org_n3_reuters-128_118	integrated services digital network	164	integrated services digital network	0.7214042
+http:__aksw.org_n3_reuters-128_65	merck and co inc	0	merck & co.	0.7173667
+http:__aksw.org_n3_reuters-128_51	hard disk drive	294	hard disk drive	0.70507085
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	0.6726929

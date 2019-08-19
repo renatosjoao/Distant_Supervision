@@ -1,0 +1,5 @@
+wor16447201.txt	yamuna	620	yamuna	1.0
+wor16447201.txt	rama devi	2071	rama devi (bihar politician)	1.0
+wor16447201.txt	madhya pradesh	1816	madhya pradesh	1.0
+wor16447201.txt	india	375	tamil nadu	1.0
+wor16447201.txt	india	280	tamil nadu	1.0

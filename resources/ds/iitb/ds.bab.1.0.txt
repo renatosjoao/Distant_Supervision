@@ -1,0 +1,71 @@
+yn_08oct08_file_9	nasdaq.com	8	nasdaq	1.0
+yn_08oct08_file_9	kouchner	624	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	380	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	287	bernard kouchner	1.0
+yn_08oct08_file_9	hamid karzai	739	hamid karzai	1.0
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	1.0
+yn_08oct08_file_9	afghan president	722	president of afghanistan	1.0
+yn_08oct08_file_8	district of	497	verden (district)	1.0
+yn_08oct08_file_8	center of	834	center city, philadelphia	1.0
+yn_08oct08_file_8	zabul province	509	zabul province	1.0
+yn_08oct08_file_8	zabul	509	zabul province	1.0
+yn_08oct08_file_8	yahoo! search	54	yahoo! search	1.0
+yn_08oct08_file_8	qalat district	491	qalat district	1.0
+yn_08oct08_file_8	october 7	16	october 7	1.0
+yn_08oct08_file_8	kabul, afghanistan	220	kabul	1.0
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	1.0
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	1.0
+yn_08oct08_file_8	associated press writer	165	associated press	1.0
+yn_08oct08_file_8	afghan army	1294	afghan national army	1.0
+yn_08oct08_file_7	northern afghanistan	1142	maymana	1.0
+yn_08oct08_file_7	october 08	46	october 8	1.0
+yn_08oct08_file_7	october 07	1340	october 7	1.0
+yn_08oct08_file_7	oct 7	139	october 7	1.0
+yn_08oct08_file_7	international security assistance force	1197	international security assistance force	1.0
+yn_08oct08_file_7	german cabinet	722	cabinet of germany	1.0
+yn_08oct08_file_7	german parliament	1004	bundestag	1.0
+yn_08oct08_file_7	afghan people	657	demographics of afghanistan	1.0
+yn_08oct08_file_6	al qaeda	2611	al-qaeda	1.0
+yn_08oct08_file_6	al qaeda	2406	al-qaeda	1.0
+yn_08oct08_file_6	al qaeda	2255	al-qaeda	1.0
+yn_08oct08_file_6	al qaeda	1934	al-qaeda	1.0
+yn_08oct08_file_6	aid convoys	2743	aid convoy	1.0
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	u.s. forces	1788	united states armed forces	1.0
+yn_08oct08_file_6	september 11 attacks	1962	september 11 attacks	1.0
+yn_08oct08_file_6	qari mohammad yousuf	3197	yousef ahmadi	1.0
+yn_08oct08_file_6	osama bin	2430	osama bin laden	1.0
+yn_08oct08_file_6	muttawakil	786	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	222	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	1141	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	mullah mohammad omar	1583	mohammed omar	1.0
+yn_08oct08_file_6	laden	2440	barry laden	1.0
+yn_08oct08_file_6	kai eide	2925	kai eide	1.0
+yn_08oct08_file_6	hamid karzai	1521	hamid karzai	1.0
+yn_08oct08_file_6	ahmed muttawakil	216	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	afghan president	1504	president of afghanistan	1.0
+yn_08oct08_file_6	al qaeda	1995	al-qaeda	1.0
+yn_08oct08_file_5	u.s. invasion of	284	operation enduring freedom	1.0
+yn_08oct08_file_5	qara	1190	qara yusuf	1.0
+yn_08oct08_file_5	oct. 6	160	october 6	1.0
+yn_08oct08_file_5	oct 6	128	october 6	1.0
+yn_08oct08_file_5	new york army national guard	1274	new york army national guard	1.0
+yn_08oct08_file_5	n.c.	1398	north carolina	1.0
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	1.0
+yn_08oct08_file_5	charlotte, n.c.	1387	charlotte, north carolina	1.0
+yn_08oct08_file_5	cavalry regiment	1256	cavalry regiments of the british army	1.0
+yn_08oct08_file_40	rest of	3270	flanders	1.0
+yn_08oct08_file_40	island of eleuthera	2869	eleuthera	1.0
+yn_08oct08_file_40	immigration problem	2586	immigration to bhutan	1.0
+yn_08oct08_file_40	arrangement of	2509	portsmouth (mike oldfield instrumental)	1.0
+yn_08oct08_file_40	united states in the 1950s	1928	united states in the 1950s	1.0
+yn_08oct08_file_40	spanish wells	3248	spanish wells	1.0
+yn_08oct08_file_40	eleuthera	3284	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	3143	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	2879	eleuthera	1.0
+yn_08oct08_file_40	bahamas' economy	687	economy of the bahamas	1.0
+yn_08oct08_file_40	bahamas economy	1305	economy of the bahamas	1.0
+yn_08oct08_file_4	war in	2058	vietnam war	1.0
+yn_08oct08_file_4	reason to be	199	man in motion (album)	1.0
+yn_08oct08_file_4	reason to be	1078	man in motion (album)	1.0
+yn_08oct08_file_4	secretary of defense robert gates	146	robert gates	1.0

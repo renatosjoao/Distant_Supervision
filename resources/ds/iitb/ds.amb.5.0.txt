@@ -1,0 +1,120 @@
+yn_08oct08_file_9	kouchner	624	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	380	bernard kouchner	1.0
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	1.0
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	1.0
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	1.0
+yn_08oct08_file_7	thomas steg	313	thomas steg	1.0
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	qari mohammad yousuf	3197	yousef ahmadi	1.0
+yn_08oct08_file_6	muttawakil	786	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	1141	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	mullah mohammad omar	1583	mohammed omar	1.0
+yn_08oct08_file_6	kai eide	2925	kai eide	1.0
+yn_08oct08_file_5	new york army national guard	1274	new york army national guard	1.0
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	1.0
+yn_08oct08_file_5	defense department	524	united states department of defense	1.0
+yn_08oct08_file_5	defense department	344	united states department of defense	1.0
+yn_08oct08_file_40	eleuthera	3143	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	2879	eleuthera	1.0
+yn_08oct08_file_4	mark carleton-smith	848	mark carleton-smith	1.0
+yn_08oct08_file_39	bahamas olympic association	104	bahamas olympic committee	1.0
+yn_08oct08_file_38	hubert ingraham	107	hubert ingraham	1.0
+yn_08oct08_file_38	christ community church	429	christ community church	1.0
+yn_08oct08_file_38	central bank of the bahamas	850	central bank of the bahamas	1.0
+yn_08oct08_file_36	u.s. treasury	2729	united states department of the treasury	1.0
+yn_08oct08_file_34	washington university	2338	washington university in st. louis	1.0
+yn_08oct08_file_34	siteman cancer center	1915	alvin j. siteman cancer center	1.0
+yn_08oct08_file_34	sheila allen	1636	sheila allen (english actress)	1.0
+yn_08oct08_file_34	pam blackwell	314	pam blackwell	1.0
+yn_08oct08_file_34	nassau	1270	the bahamas	1.0
+yn_08oct08_file_34	farmington	362	farmington, connecticut	1.0
+yn_08oct08_file_34	daily journal	5022	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	daily journal	4781	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	barnes hospital	1940	barnes-jewish hospital	1.0
+yn_08oct08_file_34	bahamas	212	the bahamas	1.0
+yn_08oct08_file_33	sub-saharan africa	5456	sub-saharan africa	1.0
+yn_08oct08_file_33	joan thompson	941	joan beauchamp	1.0
+yn_08oct08_file_33	central africa republic	5297	central african republic	1.0
+yn_08oct08_file_31	siula grande	7900	siula grande	1.0
+yn_08oct08_file_31	siula grande	7294	siula grande	1.0
+yn_08oct08_file_31	outer hebrides	6722	outer hebrides	1.0
+yn_08oct08_file_31	lower largo	1513	lower largo	1.0
+yn_08oct08_file_31	chris bonington	6284	chris bonington	1.0
+yn_08oct08_file_30	theatre royal bath	2165	theatre royal, bath	1.0
+yn_08oct08_file_30	nathaniel parker	2040	nathaniel parker	1.0
+yn_08oct08_file_30	christopher timothy	2061	christopher timothy	1.0
+yn_08oct08_file_30	arctic challenge	443	the arctic challenge	1.0
+yn_08oct08_file_28	wasilla	6466	wasilla, alaska	1.0
+yn_08oct08_file_28	u.s.	5484	united states	1.0
+yn_08oct08_file_28	trig	5745	trig (syntax)	1.0
+yn_08oct08_file_28	st. louis	5661	st. louis	1.0
+yn_08oct08_file_28	seal press	4627	perseus books group	1.0
+yn_08oct08_file_28	sarah palin	5592	sarah palin	1.0
+yn_08oct08_file_28	perseus books group	4659	perseus books group	1.0
+yn_08oct08_file_28	palin	5815	sarah palin	1.0
+yn_08oct08_file_28	national assembly of pakistan	1369	national assembly of pakistan	1.0
+yn_08oct08_file_28	national assembly	1590	national assembly of pakistan	1.0
+yn_08oct08_file_28	joe biden	5712	joe biden	1.0
+yn_08oct08_file_28	iraq	6895	iraq	1.0
+yn_08oct08_file_28	international monetary fund	2108	international monetary fund	1.0
+yn_08oct08_file_28	hillary clinton	6303	hillary clinton	1.0
+yn_08oct08_file_28	gop	6030	government of pakistan	1.0
+yn_08oct08_file_28	fakhri	2850	nargis fakhri	1.0
+yn_08oct08_file_28	fakhri	2605	nargis fakhri	1.0
+yn_08oct08_file_27	wasilla	5861	wasilla, alaska	1.0
+yn_08oct08_file_27	u.s.	4879	united states	1.0
+yn_08oct08_file_27	trig	5140	trig (syntax)	1.0
+yn_08oct08_file_27	st. louis	5056	st. louis	1.0
+yn_08oct08_file_27	sarah palin	4987	sarah palin	1.0
+yn_08oct08_file_27	perseus books group	4062	perseus books group	1.0
+yn_08oct08_file_27	pelosi	653	nancy pelosi	1.0
+yn_08oct08_file_27	pelosi	413	nancy pelosi	1.0
+yn_08oct08_file_27	palin	5210	sarah palin	1.0
+yn_08oct08_file_27	nancy pelosi	51	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	500	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	431	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	224	nancy pelosi	1.0
+yn_08oct08_file_27	julia ward howe	3779	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1310	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1241	julia ward howe	1.0
+yn_08oct08_file_27	joe biden	5107	joe biden	1.0
+yn_08oct08_file_27	iraq	6290	iraq	1.0
+yn_08oct08_file_27	iraq	3446	iraq	1.0
+yn_08oct08_file_27	iraq	2483	iraq	1.0
+yn_08oct08_file_27	huffington post	4135	huffpost	1.0
+yn_08oct08_file_27	howe	1568	julia ward howe	1.0
+yn_08oct08_file_27	hillary clinton	5698	hillary clinton	1.0
+yn_08oct08_file_27	getty images	185	getty images	1.0
+yn_08oct08_file_27	gop	5425	government of pakistan	1.0
+yn_08oct08_file_26	tomas morato	817	tomas morato	1.0
+yn_08oct08_file_26	sunshine dizon	138	sunshine dizon	1.0
+yn_08oct08_file_26	rosa negra	2794	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	rosa negra	2227	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	quezon city	831	quezon city	1.0
+yn_08oct08_file_26	maryo j. delos reyes	2316	maryo j. de los reyes	1.0
+yn_08oct08_file_26	jun lana	2354	jun lana	1.0
+yn_08oct08_file_26	joel lamangan	2301	joel lamangan	1.0
+yn_08oct08_file_25	dreamin	3199	plata o plomo (fat joe and remy ma album)	1.0
+yn_08oct08_file_25	daniel lanois	2329	daniel lanois	1.0
+yn_08oct08_file_24	tomas morato	999	tomas morato	1.0
+yn_08oct08_file_24	sunshine dizon	328	sunshine dizon	1.0
+yn_08oct08_file_24	sunshine dizon	28	sunshine dizon	1.0
+yn_08oct08_file_24	rosa negra	2923	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	2360	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	151	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	quezon city	1013	quezon city	1.0
+yn_08oct08_file_24	maryo j. delos reyes	2449	maryo j. de los reyes	1.0
+yn_08oct08_file_24	jun lana	2487	jun lana	1.0
+yn_08oct08_file_24	joel lamangan	2434	joel lamangan	1.0
+yn_08oct08_file_24	dizon	3184	sunshine dizon	1.0
+yn_08oct08_file_23	orphan annie	3078	little orphan annie	1.0
+yn_08oct08_file_23	michif	3633	michif	1.0
+yn_08oct08_file_23	gerry ritz	282	gerry ritz	1.0
+yn_08oct08_file_23	gabriel dumont institute	1190	gabriel dumont institute	1.0
+yn_08oct08_file_22	roseland theater	104	roseland theater	1.0
+yn_08oct08_file_22	arlene schnitzer	173	arlene schnitzer	1.0
+yn_08oct08_file_21	topper headon	4922	topper headon	1.0
+yn_08oct08_file_21	ted turner	2653	ted turner	1.0
+yn_08oct08_file_21	shea stadium	5367	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4644	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4458	shea stadium	1.0

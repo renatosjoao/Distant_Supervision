@@ -1,0 +1,24 @@
+yn_08oct08_file_9	kouchner	624	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	380	bernard kouchner	1.0
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	1.0
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	1.0
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	1.0
+yn_08oct08_file_7	thomas steg	313	thomas steg	1.0
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	qari mohammad yousuf	3197	yousef ahmadi	1.0
+yn_08oct08_file_6	muttawakil	786	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	1141	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	mullah mohammad omar	1583	mohammed omar	1.0
+yn_08oct08_file_6	kai eide	2925	kai eide	1.0
+yn_08oct08_file_5	new york army national guard	1274	new york army national guard	1.0
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	1.0
+yn_08oct08_file_5	defense department	524	united states department of defense	1.0
+yn_08oct08_file_5	defense department	344	united states department of defense	1.0
+yn_08oct08_file_40	eleuthera	3143	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	2879	eleuthera	1.0
+yn_08oct08_file_4	mark carleton-smith	848	mark carleton-smith	1.0
+yn_08oct08_file_39	bahamas olympic association	104	bahamas olympic committee	1.0
+yn_08oct08_file_38	hubert ingraham	107	hubert ingraham	1.0
+yn_08oct08_file_38	christ community church	429	christ community church	1.0
+yn_08oct08_file_38	central bank of the bahamas	850	central bank of the bahamas	1.0
+yn_08oct08_file_36	u.s. treasury	2729	united states department of the treasury	1.0

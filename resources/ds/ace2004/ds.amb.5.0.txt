@@ -1,0 +1,67 @@
+chtb_267.eng	xinhua news agency	424	xinhua news agency	1.0
+chtb_267.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_267.eng	weir group	74	weir group	1.0
+chtb_267.eng	weir group	3128	weir group	1.0
+chtb_267.eng	weir group	2316	weir group	1.0
+chtb_267.eng	weir group	2159	weir group	1.0
+chtb_267.eng	weir group	2104	weir group	1.0
+chtb_267.eng	weir group	1731	weir group	1.0
+chtb_267.eng	weir group	1427	weir group	1.0
+chtb_267.eng	jiangsu province	155	jiangsu	1.0
+chtb_227.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_227.eng	baltic sea	81	baltic sea	1.0
+chtb_227.eng	baltic sea	535	baltic sea	1.0
+chtb_227.eng	baltic sea	397	baltic sea	1.0
+chtb_227.eng	baltic sea	202	baltic sea	1.0
+chtb_227.eng	baltic sea	1057	baltic sea	1.0
+chtb_227.eng	baltic sea	1028	baltic sea	1.0
+chtb_171.eng	alberto fujimori	73	alberto fujimori	1.0
+chtb_165.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_165.eng	waitan	2307	the bund	1.0
+chtb_165.eng	japan industrial bank	1933	industrial bank of japan	1.0
+voa20001223.2000.0139	vojislav kostunica	40	vojislav koštunica	1.0
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	1.0
+voa20001223.2000.0139	democratic opposition of serbia	138	democratic opposition of serbia	1.0
+voa20001220.2000.0060	voa news	19	voice of america	1.0
+voa20001220.2000.0060	housing and urban development	701	united states department of housing and urban development	1.0
+voa20001220.2000.0060	george w bush	45	george w. bush	1.0
+voa20001208.2000.1275	national ice hockey league	88	national ice hockey league	1.0
+voa20001129.2000.0364	us supreme court	168	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	472	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	3473	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	2475	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	2023	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	1832	supreme court of the united states	1.0
+voa20001129.2000.0364	supreme court	1545	supreme court of the united states	1.0
+voa20001129.2000.0364	lawrence tribe	770	laurence tribe	1.0
+voa20001129.2000.0364	federal courts	248	federal judiciary of the united states	1.0
+pri20001201.2000.1828	us supreme court	63	supreme court of the united states	1.0
+pri20001201.2000.1828	us supreme court	1013	supreme court of the united states	1.0
+pri20001201.2000.1828	sandra day o'connor	776	sandra day o'connor	1.0
+pri20001201.2000.1828	george w. bush	317	george w. bush	1.0
+pri20001201.2000.1828	florida supreme court	541	supreme court of florida	1.0
+pri20001201.2000.1828	florida supreme court	1144	supreme court of florida	1.0
+pri20001201.2000.1828	federal high court	498	islamabad high court	1.0
+pri20001128.2000.0055	palm beach county	667	palm beach county, florida	1.0
+pri20001128.2000.0055	npr news	18	npr	1.0
+pri20001128.2000.0055	npr	282	npr	1.0
+pri20001128.2000.0055	npr	2814	npr	1.0
+pri20001128.2000.0055	npr	1824	npr	1.0
+pri20001128.2000.0055	miami dade county	513	miami-dade county, florida	1.0
+pri20001128.2000.0055	miami	1107	miami-dade county, florida	1.0
+pri20001128.2000.0055	kplu	2065	knkx	1.0
+pri20001128.2000.0055	corey flintoff	46	corey flintoff	1.0
+pri20001122.2000.0320	npr news	348	npr	1.0
+pri20001122.2000.0320	ehud barak	296	ehud barak	1.0
+pri20001122.2000.0320	corey flintoff	332	corey flintoff	1.0
+pri20001031.2000.1824	singapore airlines	62	singapore airlines	1.0
+pri20001031.2000.1824	singapore airlines	373	singapore airlines	1.0
+nyt20001217.2241.0165	westchester county airport	1788	westchester county airport	1.0
+nyt20001217.2241.0165	n.y. times news service	258	the new york times company	1.0
+nyt20001217.2241.0165	los angeles international	1664	los angeles international airport	1.0
+nyt20001217.2241.0165	john wayne airport	1736	john wayne airport	1.0
+nyt20001217.2241.0165	federal aviation administration	2704	federal aviation administration	1.0
+nyt20001217.2241.0165	chicago o'hare	539	o'hare international airport	1.0
+nyt20001217.2241.0165	calif.	1773	california	1.0
+nyt20001129.2040.0383	n.y. times news service	281	the new york times company	1.0
+nyt20001129.2040.0383	florida supreme court	585	supreme court of florida	1.0

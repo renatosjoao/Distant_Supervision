@@ -1,0 +1,16 @@
+@RELATION "oneclass_instances_R1_Tag_test"
+@ATTRIBUTE docid        STRING
+@ATTRIBUTE mention      STRING
+@ATTRIBUTE offset       NUMERIC
+@ATTRIBUTE link      STRING
+@ATTRIBUTE swords  NUMERIC
+@ATTRIBUTE sf         NUMERIC
+@ATTRIBUTE sdf      NUMERIC
+@ATTRIBUTE scand      NUMERIC
+@ATTRIBUTE mpos      NUMERIC
+@ATTRIBUTE msent     NUMERIC
+@ATTRIBUTE dwords     NUMERIC
+@ATTRIBUTE dents   NUMERIC
+@ATTRIBUTE Class	{1}
+
+@DATA

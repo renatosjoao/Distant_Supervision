@@ -1,0 +1,15 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	spree river	231	spree	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence4	nets	7	brooklyn nets	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	mikhail d. prokhorov	152	mikhail prokhorov	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	hypertext markup language	39	html	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence2	international monetary fund	51	international monetary fund	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	timothy f. geithner	61	timothy geithner	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	canadian embassy	37	embassy of canada, washington, d.c.	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	rikers	261	rikers island	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence1	rikers island	90	rikers island	1.0
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	europe	87	europe	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence5	google	48	google	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence2	google	24	google	1.0
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	jennifer cole	32	jennifer cole	1.0

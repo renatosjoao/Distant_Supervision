@@ -1,0 +1,9 @@
+http:__gerdaq_gerdaq_traininga.xml_92	bugs life	2	a bug's life	1.0
+http:__gerdaq_gerdaq_test.xml_236	memphis ;tennessee	8	memphis, tennessee	0.92399913
+http:__gerdaq_gerdaq_test.xml_203	triangle towne center	0	triangle town center	0.8588
+http:__gerdaq_gerdaq_traininga.xml_124	fibre channel	7	fibre channel	0.8549
+http:__gerdaq_gerdaq_devel.xml_161	corolla north carolina	0	corolla, north carolina	0.83134997
+http:__gerdaq_gerdaq_devel.xml_52	university of santo tomas	0	university of santo tomas	0.8304
+http:__gerdaq_gerdaq_trainingb.xml_231	carriage return	8	carriage return	0.8088
+http:__gerdaq_gerdaq_traininga.xml_164	highland high school	0	highland high school (bakersfield, california)	0.8039
+http:__gerdaq_gerdaq_trainingb.xml_213	kddi	8	kddi	0.79366976

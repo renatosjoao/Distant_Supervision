@@ -1,0 +1,14 @@
+apw20001207.2118.0838	origin of birds	978	origin of birds	0.73126113
+chtb_165.eng	tokyo mitsubishi bank	445	the bank of tokyo-mitsubishi ufj	0.7299454
+apw20001207.2118.0838	archaeopteryx	1919	archaeopteryx	0.7257375
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	0.72344565
+apw20001207.2118.0838	archaeopteryx	3731	archaeopteryx	0.72167003
+apw20001127.1346.0419	chicago white sox	1332	chicago white sox	0.71961
+apw20001127.1346.0419	los angeles dodgers	1351	los angeles dodgers	0.7196033
+apw20001001.2021.0521	hosni mubarak	120	hosni mubarak	0.71895665
+apw20001203.1456.0329	al gore	146	al gore	0.70480454
+nyt20001002.1754.0290	plankton	1120	plankton	0.69836664
+apw20001203.1456.0329	george w. bush	171	george w. bush	0.69547695
+20001115_afp_arb.0217.eng	boris yeltsin	716	boris yeltsin	0.69532305
+apw20001207.2118.0838	dino-bird	883	origin of birds	0.69466114
+20001115_afp_arb.0217.eng	asia-pacific economic cooperation	510	asia-pacific economic cooperation	0.692781

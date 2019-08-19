@@ -1,0 +1,129 @@
+-docstart- (9 cel09)	tapes	52	tape (play)	1.0
+-docstart- (8 cel08)	husband	14	len sassaman	1.0
+-docstart- (8 cel08)	vegas	35	las vegas	1.0
+-docstart- (49 pol09)	jfk	42	john f. kennedy	1.0
+-docstart- (48 pol08)	province of greece	15	provinces of greece	1.0
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	1.0
+-docstart- (47 pol07)	erich	0	erich honecker	1.0
+-docstart- (46 pol06)	first man on the moon	18	neil armstrong	1.0
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	1.0
+-docstart- (45 pol05)	october 20	27	october 20	1.0
+-docstart- (45 pol05)	kennedy	16	john f. kennedy	1.0
+-docstart- (44 pol04)	raf	4	red army faction	1.0
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	1.0
+-docstart- (43 pol03)	second world	45	second world	1.0
+-docstart- (42 pol02)	euro	66	europe	1.0
+-docstart- (41 pol01)	watergate	21	watergate scandal	1.0
+-docstart- (41 pol01)	nixon resigned	0	watergate scandal	1.0
+-docstart- (40 spo10)	hertha	0	hertha bsc	1.0
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	1.0
+-docstart- (4 cel04)	tiger	0	tiger woods	1.0
+-docstart- (39 spo09)	yabo	0	reinhold yabo	1.0
+-docstart- (39 spo09)	aachen	15	alemannia aachen	1.0
+-docstart- (38 spo08)	tivoli	34	new tivoli	1.0
+-docstart- (38 spo08)	meijer	13	erik meijer (footballer)	1.0
+-docstart- (38 spo08)	landgraf	0	willi landgraf	1.0
+-docstart- (37 spo07)	match	40	2005 uefa champions league final	1.0
+-docstart- (37 spo07)	san siro	64	san siro	1.0
+-docstart- (36 spo06)	haug	0	jutta haug	1.0
+-docstart- (35 spo05)	munich	41	munich	1.0
+-docstart- (30 bus10)	bosch	0	robert bosch gmbh	1.0
+-docstart- (3 cel03)	woods	22	tiger woods	1.0
+-docstart- (3 cel03)	tiger	0	tiger woods	1.0
+-docstart- (3 cel03)	elin	54	elin nordegren	1.0
+-docstart- (29 bus09)	bounty	18	bounty (chocolate bar)	1.0
+-docstart- (28 bus08)	pixar	0	pixar	1.0
+-docstart- (27 bus07)	international	30	europe	1.0
+-docstart- (27 bus07)	equity international	23	equity international	1.0
+-docstart- (23 bus03)	bill	180	bill gates	1.0
+-docstart- (21 bus01)	stanford	78	stanford university	1.0
+-docstart- (21 bus01)	apple	44	apple inc.	1.0
+-docstart- (20 mus10)	mayall	59	john mayall	1.0
+-docstart- (18 mus08)	baez	9	joan baez	1.0
+-docstart- (17 mus07)	jones	38	john paul jones (musician)	1.0
+-docstart- (17 mus07)	homme	20	josh homme	1.0
+-docstart- (17 mus07)	grohl	27	dave grohl	1.0
+-docstart- (16 mus06)	country star	32	country star	1.0
+-docstart- (15 mus05)	decade	66	decade (neil young album)	1.0
+-docstart- (15 mus05)	sinatra	80	frank sinatra	1.0
+-docstart- (15 mus05)	dylan	89	bob dylan	1.0
+-docstart- (14 mus04)	hendrix	67	jimi hendrix	1.0
+-docstart- (12 mus02)	joey	47	joey (bob dylan song)	1.0
+-docstart- (12 mus02)	harris	28	emmylou harris	1.0
+-docstart- (12 mus02)	desire	0	desire (bob dylan album)	1.0
+-docstart- (11 mus01)	desire	73	desire (bob dylan album)	1.0
+-docstart- (11 mus01)	carter	50	rubin carter	1.0
+-docstart- (10 cel10)	kate	21	kate voegele	1.0
+-docstart- (19 mus09)	wight	12	isle of wight	0.967741935483871
+-docstart- (13 mus03)	clapton	73	eric clapton	0.9649122807017544
+-docstart- (23 bus03)	charter	74	europe	0.9574468085106383
+-docstart- (4 cel04)	us open	15	u.s. open (golf)	0.9230769230769231
+-docstart- (23 bus03)	next generation	114	next-generation secure computing base	0.9230769230769231
+-docstart- (10 cel10)	stefani	8	gwen stefani	0.9230769230769231
+-docstart- (46 pol06)	man	24	neil armstrong	0.8888888888888888
+-docstart- (13 mus03)	page	92	jimmy page	0.8888888888888888
+-docstart- (41 pol01)	nixon	0	presidency of richard nixon	0.8695652173913043
+-docstart- (22 bus02)	stanford	30	stanford university	0.8571428571428571
+-docstart- (23 bus03)	cairo	0	cairo (operating system)	0.8333333333333334
+-docstart- (19 mus09)	chicago	107	windy city (musical)	0.8333333333333334
+-docstart- (11 mus01)	dylan	0	bob dylan	0.8235294117647058
+-docstart- (44 pol04)	baader	37	andreas baader	0.8181818181818182
+-docstart- (27 bus07)	sam	0	sam walton	0.8
+-docstart- (25 bus05)	fortunes	33	fortune 500	0.8
+-docstart- (14 mus04)	seattle	25	keyarena	0.8
+-docstart- (23 bus03)	vision	170	visi on	0.75
+-docstart- (43 pol03)	second world war	45	world war ii	0.7483870967741936
+-docstart- (43 pol03)	world war	52	world war ii	0.7272727272727273
+-docstart- (29 bus09)	mars	0	mars, incorporated	0.7142857142857143
+-docstart- (13 mus03)	beck	82	jeff beck	0.7142857142857143
+-docstart- (46 pol06)	moon	35	moon	0.7
+-docstart- (15 mus05)	columbia	116	columbia records	0.6962025316455697
+-docstart- (43 pol03)	enola gay	4	enola gay	0.6875
+-docstart- (19 mus09)	woodstock	75	woodstock	0.6792452830188679
+-docstart- (21 bus01)	steve	19	steve jobs	0.6746987951807228
+-docstart- (45 pol05)	october	27	october 18	0.6666666666666666
+-docstart- (28 bus08)	cars	15	cars (film)	0.6666666666666666
+-docstart- (16 mus06)	recordings	94	sony bmg	0.6666666666666666
+-docstart- (14 mus04)	science	109	england	0.6666666666666666
+-docstart- (16 mus06)	home	122	new york city	0.649746192893401
+-docstart- (41 pol01)	china	83	cathay	0.6451612903225806
+-docstart- (43 pol03)	war	58	world war ii	0.6338797814207651
+-docstart- (4 cel04)	open	18	u.s. open (golf)	0.625
+-docstart- (24 bus04)	days	75	2008 summer olympics	0.6153846153846154
+-docstart- (16 mus06)	american recordings	85	american recordings (record label)	0.6153846153846154
+-docstart- (15 mus05)	sony	140	columbia records	0.6024096385542169
+-docstart- (44 pol04)	schleyer	68	waltrude schleyer	0.6
+-docstart- (42 pol02)	sun	4	sun	0.6
+-docstart- (30 bus10)	sharp	10	sharp corporation	0.6
+-docstart- (20 mus10)	eric	0	eric clapton	0.5862068965517241
+-docstart- (16 mus06)	star	40	star (magazine)	0.5714285714285714
+-docstart- (14 mus04)	allen	0	sheila allen (english actress)	0.5714285714285714
+-docstart- (10 cel10)	mtv	68	mtv video music award	0.5714285714285714
+-docstart- (19 mus09)	davis	100	miles davis	0.5645161290322581
+-docstart- (28 bus08)	john	25	john lasseter	0.5555555555555556
+-docstart- (15 mus05)	joel	96	billy joel	0.5555555555555556
+-docstart- (15 mus05)	santana	106	santana (band)	0.5384615384615384
+-docstart- (42 pol02)	greece	36	greece	0.5217391304347826
+-docstart- (19 mus09)	isle of wight festival	4	isle of wight	0.5185185185185185
+-docstart- (22 bus02)	microsoft	47	microsoft	0.5106382978723404
+-docstart- (11 mus01)	hurricane	16	hurricane (bob dylan song)	0.509090909090909
+-docstart- (46 pol06)	man on the moon	24	man on the moon (song)	0.5
+-docstart- (35 spo05)	thomas	0	thomas kastenmaier	0.5
+-docstart- (35 spo05)	mario	11	mario adorf	0.5
+-docstart- (27 bus07)	nickname	59	linguistic issues concerning the euro	0.5
+-docstart- (21 bus01)	times	112	time warner	0.5
+-docstart- (17 mus07)	caligula	69	emperor magus caligula	0.5
+-docstart- (11 mus01)	fighter	42	fighter (song)	0.5
+-docstart- (23 bus03)	microsoft	41	microsoft	0.4878048780487805
+-docstart- (16 mus06)	rubin	144	rick rubin	0.4745762711864407
+-docstart- (22 bus02)	steve	9	steve jobs	0.45871559633027525
+-docstart- (7 cel07)	brad	42	brad pitt	0.4444444444444444
+-docstart- (23 bus03)	generation	119	millennials	0.4444444444444444
+-docstart- (16 mus06)	country	32	united states	0.4353120243531202
+-docstart- (2 cel02)	spice	25	spice girls	0.43478260869565216
+-docstart- (26 bus06)	apple	6	apple inc.	0.42857142857142855
+-docstart- (9 cel09)	kim	10	kim kardashian	0.42105263157894735
+-docstart- (19 mus09)	isle of wight	4	isle of wight	0.4161849710982659
+-docstart- (46 pol06)	armstrong	0	neil armstrong	0.40540540540540543
+-docstart- (32 spo02)	emirates	47	emirates stadium	0.4
+-docstart- (29 bus09)	galaxy	6	galaxy (chocolate)	0.4

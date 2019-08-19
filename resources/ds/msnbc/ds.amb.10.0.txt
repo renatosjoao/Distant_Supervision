@@ -1,0 +1,59 @@
+wor16447201.txt	yamuna	620	yamuna	1.0
+wor16447201.txt	rama devi	2071	rama devi (bihar politician)	1.0
+wor16447201.txt	madhya pradesh	1816	madhya pradesh	1.0
+wor16447201.txt	india	375	tamil nadu	1.0
+wor16447201.txt	india	280	tamil nadu	1.0
+wor16447201.txt	india	135	tamil nadu	1.0
+wor16447201.txt	garuda	2663	garuda	1.0
+wor16447201.txt	garuda	2507	garuda	1.0
+wor16447201.txt	ganges	608	ganges	1.0
+wor16447201.txt	ganges	255	ganges	1.0
+wor16447201.txt	ganges	1847	ganges	1.0
+wor16447201.txt	ganges	17	ganges	1.0
+wor16447201.txt	ganges	1110	ganges	1.0
+wor13259309.txt	muqtada al-sadr	4114	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4089	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4080	muqtada al-sadr	1.0
+wor13259309.txt	muqtada	4071	muqtada al-sadr	1.0
+wor13259309.txt	mowaffak al-rubaie	422	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	2820	mowaffak al-rubaie	1.0
+wor13259309.txt	mowaffak al-rubaie	1872	mowaffak al-rubaie	1.0
+wor13259309.txt	mahdi army	4178	peace companies	1.0
+wor13259309.txt	al-sadr	4302	muqtada al-sadr	1.0
+usn16444287.txt	us airways	1397	us airways	1.0
+usn16444287.txt	u.s. immigration and customs enforcement	2874	u.s. immigration and customs enforcement	1.0
+usn16444287.txt	north las vegas	2646	north las vegas, nevada	1.0
+usn16444287.txt	feinstein	3182	dianne feinstein	1.0
+usn16444287.txt	dianne feinstein	3088	dianne feinstein	1.0
+usn16444287.txt	condor airlines	1791	condor flugdienst	1.0
+usn16444287.txt	california	666	california	1.0
+usn16444287.txt	california	581	california	1.0
+usn16444287.txt	calif.	133	california	1.0
+usn16444287.txt	border protection	860	border protection, anti-terrorism and illegal immigration control act of 2005	1.0
+usn16444287.txt	border protection	2495	border protection, anti-terrorism and illegal immigration control act of 2005	1.0
+usn16443053.txt	wyo	586	wyo, california	1.0
+usn16443053.txt	washington	480	united states	1.0
+usn16443053.txt	u.s.	765	united states	1.0
+usn16443053.txt	u.s.	2572	united states	1.0
+usn16443053.txt	u.s.	154	united states	1.0
+usn16443053.txt	u.s.	13	united states	1.0
+usn16443053.txt	sioux falls	547	sioux falls, south dakota	1.0
+usn16443053.txt	s.d.	560	south dakota	1.0
+usn16443053.txt	ohio	541	ohio	1.0
+usn16443053.txt	michael chertoff	1981	michael chertoff	1.0
+usn16443053.txt	laramie county	570	laramie county, wyoming	1.0
+usn16443053.txt	la.	653	louisiana	1.0
+usn16443053.txt	homeland security department	4299	united states department of homeland security	1.0
+usn16443053.txt	homeland security department	1193	united states department of homeland security	1.0
+usn16443053.txt	homeland security	1953	united states department of homeland security	1.0
+usn16443053.txt	homeland security	1833	united states department of homeland security	1.0
+usn16443053.txt	congress	4092	united states	1.0
+usn16443053.txt	congress	1275	united states	1.0
+usn16443053.txt	charles schumer	1720	chuck schumer	1.0
+usn16443053.txt	associated press	376	associated press	1.0
+tvn16442342.txt	w. va.	130	west virginia	1.0
+tvn16442342.txt	united mine workers of america	2173	united mine workers	1.0
+tvn16442342.txt	randal mccloy	371	sago mine disaster	1.0
+tvn16442342.txt	mine safety and health administration	1219	mine safety and health administration	1.0
+tvn16442287.txt	american journal of clinical nutrition	1276	the american journal of clinical nutrition	1.0
+tra16444229.txt	houston police	580	houston police department	1.0

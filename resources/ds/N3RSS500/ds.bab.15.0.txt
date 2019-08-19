@@ -1,0 +1,485 @@
+http:__aksw.org_n3_rss-500_99	yankees baseball	18	new york yankees	1.0
+http:__aksw.org_n3_rss-500_99	lucchino	84	larry lucchino	1.0
+http:__aksw.org_n3_rss-500_99	larry lucchino	78	larry lucchino	1.0
+http:__aksw.org_n3_rss-500_98	valentine	21	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_98	bobby valentine	15	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_97	visit	49	visit of king george iv to scotland	1.0
+http:__aksw.org_n3_rss-500_97	pesky	0	johnny pesky	1.0
+http:__aksw.org_n3_rss-500_96	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_95	bobby valentine	23	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_93	rob pelinka	129	rob pelinka	1.0
+http:__aksw.org_n3_rss-500_93	press on	55	press on	1.0
+http:__aksw.org_n3_rss-500_93	pelinka	133	rob pelinka	1.0
+http:__aksw.org_n3_rss-500_93	friday	64	tim friday	1.0
+http:__aksw.org_n3_rss-500_93	bryant	113	kobe bryant	1.0
+http:__aksw.org_n3_rss-500_92	boise	4	nampa, idaho	1.0
+http:__aksw.org_n3_rss-500_91	boingo wireless	105	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_91	boingo	105	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_90	pretorius	0	johan pretorius	1.0
+http:__aksw.org_n3_rss-500_90	boeremag	47	boeremag	1.0
+http:__aksw.org_n3_rss-500_89	bobby valentine	124	bobby valentine	1.0
+http:__aksw.org_n3_rss-500_88	series of	105	national lampoon's vacation (film series)	1.0
+http:__aksw.org_n3_rss-500_88	raytheon co.	68	raytheon	1.0
+http:__aksw.org_n3_rss-500_88	port authority police	164	port authority of new york and new jersey police department	1.0
+http:__aksw.org_n3_rss-500_87	maveron	187	maveron	1.0
+http:__aksw.org_n3_rss-500_87	howard schultz	242	howard schultz	1.0
+http:__aksw.org_n3_rss-500_86	appliance	27	suning appliance	1.0
+http:__aksw.org_n3_rss-500_85	moosehead lake	94	moosehead lake	1.0
+http:__aksw.org_n3_rss-500_85	moosehead	94	moosehead lake	1.0
+http:__aksw.org_n3_rss-500_85	lake region	104	lakes region (new hampshire)	1.0
+http:__aksw.org_n3_rss-500_83	emrich	65	armin emrich	1.0
+http:__aksw.org_n3_rss-500_82	charleston convention	138	1860 democratic national convention	1.0
+http:__aksw.org_n3_rss-500_81	bluescope	255	bluescope steel	1.0
+http:__aksw.org_n3_rss-500_80	milton , mass.	24	milton, massachusetts	1.0
+http:__aksw.org_n3_rss-500_80	mcdonough	5	denis mcdonough	1.0
+http:__aksw.org_n3_rss-500_80	mass.	33	massachusetts	1.0
+http:__aksw.org_n3_rss-500_80	colo.	82	colorado	1.0
+http:__aksw.org_n3_rss-500_80	aurora , colo.	73	aurora, colorado	1.0
+http:__aksw.org_n3_rss-500_80	aurora	73	aurora, colorado	1.0
+http:__aksw.org_n3_rss-500_8	yang	0	yang yuehua	1.0
+http:__aksw.org_n3_rss-500_8	miriam	50	miriam marx	1.0
+http:__aksw.org_n3_rss-500_79	west virginia state university	30	west virginia state university	1.0
+http:__aksw.org_n3_rss-500_79	virginia state university	35	virginia state university	1.0
+http:__aksw.org_n3_rss-500_79	bridgemont community and technical college	100	bridgevalley community and technical college	1.0
+http:__aksw.org_n3_rss-500_78	mohr	135	philipp mohr	1.0
+http:__aksw.org_n3_rss-500_78	davidow	140	jeffrey davidow	1.0
+http:__aksw.org_n3_rss-500_77	fun	13	angela mak soek fun	1.0
+http:__aksw.org_n3_rss-500_76	west virginia state university	30	west virginia state university	1.0
+http:__aksw.org_n3_rss-500_76	virginia state university	35	virginia state university	1.0
+http:__aksw.org_n3_rss-500_76	bridgemont community and technical college	100	bridgevalley community and technical college	1.0
+http:__aksw.org_n3_rss-500_73	virgin australia	100	virgin australia	1.0
+http:__aksw.org_n3_rss-500_72	fork union military academy	49	fork union military academy	1.0
+http:__aksw.org_n3_rss-500_71	ney	26	michel ney	1.0
+http:__aksw.org_n3_rss-500_71	caltrans	34	california department of transportation	1.0
+http:__aksw.org_n3_rss-500_71	bart	21	bay area rapid transit	1.0
+http:__aksw.org_n3_rss-500_70	alan rifkin	87	alan rifkin	1.0
+http:__aksw.org_n3_rss-500_7	simms	100	william gilmore simms	1.0
+http:__aksw.org_n3_rss-500_7	ryan	95	bill ryan (journalist)	1.0
+http:__aksw.org_n3_rss-500_69	libor	183	libor	1.0
+http:__aksw.org_n3_rss-500_66	facebook.com	112	facebook	1.0
+http:__aksw.org_n3_rss-500_66	the denver	221	the denver dry goods company	1.0
+http:__aksw.org_n3_rss-500_66	online newsroom	16	online newsroom	1.0
+http:__aksw.org_n3_rss-500_66	denver art museum	225	denver art museum	1.0
+http:__aksw.org_n3_rss-500_63	night	180	disco demolition night	1.0
+http:__aksw.org_n3_rss-500_63	red	160	red kellett	1.0
+http:__aksw.org_n3_rss-500_63	omar quintanilla	86	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_63	mark reynolds	33	mark reynolds (baseball)	1.0
+http:__aksw.org_n3_rss-500_63	josh beckett	139	josh beckett	1.0
+http:__aksw.org_n3_rss-500_62	red	127	red kellett	1.0
+http:__aksw.org_n3_rss-500_62	omar quintanilla	53	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_62	mark	0	mark reynolds (baseball)	1.0
+http:__aksw.org_n3_rss-500_62	josh beckett	106	josh beckett	1.0
+http:__aksw.org_n3_rss-500_61	red	174	red barkley	1.0
+http:__aksw.org_n3_rss-500_61	omar quintanilla	81	omar quintanilla	1.0
+http:__aksw.org_n3_rss-500_61	mark reynolds	28	mark reynolds (baseball)	1.0
+http:__aksw.org_n3_rss-500_61	mark	28	mark reynolds (baseball)	1.0
+http:__aksw.org_n3_rss-500_61	josh beckett	146	josh beckett	1.0
+http:__aksw.org_n3_rss-500_60	lookin at lucky	55	lookin at lucky	1.0
+http:__aksw.org_n3_rss-500_60	lookin	55	lookin at lucky	1.0
+http:__aksw.org_n3_rss-500_60	haskell	16	haskell invitational stakes	1.0
+http:__aksw.org_n3_rss-500_60	baffert	0	bob baffert	1.0
+http:__aksw.org_n3_rss-500_6	india	91	india	1.0
+http:__aksw.org_n3_rss-500_59	muslera	93	fernando muslera	1.0
+http:__aksw.org_n3_rss-500_59	bafetimbi gomis	11	bafétimbi gomis	1.0
+http:__aksw.org_n3_rss-500_58	van garderen	30	tejay van garderen	1.0
+http:__aksw.org_n3_rss-500_58	bmc	17	bmc racing team	1.0
+http:__aksw.org_n3_rss-500_56	founder	21	carignan	1.0
+http:__aksw.org_n3_rss-500_56	victor conte	29	victor conte	1.0
+http:__aksw.org_n3_rss-500_55	ga.	60	georgia (u.s. state)	1.0
+http:__aksw.org_n3_rss-500_55	decatur , ga.	50	decatur, georgia	1.0
+http:__aksw.org_n3_rss-500_55	champions	4	will champion	1.0
+http:__aksw.org_n3_rss-500_54	associated press writers	0	associated press	1.0
+http:__aksw.org_n3_rss-500_53	associated press writers	0	associated press	1.0
+http:__aksw.org_n3_rss-500_53	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_52	report	190	drudge report	1.0
+http:__aksw.org_n3_rss-500_52	peru	47	flag of peru	1.0
+http:__aksw.org_n3_rss-500_52	lawless	59	fred lawless	1.0
+http:__aksw.org_n3_rss-500_52	karl ritter	141	carl ritter	1.0
+http:__aksw.org_n3_rss-500_52	karl	141	karl marx	1.0
+http:__aksw.org_n3_rss-500_52	jill	54	jill hazelbaker	1.0
+http:__aksw.org_n3_rss-500_52	david	69	david s. goodman	1.0
+http:__aksw.org_n3_rss-500_52	associated press writers	0	associated press	1.0
+http:__aksw.org_n3_rss-500_52	associated press	0	associated press	1.0
+http:__aksw.org_n3_rss-500_52	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_51	associated press writers	0	associated press	1.0
+http:__aksw.org_n3_rss-500_51	ap	160	krasue	1.0
+http:__aksw.org_n3_rss-500_50	associated press writers	0	associated press	1.0
+http:__aksw.org_n3_rss-500_50	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_50	asif	25	asif ali zardari	1.0
+http:__aksw.org_n3_rss-500_499	exit	19	exit (festival)	1.0
+http:__aksw.org_n3_rss-500_499	melanie sloan	126	melanie sloan	1.0
+http:__aksw.org_n3_rss-500_496	mayo clinic	0	mayo clinic	1.0
+http:__aksw.org_n3_rss-500_494	defensive player	43	wnba defensive player of the year award	1.0
+http:__aksw.org_n3_rss-500_494	bednarik award	16	chuck bednarik award	1.0
+http:__aksw.org_n3_rss-500_491	mary keefe	163	mary keefe	1.0
+http:__aksw.org_n3_rss-500_49	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_49	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_489	elie baup	45	élie baup	1.0
+http:__aksw.org_n3_rss-500_488	appalachian trail conservancy	90	appalachian trail conservancy	1.0
+http:__aksw.org_n3_rss-500_487	national venture capital association	116	national venture capital association	1.0
+http:__aksw.org_n3_rss-500_486	eric wedge	71	eric wedge	1.0
+http:__aksw.org_n3_rss-500_486	eric	71	eric wedge	1.0
+http:__aksw.org_n3_rss-500_485	michigan supreme court	37	michigan supreme court	1.0
+http:__aksw.org_n3_rss-500_485	marcia	0	marcia s. krieger	1.0
+http:__aksw.org_n3_rss-500_484	china daily	92	china daily	1.0
+http:__aksw.org_n3_rss-500_481	yaya toure	39	yaya touré	1.0
+http:__aksw.org_n3_rss-500_481	tevez	59	carlos tevez	1.0
+http:__aksw.org_n3_rss-500_481	samir nasri	69	samir nasri	1.0
+http:__aksw.org_n3_rss-500_481	carlos tevez	52	carlos tevez	1.0
+http:__aksw.org_n3_rss-500_481	birmingham , england	0	brummagem	1.0
+http:__aksw.org_n3_rss-500_48	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_48	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_479	spring harbor hospital	52	maine medical center	1.0
+http:__aksw.org_n3_rss-500_479	spring harbor	52	cold spring harbor laboratory	1.0
+http:__aksw.org_n3_rss-500_479	maine state police	95	maine state police	1.0
+http:__aksw.org_n3_rss-500_479	harbor hospital	59	medstar harbor hospital	1.0
+http:__aksw.org_n3_rss-500_478	sami khedira	75	sami khedira	1.0
+http:__aksw.org_n3_rss-500_478	khedira	80	sami khedira	1.0
+http:__aksw.org_n3_rss-500_478	di maria	199	di maría	1.0
+http:__aksw.org_n3_rss-500_478	angel di maria	193	ángel di maría	1.0
+http:__aksw.org_n3_rss-500_477	play	153	the play	1.0
+http:__aksw.org_n3_rss-500_477	peyton manning	105	peyton manning	1.0
+http:__aksw.org_n3_rss-500_476	mu	30	mu tiezhu	1.0
+http:__aksw.org_n3_rss-500_474	smoltz	103	john smoltz	1.0
+http:__aksw.org_n3_rss-500_474	michele smith	0	michele mary smith	1.0
+http:__aksw.org_n3_rss-500_474	john smoltz	98	john smoltz	1.0
+http:__aksw.org_n3_rss-500_473	major league debut	76	major league baseball	1.0
+http:__aksw.org_n3_rss-500_473	mlb network	21	mlb network	1.0
+http:__aksw.org_n3_rss-500_473	ken griffey jr.	144	ken griffey, jr.	1.0
+http:__aksw.org_n3_rss-500_473	harold reynolds	41	harold reynolds	1.0
+http:__aksw.org_n3_rss-500_473	griffey jr.	148	ken griffey, jr.	1.0
+http:__aksw.org_n3_rss-500_473	bryce harper	60	bryce harper	1.0
+http:__aksw.org_n3_rss-500_471	vernon burch	525	vernon burch	1.0
+http:__aksw.org_n3_rss-500_471	j.	356	j.	1.0
+http:__aksw.org_n3_rss-500_471	feagan	740	the angel of pennsylvania avenue	1.0
+http:__aksw.org_n3_rss-500_471	deandra	614	deandra reynolds	1.0
+http:__aksw.org_n3_rss-500_471	co.	995	county dublin	1.0
+http:__aksw.org_n3_rss-500_470	aguilar	65	pepe aguilar	1.0
+http:__aksw.org_n3_rss-500_47	report	64	drudge report	1.0
+http:__aksw.org_n3_rss-500_47	miami	38	miami hurricanes	1.0
+http:__aksw.org_n3_rss-500_47	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_47	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_469	zona	79	arizona	1.0
+http:__aksw.org_n3_rss-500_468	charges	64	charge (fanfare)	1.0
+http:__aksw.org_n3_rss-500_468	challenge	106	challenge records (1950s)	1.0
+http:__aksw.org_n3_rss-500_468	case	170	tiffany case	1.0
+http:__aksw.org_n3_rss-500_468	vail	75	vail m. pittman	1.0
+http:__aksw.org_n3_rss-500_468	los angeles lakers	5	los angeles lakers	1.0
+http:__aksw.org_n3_rss-500_466	chairman	11	president of the palestinian national authority	1.0
+http:__aksw.org_n3_rss-500_466	roger	20	roger wilbraham	1.0
+http:__aksw.org_n3_rss-500_466	plc	7	palestinian legislative council	1.0
+http:__aksw.org_n3_rss-500_466	lonmin plc	0	lonmin	1.0
+http:__aksw.org_n3_rss-500_466	lonmin	0	lonmin	1.0
+http:__aksw.org_n3_rss-500_465	weeks	46	alan weeks	1.0
+http:__aksw.org_n3_rss-500_465	sebastian coe	115	sebastian coe	1.0
+http:__aksw.org_n3_rss-500_464	sino-japanese peace treaty	132	treaty of taipei	1.0
+http:__aksw.org_n3_rss-500_464	president ma ying-jeou	61	ma ying-jeou	1.0
+http:__aksw.org_n3_rss-500_464	president ma	61	ma ying-jeou	1.0
+http:__aksw.org_n3_rss-500_464	ma ying-jeou	71	ma ying-jeou	1.0
+http:__aksw.org_n3_rss-500_462	requests for comment	58	request for comments	1.0
+http:__aksw.org_n3_rss-500_462	ill.	15	illinois	1.0
+http:__aksw.org_n3_rss-500_461	national hydropower association	124	national hydropower association	1.0
+http:__aksw.org_n3_rss-500_461	linda church	76	linda church	1.0
+http:__aksw.org_n3_rss-500_460	star	53	star (sailboat)	1.0
+http:__aksw.org_n3_rss-500_460	offer	27	offer nissim	1.0
+http:__aksw.org_n3_rss-500_460	steven stamkos	58	steven stamkos	1.0
+http:__aksw.org_n3_rss-500_460	steven	58	steven stamkos	1.0
+http:__aksw.org_n3_rss-500_460	stamkos	65	steven stamkos	1.0
+http:__aksw.org_n3_rss-500_460	flyers	4	philadelphia flyers	1.0
+http:__aksw.org_n3_rss-500_46	julie	24	julie markes	1.0
+http:__aksw.org_n3_rss-500_46	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_46	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_458	irish spring	103	irish spring	1.0
+http:__aksw.org_n3_rss-500_457	u.s. commercial service	31	united states commercial service	1.0
+http:__aksw.org_n3_rss-500_455	rainie	131	rainie yang	1.0
+http:__aksw.org_n3_rss-500_455	pew research center	156	pew research center	1.0
+http:__aksw.org_n3_rss-500_455	pew research	156	pew research center	1.0
+http:__aksw.org_n3_rss-500_455	american life	192	sailing the seas of cheese	1.0
+http:__aksw.org_n3_rss-500_452	sunday	47	sunday bada	1.0
+http:__aksw.org_n3_rss-500_452	lars boom	12	lars boom	1.0
+http:__aksw.org_n3_rss-500_452	eneco	30	eneco energie	1.0
+http:__aksw.org_n3_rss-500_452	contador	109	alberto contador	1.0
+http:__aksw.org_n3_rss-500_452	alberto contador	101	alberto contador	1.0
+http:__aksw.org_n3_rss-500_451	larry fitzgerald	62	larry fitzgerald	1.0
+http:__aksw.org_n3_rss-500_451	larry fitzgerald	234	larry fitzgerald	1.0
+http:__aksw.org_n3_rss-500_450	larry	19	oliver (paladin)	1.0
+http:__aksw.org_n3_rss-500_450	bradford	25	bradford parkinson	1.0
+http:__aksw.org_n3_rss-500_45	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_45	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_449	u.s. bureau of land management	232	bureau of land management	1.0
+http:__aksw.org_n3_rss-500_449	holloway	154	adam holloway	1.0
+http:__aksw.org_n3_rss-500_449	campbell	281	bruce campbell (barrister)	1.0
+http:__aksw.org_n3_rss-500_449	bureau of land management	237	bureau of land management	1.0
+http:__aksw.org_n3_rss-500_448	good job	56	good job!	1.0
+http:__aksw.org_n3_rss-500_447	les miles	38	les miles	1.0
+http:__aksw.org_n3_rss-500_447	les	38	les miles	1.0
+http:__aksw.org_n3_rss-500_446	tyrann mathieu	110	tyrann mathieu	1.0
+http:__aksw.org_n3_rss-500_446	mathieu	117	mathieu coutadeur	1.0
+http:__aksw.org_n3_rss-500_446	les miles	10	les miles	1.0
+http:__aksw.org_n3_rss-500_445	les miles	111	les miles	1.0
+http:__aksw.org_n3_rss-500_445	les	111	les miles	1.0
+http:__aksw.org_n3_rss-500_443	nuns	26	the prophesying nun of dresden	1.0
+http:__aksw.org_n3_rss-500_442	national school choice week	101	national school choice week	1.0
+http:__aksw.org_n3_rss-500_44	associated press writer	0	associated press	1.0
+http:__aksw.org_n3_rss-500_44	associated	0	associated press	1.0
+http:__aksw.org_n3_rss-500_437	ga.	40	georgia (u.s. state)	1.0
+http:__aksw.org_n3_rss-500_436	ga.	45	georgia (u.s. state)	1.0
+http:__aksw.org_n3_rss-500_435	henry kennedy	66	henry h. kennedy, jr.	1.0
+http:__aksw.org_n3_rss-500_434	mike kryzewski	84	mike krzyzewski	1.0
+http:__aksw.org_n3_rss-500_434	kryzewski	89	mike krzyzewski	1.0
+http:__aksw.org_n3_rss-500_433	senator mitch mcconnell	163	mitch mcconnell	1.0
+http:__aksw.org_n3_rss-500_433	republican party of kentucky	33	republican party of kentucky	1.0
+http:__aksw.org_n3_rss-500_433	mitch mcconnell	171	mitch mcconnell	1.0
+http:__aksw.org_n3_rss-500_433	darrell brock	71	darrell brock jr.	1.0
+http:__aksw.org_n3_rss-500_432	chairman of the	228	chair of the federal reserve	1.0
+http:__aksw.org_n3_rss-500_432	senator mitch mcconnell	182	mitch mcconnell	1.0
+http:__aksw.org_n3_rss-500_432	republican party of kentucky	320	republican party of kentucky	1.0
+http:__aksw.org_n3_rss-500_432	republican party of kentucky	244	republican party of kentucky	1.0
+http:__aksw.org_n3_rss-500_432	mitch mcconnell	190	mitch mcconnell	1.0
+http:__aksw.org_n3_rss-500_432	katherine	135	katherine g. langley	1.0
+http:__aksw.org_n3_rss-500_432	darrell brock	358	darrell brock jr.	1.0
+http:__aksw.org_n3_rss-500_432	darrell brock	212	darrell brock jr.	1.0
+http:__aksw.org_n3_rss-500_432	college republicans	7	college republicans	1.0
+http:__aksw.org_n3_rss-500_432	college republicans	499	college republicans	1.0
+http:__aksw.org_n3_rss-500_432	college republican	412	college republicans	1.0
+http:__aksw.org_n3_rss-500_432	april 10th	457	april 10	1.0
+http:__aksw.org_n3_rss-500_430	kelley blue book	84	kelley blue book	1.0
+http:__aksw.org_n3_rss-500_43	alie	218	alie ward	1.0
+http:__aksw.org_n3_rss-500_429	today	30	waking up (onerepublic album)	1.0
+http:__aksw.org_n3_rss-500_429	president of the	233	canadian broadcasting corporation	1.0
+http:__aksw.org_n3_rss-500_429	keith	217	damon keith	1.0
+http:__aksw.org_n3_rss-500_428	farm winery	35	winery	1.0
+http:__aksw.org_n3_rss-500_426	kathy	0	kathy sullivan (australian politician)	1.0
+http:__aksw.org_n3_rss-500_426	dawkins	6	john dawkins	1.0
+http:__aksw.org_n3_rss-500_425	geothermal energy association	156	geothermal energy association	1.0
+http:__aksw.org_n3_rss-500_424	centennial	99	centennial exposition	1.0
+http:__aksw.org_n3_rss-500_423	herm edwards	28	herman edwards	1.0
+http:__aksw.org_n3_rss-500_422	patel	79	emc isilon	1.0
+http:__aksw.org_n3_rss-500_421	san jose mercury news	179	san jose mercury news	1.0
+http:__aksw.org_n3_rss-500_421	san jose mercury	179	san jose mercury news	1.0
+http:__aksw.org_n3_rss-500_421	palo	163	palo alto records	1.0
+http:__aksw.org_n3_rss-500_421	mercury news	188	san jose mercury news	1.0
+http:__aksw.org_n3_rss-500_42	university of	36	university of michigan	1.0
+http:__aksw.org_n3_rss-500_42	caplan	7	arthur caplan	1.0
+http:__aksw.org_n3_rss-500_42	arthur caplan	0	arthur caplan	1.0
+http:__aksw.org_n3_rss-500_42	arthur	0	arthur caplan	1.0
+http:__aksw.org_n3_rss-500_418	national association of	140	national association of professional base ball players	1.0
+http:__aksw.org_n3_rss-500_414	tennis team	157	tennis at the 2008 summer olympics	1.0
+http:__aksw.org_n3_rss-500_414	hospital for special surgery	75	hospital for special surgery	1.0
+http:__aksw.org_n3_rss-500_413	schwebel	7	stephen m. schwebel	1.0
+http:__aksw.org_n3_rss-500_413	schwebel	35	stephen m. schwebel	1.0
+http:__aksw.org_n3_rss-500_413	co.	51	county dublin	1.0
+http:__aksw.org_n3_rss-500_411	kearney	88	joseph kearney	1.0
+http:__aksw.org_n3_rss-500_41	chairman of the joint chiefs	78	chairman of the joint chiefs of staff	1.0
+http:__aksw.org_n3_rss-500_41	panetta	19	leon panetta	1.0
+http:__aksw.org_n3_rss-500_41	martin e. dempsey	58	martin dempsey	1.0
+http:__aksw.org_n3_rss-500_409	john truscott	0	john truscott	1.0
+http:__aksw.org_n3_rss-500_408	share	55	share international	1.0
+http:__aksw.org_n3_rss-500_408	urban institute	195	urban institute	1.0
+http:__aksw.org_n3_rss-500_407	wgme	151	wgme-tv	1.0
+http:__aksw.org_n3_rss-500_407	thursday	53	thursday night football	1.0
+http:__aksw.org_n3_rss-500_407	dish network	28	dish network	1.0
+http:__aksw.org_n3_rss-500_406	john haire	100	john haire, baron haire of whiteabbey	1.0
+http:__aksw.org_n3_rss-500_406	edwards air force base	129	edwards air force base	1.0
+http:__aksw.org_n3_rss-500_405	shahar peer	61	shahar pe'er	1.0
+http:__aksw.org_n3_rss-500_405	shahar	61	shahar perkiss	1.0
+http:__aksw.org_n3_rss-500_405	peer	68	peer joechel	1.0
+http:__aksw.org_n3_rss-500_405	julia goerges	11	julia görges	1.0
+http:__aksw.org_n3_rss-500_405	casey dellacqua	131	casey dellacqua	1.0
+http:__aksw.org_n3_rss-500_403	right to collective bargaining	122	right to organise and collective bargaining convention, 1949	1.0
+http:__aksw.org_n3_rss-500_402	wednesday	91	march 18	1.0
+http:__aksw.org_n3_rss-500_402	michigan supreme court	144	michigan supreme court	1.0
+http:__aksw.org_n3_rss-500_402	michigan court of appeals	110	michigan court of appeals	1.0
+http:__aksw.org_n3_rss-500_401	jobbik	76	jobbik	1.0
+http:__aksw.org_n3_rss-500_401	gabor vona	93	gábor vona	1.0
+http:__aksw.org_n3_rss-500_400	wednesday	102	march 18	1.0
+http:__aksw.org_n3_rss-500_400	lowenstern	4	michael lowenstern	1.0
+http:__aksw.org_n3_rss-500_40	regime	213	spain	1.0
+http:__aksw.org_n3_rss-500_40	chairman of the joint chiefs	27	chairman of the joint chiefs of staff	1.0
+http:__aksw.org_n3_rss-500_40	chairman	27	chairman of the joint chiefs of staff	1.0
+http:__aksw.org_n3_rss-500_40	martin dempsey	10	martin dempsey	1.0
+http:__aksw.org_n3_rss-500_4	wu ching-kuo	232	wu ching-kuo	1.0
+http:__aksw.org_n3_rss-500_399	bed bath	178	bed bath & beyond	1.0
+http:__aksw.org_n3_rss-500_398	other men	3	other men	1.0
+http:__aksw.org_n3_rss-500_398	yen-hsun lu	72	lu yen-hsun	1.0
+http:__aksw.org_n3_rss-500_398	yen-hsun	72	lu yen-hsun	1.0
+http:__aksw.org_n3_rss-500_398	philipp kohlschreiber	340	philipp kohlschreiber	1.0
+http:__aksw.org_n3_rss-500_398	lukasz kubot	105	łukasz kubot	1.0
+http:__aksw.org_n3_rss-500_398	kubot	112	łukasz kubot	1.0
+http:__aksw.org_n3_rss-500_398	kohlschreiber	348	philipp kohlschreiber	1.0
+http:__aksw.org_n3_rss-500_398	jesse levine	210	jesse levine	1.0
+http:__aksw.org_n3_rss-500_398	andreas seppi	130	andreas seppi	1.0
+http:__aksw.org_n3_rss-500_394	norwest venture partners	46	norwest venture partners	1.0
+http:__aksw.org_n3_rss-500_394	norwest	46	norwest	1.0
+http:__aksw.org_n3_rss-500_394	jeff crowe	15	jeff crowe	1.0
+http:__aksw.org_n3_rss-500_393	cegeps	53	cegep	1.0
+http:__aksw.org_n3_rss-500_391	hong kong federation of trade unions	41	hong kong federation of trade unions	1.0
+http:__aksw.org_n3_rss-500_391	federation of trade unions	51	hong kong federation of trade unions	1.0
+http:__aksw.org_n3_rss-500_391	diaoyu islands	184	senkaku islands	1.0
+http:__aksw.org_n3_rss-500_391	diaoyu	184	senkaku islands	1.0
+http:__aksw.org_n3_rss-500_39	regime	211	spain	1.0
+http:__aksw.org_n3_rss-500_39	chairman of the joint chiefs	27	chairman of the joint chiefs of staff	1.0
+http:__aksw.org_n3_rss-500_39	chairman	27	chairman of the joint chiefs of staff	1.0
+http:__aksw.org_n3_rss-500_39	martin dempsey	10	martin dempsey	1.0
+http:__aksw.org_n3_rss-500_388	pine ridge	97	pine ridge (region)	1.0
+http:__aksw.org_n3_rss-500_387	cesare prandelli	112	cesare prandelli	1.0
+http:__aksw.org_n3_rss-500_386	other men	3	other men	1.0
+http:__aksw.org_n3_rss-500_386	yen-hsun lu	72	lu yen-hsun	1.0
+http:__aksw.org_n3_rss-500_386	yen-hsun	72	lu yen-hsun	1.0
+http:__aksw.org_n3_rss-500_386	philipp kohlschreiber	340	philipp kohlschreiber	1.0
+http:__aksw.org_n3_rss-500_386	lukasz kubot	105	łukasz kubot	1.0
+http:__aksw.org_n3_rss-500_386	kubot	112	łukasz kubot	1.0
+http:__aksw.org_n3_rss-500_386	kohlschreiber	348	philipp kohlschreiber	1.0
+http:__aksw.org_n3_rss-500_386	jesse levine	210	jesse levine	1.0
+http:__aksw.org_n3_rss-500_386	andreas seppi	130	andreas seppi	1.0
+http:__aksw.org_n3_rss-500_384	housing authority	52	housing authority	1.0
+http:__aksw.org_n3_rss-500_384	gorham	8	maurice gorham	1.0
+http:__aksw.org_n3_rss-500_383	trapattoni	168	giovanni trapattoni	1.0
+http:__aksw.org_n3_rss-500_383	giovanni trapattoni	159	giovanni trapattoni	1.0
+http:__aksw.org_n3_rss-500_383	football association of ireland	4	football association of ireland	1.0
+http:__aksw.org_n3_rss-500_382	ir amim	161	ir amim	1.0
+http:__aksw.org_n3_rss-500_380	manny acta	65	manny acta	1.0
+http:__aksw.org_n3_rss-500_380	manny	65	manny acta	1.0
+http:__aksw.org_n3_rss-500_380	acta	71	manny acta	1.0
+http:__aksw.org_n3_rss-500_38	clue	126	cluedo	1.0
+http:__aksw.org_n3_rss-500_38	award	85	glaad media award	1.0
+http:__aksw.org_n3_rss-500_38	larry fitzgerald	44	larry fitzgerald	1.0
+http:__aksw.org_n3_rss-500_379	star wars iii	69	star wars episode iii: revenge of the sith	1.0
+http:__aksw.org_n3_rss-500_379	lego star wars iii	64	lego star wars iii: the clone wars	1.0
+http:__aksw.org_n3_rss-500_379	clone wars 3ds	89	star wars: the clone wars (2008 tv series)	1.0
+http:__aksw.org_n3_rss-500_378	program	103	fulbright program	1.0
+http:__aksw.org_n3_rss-500_378	navy pier	3	navy pier	1.0
+http:__aksw.org_n3_rss-500_377	jesse jackson jr.	40	jesse jackson, jr.	1.0
+http:__aksw.org_n3_rss-500_377	jackson jr.	46	jesse jackson, jr.	1.0
+http:__aksw.org_n3_rss-500_376	u.s.-japan council	39	u.s.-japan council	1.0
+http:__aksw.org_n3_rss-500_376	irene hirano	0	irene hirano	1.0
+http:__aksw.org_n3_rss-500_375	heart	105	heart (amanda lear album)	1.0
+http:__aksw.org_n3_rss-500_375	sera	49	sera (company)	1.0
+http:__aksw.org_n3_rss-500_375	corriere della sera	34	corriere della sera	1.0
+http:__aksw.org_n3_rss-500_375	corriere	34	corriere della sera	1.0
+http:__aksw.org_n3_rss-500_375	bruno ferrante	14	bruno ferrante	1.0
+http:__aksw.org_n3_rss-500_374	sidman	91	sam sidman	1.0
+http:__aksw.org_n3_rss-500_372	china news service	151	china news service	1.0
+http:__aksw.org_n3_rss-500_370	marlene	155	marlene robottom	1.0
+http:__aksw.org_n3_rss-500_370	boingo	41	boingo wireless	1.0
+http:__aksw.org_n3_rss-500_37	agustin pichot	178	agustín pichot	1.0
+http:__aksw.org_n3_rss-500_369	michigan supreme court	140	michigan supreme court	1.0
+http:__aksw.org_n3_rss-500_369	katie	29	katie hall	1.0
+http:__aksw.org_n3_rss-500_367	national chung cheng university	22	national chung cheng university	1.0
+http:__aksw.org_n3_rss-500_367	national chengchi university	119	national chengchi university	1.0
+http:__aksw.org_n3_rss-500_364	july 22	12	july 22	1.0
+http:__aksw.org_n3_rss-500_362	cincinnati	45	cincinnati symphony orchestra	1.0
+http:__aksw.org_n3_rss-500_361	daryl johnson	53	daryl johnson	1.0
+http:__aksw.org_n3_rss-500_360	w. va.	13	west virginia	1.0
+http:__aksw.org_n3_rss-500_360	va.	16	virginia	1.0
+http:__aksw.org_n3_rss-500_360	cooking school	46	cooking school	1.0
+http:__aksw.org_n3_rss-500_360	charleston civic center	74	charleston civic center	1.0
+http:__aksw.org_n3_rss-500_358	u.s. chemical safety board	183	u.s. chemical safety and hazard investigation board	1.0
+http:__aksw.org_n3_rss-500_358	chemical safety board	188	u.s. chemical safety and hazard investigation board	1.0
+http:__aksw.org_n3_rss-500_357	hillary clinton	150	hillary rodham clinton	1.0
+http:__aksw.org_n3_rss-500_357	hillary	150	hillary rodham clinton	1.0
+http:__aksw.org_n3_rss-500_357	cook political report	22	the cook political report	1.0
+http:__aksw.org_n3_rss-500_356	shettleworth	118	sara shettleworth	1.0
+http:__aksw.org_n3_rss-500_356	earle shettleworth	112	earle g. shettleworth, jr.	1.0
+http:__aksw.org_n3_rss-500_355	brody	15	brody (name)	1.0
+http:__aksw.org_n3_rss-500_353	sheik hassan nasrallah	44	hassan nasrallah	1.0
+http:__aksw.org_n3_rss-500_353	hassan nasrallah	50	hassan nasrallah	1.0
+http:__aksw.org_n3_rss-500_351	teammate	73	team penske	1.0
+http:__aksw.org_n3_rss-500_351	leader	150	führer	1.0
+http:__aksw.org_n3_rss-500_351	jr.	97	al unser, jr.	1.0
+http:__aksw.org_n3_rss-500_351	jimmie johnson	0	jimmie johnson	1.0
+http:__aksw.org_n3_rss-500_351	jimmie	0	jimmie johnson	1.0
+http:__aksw.org_n3_rss-500_351	hendrick motorsports	52	hendrick motorsports	1.0
+http:__aksw.org_n3_rss-500_351	earnhardt jr.	87	dale earnhardt, jr.	1.0
+http:__aksw.org_n3_rss-500_351	dale earnhardt jr.	82	dale earnhardt, jr.	1.0
+http:__aksw.org_n3_rss-500_35	photo	19	raising the flag on iwo jima	1.0
+http:__aksw.org_n3_rss-500_35	palo alto , calif.	66	palo alto, california	1.0
+http:__aksw.org_n3_rss-500_35	palo	66	palo alto records	1.0
+http:__aksw.org_n3_rss-500_35	oct. 5	3	october 5	1.0
+http:__aksw.org_n3_rss-500_35	calif.	78	california	1.0
+http:__aksw.org_n3_rss-500_349	world	97	world (magazine)	1.0
+http:__aksw.org_n3_rss-500_349	memo	57	josé guillermo cortines	1.0
+http:__aksw.org_n3_rss-500_349	jr	43	jr (artist)	1.0
+http:__aksw.org_n3_rss-500_349	hearst corp.	0	hearst corporation	1.0
+http:__aksw.org_n3_rss-500_347	justina	123	justina morales	1.0
+http:__aksw.org_n3_rss-500_347	athens regional medical center	19	athens regional medical center	1.0
+http:__aksw.org_n3_rss-500_346	national survey of family growth	297	national survey of family growth	1.0
+http:__aksw.org_n3_rss-500_346	national center for health statistics	95	national center for health statistics	1.0
+http:__aksw.org_n3_rss-500_346	national center	95	national sports journalism center	1.0
+http:__aksw.org_n3_rss-500_346	disease control	159	danger/disease control	1.0
+http:__aksw.org_n3_rss-500_345	access	205	access hollywood	1.0
+http:__aksw.org_n3_rss-500_344	toffler	0	alvin toffler	1.0
+http:__aksw.org_n3_rss-500_344	rigopulos	73	alex rigopulos	1.0
+http:__aksw.org_n3_rss-500_344	harmonix	48	harmonix	1.0
+http:__aksw.org_n3_rss-500_344	dhani	38	dhani harrison	1.0
+http:__aksw.org_n3_rss-500_344	alex rigopulos	68	alex rigopulos	1.0
+http:__aksw.org_n3_rss-500_341	kim	63	kim ho jik	1.0
+http:__aksw.org_n3_rss-500_341	hanwha group	41	hanwha	1.0
+http:__aksw.org_n3_rss-500_34	koh	86	lucy h. koh	1.0
+http:__aksw.org_n3_rss-500_339	queen margrethe ii	162	margrethe ii of denmark	1.0
+http:__aksw.org_n3_rss-500_339	queen margrethe	162	margrethe ii of denmark	1.0
+http:__aksw.org_n3_rss-500_339	margrethe ii	168	margrethe ii of denmark	1.0
+http:__aksw.org_n3_rss-500_339	diane	89	oz (tv series)	1.0
+http:__aksw.org_n3_rss-500_338	time	213	the new york times	1.0
+http:__aksw.org_n3_rss-500_338	katharina	98	katharina	1.0
+http:__aksw.org_n3_rss-500_338	casey	19	casey robinson	1.0
+http:__aksw.org_n3_rss-500_336	poke	7	oklahoma state cowboys and cowgirls	1.0
+http:__aksw.org_n3_rss-500_336	maryland state police	255	maryland state police	1.0
+http:__aksw.org_n3_rss-500_336	ford explorer	176	ford explorer	1.0
+http:__aksw.org_n3_rss-500_335	nm	89	new mexico	1.0
+http:__aksw.org_n3_rss-500_335	tsmc	3	tsmc	1.0
+http:__aksw.org_n3_rss-500_334	winner	58	first love (karina pasian album)	1.0
+http:__aksw.org_n3_rss-500_334	ministries	130	ministry (band)	1.0
+http:__aksw.org_n3_rss-500_334	john legend	65	john legend	1.0
+http:__aksw.org_n3_rss-500_334	john	65	john legend	1.0
+http:__aksw.org_n3_rss-500_334	anthony	7	anthony dean griffey	1.0
+http:__aksw.org_n3_rss-500_332	goldman sachs	109	goldman sachs	1.0
+http:__aksw.org_n3_rss-500_331	kelsey grammer	115	kelsey grammer	1.0
+http:__aksw.org_n3_rss-500_330	sergei lavrov	31	sergey lavrov	1.0
+http:__aksw.org_n3_rss-500_33	age	52	myst (series)	1.0
+http:__aksw.org_n3_rss-500_33	apple inc.	18	apple inc.	1.0
+http:__aksw.org_n3_rss-500_327	bruce bochy	55	bruce bochy	1.0
+http:__aksw.org_n3_rss-500_327	bochy	61	bruce bochy	1.0
+http:__aksw.org_n3_rss-500_326	baseman	13	gary baseman	1.0
+http:__aksw.org_n3_rss-500_326	brandon belt	21	brandon belt	1.0
+http:__aksw.org_n3_rss-500_325	giang	78	chau giang	1.0
+http:__aksw.org_n3_rss-500_325	afp	89	americans for prosperity	1.0
+http:__aksw.org_n3_rss-500_324	george washington	10	george washington	1.0
+http:__aksw.org_n3_rss-500_323	college of education and human development	98	university of minnesota college of education and human development	1.0
+http:__aksw.org_n3_rss-500_323	walsch	189	neale donald walsch	1.0
+http:__aksw.org_n3_rss-500_323	george mason university	151	george mason university	1.0
+http:__aksw.org_n3_rss-500_323	floyd corkins	23	family research council	1.0
+http:__aksw.org_n3_rss-500_322	quincy high	39	quincy high school (massachusetts)	1.0
+http:__aksw.org_n3_rss-500_322	chevy camaro	76	chevrolet camaro	1.0
+http:__aksw.org_n3_rss-500_320	salt lake valley	233	salt lake valley	1.0
+http:__aksw.org_n3_rss-500_320	lake valley	238	lake valley (nevada)	1.0
+http:__aksw.org_n3_rss-500_320	gary edwards	192	gary edwards (ice hockey)	1.0
+http:__aksw.org_n3_rss-500_32	w. va.	13	west virginia	1.0
+http:__aksw.org_n3_rss-500_32	va.	16	virginia	1.0
+http:__aksw.org_n3_rss-500_32	appalachian power	80	american electric power	1.0
+http:__aksw.org_n3_rss-500_319	myers	31	dee dee myers	1.0
+http:__aksw.org_n3_rss-500_319	gander mountain	47	gander mountain	1.0
+http:__aksw.org_n3_rss-500_319	gander mountain	327	gander mountain	1.0
+http:__aksw.org_n3_rss-500_319	gander mountain	0	gander mountain	1.0
+http:__aksw.org_n3_rss-500_319	gander	47	gander mountain	1.0
+http:__aksw.org_n3_rss-500_319	gander	327	gander mountain	1.0
+http:__aksw.org_n3_rss-500_319	gander	0	gander mountain	1.0
+http:__aksw.org_n3_rss-500_318	lewiston high	57	lewiston high school	1.0
+http:__aksw.org_n3_rss-500_318	galipeau	33	royal galipeau	1.0
+http:__aksw.org_n3_rss-500_317	oil majors	91	big oil	1.0
+http:__aksw.org_n3_rss-500_316	associated	42	associated press	1.0
+http:__aksw.org_n3_rss-500_315	university of chile student federation	37	university of chile student federation	1.0
+http:__aksw.org_n3_rss-500_315	university of chile	37	university of chile	1.0
+http:__aksw.org_n3_rss-500_315	transantiago	112	transantiago	1.0
+http:__aksw.org_n3_rss-500_313	health care overhaul	182	patient protection and affordable care act	1.0
+http:__aksw.org_n3_rss-500_313	north canton	115	north canton, ohio	1.0
+http:__aksw.org_n3_rss-500_313	mitt romney	36	mitt romney	1.0
+http:__aksw.org_n3_rss-500_313	canton	121	canton, ohio	1.0
+http:__aksw.org_n3_rss-500_312	mitt romney	89	mitt romney	1.0
+http:__aksw.org_n3_rss-500_311	president obama	105	barack obama	1.0
+http:__aksw.org_n3_rss-500_311	mitt romney	41	mitt romney	1.0
+http:__aksw.org_n3_rss-500_311	medicare cuts	83	medicare sustainable growth rate	1.0
+http:__aksw.org_n3_rss-500_310	health care overhaul	131	patient protection and affordable care act	1.0
+http:__aksw.org_n3_rss-500_310	president barack obama	105	barack obama	1.0
+http:__aksw.org_n3_rss-500_310	president barack	105	barack obama	1.0
+http:__aksw.org_n3_rss-500_310	mitt romney	41	mitt romney	1.0

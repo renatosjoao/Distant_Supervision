@@ -1,0 +1,44 @@
+ganeshtestdoc.txt	damien martyn	247	damien martyn	0.8414731
+yn_08oct08_file_33	guinea-bissau	5285	guinea-bissau	0.7860217
+ganeshtestdoc.txt	michael bevan	189	michael bevan	0.78235
+ganeshtestdoc.txt	tom moody	233	tom moody	0.77043843
+ganeshtestdoc.txt	steve waugh	204	steve waugh	0.7673267
+13oct08amithealth20.txt	hydrocodone	838	hydrocodone	0.766744
+13oct08amithealth20.txt	oxycodone	872	oxycodone	0.76504564
+13oct08amittech3.txt	international space station	1062	international space station	0.7635055
+13oct08amithealth20.txt	docusate	1748	docusate	0.7631214
+yn_08oct08_file_5	eritrea	776	eritrea	0.7581407
+ganeshtestdoc.txt	sourav ganguly	66	sourav ganguly	0.75649375
+13oct08amitsport20.txt	russell martin	883	russell martin	0.7555077
+yn_08oct08_file_5	djibouti	766	djibouti	0.75368726
+ganeshtestdoc.txt	darren lehmann	217	darren lehmann	0.7526423
+13oct08amitsport20.txt	nomar garciaparra	926	nomar garciaparra	0.7521846
+13oct08amithealth20.txt	surfak	1740	docusate	0.75116134
+13oct08amittech18.txt	martin chalfie	328	martin chalfie	0.74400556
+13oct08_buss_file_10.txt	bear stearns	1758	bear stearns	0.7386031
+yn_08oct08_file_21	bob dylan	0	bob dylan	0.734325
+13oct08_buss_file_10.txt	jpmorgan chase	1728	jpmorgan chase	0.7322693
+ganeshtestdoc.txt	rahul dravid	382	rahul dravid	0.73190457
+13oct08amithealth20.txt	bisacodyl	1650	bisacodyl	0.73068917
+yn_08oct08_file_33	burundi	5371	burundi	0.73034835
+13oct08amithealth4.txt	camellia sinensis	2907	camellia sinensis	0.7297781
+13oct08_buss_file_10.txt	washington mutual	1775	washington mutual	0.7295433
+13oct08amithealth15.txt	bipolar ii disorder	3474	bipolar ii disorder	0.72675884
+13oct08amithealth7.txt	john f. enders	2172	john franklin enders	0.726475
+13oct08amittech18.txt	osamu shimomura	256	osamu shimomura	0.7239393
+13oct08amithealth20.txt	senokot	1620	senna glycoside	0.72293043
+13oct08amitsport20.txt	los angeles dodgers	53	los angeles dodgers	0.72284997
+13oct08amittech23.txt	google talk	1572	google talk	0.7203822
+yn_08oct08_file_33	angola	5192	angola	0.7196488
+yn_08oct08_file_6	al qaeda	1940	al-qaeda	0.7194503
+ganeshtestdoc.txt	leg spin	663	leg spin	0.71931666
+yn_08oct08_file_5	tajikistan	858	tajikistan	0.7191193
+13oct08amittech18.txt	roger y. tsien	384	roger y. tsien	0.71863127
+13oct08amitsport20.txt	philadelphia phillies	99	philadelphia phillies	0.717845
+13oct08amithealth15.txt	bipolar disorder	0	bipolar disorder	0.71746975
+13oct08amithealth20.txt	lactulose	1848	lactulose	0.71710277
+13oct08amitsport20.txt	andre ethier	799	andre ethier	0.7167906
+13oct08amitsport20.txt	shane victorino	1550	shane victorino	0.71451503
+yn_08oct08_file_14	american international group	2633	american international group	0.71251154
+13oct08amitsport20.txt	casey blake	951	casey blake	0.71204996
+13oct08amittech12.txt	amniocentesis	1956	amniocentesis	0.7117694

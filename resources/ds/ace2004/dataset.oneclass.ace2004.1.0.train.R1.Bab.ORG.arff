@@ -1,0 +1,70 @@
+@RELATION "oneclass_instances_R1_Bab_train"
+@ATTRIBUTE docid        STRING
+@ATTRIBUTE mention      STRING
+@ATTRIBUTE offset       NUMERIC
+@ATTRIBUTE link         STRING
+@ATTRIBUTE swords  NUMERIC
+@ATTRIBUTE sf         NUMERIC
+@ATTRIBUTE sdf      NUMERIC
+@ATTRIBUTE scand      NUMERIC
+@ATTRIBUTE mpos      NUMERIC
+@ATTRIBUTE msent     NUMERIC
+@ATTRIBUTE dwords     NUMERIC
+@ATTRIBUTE dents   NUMERIC
+@ATTRIBUTE Class        {1}
+
+@DATA
+"chtb_267.eng","xinhua news agency",424,"NULL",3.0,2.0,3.0,1.0,0.12,286.0,552.0,18.0,1
+"chtb_267.eng","xinhua news agency",2,"NULL",3.0,2.0,3.0,1.0,0.0,283.0,552.0,18.0,1
+"chtb_267.eng","weir group",74,"NULL",2.0,7.0,1.0,1.0,0.02,283.0,552.0,18.0,1
+"chtb_267.eng","weir group",3128,"NULL",2.0,7.0,1.0,1.0,0.89,303.0,552.0,18.0,1
+"chtb_267.eng","weir group",2316,"NULL",2.0,7.0,1.0,1.0,0.66,179.0,552.0,18.0,1
+"chtb_267.eng","weir group",2159,"NULL",2.0,7.0,1.0,1.0,0.61,152.0,552.0,18.0,1
+"chtb_267.eng","weir group",2104,"NULL",2.0,7.0,1.0,1.0,0.6,73.0,552.0,18.0,1
+"chtb_267.eng","weir group",1731,"NULL",2.0,7.0,1.0,1.0,0.49,210.0,552.0,18.0,1
+"chtb_267.eng","weir group",1427,"NULL",2.0,7.0,1.0,1.0,0.4,136.0,552.0,18.0,1
+"chtb_267.eng","jiangsu province",155,"NULL",2.0,1.0,1.0,1.0,0.04,283.0,552.0,18.0,1
+"chtb_227.eng","xinhua news agency",2,"NULL",3.0,1.0,3.0,1.0,0.0,260.0,188.0,2.0,1
+"chtb_227.eng","baltic sea",81,"NULL",2.0,6.0,0.0,2.0,0.06,260.0,188.0,2.0,1
+"chtb_227.eng","baltic sea",535,"NULL",2.0,6.0,0.0,2.0,0.41,138.0,188.0,2.0,1
+"chtb_267.eng","project a",3501,"NULL",2.0,1.0,0.0,1.0,0.99,128.0,552.0,18.0,1
+"chtb_267.eng","production of",1121,"NULL",2.0,1.0,0.0,0.0,0.32,116.0,552.0,18.0,1
+"chtb_267.eng","national product",2899,"NULL",2.0,2.0,0.0,3.0,0.82,213.0,552.0,18.0,1
+"chtb_267.eng","national product",2649,"NULL",2.0,2.0,0.0,3.0,0.75,106.0,552.0,18.0,1
+"chtb_267.eng","more time",3445,"NULL",2.0,1.0,0.0,0.0,0.98,128.0,552.0,18.0,1
+"chtb_267.eng","degrees centigrade",1058,"NULL",2.0,1.0,0.0,0.0,0.3,333.0,552.0,18.0,1
+"chtb_267.eng","centigrade",1066,"NULL",1.0,1.0,0.0,3.0,0.3,333.0,552.0,18.0,1
+"chtb_267.eng","best time",3285,"NULL",2.0,1.0,0.0,2.0,0.93,303.0,552.0,18.0,1
+"chtb_267.eng","xinhua news agency",424,"NULL",3.0,2.0,3.0,1.0,0.12,286.0,552.0,18.0,1
+"chtb_267.eng","xinhua news agency",2,"NULL",3.0,2.0,3.0,1.0,0.0,283.0,552.0,18.0,1
+"chtb_267.eng","xinhua news",424,"NULL",2.0,2.0,0.0,1.0,0.12,286.0,552.0,18.0,1
+"chtb_267.eng","xinhua news",2,"NULL",2.0,2.0,0.0,1.0,0.0,283.0,552.0,18.0,1
+"chtb_267.eng","weir group",74,"NULL",2.0,7.0,1.0,1.0,0.02,283.0,552.0,18.0,1
+"chtb_267.eng","weir group",3128,"NULL",2.0,7.0,1.0,1.0,0.89,303.0,552.0,18.0,1
+"chtb_267.eng","weir group",2316,"NULL",2.0,7.0,1.0,1.0,0.66,179.0,552.0,18.0,1
+"chtb_267.eng","weir group",2159,"NULL",2.0,7.0,1.0,1.0,0.61,152.0,552.0,18.0,1
+"chtb_267.eng","weir group",2104,"NULL",2.0,7.0,1.0,1.0,0.6,73.0,552.0,18.0,1
+"chtb_267.eng","weir group",1731,"NULL",2.0,7.0,1.0,1.0,0.49,210.0,552.0,18.0,1
+"chtb_267.eng","weir group",1427,"NULL",2.0,7.0,1.0,1.0,0.4,136.0,552.0,18.0,1
+"chtb_267.eng","the weir",70,"NULL",2.0,7.0,0.0,1.0,0.02,283.0,552.0,18.0,1
+"chtb_267.eng","september 1st",31,"NULL",2.0,1.0,0.0,0.0,0.01,283.0,552.0,18.0,1
+"chtb_267.eng","rudong",1927,"NULL",1.0,1.0,1.0,1.0,0.55,102.0,552.0,18.0,1
+"chtb_267.eng","jiangsu province",155,"NULL",2.0,1.0,1.0,1.0,0.04,283.0,552.0,18.0,1
+"chtb_227.eng","xinhua news agency",2,"NULL",3.0,1.0,3.0,1.0,0.0,260.0,188.0,2.0,1
+"chtb_227.eng","xinhua news",2,"NULL",2.0,1.0,0.0,1.0,0.0,260.0,188.0,2.0,1
+"chtb_227.eng","august 31st",642,"NULL",2.0,3.0,0.0,0.0,0.5,180.0,188.0,2.0,1
+"chtb_227.eng","august 31st",30,"NULL",2.0,3.0,0.0,0.0,0.02,260.0,188.0,2.0,1
+"chtb_227.eng","august 31st",130,"NULL",2.0,3.0,0.0,0.0,0.1,260.0,188.0,2.0,1
+"chtb_227.eng","august 29th",792,"NULL",2.0,1.0,0.0,1.0,0.61,180.0,188.0,2.0,1
+"chtb_171.eng","state of",305,"NULL",2.0,1.0,0.0,5.0,0.58,188.0,85.0,0.0,1
+"chtb_171.eng","president fujimori",147,"NULL",2.0,1.0,0.0,0.0,0.28,188.0,85.0,0.0,1
+"chtb_171.eng","alberto fujimori",73,"NULL",2.0,1.0,0.0,1.0,0.14,73.0,85.0,0.0,1
+"chtb_165.eng","capital of",1326,"NULL",2.0,1.0,0.0,1.0,0.55,215.0,369.0,11.0,1
+"voa20001223.2000.0139","slobodan milosevic",325,"NULL",2.0,1.0,1.0,1.0,0.76,117.0,65.0,3.0,1
+"apw20001127.1346.0419","chicago white sox",1332,"NULL",3.0,1.0,0.0,66.0,0.55,170.0,411.0,0.0,1
+"apw20001127.1346.0419","los angeles dodgers",1351,"NULL",3.0,1.0,0.0,58.0,0.55,170.0,411.0,0.0,1
+"apw20001001.2021.0521","hosni mubarak",120,"NULL",2.0,1.0,0.0,2.0,0.04,217.0,483.0,9.0,1
+"apw20001203.1456.0329","al gore",146,"NULL",2.0,2.0,8.0,3.0,0.09,112.0,281.0,0.0,1
+"apw20001203.1456.0329","george w. bush",171,"NULL",3.0,1.0,0.0,5.0,0.1,23.0,281.0,0.0,1
+"20001115_afp_arb.0217.eng","boris yeltsin",716,"NULL",2.0,1.0,0.0,1.0,0.58,199.0,211.0,6.0,1
+"20001115_afp_arb.0217.eng","asia-pacific economic cooperation",510,"NULL",3.0,1.0,0.0,3.0,0.41,219.0,211.0,6.0,1

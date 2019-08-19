@@ -1,0 +1,287 @@
+http:__aksw.org_n3_reuters-128_99	march 1	498	march 1	1.0
+http:__aksw.org_n3_reuters-128_97	june	110	june stahl	1.0
+http:__aksw.org_n3_reuters-128_97	japan	0	japan	1.0
+http:__aksw.org_n3_reuters-128_96	dlrs	149	arise the republic	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham lambert	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_94	nv	32	nevada	1.0
+http:__aksw.org_n3_reuters-128_94	dutch state mines	61	dsm (company)	1.0
+http:__aksw.org_n3_reuters-128_94	amsterdam bourse	925	amsterdam stock exchange	1.0
+http:__aksw.org_n3_reuters-128_93	dlrs	447	dlr band	1.0
+http:__aksw.org_n3_reuters-128_93	u.s. economy	748	economy of the united states	1.0
+http:__aksw.org_n3_reuters-128_93	house budget committees	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house budget	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house appropriations	260	united states house committee on appropriations	1.0
+http:__aksw.org_n3_reuters-128_92	july 31	728	july 31	1.0
+http:__aksw.org_n3_reuters-128_91	taking steps	481	alan ayckbourn	1.0
+http:__aksw.org_n3_reuters-128_91	montedisons	171	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	925	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	908	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	466	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	417	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	1300	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	1023	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	0	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	ferruzzi	1270	marco ferruzzi	1.0
+http:__aksw.org_n3_reuters-128_91	ferruzzi	1203	marco ferruzzi	1.0
+http:__aksw.org_n3_reuters-128_91	ceroni	1116	loris ceroni	1.0
+http:__aksw.org_n3_reuters-128_9	future profits	1520	future profits	1.0
+http:__aksw.org_n3_reuters-128_9	end of april	133	seamiew records	1.0
+http:__aksw.org_n3_reuters-128_9	sons ltd	206	sons ltd	1.0
+http:__aksw.org_n3_reuters-128_9	samuel montagu	187	samuel montagu, 1st baron swaythling	1.0
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	1.0
+http:__aksw.org_n3_reuters-128_9	francis tombs	915	francis tombs, baron tombs	1.0
+http:__aksw.org_n3_reuters-128_9	christopher	147	christopher columbus	1.0
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	1.0
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	1.0
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	1.0
+http:__aksw.org_n3_reuters-128_86	u.s. ambassador to the netherlands	1111	united states ambassador to the netherlands	1.0
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	john shad	35	john s.r. shad	1.0
+http:__aksw.org_n3_reuters-128_86	foster winans	412	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	ambassador to the netherlands	1116	united states ambassador to the netherlands	1.0
+http:__aksw.org_n3_reuters-128_85	registration	69	securities act of 1933	1.0
+http:__aksw.org_n3_reuters-128_85	shearson lehman	178	shearson	1.0
+http:__aksw.org_n3_reuters-128_85	lehman brothers inc	187	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_85	brothers	194	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	1.0
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	1.0
+http:__aksw.org_n3_reuters-128_84	french companies	279	economy of france	1.0
+http:__aksw.org_n3_reuters-128_83	u.s.a.	69	united states	1.0
+http:__aksw.org_n3_reuters-128_83	ccl industries	0	ccl industries	1.0
+http:__aksw.org_n3_reuters-128_82	sir christopher	205	christopher chancellor	1.0
+http:__aksw.org_n3_reuters-128_82	london on	1351	london, ontario	1.0
+http:__aksw.org_n3_reuters-128_82	london stock exchanges	330	london stock exchange	1.0
+http:__aksw.org_n3_reuters-128_81	standard and poors	570	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_81	merrill lynch	189	merrill lynch	1.0
+http:__aksw.org_n3_reuters-128_80	terence murray	430	terence aubrey murray	1.0
+http:__aksw.org_n3_reuters-128_80	march 31	694	march 31	1.0
+http:__aksw.org_n3_reuters-128_80	j.	427	j.	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	472	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_8	suger	1023	suger	1.0
+http:__aksw.org_n3_reuters-128_8	mln	646	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_8	april 23	305	april 23	1.0
+http:__aksw.org_n3_reuters-128_8	april 11	287	april 11	1.0
+http:__aksw.org_n3_reuters-128_78	dillon, read	324	dillon, read & co.	1.0
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_77	mln	387	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2285	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2261	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	2079	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1989	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1965	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1377	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1306	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1203	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	mln	1145	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_77	february 20	288	february 20	1.0
+http:__aksw.org_n3_reuters-128_75	dlrs	82	downs light railway	1.0
+http:__aksw.org_n3_reuters-128_75	dlrs	63	downs light railway	1.0
+http:__aksw.org_n3_reuters-128_75	highland	0	scotland	1.0
+http:__aksw.org_n3_reuters-128_74	standard and poors	454	standard & poor's	1.0
+http:__aksw.org_n3_reuters-128_74	nicolaus	176	nicolaus copernicus	1.0
+http:__aksw.org_n3_reuters-128_74	inc	192	baxter international	1.0
+http:__aksw.org_n3_reuters-128_73	april 11	233	april 11	1.0
+http:__aksw.org_n3_reuters-128_72	world airways	20	world airways	1.0
+http:__aksw.org_n3_reuters-128_72	pan am world airways	13	pan american world airways	1.0
+http:__aksw.org_n3_reuters-128_72	pan am shuttle	180	delta shuttle	1.0
+http:__aksw.org_n3_reuters-128_72	march 30	236	march 30	1.0
+http:__aksw.org_n3_reuters-128_72	april 15	307	april 15	1.0
+http:__aksw.org_n3_reuters-128_71	public law 480	36	food for peace	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	229	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion	343	toronto-dominion bank	1.0
+http:__aksw.org_n3_reuters-128_7	prudential bache securities	38	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_7	prudential bache	38	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_69	marketing boards	1449	marketing board	1.0
+http:__aksw.org_n3_reuters-128_69	industry in brazil	1246	industry in brazil	1.0
+http:__aksw.org_n3_reuters-128_68	lines	207	greenwich line	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	794	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	697	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	435	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1321	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1189	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	0	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	burlington industries	80	burlington industries	1.0
+http:__aksw.org_n3_reuters-128_67	burlington industries	1080	burlington industries	1.0
+http:__aksw.org_n3_reuters-128_67	avondale mills	867	avondale mill	1.0
+http:__aksw.org_n3_reuters-128_67	asher edelman	1236	asher edelman	1.0
+http:__aksw.org_n3_reuters-128_66	u.k. government	1179	government of the united kingdom	1.0
+http:__aksw.org_n3_reuters-128_66	london international financial futures exchange	548	london international financial futures and options exchange	1.0
+http:__aksw.org_n3_reuters-128_66	london international	548	london international financial futures and options exchange	1.0
+http:__aksw.org_n3_reuters-128_63	inc	157	baxter international	1.0
+http:__aksw.org_n3_reuters-128_63	data i/o	0	data i/o	1.0
+http:__aksw.org_n3_reuters-128_62	nv philips	0	philips	1.0
+http:__aksw.org_n3_reuters-128_62	nv	0	nevada	1.0
+http:__aksw.org_n3_reuters-128_62	april 29	524	april 29	1.0
+http:__aksw.org_n3_reuters-128_61	purchase of	57	black saturday (wrestling)	1.0
+http:__aksw.org_n3_reuters-128_61	good value	1066	good value	1.0
+http:__aksw.org_n3_reuters-128_61	yesterday	500	law & order: criminal intent (season 1)	1.0
+http:__aksw.org_n3_reuters-128_61	texas state courts	752	judiciary of texas	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoils	778	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	677	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	463	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	190	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	getty oil	655	getty oil	1.0
+http:__aksw.org_n3_reuters-128_61	first boston corp	0	first boston	1.0
+http:__aksw.org_n3_reuters-128_60	merrill lynch	150	merrill lynch	1.0
+http:__aksw.org_n3_reuters-128_60	may 12	484	may 12	1.0
+http:__aksw.org_n3_reuters-128_60	luxembourg stock exchange	298	luxembourg stock exchange	1.0
+http:__aksw.org_n3_reuters-128_59	shopsmith	0	rlf brands	1.0
+http:__aksw.org_n3_reuters-128_58	sydney futures exchange	258	australian securities exchange	1.0
+http:__aksw.org_n3_reuters-128_58	les	687	hieu van le	1.0
+http:__aksw.org_n3_reuters-128_58	corporate affairs commission	14	corporate affairs commission	1.0
+http:__aksw.org_n3_reuters-128_57	reynolds and reynolds	0	reynolds and reynolds	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	410	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	317	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	telnet	252	telnet	1.0
+http:__aksw.org_n3_reuters-128_56	network technologies	7	network technology	1.0
+http:__aksw.org_n3_reuters-128_56	mci communications corp	92	mci communications	1.0
+http:__aksw.org_n3_reuters-128_55	final draft	164	final draft (novel)	1.0
+http:__aksw.org_n3_reuters-128_55	u.s. national transportation safety board	541	national transportation safety board	1.0
+http:__aksw.org_n3_reuters-128_55	transportation safety board	555	transportation safety board of canada	1.0
+http:__aksw.org_n3_reuters-128_55	september 6	970	september 6	1.0
+http:__aksw.org_n3_reuters-128_55	national transportation safety board	546	national transportation safety board	1.0
+http:__aksw.org_n3_reuters-128_55	march 23	525	march 23	1.0
+http:__aksw.org_n3_reuters-128_55	japan air lines	76	japan airlines	1.0
+http:__aksw.org_n3_reuters-128_55	japan air	76	japan airlines	1.0
+http:__aksw.org_n3_reuters-128_55	august 12	119	august 12	1.0
+http:__aksw.org_n3_reuters-128_54	fahrenheit	186	daniel gabriel fahrenheit	1.0
+http:__aksw.org_n3_reuters-128_53	july 10	382	july 10	1.0
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	199	freeport-mcmoran	1.0
+http:__aksw.org_n3_reuters-128_53	freeport-mcmoran	0	freeport-mcmoran	1.0
+http:__aksw.org_n3_reuters-128_51	drive on	304	drive on (mott album)	1.0
+http:__aksw.org_n3_reuters-128_51	personal system/2	140	ibm personal system/2	1.0
+http:__aksw.org_n3_reuters-128_51	international business machines	95	ibm	1.0
+http:__aksw.org_n3_reuters-128_51	ibm personal computers	407	ibm personal computer	1.0
+http:__aksw.org_n3_reuters-128_51	ibm personal system/2	136	ibm personal system/2	1.0
+http:__aksw.org_n3_reuters-128_50	federal paper board	0	international paper	1.0
+http:__aksw.org_n3_reuters-128_5	teradynes	114	teradyne	1.0
+http:__aksw.org_n3_reuters-128_5	teradyne	0	teradyne	1.0
+http:__aksw.org_n3_reuters-128_5	digital equipment	18	digital equipment corporation	1.0
+http:__aksw.org_n3_reuters-128_49	mln	1530	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_49	back on	3383	back-on	1.0
+http:__aksw.org_n3_reuters-128_49	w.r. grace	3148	william russell grace	1.0
+http:__aksw.org_n3_reuters-128_49	w.r.	3148	william r. poage	1.0
+http:__aksw.org_n3_reuters-128_49	u.s. economy	5099	economy of the united states	1.0
+http:__aksw.org_n3_reuters-128_49	samuel heyman	1891	samuel j. heyman	1.0
+http:__aksw.org_n3_reuters-128_49	dow chemical	749	dow chemical company	1.0
+http:__aksw.org_n3_reuters-128_49	dean witter reynolds	4820	dean witter reynolds	1.0
+http:__aksw.org_n3_reuters-128_49	conoco incs	4382	conoco	1.0
+http:__aksw.org_n3_reuters-128_49	borg warner	3047	borgwarner	1.0
+http:__aksw.org_n3_reuters-128_49	ashland oil	522	ashland inc.	1.0
+http:__aksw.org_n3_reuters-128_48	dlrs	224	dirty little rabbits	1.0
+http:__aksw.org_n3_reuters-128_48	industrial valley	51	industrial valley	1.0
+http:__aksw.org_n3_reuters-128_48	industrial valley	177	industrial valley	1.0
+http:__aksw.org_n3_reuters-128_48	fidelcor	0	fidelity trust company	1.0
+http:__aksw.org_n3_reuters-128_47	circumstances	412	circumstance (1922 film)	1.0
+http:__aksw.org_n3_reuters-128_47	march 31	328	march 31	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	344	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	224	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_47	bristol-myers	100	bristol-myers squibb	1.0
+http:__aksw.org_n3_reuters-128_46	shearson lehman	232	shearson	1.0
+http:__aksw.org_n3_reuters-128_46	lehman brothers inc	241	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_46	brothers	248	lehman brothers	1.0
+http:__aksw.org_n3_reuters-128_45	sub-saharan africa	305	sub-saharan africa	1.0
+http:__aksw.org_n3_reuters-128_45	committee on world food security	251	committee on world food security	1.0
+http:__aksw.org_n3_reuters-128_45	saouma	293	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_45	edouard saouma	285	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_44	mercury sable	607	mercury sable	1.0
+http:__aksw.org_n3_reuters-128_44	march 12	530	march 12	1.0
+http:__aksw.org_n3_reuters-128_44	ford motor	0	ford motor company	1.0
+http:__aksw.org_n3_reuters-128_44	april 6	92	april 6	1.0
+http:__aksw.org_n3_reuters-128_43	qtr	4	qatar airways	1.0
+http:__aksw.org_n3_reuters-128_43	mln	70	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_43	mln	160	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_43	dlrs	124	german aerospace center	1.0
+http:__aksw.org_n3_reuters-128_43	consolidated mining	204	consolidated mine	1.0
+http:__aksw.org_n3_reuters-128_42	lloyds bank plcs	219	lloyds bank	1.0
+http:__aksw.org_n3_reuters-128_42	continental bank of canada	0	continental bank of canada	1.0
+http:__aksw.org_n3_reuters-128_42	continental bank	0	continental bank of canada	1.0
+http:__aksw.org_n3_reuters-128_41	dillon read	433	dillon, read & co.	1.0
+http:__aksw.org_n3_reuters-128_41	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_40	welsh, carson, anderson and stowe	122	welsh, carson, anderson & stowe	1.0
+http:__aksw.org_n3_reuters-128_40	readers digest	4	reader's digest	1.0
+http:__aksw.org_n3_reuters-128_40	readers digest	195	reader's digest	1.0
+http:__aksw.org_n3_reuters-128_4	nordin	180	siiri nordin	1.0
+http:__aksw.org_n3_reuters-128_4	nordin	159	siiri nordin	1.0
+http:__aksw.org_n3_reuters-128_39	dlrs	179	david lee roth	1.0
+http:__aksw.org_n3_reuters-128_38	march 31	153	march 31	1.0
+http:__aksw.org_n3_reuters-128_37	today	331	empire today	1.0
+http:__aksw.org_n3_reuters-128_37	purchase of	432	black saturday (wrestling)	1.0
+http:__aksw.org_n3_reuters-128_36	secretary james baker	924	james baker	1.0
+http:__aksw.org_n3_reuters-128_36	satoshi sumita	462	satoshi sumita	1.0
+http:__aksw.org_n3_reuters-128_36	leigh pemberton	549	leigh-pemberton	1.0
+http:__aksw.org_n3_reuters-128_36	kiichi miyazawa	413	kiichi miyazawa	1.0
+http:__aksw.org_n3_reuters-128_36	karl otto poehl	260	karl otto pöhl	1.0
+http:__aksw.org_n3_reuters-128_36	jacques de larosiere	341	jacques de larosière	1.0
+http:__aksw.org_n3_reuters-128_36	group of five	113	group of five	1.0
+http:__aksw.org_n3_reuters-128_36	giovanni goria	896	giovanni goria	1.0
+http:__aksw.org_n3_reuters-128_36	gerhard stoltenberg	215	gerhard stoltenberg	1.0
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	1.0
+http:__aksw.org_n3_reuters-128_36	balladur	309	édouard balladur	1.0
+http:__aksw.org_n3_reuters-128_35	core business	315	core business	1.0
+http:__aksw.org_n3_reuters-128_33	mln	3039	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2915	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2452	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	2209	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	mln	1497	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_33	details	3288	detail (record producer)	1.0
+http:__aksw.org_n3_reuters-128_33	buenos aires province	649	buenos aires province	1.0
+http:__aksw.org_n3_reuters-128_32	mln	21	modern language notes	1.0
+http:__aksw.org_n3_reuters-128_32	eurobond	51	eurobond	1.0
+http:__aksw.org_n3_reuters-128_32	webber international	172	webber international university	1.0
+http:__aksw.org_n3_reuters-128_32	paine webber	166	paine webber	1.0
+http:__aksw.org_n3_reuters-128_32	atari corp	64	atari corporation	1.0
+http:__aksw.org_n3_reuters-128_31	several things	1059	several things	1.0
+http:__aksw.org_n3_reuters-128_31	w.	743	w. (film)	1.0
+http:__aksw.org_n3_reuters-128_31	southern co	193	southern company	1.0
+http:__aksw.org_n3_reuters-128_31	plant vogtle	134	vogtle electric generating plant	1.0
+http:__aksw.org_n3_reuters-128_31	plant vogtle	1240	vogtle electric generating plant	1.0
+http:__aksw.org_n3_reuters-128_31	mile island	2105	mile island	1.0
+http:__aksw.org_n3_reuters-128_31	georgia public service commission	26	georgia public service commission	1.0
+http:__aksw.org_n3_reuters-128_30	weisbrod	1544	john weisbrod	1.0
+http:__aksw.org_n3_reuters-128_30	u. s.	318	united states	1.0
+http:__aksw.org_n3_reuters-128_30	stuart	1537	stuart a. aaronson	1.0
+http:__aksw.org_n3_reuters-128_30	steven rosenberg	1856	steven rosenberg	1.0
+http:__aksw.org_n3_reuters-128_30	seattle, wash	421	seattle	1.0
+http:__aksw.org_n3_reuters-128_30	s.	321	s. (dorst novel)	1.0
+http:__aksw.org_n3_reuters-128_30	prudential-bache securities	1509	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_30	prudential-bache	1509	prudential securities	1.0
+http:__aksw.org_n3_reuters-128_30	new england journal of medicine	171	the new england journal of medicine	1.0
+http:__aksw.org_n3_reuters-128_30	national cancer institute	2108	national cancer institute	1.0
+http:__aksw.org_n3_reuters-128_30	national cancer institute	1880	national cancer institute	1.0
+http:__aksw.org_n3_reuters-128_30	journal of medicine	183	journal of medicine	1.0
+http:__aksw.org_n3_reuters-128_30	john durant	2403	john charles durant	1.0
+http:__aksw.org_n3_reuters-128_30	interleukin-2	78	interleukin 2	1.0
+http:__aksw.org_n3_reuters-128_30	interleukin-2	714	interleukin 2	1.0
+http:__aksw.org_n3_reuters-128_30	immunex	393	amgen	1.0
+http:__aksw.org_n3_reuters-128_30	dr. william	1117	billy taylor	1.0
+http:__aksw.org_n3_reuters-128_3	loss of	56	treaty of frankfurt (1871)	1.0
+http:__aksw.org_n3_reuters-128_28	april 10	190	april 10	1.0
+http:__aksw.org_n3_reuters-128_27	n.j.	249	new jersey	1.0
+http:__aksw.org_n3_reuters-128_27	carnival cruise lines	118	carnival cruise lines	1.0
+http:__aksw.org_n3_reuters-128_27	carnival cruise	118	carnival cruise lines	1.0
+http:__aksw.org_n3_reuters-128_26	minerals	216	mineral (band)	1.0
+http:__aksw.org_n3_reuters-128_26	first boston corp	112	first boston	1.0
+http:__aksw.org_n3_reuters-128_26	asarco	60	asarco	1.0
+http:__aksw.org_n3_reuters-128_26	asarco	0	asarco	1.0
+http:__aksw.org_n3_reuters-128_25	drexel burnham lambert	125	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_25	drexel burnham	125	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_25	alex. brown	156	alex. brown & sons	1.0
+http:__aksw.org_n3_reuters-128_25	alex.	156	greek orthodox church of alexandria	1.0
+http:__aksw.org_n3_reuters-128_24	kenneth kaunda	379	kenneth kaunda	1.0
+http:__aksw.org_n3_reuters-128_23	l.p.	153	lp (singer)	1.0
+http:__aksw.org_n3_reuters-128_23	april 30	81	april 30	1.0
+http:__aksw.org_n3_reuters-128_23	april 22	97	april 22	1.0
+http:__aksw.org_n3_reuters-128_22	s.c.	661	south carolina	1.0
+http:__aksw.org_n3_reuters-128_22	paramus, n.j.	267	paramus, new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	national guardian	0	national guardian	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	456	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	390	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j.	276	new jersey	1.0
+http:__aksw.org_n3_reuters-128_22	n.j	511	new jersey	1.0

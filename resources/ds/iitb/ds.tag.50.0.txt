@@ -1,0 +1,2227 @@
+ganeshtestdoc.txt	damien martyn	247	damien martyn	0.8414731
+yn_08oct08_file_33	guinea-bissau	5285	guinea-bissau	0.7860217
+ganeshtestdoc.txt	michael bevan	189	michael bevan	0.78235
+ganeshtestdoc.txt	tom moody	233	tom moody	0.77043843
+ganeshtestdoc.txt	steve waugh	204	steve waugh	0.7673267
+13oct08amithealth20.txt	hydrocodone	838	hydrocodone	0.766744
+13oct08amithealth20.txt	oxycodone	872	oxycodone	0.76504564
+13oct08amittech3.txt	international space station	1062	international space station	0.7635055
+13oct08amithealth20.txt	docusate	1748	docusate	0.7631214
+yn_08oct08_file_5	eritrea	776	eritrea	0.7581407
+ganeshtestdoc.txt	sourav ganguly	66	sourav ganguly	0.75649375
+13oct08amitsport20.txt	russell martin	883	russell martin	0.7555077
+yn_08oct08_file_5	djibouti	766	djibouti	0.75368726
+ganeshtestdoc.txt	darren lehmann	217	darren lehmann	0.7526423
+13oct08amitsport20.txt	nomar garciaparra	926	nomar garciaparra	0.7521846
+13oct08amithealth20.txt	surfak	1740	docusate	0.75116134
+13oct08amittech18.txt	martin chalfie	328	martin chalfie	0.74400556
+13oct08_buss_file_10.txt	bear stearns	1758	bear stearns	0.7386031
+yn_08oct08_file_21	bob dylan	0	bob dylan	0.734325
+13oct08_buss_file_10.txt	jpmorgan chase	1728	jpmorgan chase	0.7322693
+ganeshtestdoc.txt	rahul dravid	382	rahul dravid	0.73190457
+13oct08amithealth20.txt	bisacodyl	1650	bisacodyl	0.73068917
+yn_08oct08_file_33	burundi	5371	burundi	0.73034835
+13oct08amithealth4.txt	camellia sinensis	2907	camellia sinensis	0.7297781
+13oct08_buss_file_10.txt	washington mutual	1775	washington mutual	0.7295433
+13oct08amithealth15.txt	bipolar ii disorder	3474	bipolar ii disorder	0.72675884
+13oct08amithealth7.txt	john f. enders	2172	john franklin enders	0.726475
+13oct08amittech18.txt	osamu shimomura	256	osamu shimomura	0.7239393
+13oct08amithealth20.txt	senokot	1620	senna glycoside	0.72293043
+13oct08amitsport20.txt	los angeles dodgers	53	los angeles dodgers	0.72284997
+13oct08amittech23.txt	google talk	1572	google talk	0.7203822
+yn_08oct08_file_33	angola	5192	angola	0.7196488
+yn_08oct08_file_6	al qaeda	1940	al-qaeda	0.7194503
+ganeshtestdoc.txt	leg spin	663	leg spin	0.71931666
+yn_08oct08_file_5	tajikistan	858	tajikistan	0.7191193
+13oct08amittech18.txt	roger y. tsien	384	roger y. tsien	0.71863127
+13oct08amitsport20.txt	philadelphia phillies	99	philadelphia phillies	0.717845
+13oct08amithealth15.txt	bipolar disorder	0	bipolar disorder	0.71746975
+13oct08amithealth20.txt	lactulose	1848	lactulose	0.71710277
+13oct08amitsport20.txt	andre ethier	799	andre ethier	0.7167906
+13oct08amitsport20.txt	shane victorino	1550	shane victorino	0.71451503
+yn_08oct08_file_14	american international group	2633	american international group	0.71251154
+13oct08amitsport20.txt	casey blake	951	casey blake	0.71204996
+13oct08amittech12.txt	amniocentesis	1956	amniocentesis	0.7117694
+13oct08amithealth20.txt	entereg	2973	alvimopan	0.710508
+13oct08amithealth20.txt	naloxone	3016	naloxone	0.7092962
+13oct08amithealth20.txt	percocet	883	oxycodone/paracetamol	0.7086488
+13oct08amithealth20.txt	lortab	860	hydrocodone/paracetamol	0.70841455
+13oct08amithealth4.txt	polyphenol	2154	polyphenol	0.70745
+yn_08oct08_file_5	kyrgyzstan	813	kyrgyzstan	0.70738584
+yn_08oct08_file_21	bob dylan	3890	bob dylan	0.70634705
+yn_08oct08_file_6	osama bin laden	2436	osama bin laden	0.70562
+ganeshtestdoc.txt	mike denness	17	mike denness	0.7055156
+13oct08amithealth20.txt	alvimopan	2982	alvimopan	0.70241153
+13oct08amithealth5.txt	black sickness	751	visceral leishmaniasis	0.6996895
+13oct08amithealth7.txt	thomas h. weller	2188	thomas huckle weller	0.69951564
+13oct08amithealth20.txt	stool softener	1981	laxative	0.69945276
+13oct08amithealth15.txt	lamotrigine	6978	lamotrigine	0.69925
+13oct08amittech3.txt	michael fincke	973	michael fincke	0.6988412
+13oct08amithealth15.txt	sertraline	1913	sertraline	0.6987632
+13oct08amittech18.txt	nobel prize in chemistry	43	nobel prize in chemistry	0.69816333
+yn_08oct08_file_6	september 11 attacks	1968	september 11 attacks	0.6978059
+13oct08_buss_file_10.txt	citigroup	1794	citigroup	0.6937914
+13oct08amithealth15.txt	bipolar disorder	2075	bipolar disorder	0.6933468
+13oct08amithealth7.txt	frederick c. robbins	2209	frederick chapman robbins	0.69238824
+yn_08oct08_file_6	hamid karzai	1527	hamid karzai	0.6923364
+13oct08amitsport20.txt	jamie moyer	748	jamie moyer	0.69153154
+13oct08amithealth15.txt	bipolar i disorder	3308	bipolar i disorder	0.6909158
+13oct08amithealth15.txt	geodon	7045	ziprasidone	0.6908825
+13oct08amitsport19.txt	marin cilic	3151	marin čilić	0.69033
+13oct08amittech12.txt	chorionic villus sampling	1851	chorionic villus sampling	0.68983126
+yn_08oct08_file_1	rocket-propelled grenade	725	rocket-propelled grenade	0.6893289
+13oct08amitsport19.txt	mardy fish	2999	mardy fish	0.68915665
+13oct08amitsport1.txt	virender sehwag	2583	virender sehwag	0.6889605
+13oct08amitsport7.txt	formula one	672	formula one	0.68848735
+13oct08amitsport20.txt	manny ramirez	203	manny ramirez	0.687929
+yn_08oct08_file_19	old polluting	1365	pollution	0.68602175
+yn_08oct08_file_0	zabul province	630	zabul province	0.685295
+yn_08oct08_file_33	rwanda	5352	rwanda	0.68474114
+yn_08oct08_file_5	seychelles	838	seychelles	0.6847253
+yn_08oct08_file_21	break up the concrete	81	break up the concrete	0.68464166
+yn_08oct08_file_9	hamid karzai	741	hamid karzai	0.68453056
+yn_08oct08_file_0	taliban	1185	taliban	0.6838883
+13oct08amitsport20.txt	no. 2 hitter	1581	batting order (baseball)	0.68179524
+13oct08amitsport2.txt	sialkot stallions	317	sialkot stallions	0.6816
+yn_08oct08_file_2	the pentagon	1030	the pentagon	0.680675
+13oct08amittech24.txt	retinitis pigmentosa	1381	retinitis pigmentosa	0.6805705
+13oct08amithealth15.txt	bipolar disorder	5458	bipolar disorder	0.6803775
+13oct08amittech3.txt	richard garriott	204	richard garriott	0.67902
+13oct08amithealth15.txt	premenstrual syndrome	4575	premenstrual syndrome	0.67880714
+13oct08amittech7.txt	ebay, it	2651	ebay	0.67751336
+ganeshtestdoc.txt	donald bradman	476	don bradman	0.6774148
+ganeshtestdoc.txt	greg chappell	458	greg chappell	0.6773769
+yn_08oct08_file_28	benazir bhutto	195	benazir bhutto	0.67713
+yn_08oct08_file_5	yemen	883	yemen	0.67671275
+13oct08amittech3.txt	richard garriott	5	richard garriott	0.6764706
+yn_08oct08_file_28	sarah palin	5614	sarah palin	0.67529
+yn_08oct08_file_27	sarah palin	5009	sarah palin	0.67529
+13oct08_buss_file_10.txt	countrywide financial	1681	bank of america home loans	0.67478573
+13oct08amitsport2.txt	karachi dolphins	289	karachi dolphins	0.6746654
+yn_08oct08_file_5	ethiopia	786	ethiopia	0.6737378
+13oct08amithealth15.txt	mood stabilizer	6996	mood stabilizer	0.6736714
+13oct08amitsport19.txt	radek stepanek	3455	radek štěpánek	0.6729861
+13oct08amittech16.txt	global positioning system	116	global positioning system	0.67271626
+yn_08oct08_file_21	dreamin' of you	1296	dreamin' of you (bob dylan song)	0.67225003
+13oct08amittech3.txt	yuri lonchakov	1010	yury lonchakov	0.6721342
+13oct08amittech18.txt	green fluorescent protein	461	green fluorescent protein	0.6715643
+yn_08oct08_file_21	chrissie hynde	3532	chrissie hynde	0.67150664
+13oct08amithealth2.txt	kilocalorie	922	calorie	0.6715033
+yn_08oct08_file_21	elvis presley	3859	elvis presley	0.6714158
+13oct08amitsport1.txt	rahul dravid	2636	rahul dravid	0.67068094
+13oct08amitsport14.txt	wayne rooney	2550	wayne rooney	0.6704217
+13oct08amitsport14.txt	manchester united	2604	manchester united f.c.	0.6704091
+13oct08amittech23.txt	accelerometer	1035	accelerometer	0.67012936
+yn_08oct08_file_14	bankruptcy of lehman brothers	2556	bankruptcy of lehman brothers	0.6680607
+yn_08oct08_file_21	jim keltner	3982	jim keltner	0.66794
+13oct08amithealth11.txt	kir3dl1	1254	kir3dl1	0.6677088
+13oct08amittech20.txt	surfactant	2768	surfactant	0.6676593
+13oct08amithealth15.txt	premenstrual syndrome	4943	premenstrual syndrome	0.6674333
+13oct08amithealth15.txt	bipolar disorder	469	bipolar disorder	0.6667963
+13oct08amithealth17.txt	gardasil	4630	gardasil	0.66595453
+13oct08amittech12.txt	aneuploidy	2675	aneuploidy	0.66564345
+yn_08oct08_file_6	al qaeda	2261	al-qaeda	0.6656384
+13oct08amithealth7.txt	post polio syndrome	6263	post-polio syndrome	0.66562337
+13oct08amithealth12.txt	islets of langerhans	1346	pancreatic islets	0.6656167
+13oct08amittech18.txt	roger y. tsien	3133	roger y. tsien	0.6654072
+yn_08oct08_file_13	travelers group	3577	citigroup	0.66463697
+yn_08oct08_file_36	weather underground	2075	weather underground	0.66366667
+13oct08amithealth4.txt	epigallocatechin gallate	2085	epigallocatechin gallate	0.6634412
+13oct08amithealth7.txt	jonas salk	2082	jonas salk	0.6631125
+yn_08oct08_file_33	zimbabwe	5175	zimbabwe	0.66273475
+yn_08oct08_file_13	citigroup	3504	citigroup	0.6620886
+13oct08amittech24.txt	retinitis pigmentosa	1071	retinitis pigmentosa	0.66203636
+13oct08amittech9.txt	wankel engine	323	wankel engine	0.6610619
+yn_08oct08_file_1	zabul province	916	zabul province	0.66094166
+13oct08amitsport20.txt	chase utley	2051	chase utley	0.66078335
+yn_08oct08_file_36	sarah palin	1944	sarah palin	0.6603409
+13oct08amitsport20.txt	hiroki kuroda	0	hiroki kuroda	0.6598
+yn_08oct08_file_21	bob dylan	480	bob dylan	0.65952855
+13oct08amittech12.txt	down syndrome	4157	down syndrome	0.658985
+13oct08amitsport14.txt	david beckham	5606	david beckham	0.65873915
+13oct08amittech24.txt	retinitis pigmentosa	2030	retinitis pigmentosa	0.65870833
+13oct08amithealth17.txt	harald zur hausen	330	harald zur hausen	0.65856665
+yn_08oct08_file_25	bob dylan	400	bob dylan	0.65796566
+13oct08amittech17.txt	h5n1	671	influenza a virus subtype h5n1	0.65733093
+13oct08amithealth15.txt	postpartum depression	6288	postpartum depression	0.6572238
+13oct08amitsport7.txt	lewis hamilton	710	lewis hamilton	0.6570778
+13oct08_buss_file_10.txt	merrill lynch	1707	merrill lynch	0.6563584
+yn_08oct08_file_36	bill ayers	2016	bill ayers	0.6561706
+13oct08amithealth15.txt	premenstrual dysphoric disorder	4974	premenstrual dysphoric disorder	0.6557625
+13oct08amitsport15.txt	mark viduka	2351	mark viduka	0.6547607
+13oct08amittech4.txt	holographic discs	1422	holographic versatile disc	0.654215
+13oct08amittech9.txt	internal combustion engine	885	internal combustion engine	0.6540607
+13oct08amitsport14.txt	nottingham forest	1940	nottingham forest f.c.	0.65357274
+yn_08oct08_file_21	bruce springsteen	706	bruce springsteen	0.65315837
+yn_08oct08_file_25	bob dylan	86	bob dylan	0.6531182
+13oct08amithealth20.txt	opioid receptor	2641	opioid receptor	0.6525781
+13oct08amithealth15.txt	bipolar disorder	1740	bipolar disorder	0.6524049
+13oct08amitsport19.txt	gilles simon	3195	gilles simon	0.652253
+13oct08amitsport19.txt	tomas berdych	3539	tomáš berdych	0.6517912
+13oct08amithealth15.txt	clonazepam	7152	clonazepam	0.6517818
+13oct08amittech3.txt	skylab	1406	skylab	0.6506751
+13oct08amitsport19.txt	andy murray	2640	andy murray	0.65005004
+13oct08amitsport5.txt	cristiano ronaldo	1597	cristiano ronaldo	0.6498474
+13oct08amittech24.txt	vitreous humor	1654	vitreous body	0.6493667
+13oct08amitsport14.txt	chris waddle	5524	chris waddle	0.6492783
+13oct08amithealth7.txt	centers for disease control and prevention	3724	centers for disease control and prevention	0.648489
+13oct08amitsport11.txt	hero honda indian open	133	indian open (golf)	0.6481594
+13oct08amittech3.txt	photorefractive keratectomy	4810	photorefractive keratectomy	0.64759773
+13oct08amitsport11.txt	liang wen-chong	46	liang wen-chong	0.6474786
+13oct08amitsport14.txt	zinedine zidane	3018	zinedine zidane	0.647454
+yn_08oct08_file_25	beatles' anthology	485	the beatles anthology	0.64673054
+13oct08amittech24.txt	retinitis pigmentosa	189	retinitis pigmentosa	0.64661944
+13oct08amitsport15.txt	habib beye	2304	habib beye	0.6464437
+13oct08amithealth20.txt	oxycontin	893	oxycodone	0.6462321
+13oct08amithealth15.txt	bipolar disorder	6012	bipolar disorder	0.6460893
+13oct08amitsport4.txt	dirk kuyt	0	dirk kuyt	0.64584285
+13oct08amithealth5.txt	visceral leishmaniasis	696	visceral leishmaniasis	0.645685
+yn_08oct08_file_6	haqqani network	2534	haqqani network	0.6456794
+13oct08amitsport19.txt	ernests gulbis	3402	ernests gulbis	0.6456595
+yn_08oct08_file_21	i'm outta time	6042	i'm outta time	0.64539254
+yn_08oct08_file_21	bo diddley	4259	bo diddley	0.645
+yn_08oct08_file_27	dick cheney	641	dick cheney	0.64458156
+yn_08oct08_file_0	qalat district	603	qalat district	0.6443818
+13oct08amitsport3.txt	manchester united	1805	manchester united f.c.	0.64384604
+13oct08amithealth11.txt	kir3dl1	1469	kir3dl1	0.64379287
+13oct08amitsport17.txt	ufc	2662	ultimate fighting championship	0.6434068
+13oct08amitsport15.txt	aston villa	751	aston villa f.c.	0.6433647
+yn_08oct08_file_21	tell tale signs: rare and unreleased, 1989-2006	548	the bootleg series vol. 8: tell tale signs: rare and unreleased 1989–2006	0.64334
+13oct08amitsport8.txt	wbo	1473	world boxing organization	0.64320207
+yn_08oct08_file_5	kenya	805	kenya	0.6430702
+13oct08amithealth16.txt	progeria	1952	progeria	0.64285713
+yn_08oct08_file_33	estonia	4470	estonia	0.6427281
+13oct08amitsport13.txt	philadelphia phillies	119	philadelphia phillies	0.64248097
+13oct08amithealth16.txt	progeria	2634	progeria	0.64244413
+yn_08oct08_file_11	telefonica sa	1483	telefónica	0.64215624
+13oct08amithealth6.txt	samyama	3220	samyama	0.642075
+13oct08amittech12.txt	down syndrome	335	down syndrome	0.6419117
+13oct08amitsport19.txt	olivier rochus	3168	olivier rochus	0.6417906
+13oct08amithealth15.txt	bipolar disorder	4649	bipolar disorder	0.64167154
+yn_08oct08_file_25	daniel lanois	2339	daniel lanois	0.64158946
+yn_08oct08_file_8	zabul province	509	zabul province	0.6414367
+yn_08oct08_file_2	zabul province	456	zabul province	0.6414367
+13oct08amittech4.txt	terabyte	1413	terabyte	0.64068747
+13oct08amithealth17.txt	cervarix	752	cervarix	0.6406432
+yn_08oct08_file_6	al qaeda	2617	al-qaeda	0.6404666
+13oct08amitsport15.txt	obafemi martins	2364	obafemi martins	0.6403156
+yn_08oct08_file_14	countrywide financial	2790	bank of america home loans	0.63999665
+13oct08amittech5.txt	nanorobotics	4158	nanorobotics	0.63975835
+13oct08amitsport14.txt	owen hargreaves	4742	owen hargreaves	0.6396614
+13oct08amithealth19.txt	basal metabolic rate	856	basal metabolic rate	0.6395115
+13oct08amitsport13.txt	shane victorino	313	shane victorino	0.63900524
+yn_08oct08_file_6	taliban	1888	taliban	0.63864416
+13oct08amitsport19.txt	steve darcis	2843	steve darcis	0.6386412
+13oct08_buss_file_11.txt	washington mutual	3999	washington mutual	0.63853
+yn_08oct08_file_7	international security assistance force	1199	international security assistance force	0.6380239
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	0.63801944
+yn_08oct08_file_5	operation enduring freedom	607	war in afghanistan (2001–2014)	0.6379647
+13oct08amitsport2.txt	shahid afridi	234	shahid afridi	0.63757914
+yn_08oct08_file_2	taliban	796	taliban	0.63732266
+13oct08amithealth15.txt	progesterone	4761	progesterone	0.6372524
+13oct08amithealth20.txt	methylnaltrexone	2415	methylnaltrexone	0.6370235
+13oct08amitsport3.txt	wayne rooney	1831	wayne rooney	0.6368521
+13oct08amitsport17.txt	ufc	1687	ultimate fighting championship	0.63671666
+13oct08amithealth15.txt	mood stabilizer	6721	mood stabilizer	0.63656497
+13oct08amitsport8.txt	sultan ibragimov	1493	sultan ibragimov	0.63637
+13oct08amithealth15.txt	hypomania	3542	hypomania	0.63621765
+13oct08amithealth12.txt	isles of langerhans	398	pancreatic islets	0.63604045
+13oct08amitsport19.txt	igor andreev	3219	igor andreev	0.6360184
+13oct08amithealth17.txt	glaxosmithkline	733	glaxosmithkline	0.6359804
+yn_08oct08_file_36	keating five	1077	keating five	0.6355738
+13oct08amithealth15.txt	bipolar disorder	6493	bipolar disorder	0.63556015
+13oct08amitsport20.txt	pedro feliz	357	pedro feliz	0.63548094
+13oct08amithealth20.txt	morphine	828	morphine	0.6351904
+13oct08amitsport12.txt	avery johnson	751	avery johnson	0.6351765
+yn_08oct08_file_8	the pentagon	1061	the pentagon	0.6351333
+13oct08amithealth16.txt	progeria	772	progeria	0.6349869
+13oct08amitsport18.txt	walter dix	453	walter dix	0.6349695
+yn_08oct08_file_3	zabul province	330	zabul province	0.63482
+13oct08amitsport1.txt	brian lara	1377	brian lara	0.6347147
+13oct08amitsport18.txt	carl lewis	2111	carl lewis	0.6341938
+13oct08amitsport8.txt	michael moorer	1650	michael moorer	0.6341175
+13oct08amitsport15.txt	jonas gutierrez	2316	jonás gutiérrez	0.6340625
+yn_08oct08_file_30	soviet war in afghanistan	2819	soviet–afghan war	0.6339833
+13oct08amittech12.txt	amniocentesis	1523	amniocentesis	0.633898
+13oct08amittech3.txt	nasa	958	nasa	0.63389343
+13oct08amitsport12.txt	nick van exel	769	nick van exel	0.6333324
+13oct08amithealth15.txt	bipolar disorder	741	bipolar disorder	0.63290626
+yn_08oct08_file_28	benazir bhutto	51	benazir bhutto	0.63272107
+13oct08amittech2.txt	steve jobs	1103	steve jobs	0.6324364
+13oct08amithealth15.txt	postpartum psychosis	6336	postpartum psychosis	0.63234997
+13oct08amitsport6.txt	felipe massa	78	felipe massa	0.63209474
+yn_08oct08_file_12	citigroup	3667	citigroup	0.6320222
+13oct08amithealth18.txt	atherosclerosis	3463	atherosclerosis	0.6319617
+13oct08amithealth5.txt	world health org-anization	4057	world health organization	0.63188684
+13oct08amithealth7.txt	poliomyelitis	2268	poliomyelitis	0.63180834
+13oct08amitsport20.txt	cory wade	504	cory wade	0.63165474
+13oct08amittech17.txt	hemagglutinin	1935	hemagglutinin	0.63147247
+13oct08amittech3.txt	baikonur cosmodrome	875	baikonur cosmodrome	0.6309072
+13oct08amittech3.txt	owen garriott	189	owen k. garriott	0.63085526
+yn_08oct08_file_28	hillary clinton	6325	hillary clinton	0.6303476
+yn_08oct08_file_27	hillary clinton	5720	hillary clinton	0.6303476
+yn_08oct08_file_21	live at shea stadium	5423	live at shea stadium	0.63014686
+13oct08amitsport17.txt	carl froch	1339	carl froch	0.6301
+yn_08oct08_file_11	mexican stock exchange	2491	mexican stock exchange	0.62980336
+13oct08amithealth17.txt	gardasil	698	gardasil	0.6297375
+yn_08oct08_file_15	general growth properties	688	general growth properties	0.62967
+yn_08oct08_file_25	entertainment weekly	330	entertainment weekly	0.6292053
+13oct08amitsport17.txt	o2 arena	1752	the o2 arena	0.6288933
+yn_08oct08_file_12	citigroup	2354	citigroup	0.6288663
+13oct08amithealth4.txt	rheumatoid arthritis	1941	rheumatoid arthritis	0.6286316
+13oct08amithealth16.txt	progeria	2737	progeria	0.6283
+13oct08amittech17.txt	rockefeller university	1114	rockefeller university	0.6282559
+13oct08amitsport15.txt	joey barton	2291	joey barton	0.62806565
+ganeshtestdoc.txt	off spin	677	off spin	0.6279072
+13oct08amitsport18.txt	usain bolt	95	usain bolt	0.62755555
+yn_08oct08_file_33	south korea	4180	south korea	0.6271057
+13oct08amitsport15.txt	manchester city	791	manchester city f.c.	0.62701666
+yn_08oct08_file_6	robert gates	2069	robert gates	0.62696254
+13oct08amithealth20.txt	opioid	1523	opioid	0.62671876
+13oct08amitsport14.txt	ronaldinho	3155	ronaldinho	0.62654805
+13oct08amithealth16.txt	progeria	13	progeria	0.626475
+13oct08amitsport14.txt	john terry	1547	john terry	0.6262357
+13oct08amithealth15.txt	lamotrigine	5876	lamotrigine	0.62607753
+yn_08oct08_file_23	michif language	3677	michif language	0.62549233
+13oct08amittech21.txt	turing test	634	turing test	0.6251341
+13oct08amitsport19.txt	rafael nadal	667	rafael nadal	0.625095
+yn_08oct08_file_0	nad ali district	1248	nad ali district	0.6249667
+13oct08amitsport19.txt	roger federer	3793	roger federer	0.624805
+13oct08amithealth9.txt	dengue haemorrhagic fever	992	dengue fever	0.6247278
+yn_08oct08_file_22	arlene schnitzer concert hall	173	arlene schnitzer concert hall	0.6244
+13oct08amithealth17.txt	harald zur hausen	2504	harald zur hausen	0.6243353
+13oct08amitsport18.txt	churandy martina	914	churandy martina	0.6242432
+13oct08amithealth2.txt	kilocalorie	1441	calorie	0.6240474
+yn_08oct08_file_29	sun mon tue wed thu fri sat	159	names of the days of the week	0.6239882
+13oct08amithealth15.txt	bipolar disorder	1298	bipolar disorder	0.6239279
+13oct08amitsport19.txt	marat safin	2766	marat safin	0.6239225
+13oct08amittech25.txt	safari versions	4190	safari version history	0.62390476
+yn_08oct08_file_12	jamie dimon	3469	jamie dimon	0.6239024
+13oct08amithealth16.txt	progeria	940	progeria	0.6238119
+13oct08amitsport14.txt	gareth barry	2479	gareth barry	0.62379545
+13oct08amitsport14.txt	theo walcott	4358	theo walcott	0.623775
+13oct08amittech3.txt	national air and space museum	2906	national air and space museum	0.62335455
+13oct08amithealth11.txt	kir3dl1	994	kir3dl1	0.6233139
+yn_08oct08_file_21	beatles' anthology	677	the beatles anthology	0.6228322
+yn_08oct08_file_25	time out of mind	2303	time out of mind	0.6225702
+13oct08amitsport19.txt	david nalbandian	3697	david nalbandian	0.6224971
+13oct08amithealth18.txt	multiple sclerosis	6698	multiple sclerosis	0.62205166
+13oct08amittech15.txt	interoperable technologies	2623	sirius xm holdings	0.62184995
+13oct08amittech21.txt	alan turing	909	alan turing	0.6218
+13oct08amitsport18.txt	shawn crawford	411	shawn crawford	0.62168527
+yn_08oct08_file_33	latvia	4592	latvia	0.62151265
+13oct08amitsport3.txt	gareth barry	419	gareth barry	0.62049544
+13oct08amittech24.txt	retinitis pigmentosa	5083	retinitis pigmentosa	0.6204925
+13oct08amithealth7.txt	franklin d. roosevelt	1603	franklin d. roosevelt	0.6202619
+13oct08amithealth12.txt	glycosuria	4472	glycosuria	0.62021625
+13oct08amitsport5.txt	cristiano ronaldo	76	cristiano ronaldo	0.62009376
+13oct08amitsport12.txt	chris paul	1219	chris paul	0.6198105
+13oct08amitsport18.txt	christian malcolm	503	christian malcolm	0.6197025
+13oct08amitsport1.txt	cameron white	2379	cameron white	0.61960953
+13oct08amitsport2.txt	shoaib malik	255	shoaib malik	0.61946154
+13oct08amitsport3.txt	rio ferdinand	971	rio ferdinand	0.6194295
+13oct08amittech2.txt	ipod touch	3074	ipod touch	0.619143
+yn_08oct08_file_21	rock the casbah	5400	rock the casbah	0.6190639
+13oct08amithealth15.txt	mixed mania	3984	mixed affective state	0.6184684
+yn_08oct08_file_21	oh mercy	1153	oh mercy	0.6181344
+13oct08amitsport15.txt	randy lerner	766	randy lerner	0.6175219
+13oct08amithealth16.txt	mayo foundation for medical education and research	858	mayo clinic	0.61723423
+13oct08amitsport14.txt	shaun wright-phillips	4322	shaun wright-phillips	0.6171
+yn_08oct08_file_16	america's test kitchen	1037	america's test kitchen	0.61695
+yn_08oct08_file_27	nancy pelosi	433	nancy pelosi	0.6169094
+yn_08oct08_file_17	alinghi	2885	alinghi	0.6168036
+yn_08oct08_file_10	alinghi	2762	alinghi	0.6168036
+yn_08oct08_file_18	flight to quality	2878	flight-to-quality	0.61631054
+13oct08amittech22.txt	semipermeable membrane	416	semipermeable membrane	0.6161447
+13oct08amittech2.txt	s pcs	170	sprint corporation	0.616125
+yn_08oct08_file_0	helmand province	1277	helmand province	0.6159784
+yn_08oct08_file_12	golden west financial	2648	golden west financial	0.61585414
+13oct08amitsport1.txt	rahul dravid	1264	rahul dravid	0.6156857
+13oct08amithealth20.txt	relistor	2827	methylnaltrexone	0.6156652
+13oct08amittech3.txt	nasa	1359	nasa	0.61553454
+13oct08amitsport7.txt	felipe massa	729	felipe massa	0.61545295
+13oct08amitsport3.txt	emile heskey	3045	emile heskey	0.6150891
+yn_08oct08_file_1	qalat district	900	qalat district	0.6150333
+13oct08amithealth13.txt	vitamin c	1227	vitamin c	0.61488616
+13oct08amitsport17.txt	ufc	2502	ultimate fighting championship	0.6148658
+13oct08amittech21.txt	turing test	870	turing test	0.6145972
+13oct08amittech17.txt	h5n1	2185	influenza a virus subtype h5n1	0.6145075
+13oct08amithealth9.txt	breakbone fever	417	dengue fever	0.61418235
+13oct08amithealth3.txt	rheumatoid arthritis	494	rheumatoid arthritis	0.61357987
+13oct08amithealth18.txt	glaucoma	7145	glaucoma	0.61355
+13oct08amithealth7.txt	centers for disease control and prevention	4640	centers for disease control and prevention	0.6134622
+13oct08amitsport6.txt	fernando alonso	603	fernando alonso	0.61333
+13oct08amitsport2.txt	wasim akram	2349	wasim akram	0.6131643
+13oct08amittech18.txt	american chemical society	1169	american chemical society	0.61301255
+13oct08amitsport14.txt	claude makelele	4763	claude makélélé	0.6130091
+13oct08amittech3.txt	skylab	708	skylab	0.6129965
+13oct08amitsport14.txt	robinho	3043	robinho	0.6129711
+13oct08amittech19.txt	leukemia inhibitory factor	3076	leukemia inhibitory factor	0.6128893
+13oct08amittech3.txt	landsat program	2470	landsat program	0.6126389
+13oct08amithealth15.txt	antidepressant	1898	antidepressant	0.61262286
+13oct08amithealth16.txt	progeria	4021	progeria	0.61245
+13oct08amitsport14.txt	emile heskey	2756	emile heskey	0.61191344
+13oct08amithealth15.txt	bipolar disorder	5098	bipolar disorder	0.611751
+yn_08oct08_file_36	keating five	2100	keating five	0.61085
+yn_08oct08_file_6	taliban	2214	taliban	0.6104303
+13oct08amittech3.txt	nasa	2463	nasa	0.61007845
+13oct08amitsport17.txt	david haye	1022	david haye	0.6099905
+13oct08amittech21.txt	carnegie mellon university	4257	carnegie mellon university	0.6098094
+yn_08oct08_file_16	cook's illustrated	967	cook's illustrated	0.6098033
+yn_08oct08_file_25	oh mercy	2283	oh mercy	0.6098026
+13oct08amitsport14.txt	ashley cole	1531	ashley cole	0.6095262
+13oct08amittech13.txt	national renewable energy laboratory	2428	national renewable energy laboratory	0.60925835
+13oct08amithealth15.txt	bipolar disorder	3003	bipolar disorder	0.60922515
+yn_08oct08_file_21	martin chambers	4006	martin chambers	0.60912
+yn_08oct08_file_12	wachovia corp	2471	wachovia	0.60860276
+13oct08amitsport13.txt	hiroki kuroda	15	hiroki kuroda	0.60840476
+13oct08amitsport17.txt	brazilian jiu-jitsu	1835	brazilian jiu-jitsu	0.6082651
+yn_08oct08_file_13	sanford weill	3434	sanford i. weill	0.60825527
+yn_08oct08_file_14	lehman brothers holdings inc	2570	lehman brothers	0.6081258
+13oct08_buss_file_11.txt	jpmorgan chase	4110	jpmorgan chase	0.60807943
+yn_08oct08_file_14	dow jones industrial average	1563	dow jones industrial average	0.60807353
+yn_08oct08_file_33	ghana	4869	ghana	0.60787904
+yn_08oct08_file_21	shea stadium	4700	shea stadium	0.60784376
+yn_08oct08_file_33	zambia	4858	zambia	0.6073454
+13oct08amitsport3.txt	john terry	88	john terry	0.6073
+yn_08oct08_file_9	taliban	600	taliban	0.6072811
+13oct08amittech21.txt	captcha	4310	captcha	0.6072457
+13oct08amittech2.txt	graphical user interface	1548	graphical user interface	0.6071149
+13oct08amitsport7.txt	fuji speedway	241	fuji speedway	0.60675275
+13oct08amitsport5.txt	bernd schuster	52	bernd schuster	0.6067406
+yn_08oct08_file_17	alinghi	3227	alinghi	0.6066385
+yn_08oct08_file_10	alinghi	3104	alinghi	0.6066385
+13oct08amitsport19.txt	nicolas almagro	2433	nicolás almagro	0.6065735
+yn_08oct08_file_16	america's test kitchen	278	america's test kitchen	0.6064969
+yn_08oct08_file_1	afghan national security forces	824	afghan national security forces	0.6063702
+yn_08oct08_file_21	time out of mind	1354	time out of mind	0.60630935
+yn_08oct08_file_2	taliban	1352	taliban	0.606307
+yn_08oct08_file_17	larry ellison	2541	larry ellison	0.60627335
+yn_08oct08_file_10	larry ellison	2416	larry ellison	0.60627335
+13oct08amithealth17.txt	german cancer research center	355	german cancer research center	0.6061846
+13oct08amittech17.txt	h5n1	3123	influenza a virus subtype h5n1	0.6061808
+13oct08amithealth20.txt	vicodin	851	hydrocodone/paracetamol	0.6061427
+yn_08oct08_file_16	cook's country	994	cook's country	0.60603076
+13oct08amitsport15.txt	alan smith	2384	alan smith (footballer, born 1980)	0.60583895
+13oct08amithealth18.txt	stepping stone theory	5733	gateway drug theory	0.6057647
+yn_08oct08_file_6	al qaeda. saudi arabia	2261	al-qaeda in the arabian peninsula	0.60576355
+13oct08amitsport9.txt	stefan schumacher	50	stefan schumacher	0.6054711
+yn_08oct08_file_1	taliban	1106	taliban	0.60508746
+13oct08amithealth20.txt	blood-brain barrier	2719	blood–brain barrier	0.6048645
+13oct08amitsport20.txt	home run	1191	home run	0.6047037
+13oct08amittech3.txt	astigmatism	4957	astigmatism	0.604699
+13oct08amittech12.txt	patau syndrome	1201	patau syndrome	0.60468614
+13oct08amitsport8.txt	wilfried sauerland	165	wilfried sauerland	0.6044125
+13oct08amittech12.txt	down syndrome	3832	down syndrome	0.60423756
+yn_08oct08_file_21	topper headon	4980	topper headon	0.6042316
+13oct08amithealth21.txt	virtual colonoscopy	1257	virtual colonoscopy	0.6038396
+yn_08oct08_file_31	touching the void	7117	touching the void (film)	0.6035531
+13oct08amitsport5.txt	manchester united	395	manchester united f.c.	0.60354286
+13oct08amitsport14.txt	belarus	1572	belarus national football team	0.60349
+13oct08amittech3.txt	nasa	741	nasa	0.60344285
+13oct08amittech3.txt	nasa	176	nasa	0.60247344
+13oct08amitsport3.txt	john terry	1176	john terry	0.6022525
+13oct08amittech9.txt	fuel cell	755	fuel cell	0.60215366
+yn_08oct08_file_18	merrill lynch	2161	merrill lynch	0.60206676
+yn_08oct08_file_12	home equity loan	852	home equity loan	0.6019618
+13oct08amittech18.txt	university of california, san diego	406	university of california, san diego	0.60178435
+13oct08amitsport17.txt	ufc	2174	ultimate fighting championship	0.60147
+13oct08amithealth20.txt	stimulant laxative	2107	laxative	0.6012435
+13oct08amitsport19.txt	andreas seppi	1927	andreas seppi	0.6012
+13oct08amithealth17.txt	robert gallo	1384	robert gallo	0.60065335
+yn_08oct08_file_28	joe biden	5734	joe biden	0.6002167
+yn_08oct08_file_27	joe biden	5129	joe biden	0.6002167
+13oct08amittech18.txt	university of california, san diego	3184	university of california, san diego	0.6000925
+13oct08amittech21.txt	captcha	4978	captcha	0.599922
+13oct08amittech15.txt	set-top box	1220	set-top box	0.59949434
+13oct08amitsport19.txt	tommy robredo	1866	tommy robredo	0.5990667
+13oct08amittech18.txt	alzheimer's disease	1296	alzheimer's disease	0.59900016
+13oct08amitsport17.txt	ufc	3917	ultimate fighting championship	0.59804165
+yn_08oct08_file_33	lithuania	4578	lithuania	0.59799474
+yn_08oct08_file_18	new york stock exchange	457	new york stock exchange	0.5979933
+13oct08amithealth17.txt	pasteur institute	1312	pasteur institute	0.59798574
+13oct08amitsport13.txt	russell martin	470	russell martin	0.5976475
+yn_08oct08_file_6	taliban	1574	taliban	0.597551
+13oct08amitsport1.txt	virender sehwag	1240	virender sehwag	0.59748095
+13oct08amitsport4.txt	hampden park	1224	hampden park	0.5974182
+yn_08oct08_file_18	countrywide financial corp	2411	bank of america home loans	0.5973861
+13oct08_buss_file_11.txt	jpmorgan chase	645	jpmorgan chase	0.59736705
+13oct08amittech12.txt	down syndrome	632	down syndrome	0.59736395
+13oct08amitsport5.txt	iker casillas	1514	iker casillas	0.597275
+13oct08amittech22.txt	reverse osmosis	1841	reverse osmosis	0.5971048
+yn_08oct08_file_36	charles keating jr	2199	charles keating	0.5970029
+13oct08amithealth17.txt	luc montagnier	1048	luc montagnier	0.59690523
+yn_08oct08_file_27	nancy pelosi	224	nancy pelosi	0.59688234
+13oct08amitsport12.txt	david west	1234	david west (basketball)	0.5965921
+13oct08amithealth7.txt	centers for disease control and prevention	386	centers for disease control and prevention	0.5964811
+13oct08_buss_file_11.txt	u.s. treasury dept	1344	united states department of the treasury	0.59643865
+13oct08amithealth17.txt	anthony fauci	7708	anthony s. fauci	0.5960722
+13oct08amithealth8.txt	journal of the american chemical society	332	journal of the american chemical society	0.59595
+yn_08oct08_file_40	bahamas' economy	687	economy of the bahamas	0.59575206
+13oct08amittech17.txt	peter palese	3358	peter palese	0.5952706
+13oct08amittech25.txt	internet explorer	4084	internet explorer	0.59511834
+13oct08amittech3.txt	space adventures	251	space adventures	0.594353
+yn_08oct08_file_11	telefonica sa	1483	telefónica	0.59429544
+yn_08oct08_file_21	she loves you	6354	she loves you	0.59365237
+yn_08oct08_file_12	citigroup	1980	citigroup	0.5934592
+yn_08oct08_file_21	tell tale signs: rare and unreleased, 1989-2006	13	the bootleg series vol. 8: tell tale signs: rare and unreleased 1989–2006	0.5931417
+yn_08oct08_file_21	daniel lanois	2360	daniel lanois	0.59307945
+13oct08amitsport19.txt	madrid masters	1809	madrid open (tennis)	0.5928425
+13oct08amithealth3.txt	rheumatoid arthritis	1879	rheumatoid arthritis	0.5925274
+13oct08amithealth13.txt	vitamin c	1681	vitamin c	0.59233177
+yn_08oct08_file_5	cuba	759	cuba	0.59196913
+yn_08oct08_file_5	sudan	850	sudan	0.59171534
+yn_08oct08_file_19	port of new york and new jersey	1645	port of new york and new jersey	0.59157944
+13oct08amithealth15.txt	bipolar disorder	2600	bipolar disorder	0.5914743
+13oct08amithealth13.txt	vitamin e	1361	vitamin e	0.5911803
+yn_08oct08_file_2	afghanistan	763	war in afghanistan (2001–2014)	0.59109414
+yn_08oct08_file_40	bahamas economy	1305	economy of the bahamas	0.5910478
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	0.5908853
+13oct08amithealth17.txt	national institute of allergy and infectious diseases	7766	national institute of allergy and infectious diseases	0.5905416
+yn_08oct08_file_16	america's test kitchen	143	america's test kitchen	0.5898067
+13oct08amithealth7.txt	thomas francis, jr	2638	thomas francis jr.	0.5896767
+13oct08amitsport17.txt	wbo	958	world boxing organization	0.58960825
+yn_08oct08_file_6	taliban	539	taliban	0.5895845
+yn_08oct08_file_21	joe strummer	4642	joe strummer	0.58954334
+13oct08amitsport4.txt	klaas-jan huntelaar	1605	klaas-jan huntelaar	0.58938336
+yn_08oct08_file_16	america's test kitchen	419	america's test kitchen	0.58935356
+13oct08amitsport14.txt	frank lampard	209	frank lampard	0.58912957
+yn_08oct08_file_12	jpmorgan chase	3269	jpmorgan chase	0.5890264
+yn_08oct08_file_6	taliban	2692	taliban	0.5890124
+13oct08amithealth16.txt	aspirin	1746	aspirin	0.5887448
+13oct08amittech2.txt	digital equipment corporation	1318	digital equipment corporation	0.5886971
+13oct08amittech21.txt	captcha	4310	captcha	0.58860624
+13oct08amitsport17.txt	ricky hatton	109	ricky hatton	0.58851784
+13oct08amithealth13.txt	vitamin e	1857	vitamin e	0.5882254
+yn_08oct08_file_31	kevin macdonald	7148	kevin macdonald (director)	0.58810663
+13oct08amitsport8.txt	john ruiz	1365	john ruiz	0.58778864
+13oct08amithealth17.txt	albert einstein college of medicine	3957	albert einstein college of medicine	0.58771336
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	0.5876588
+13oct08amithealth21.txt	virtual colonoscopy	2384	virtual colonoscopy	0.58719707
+yn_08oct08_file_33	venezuela	5089	venezuela	0.5867453
+13oct08amittech3.txt	owen garriott	1329	owen k. garriott	0.5866028
+yn_08oct08_file_22	ignatz award	507	ignatz award	0.58638334
+yn_08oct08_file_22	small press expo	559	small press expo	0.586275
+yn_08oct08_file_22	harvey award	606	harvey award	0.586275
+13oct08amitsport17.txt	brazilian jiu-jitsu	5455	brazilian jiu-jitsu	0.5861493
+13oct08amittech18.txt	aequorea victoria	1809	aequorea victoria	0.58608574
+yn_08oct08_file_17	bmw oracle racing	2492	oracle team usa	0.5860583
+yn_08oct08_file_10	bmw oracle racing	2366	oracle team usa	0.5860583
+13oct08amittech12.txt	edward syndrome	1114	edwards syndrome	0.5856625
+13oct08amitsport17.txt	national indoor arena	2223	barclaycard arena	0.5856214
+13oct08amithealth16.txt	national human genome research institute	2546	national human genome research institute	0.58546764
+13oct08amitsport17.txt	joe calzaghe	137	joe calzaghe	0.58541876
+yn_08oct08_file_21	dig out your soul	5532	dig out your soul	0.5854028
+13oct08amithealth5.txt	amphotericin b	5461	amphotericin b	0.5854028
+13oct08amittech3.txt	national science foundation	2358	national science foundation	0.58538336
+13oct08amithealth13.txt	vitamin e	1123	vitamin e	0.5852994
+13oct08amithealth2.txt	glycerol	2989	glycerol	0.585164
+13oct08amitsport3.txt	matthew upson	929	matthew upson	0.5851524
+13oct08amittech21.txt	captcha	2620	captcha	0.5850975
+13oct08amitsport19.txt	simone bolelli	2410	simone bolelli	0.585075
+13oct08amittech3.txt	spacelab	1481	spacelab	0.58498913
+13oct08amitsport19.txt	andy roddick	2004	andy roddick	0.58440715
+13oct08amithealth18.txt	testosterone	3621	testosterone	0.58421826
+yn_08oct08_file_12	wells fargo & co	2491	wells fargo	0.5840932
+yn_08oct08_file_21	charley patton	2489	charley patton	0.5840381
+13oct08amitsport3.txt	jermain defoe	2826	jermain defoe	0.5840175
+13oct08amittech7.txt	the new york times	2627	the new york times	0.58388054
+13oct08amittech4.txt	holographic discs	694	holographic versatile disc	0.5838778
+13oct08amitsport3.txt	zhambyl kukeyev	2897	zhambyl kukeyev	0.58337855
+13oct08amithealth15.txt	mood swing	3596	mood swing	0.58317256
+13oct08amithealth3.txt	synovectomy	2222	synovectomy	0.5828238
+13oct08amithealth3.txt	rheumatoid arthritis	1009	rheumatoid arthritis	0.5825562
+yn_08oct08_file_36	worth the fighting for	3256	worth the fighting for	0.582545
+13oct08amithealth17.txt	karolinska institute	2738	karolinska institutet	0.5821681
+yn_08oct08_file_3	qalat district	312	qalat district	0.58204
+13oct08amittech3.txt	st. louis science center	2961	saint louis science center	0.58196
+13oct08amitsport13.txt	manny ramirez	826	manny ramirez	0.5818625
+13oct08amithealth16.txt	francis collins	2489	francis collins	0.58181113
+yn_08oct08_file_1	taliban	468	taliban	0.58146137
+yn_08oct08_file_0	afghanistan	252	war in afghanistan (2001–2014)	0.58130467
+13oct08amittech7.txt	google alerts	375	google alerts	0.58108824
+yn_08oct08_file_27	nancy pelosi	51	nancy pelosi	0.5810853
+13oct08amittech9.txt	felix wankel	317	felix wankel	0.58088
+yn_08oct08_file_23	gerry ritz	327	gerry ritz	0.58061385
+13oct08amittech12.txt	down syndrome	1506	down syndrome	0.580585
+13oct08amithealth5.txt	paromomycin	7053	paromomycin	0.58014584
+13oct08amitsport17.txt	ufc	4533	ultimate fighting championship	0.57994545
+13oct08amittech24.txt	vitreous humor	2212	vitreous body	0.57988787
+yn_08oct08_file_31	joe simpson	7189	joe simpson (mountaineer)	0.5798472
+13oct08amithealth12.txt	mitochondria	1778	mitochondrion	0.57982534
+13oct08amitsport17.txt	ufc	2662	ultimate fighting championship	0.57981765
+13oct08amitsport4.txt	john arne riise	1347	john arne riise	0.57955235
+13oct08amitsport7.txt	robert kubica	301	robert kubica	0.5794631
+yn_08oct08_file_21	dig out your soul	150	dig out your soul	0.578925
+13oct08amithealth16.txt	hutchinson-gilford progeria syndrome	432	progeria	0.57885
+13oct08amittech25.txt	rootkit	4411	rootkit	0.578625
+13oct08amithealth7.txt	the new york times	4319	the new york times	0.57854116
+13oct08amithealth4.txt	cardiovascular disease	1963	cardiovascular disease	0.5784645
+13oct08amitsport19.txt	madrid masters	716	madrid open (tennis)	0.57832366
+yn_08oct08_file_21	ted turner	2689	ted turner	0.57831943
+13oct08amitsport15.txt	thaksin shinawatra	810	thaksin shinawatra	0.5780853
+yn_08oct08_file_16	seattletimes	46	the seattle times	0.5780467
+13oct08amithealth12.txt	glycosuria	642	glycosuria	0.5775817
+13oct08amitsport17.txt	barry hearn	3694	barry hearn	0.57738334
+13oct08amittech23.txt	bluetooth	1118	bluetooth	0.5771619
+13oct08amithealth3.txt	rheumatoid arthritis	12	rheumatoid arthritis	0.577101
+yn_08oct08_file_12	keycorp	4747	keybank	0.57673556
+13oct08amithealth12.txt	ketosis	5947	ketosis	0.57671666
+yn_08oct08_file_13	bear stearns	3902	bear stearns	0.57663333
+yn_08oct08_file_17	bmw oracle racing	2775	oracle team usa	0.57647336
+yn_08oct08_file_10	bmw oracle racing	2652	oracle team usa	0.57647336
+13oct08amitsport18.txt	wallace spearmon	654	wallace spearmon	0.57646877
+yn_08oct08_file_33	south korea	4751	south korea	0.5762342
+yn_08oct08_file_4	robert gates	167	robert gates	0.5756676
+yn_08oct08_file_21	pretenders	67	the pretenders	0.5754851
+13oct08amitsport7.txt	bmw sauber	288	bmw in formula one	0.5753342
+13oct08amitsport14.txt	fabio capello	558	fabio capello	0.5753271
+yn_08oct08_file_24	jc de vera	2268	jc de vera	0.575
+13oct08amittech8.txt	barnett shale	1012	barnett shale	0.57451
+yn_08oct08_file_31	touching the void	7817	touching the void	0.5742286
+ganeshtestdoc.txt	cricket	293	cricket	0.574191
+13oct08amittech18.txt	national institutes of health	3860	national institutes of health	0.5738729
+yn_08oct08_file_21	ralph stanley	2553	ralph stanley	0.5738595
+yn_08oct08_file_33	economic freedom of the world	216	economic freedom of the world	0.57385665
+13oct08amitsport15.txt	kevin keegan	657	kevin keegan	0.57370293
+yn_08oct08_file_8	afghanistan	815	war in afghanistan (2001–2014)	0.573691
+yn_08oct08_file_8	taliban	1383	taliban	0.5736085
+yn_08oct08_file_26	jc de vera	2130	jc de vera	0.5731375
+13oct08amittech4.txt	terabyte	75	terabyte	0.5731095
+13oct08amittech24.txt	advanced cell technology	3690	ocata therapeutics	0.5730917
+13oct08amitsport14.txt	croatia	5722	croatia national football team	0.5727167
+13oct08amithealth12.txt	in children	3016	bone fracture	0.57233334
+13oct08amitsport14.txt	croatia	1760	croatia national football team	0.5722849
+13oct08amithealth16.txt	progeria	3518	progeria	0.57223946
+13oct08amithealth4.txt	journal of the national cancer institute	897	journal of the national cancer institute	0.5721111
+yn_08oct08_file_8	the internet	1705	library	0.5715682
+yn_08oct08_file_33	niger	5253	niger	0.57133794
+13oct08amitsport3.txt	shaun wright-phillips	586	shaun wright-phillips	0.5711625
+13oct08amittech3.txt	mount saint helens	2021	mount st. helens	0.57110524
+13oct08amithealth21.txt	polyp	4011	polyp	0.5711
+13oct08amithealth21.txt	colon cleansing	2713	colon cleansing	0.5710318
+13oct08amithealth19.txt	centers for disease control and prevention	3074	centers for disease control and prevention	0.5708651
+13oct08amitsport17.txt	dana white	3240	dana white	0.57070625
+13oct08amithealth15.txt	estrogen	4748	estrogen	0.5706612
+13oct08amittech24.txt	macular degeneration	1132	macular degeneration	0.5706521
+13oct08amittech17.txt	david ho	1089	david ho	0.5705861
+yn_08oct08_file_31	siula grande	7316	siula grande	0.5704687
+yn_08oct08_file_23	little orphan annie	3144	little orphan annie	0.57043463
+13oct08amitsport7.txt	flavio briatore	1480	flavio briatore	0.5703205
+yn_08oct08_file_36	john dowd	1170	john m. dowd	0.57005453
+yn_08oct08_file_30	quartermaine's terms	2150	quartermaine's terms	0.56993335
+yn_08oct08_file_28	international monetary fund	2114	international monetary fund	0.569905
+13oct08amittech12.txt	cell-free fetal dna	2377	cell-free fetal dna	0.56984997
+yn_08oct08_file_24	katrina halili	2249	katrina halili	0.5697605
+13oct08amitsport8.txt	evander holyfield	588	evander holyfield	0.56966764
+yn_08oct08_file_5	u.s. invasion of afghanistan	284	war in afghanistan (2001–2014)	0.56963676
+13oct08amittech7.txt	craigslist	2615	craigslist	0.5695982
+yn_08oct08_file_6	taliban	81	taliban	0.56910884
+13oct08amitsport18.txt	don quarrie	2190	don quarrie	0.5690611
+13oct08amitsport8.txt	nikolai valuev	270	nikolai valuev	0.5690421
+yn_08oct08_file_25	like a rolling stone	1606	like a rolling stone	0.5687978
+yn_08oct08_file_24	joel lamangan	2465	joel lamangan	0.56853
+yn_08oct08_file_17	bmw oracle racing	312	oracle team usa	0.56850624
+13oct08amithealth12.txt	interstitial fluid	1537	interstitial fluid	0.56846386
+yn_08oct08_file_2	afghanistan	1007	war in afghanistan (2001–2014)	0.5684342
+yn_08oct08_file_21	clash: \"live at shea stadium	109	live at shea stadium	0.567975
+13oct08amithealth6.txt	moksha	3529	moksha	0.56797284
+13oct08amithealth18.txt	cerebrovascular disease	3425	cerebrovascular disease	0.56789017
+13oct08amithealth21.txt	virtual colonoscopy	4328	virtual colonoscopy	0.567825
+yn_08oct08_file_33	fraser institute	282	fraser institute	0.567516
+13oct08amittech22.txt	polymide	1911	polyimide	0.5674659
+13oct08amithealth17.txt	cervical cancer	1954	cervical cancer	0.5673607
+yn_08oct08_file_11	wal-mart mexico	113	walmart de méxico y centroamérica	0.5672139
+yn_08oct08_file_10	bmw oracle racing	172	oracle team usa	0.5672139
+yn_08oct08_file_17	ernesto bertarelli	3240	ernesto bertarelli	0.5669125
+yn_08oct08_file_10	ernesto bertarelli	3117	ernesto bertarelli	0.5669125
+13oct08amittech20.txt	sandia national laboratories	1821	sandia national laboratories	0.5669094
+13oct08amithealth6.txt	pratyahara	3378	pratyahara	0.56687844
+yn_08oct08_file_6	afghanistan	1768	war in afghanistan (2001–2014)	0.5668626
+13oct08amittech7.txt	google alerts	2066	google alerts	0.5667595
+yn_08oct08_file_24	sunshine dizon	221	sunshine dizon	0.56666946
+yn_08oct08_file_26	katrina halili	2111	katrina halili	0.5665605
+yn_08oct08_file_21	gods & generals	2725	gods and generals (film)	0.56637
+13oct08amitsport12.txt	james posey	0	james posey	0.5662775
+yn_08oct08_file_31	touching the void	8143	touching the void (film)	0.5662562
+13oct08amitsport3.txt	wayne rooney	2113	wayne rooney	0.5659022
+13oct08amittech24.txt	food and drug administration	70	food and drug administration	0.5655663
+13oct08amitsport17.txt	chris leben	2590	chris leben	0.56542045
+13oct08amithealth5.txt	paromomycin	6835	paromomycin	0.56535953
+yn_08oct08_file_26	joel lamangan	2327	joel lamangan	0.56526667
+13oct08amittech13.txt	crystalline silicon	2898	crystalline silicon	0.5651389
+13oct08amittech8.txt	haynesville shale	1124	haynesville shale	0.5647038
+yn_08oct08_file_16	christopher kimball	234	christopher kimball	0.56455386
+yn_08oct08_file_19	san pedro bay	832	san pedro bay (california)	0.5639221
+yn_08oct08_file_28	pakistan people's party	381	pakistan peoples party	0.56391406
+yn_08oct08_file_17	alinghi	2616	alinghi	0.56378233
+yn_08oct08_file_10	alinghi	2492	alinghi	0.56378233
+13oct08amithealth20.txt	subcutaneous injection	2589	subcutaneous injection	0.5635844
+13oct08amithealth13.txt	vitamin c	1903	vitamin c	0.5635796
+yn_08oct08_file_30	simon gray	2130	simon gray	0.5635
+13oct08amitsport15.txt	bbc radio 5 live	216	bbc radio 5 live	0.56335
+yn_08oct08_file_8	qalat district	491	qalat district	0.5631962
+yn_08oct08_file_2	qalat district	438	qalat district	0.5631962
+13oct08amittech21.txt	captcha	3584	captcha	0.56311667
+yn_08oct08_file_31	20th century fox	6980	20th century fox	0.5629977
+13oct08amithealth5.txt	sitamarhi	4769	sitamarhi district	0.5626575
+yn_08oct08_file_17	bmw oracle racing	3490	oracle team usa	0.56243944
+yn_08oct08_file_10	bmw oracle racing	3367	oracle team usa	0.56243944
+yn_08oct08_file_38	central bank of the bahamas	852	central bank of the bahamas	0.5616105
+13oct08amittech4.txt	terabyte	3725	terabyte	0.56155217
+13oct08amittech8.txt	oval office	5352	oval office	0.5615228
+13oct08amittech4.txt	bell labs	2108	bell labs	0.5614649
+13oct08amitsport14.txt	steven gerrard	190	steven gerrard	0.5607842
+yn_08oct08_file_31	alien vs predator	1019	alien vs. predator (film)	0.5607833
+13oct08amithealth5.txt	bill and melinda gates foundation	6579	bill & melinda gates foundation	0.56010264
+yn_08oct08_file_6	taliban	3187	taliban	0.5597187
+yn_08oct08_file_6	taliban	1095	taliban	0.5592474
+13oct08amitsport15.txt	everton	1851	everton f.c.	0.55905116
+yn_08oct08_file_8	kabul	220	kabul	0.55895907
+yn_08oct08_file_21	ralph stanley	6969	ralph stanley	0.5588262
+yn_08oct08_file_21	learning to crawl	3669	learning to crawl	0.5585464
+13oct08amitsport14.txt	graham taylor	1091	graham taylor	0.5584481
+13oct08amithealth17.txt	recombinant dna	2024	recombinant dna	0.55838424
+yn_08oct08_file_33	myanmar	5103	myanmar	0.55819166
+13oct08amittech3.txt	nasa	4985	nasa	0.55818933
+13oct08amitsport17.txt	men arena	1613	manchester arena	0.558185
+13oct08amithealth11.txt	innate resistance to hiv	391	innate resistance to hiv	0.5579425
+13oct08amittech25.txt	the internet	4080	library	0.55784583
+yn_08oct08_file_31	chris bonington	6304	chris bonington	0.55768687
+yn_08oct08_file_33	south korea	3085	south korea	0.55768347
+yn_08oct08_file_15	real estate investment trust	761	real estate investment trust	0.557638
+yn_08oct08_file_16	cook's country	383	cook's country	0.55757725
+13oct08amitsport17.txt	michael bisping	161	michael bisping	0.55755293
+13oct08amithealth19.txt	glycolysis	2562	glycolysis	0.55738664
+13oct08amithealth3.txt	rheumatoid arthritis	1373	rheumatoid arthritis	0.5572805
+yn_08oct08_file_5	new york army national guard	1284	new york army national guard	0.5570669
+yn_08oct08_file_5	philippines	825	philippines	0.5569875
+13oct08amithealth13.txt	vitamin e	309	vitamin e	0.55690116
+13oct08amitsport17.txt	ufc	4922	ultimate fighting championship	0.556468
+13oct08amithealth11.txt	kir3dl1	319	kir3dl1	0.55609566
+yn_08oct08_file_26	jun lana	2380	jun lana	0.55608
+yn_08oct08_file_24	jun lana	2518	jun lana	0.55608
+13oct08amitsport10.txt	liang wenchong	3304	liang wen-chong	0.5556639
+13oct08amittech3.txt	nasa	6275	nasa	0.55565596
+13oct08amittech7.txt	google alerts	1702	google alerts	0.55533886
+13oct08amittech13.txt	monocrystalline silicon	1492	single crystal	0.55528814
+13oct08amithealth7.txt	nobel prize	2152	nobel prize in physiology or medicine	0.555258
+13oct08amittech20.txt	nanoparticle	41	nanoparticle	0.55477375
+13oct08amithealth5.txt	paromo-mycin	5864	paromomycin	0.5546191
+yn_08oct08_file_26	sunshine dizon	65	sunshine dizon	0.5545375
+yn_08oct08_file_23	u00a0	5	non-breaking space	0.5543405
+yn_08oct08_file_24	sunshine dizon	3216	sunshine dizon	0.5543175
+13oct08amittech3.txt	nasa	5747	nasa	0.5542984
+13oct08amitsport10.txt	zhang lianwei	3323	zhang lianwei	0.55391943
+13oct08amittech4.txt	holographic storage	1704	holographic data storage	0.55381536
+yn_08oct08_file_27	julia ward howe	1247	julia ward howe	0.55374706
+13oct08amittech24.txt	macular degeneration	164	macular degeneration	0.5537296
+13oct08amithealth21.txt	ct scan	3324	ct scan	0.55369186
+13oct08amitsport3.txt	belarus	1104	belarus national football team	0.5535277
+13oct08amittech7.txt	google to	3694	google search	0.5534861
+yn_08oct08_file_16	america's test kitchen	1465	america's test kitchen	0.55337775
+13oct08amitsport14.txt	croatia	5212	croatia national football team	0.5532522
+13oct08amithealth4.txt	the internet	308	library	0.5529375
+yn_08oct08_file_16	christopher kimball	531	christopher kimball	0.55245
+13oct08amittech24.txt	retinal regeneration	2160	retinal regeneration	0.5522861
+13oct08amithealth8.txt	nanoparticle	1806	nanoparticle	0.55228424
+13oct08amitsport8.txt	wba	1337	world boxing association	0.5518277
+13oct08amithealth17.txt	human papillomavirus	1805	human papillomavirus infection	0.5518138
+13oct08amithealth13.txt	vitamin e	743	vitamin e	0.55180365
+13oct08amittech17.txt	aaron diamond aids research center	1172	aaron diamond aids research center	0.55174446
+13oct08amittech18.txt	columbia university	346	columbia university	0.5515806
+13oct08amittech20.txt	sandia national laboratories	231	sandia national laboratories	0.55146873
+yn_08oct08_file_9	kabul	840	kabul	0.5513444
+yn_08oct08_file_16	christopher kimball	870	christopher kimball	0.5512595
+yn_08oct08_file_21	break up the concrete	3470	break up the concrete	0.55124
+13oct08amithealth1.txt	to return	730	volver	0.55107045
+yn_08oct08_file_33	interstate highway system	6707	interstate highway system	0.5508872
+13oct08amitsport3.txt	belarus	1697	belarus national football team	0.5507957
+yn_08oct08_file_6	taliban	2957	taliban	0.55078375
+13oct08amittech22.txt	university of illinois at urbana-champaign	1366	university of illinois at urbana–champaign	0.5507611
+yn_08oct08_file_31	alien vs predator	6897	list of alien, predator and alien vs. predator games	0.5507
+yn_08oct08_file_27	julia ward howe	3785	julia ward howe	0.5504917
+ganeshtestdoc.txt	west indies	323	west indies cricket team	0.55031216
+yn_08oct08_file_25	blood on the tracks	3629	blood on the tracks	0.54982275
+13oct08amithealth12.txt	glycosuria	4828	glycosuria	0.5497892
+yn_08oct08_file_31	simon yates	7424	simon yates (mountaineer)	0.54971176
+13oct08amithealth14.txt	multiple sclerosis	411	multiple sclerosis	0.54941
+13oct08amittech8.txt	compressed natural gas	5202	compressed natural gas	0.54924935
+yn_08oct08_file_26	quezon city	838	quezon city	0.5492281
+yn_08oct08_file_24	quezon city	1025	quezon city	0.5492281
+yn_08oct08_file_31	papua new guinea	360	papua new guinea	0.54873824
+13oct08amittech23.txt	android	3162	android (operating system)	0.54871
+13oct08amitsport18.txt	michael johnson	347	michael johnson (sprinter)	0.54815793
+yn_08oct08_file_17	bmw oracle racing	836	oracle team usa	0.5480971
+yn_08oct08_file_10	bmw oracle racing	698	oracle team usa	0.5480971
+13oct08amittech16.txt	university of new brunswick	2830	university of new brunswick	0.5480321
+13oct08amittech23.txt	web browser	1622	web browser	0.54802537
+yn_08oct08_file_21	robert johnson	1392	robert johnson	0.5480145
+13oct08amithealth5.txt	c.p. thakur	3096	c. p. thakur	0.548
+yn_08oct08_file_21	bag it up	6645	bag it up	0.5478048
+13oct08amithealth13.txt	antioxidant	1252	antioxidant	0.5477488
+13oct08amittech15.txt	optical fiber	285	optical fiber	0.5477318
+yn_08oct08_file_30	charlie wilson	2528	charlie wilson (texas politician)	0.5476353
+yn_08oct08_file_18	standard & poor's	1844	standard & poor's	0.54757863
+13oct08amittech12.txt	down syndrome	973	down syndrome	0.547405
+13oct08amitsport18.txt	christian malcolm	2872	christian malcolm	0.547275
+yn_08oct08_file_7	afghanistan	1153	war in afghanistan (2001–2014)	0.5470267
+yn_08oct08_file_15	myriad genetics	1087	myriad genetics	0.5468722
+yn_08oct08_file_3	afghanistan	62	war in afghanistan (2001–2014)	0.54673016
+13oct08amittech24.txt	macular degeneration	1492	macular degeneration	0.54653215
+13oct08amittech24.txt	macular degeneration	3880	macular degeneration	0.5461935
+13oct08amithealth20.txt	american journal of gastroenterology	2312	the american journal of gastroenterology	0.5461775
+13oct08amittech12.txt	amniotic fluid	1986	amniotic fluid	0.5460056
+yn_08oct08_file_18	merrill lynch	2522	merrill lynch	0.5459125
+13oct08amithealth5.txt	fungizone	2426	amphotericin b	0.54590863
+yn_08oct08_file_15	shoe carnival	905	shoe carnival	0.5458977
+13oct08amitsport17.txt	michael bisping	415	michael bisping	0.5458611
+13oct08amittech21.txt	hotmail	1743	outlook.com	0.5457476
+13oct08amittech12.txt	stephen quake	199	stephen quake	0.5455462
+yn_08oct08_file_2	kabul	165	kabul	0.54524016
+13oct08amitsport14.txt	brazil	3063	brazil national football team	0.5449709
+13oct08amittech8.txt	t. boone pickens	3456	t. boone pickens	0.54467857
+13oct08amithealth15.txt	menopause	4688	menopause	0.5446536
+yn_08oct08_file_33	brazil	4315	brazil	0.54457694
+yn_08oct08_file_19	u00a0	5423	non-breaking space	0.54444444
+13oct08amittech20.txt	surface tension	2794	surface tension	0.5443791
+13oct08amittech2.txt	honda accord	737	honda accord	0.54405665
+13oct08amittech3.txt	richard garriott	1810	richard garriott	0.5439762
+13oct08amittech18.txt	bioluminescent	2109	bioluminescence	0.5436951
+yn_08oct08_file_0	kabul	125	kabul	0.5436335
+13oct08amithealth20.txt	food and drug administration	2367	food and drug administration	0.54304075
+yn_08oct08_file_9	iran	478	iran	0.5428877
+13oct08amittech23.txt	instant messaging	1536	instant messaging	0.5425249
+13oct08amittech18.txt	bursten	1143	bruce e. bursten	0.542375
+13oct08amitsport14.txt	belarus	452	belarus national football team	0.54182756
+yn_08oct08_file_13	s&p 500	4311	s&p 500 index	0.541795
+13oct08amittech12.txt	ravgen	4492	ravgen	0.5417947
+13oct08amithealth1.txt	isoleucine	4468	isoleucine	0.5415789
+13oct08amittech3.txt	windows on earth	2634	windows on earth	0.54097104
+ganeshtestdoc.txt	cricket world cup 2007	293	2007 cricket world cup	0.54093283
+13oct08amittech26.txt	broad institute	3813	broad institute	0.540577
+13oct08amittech25.txt	megabyte	2315	megabyte	0.5405166
+yn_08oct08_file_21	rockabilly	3875	rockabilly	0.5404001
+yn_08oct08_file_6	kabul	168	kabul	0.54027086
+yn_08oct08_file_0	close air support	989	close air support	0.5401741
+yn_08oct08_file_6	kai eide	2931	kai eide	0.54010683
+13oct08amithealth21.txt	virtual colonoscopy	2186	virtual colonoscopy	0.5401
+yn_08oct08_file_17	john kostecki	565	john kostecki	0.53965276
+yn_08oct08_file_10	john kostecki	427	john kostecki	0.53965276
+13oct08amitsport11.txt	delhi golf club	253	delhi golf club	0.5396067
+13oct08amittech23.txt	android	165	android (operating system)	0.5394274
+13oct08amittech23.txt	android	0	android (operating system)	0.5394274
+13oct08amithealth5.txt	rajendra memorial research institute of medical sciences	6081	rajendra memorial research institute of medical sciences	0.53934664
+13oct08amittech25.txt	linux	4174	linux	0.5386318
+13oct08amittech13.txt	university of texas at austin	3197	university of texas at austin	0.5384973
+yn_08oct08_file_0	afghanistan	91	war in afghanistan (2001–2014)	0.5383973
+13oct08amithealth17.txt	vulva	3650	vulva	0.53835875
+yn_08oct08_file_6	afghanistan	2571	war in afghanistan (2001–2014)	0.5381275
+yn_08oct08_file_19	s. david freeman	3232	s. david freeman	0.5380964
+yn_08oct08_file_16	cook's country	1350	cook's country	0.5378737
+yn_08oct08_file_31	top gear	904	top gear (2002 tv series)	0.5376829
+13oct08amithealth21.txt	colonoscopy	2663	colonoscopy	0.53744227
+13oct08amithealth17.txt	new england journal of medicine	5688	the new england journal of medicine	0.5374162
+yn_08oct08_file_33	central africa republic	5307	central african republic	0.53726596
+13oct08amithealth17.txt	cervical cancer	2275	cervical cancer	0.5371012
+13oct08amithealth17.txt	nobel foundation	2929	nobel foundation	0.5370728
+yn_08oct08_file_31	siula grande	7922	siula grande	0.53653157
+yn_08oct08_file_12	keycorp	4747	keybank	0.5364882
+13oct08amithealth5.txt	nepal	1033	nepal	0.5364789
+yn_08oct08_file_17	trimaran	445	trimaran	0.53644806
+yn_08oct08_file_10	trimaran	305	trimaran	0.53644806
+yn_08oct08_file_17	bmw oracle racing	3114	oracle team usa	0.536275
+yn_08oct08_file_10	bmw oracle racing	2991	oracle team usa	0.536275
+13oct08amittech16.txt	the power	2584	the power (snap! song)	0.536275
+13oct08amitsport2.txt	pakistan	408	pakistan national cricket team	0.5360934
+yn_08oct08_file_21	clash live at shea stadium	4498	live at shea stadium	0.53590935
+yn_08oct08_file_17	new york supreme court	3033	new york supreme court	0.5357803
+yn_08oct08_file_10	new york supreme court	2910	new york supreme court	0.5357803
+13oct08amithealth12.txt	the conversion	4658	the conversion (the outer limits)	0.53573054
+13oct08amithealth1.txt	glycogen	1834	glycogen	0.5349464
+13oct08amittech23.txt	android	1403	android (operating system)	0.5348966
+yn_08oct08_file_31	lower largo	1513	lower largo	0.5345476
+yn_08oct08_file_25	time out of mind	2926	time out of mind	0.53443444
+13oct08amitsport18.txt	bird's nest stadium	1818	beijing national stadium	0.5342831
+13oct08amitsport13.txt	the staff	952	weirdsister college	0.5339875
+yn_08oct08_file_21	love and theft	2095	love and theft (bob dylan album)	0.5339225
+yn_08oct08_file_3	kabul	109	kabul	0.5337379
+13oct08amithealth6.txt	sanskrit	3235	sanskrit	0.5335477
+13oct08amithealth20.txt	simethicone	3771	simethicone	0.5335395
+13oct08amittech16.txt	spoofing attack	1175	spoofing attack	0.5334342
+13oct08amitsport3.txt	alexander hleb	1451	alexander hleb	0.5334227
+13oct08amitsport11.txt	darren beck	317	darren beck	0.5332405
+13oct08amithealth7.txt	university of pittsburgh	2100	university of pittsburgh	0.53316927
+yn_08oct08_file_38	hubert ingraham	107	hubert ingraham	0.53310585
+yn_08oct08_file_23	u00a0	284	non-breaking space	0.5328425
+13oct08amitsport10.txt	m so	1755	sociology	0.5326786
+13oct08amitsport8.txt	don king	929	don king (boxing promoter)	0.5326205
+13oct08amittech3.txt	windows on earth	4090	windows on earth	0.53224444
+yn_08oct08_file_28	u00a0	4688	non-breaking space	0.53219736
+13oct08amittech20.txt	brown university	2332	brown university	0.53206867
+13oct08amittech22.txt	reverse osmosis	3057	reverse osmosis	0.53185934
+yn_08oct08_file_4	mark carleton-smith	854	mark carleton-smith	0.5317295
+13oct08amitsport9.txt	tour de france	981	2008 tour de france	0.5316548
+13oct08amittech3.txt	mississippi river	2072	mississippi river	0.53144205
+13oct08amithealth14.txt	cone snails	975	conus	0.5314165
+yn_08oct08_file_24	sunshine dizon	221	sunshine dizon	0.531375
+yn_08oct08_file_31	outer hebrides	6742	outer hebrides	0.5312684
+13oct08amitsport11.txt	jeev milkha singh	717	jeev milkha singh	0.53077394
+yn_08oct08_file_14	bank of america	2841	bank of america	0.5305796
+13oct08amittech23.txt	jonathan zittrain	3758	jonathan zittrain	0.5305682
+13oct08amitsport17.txt	wwe	4044	wwe	0.5304777
+13oct08amittech23.txt	iphone	3267	iphone	0.53036356
+yn_08oct08_file_18	merrill lynch	3214	merrill lynch	0.5302941
+13oct08amittech14.txt	lead telluride	2914	lead telluride	0.53006667
+13oct08amitsport17.txt	nicky cook	942	nicky cook	0.52987856
+yn_08oct08_file_33	florida state university	5652	florida state university	0.5297814
+13oct08amithealth12.txt	glycerol	4723	glycerol	0.52951163
+yn_08oct08_file_19	natural resources defense council	2705	natural resources defense council	0.52930915
+yn_08oct08_file_5	101st cavalry regiment	1260	101st cavalry regiment	0.5290833
+13oct08amittech3.txt	cosmonaut	1000	astronaut	0.5287041
+13oct08amittech24.txt	lucentis	1444	ranibizumab	0.5285722
+yn_08oct08_file_33	peru	3059	peru	0.5282155
+yn_08oct08_file_1	afghanistan	509	war in afghanistan (2001–2014)	0.52805847
+13oct08amittech4.txt	holographic storage	1520	holographic data storage	0.5279664
+13oct08amittech3.txt	kazakhstan	914	kazakhstan	0.52794033
+13oct08amittech14.txt	lead telluride	4091	lead telluride	0.527675
+13oct08amithealth11.txt	nk cell	1274	natural killer cell	0.52754635
+13oct08amithealth7.txt	university of michigan	2665	university of michigan	0.5272051
+13oct08amitsport14.txt	kazakhstan	4542	kazakhstan national football team	0.5270841
+yn_08oct08_file_24	sunshine dizon	28	sunshine dizon	0.52690834
+yn_08oct08_file_1	kabul	124	kabul	0.5266705
+yn_08oct08_file_14	merrill lynch	2413	merrill lynch	0.5266396
+13oct08amitsport8.txt	nikolai valuev	1185	nikolai valuev	0.52647
+yn_08oct08_file_33	taiwan	4143	taiwan	0.5264269
+yn_08oct08_file_6	saudi arabia	311	saudi arabia	0.52642536
+13oct08amithealth11.txt	mcgill university health centre	47	mcgill university health centre	0.5263158
+13oct08amithealth21.txt	state university of new york at stony brook	272	stony brook university	0.52608925
+13oct08amithealth12.txt	interstitial fluid	4011	interstitial fluid	0.5259917
+yn_08oct08_file_7	kabul	1169	kabul	0.5258404
+yn_08oct08_file_17	america's cup	485	america's cup	0.52563804
+yn_08oct08_file_10	america's cup	345	america's cup	0.52563804
+yn_08oct08_file_12	deutsche bank	1786	deutsche bank	0.52538973
+13oct08amittech24.txt	retina	1192	retina	0.5253664
+yn_08oct08_file_33	russia	4338	russia	0.5250187
+13oct08amitsport9.txt	chatenay-malabry	331	châtenay-malabry	0.5249975
+13oct08amithealth2.txt	to return	4407	volver	0.52465
+yn_08oct08_file_27	u00a0	4091	non-breaking space	0.5245605
+13oct08amittech2.txt	hewlett-packard	1852	hewlett-packard	0.5245118
+13oct08amittech20.txt	brown university	210	brown university	0.5244752
+yn_08oct08_file_33	wheaton college	2543	wheaton college (illinois)	0.5240958
+13oct08amitsport10.txt	chan yih-shin	537	chan yih-shin	0.5237472
+13oct08amitsport17.txt	wbc	1393	world boxing council	0.5237067
+13oct08amitsport2.txt	adeel malik	1098	adeel malik	0.52361524
+13oct08amithealth17.txt	cervical cancer	4791	cervical cancer	0.5234268
+yn_08oct08_file_31	touching the void	974	touching the void (film)	0.52341175
+13oct08amittech23.txt	qwerty	774	qwerty	0.52316314
+13oct08amittech25.txt	spyware	222	spyware	0.52300215
+13oct08amithealth6.txt	give me	85	give in to me	0.5226312
+13oct08amithealth9.txt	london school of hygiene and tropical medicine	328	london school of hygiene & tropical medicine	0.52259994
+13oct08amitsport2.txt	pakistan	2327	pakistan national cricket team	0.52256024
+13oct08amitsport20.txt	nl division series	594	1981 national league division series	0.5223537
+yn_08oct08_file_34	carnival cruise lines	610	carnival cruise line	0.52230626
+13oct08amittech12.txt	florida international university	858	florida international university	0.52216226
+13oct08_buss_file_10.txt	bank of america	1634	bank of america	0.5220796
+13oct08amittech16.txt	gps spoofing	4537	spoofing attack	0.52187634
+yn_08oct08_file_16	third place books	702	lake forest park towne centre	0.5218125
+yn_08oct08_file_18	deutsche bank ag	985	deutsche bank	0.52178997
+13oct08amittech5.txt	university of akron	2571	university of akron	0.521678
+13oct08amitsport14.txt	croatia	6035	croatia	0.52162087
+yn_08oct08_file_9	iran	151	iran	0.5215796
+yn_08oct08_file_33	cyprus	4722	cyprus	0.5215489
+yn_08oct08_file_25	dreamin' of you	3214	dreamin' of you (bob dylan song)	0.52091426
+13oct08amitsport8.txt	wba	293	world boxing association	0.5209012
+13oct08amithealth1.txt	amino acid	4078	amino acid	0.5208789
+13oct08amittech23.txt	aol	1588	aol	0.52081
+13oct08amittech12.txt	placenta	1905	placenta	0.5206978
+13oct08amitsport14.txt	then you	1394	the beatles' christmas records	0.5204587
+13oct08amittech17.txt	academia sinica	1651	academia sinica	0.5204248
+yn_08oct08_file_31	blue peter badge	8832	blue peter badge	0.5202115
+13oct08amittech4.txt	ge global research	420	ge global research	0.519875
+13oct08amitsport2.txt	pakistan	865	pakistan national cricket team	0.51923215
+yn_08oct08_file_9	afghanistan	567	afghanistan	0.519181
+13oct08amithealth5.txt	muzaffarpur	4756	muzaffarpur district	0.519156
+13oct08amitsport9.txt	chatenay-malabry	1370	châtenay-malabry	0.5188842
+13oct08amittech9.txt	regenerative braking	2336	regenerative brake	0.51884
+13oct08amittech12.txt	howard hughes medical institute	1709	howard hughes medical institute	0.518725
+13oct08amitsport18.txt	a bad	3298	aurangabad, maharashtra	0.51856
+13oct08amitsport14.txt	belarus	5971	belarus	0.5185237
+13oct08amittech7.txt	shopping.com	1960	shopping.com	0.5183684
+13oct08amittech4.txt	the disc	3170	discworld (world)	0.518354
+yn_08oct08_file_22	clinton street theater	285	clinton street theater	0.51817
+13oct08amitsport8.txt	sauerland events	952	wilfried sauerland	0.5180156
+13oct08amitsport9.txt	stefan schumacher	921	stefan schumacher	0.51795787
+13oct08amittech23.txt	android	2246	android (operating system)	0.5179287
+13oct08amithealth2.txt	calorie is a calorie	4790	a calorie is a calorie	0.5176467
+13oct08amittech23.txt	smartphone	135	smartphone	0.51758885
+13oct08amitsport8.txt	to return	235	volver	0.517525
+yn_08oct08_file_29	woodstock sentinel review	2635	woodstock sentinel-review	0.5174031
+13oct08_buss_file_11.txt	tomorrow's pain	2082	sevendust	0.517255
+13oct08amittech14.txt	antimony telluride	3986	antimony telluride	0.5171028
+13oct08amittech3.txt	space shuttle	1465	space shuttle	0.51706547
+13oct08amitsport11.txt	delhi golf club	2788	delhi golf club	0.5169
+yn_08oct08_file_6	saudi arabia	1630	saudi arabia	0.51675344
+13oct08amithealth4.txt	oolong tea	2775	oolong	0.51647747
+13oct08amitsport14.txt	croatia	3556	croatia national football team	0.51609266
+13oct08amittech18.txt	elias zerhouni	3828	elias zerhouni	0.5160775
+13oct08amittech4.txt	niskayuna, ny	443	niskayuna, new york	0.5160432
+13oct08amitsport10.txt	omega order	644	order of omega	0.51603234
+13oct08amittech5.txt	metin sitti	4131	metin sitti	0.51601386
+yn_08oct08_file_33	chile	3977	chile	0.5159768
+13oct08amitsport2.txt	lahore	437	lahore	0.51597273
+13oct08amitsport17.txt	michael bisping	5914	michael bisping	0.5158921
+13oct08amittech3.txt	windows on earth	4394	windows on earth	0.51580936
+13oct08amithealth20.txt	gastrointestinal tract	2664	gastrointestinal tract	0.51576746
+13oct08amithealth15.txt	cymbalta	7014	duloxetine	0.51514006
+13oct08amittech23.txt	android market	3162	google play	0.51500106
+yn_08oct08_file_31	ian wright	227	tesla motors	0.51496315
+13oct08amitsport4.txt	a bad	1489	aurangabad, maharashtra	0.51484525
+yn_08oct08_file_12	jpmorgan chase & co	3269	jpmorgan chase	0.5148232
+yn_08oct08_file_33	economic freedom of the world	2425	economic freedom of the world	0.51470625
+13oct08amithealth6.txt	dharana	3125	dhāraṇā	0.51447755
+13oct08amittech2.txt	open apple	2671	command key	0.51443636
+13oct08amithealth5.txt	hajipur	250	hajipur	0.5144357
+13oct08amittech19.txt	the power	2179	the power (snap! song)	0.5143125
+yn_08oct08_file_20	jan pienkowski	1544	jan pieńkowski	0.5142369
+13oct08amithealth5.txt	hajipur	3290	hajipur (lok sabha constituency)	0.5139442
+13oct08amitsport17.txt	frank warren	3615	frank warren (promoter)	0.51392
+13oct08amithealth3.txt	aspirin	2815	aspirin	0.51347387
+yn_08oct08_file_40	north eleuthera	3278	north eleuthera	0.51323587
+yn_08oct08_file_25	alternate history	2049	alternate history	0.5132073
+13oct08amittech21.txt	websense	4043	forcepoint	0.5132045
+13oct08amittech5.txt	scotch tape	2404	scotch tape	0.5128827
+13oct08amithealth15.txt	food and drug administration	5784	food and drug administration	0.51288116
+13oct08amithealth4.txt	s more	2231	s'more	0.51274645
+13oct08amithealth5.txt	drug controller general of india	6798	drug controller general of india	0.5127438
+13oct08amithealth21.txt	ct scan	3620	ct scan	0.5126606
+13oct08amithealth17.txt	cervical cancer	262	cervical cancer	0.5125989
+13oct08amitsport14.txt	kazakhstan	5582	kazakhstan national football team	0.51244336
+13oct08amithealth7.txt	a bad	3504	aurangabad, maharashtra	0.512363
+13oct08amitsport17.txt	mixed martial artist	536	mixed martial arts	0.51221174
+yn_08oct08_file_1	afghanistan	80	war in afghanistan (2001–2014)	0.5121573
+13oct08amittech3.txt	windows on earth	3562	windows on earth	0.51204526
+13oct08amithealth20.txt	relistor	2405	methylnaltrexone	0.5120235
+13oct08amithealth4.txt	green tea	2947	green tea	0.51200074
+13oct08amittech18.txt	marine biological laboratory	279	marine biological laboratory	0.51182085
+13oct08amithealth2.txt	glucose	2949	glucose	0.51176363
+yn_08oct08_file_33	kuwait	4739	kuwait	0.5117378
+yn_08oct08_file_23	woodlands style	2878	woodlands style	0.51165
+yn_08oct08_file_19	cold ironing	4886	cold ironing	0.51149774
+yn_08oct08_file_31	the himalayas	6323	the himalayas (film)	0.51135266
+13oct08amitsport4.txt	iceland	367	iceland	0.5113021
+13oct08amittech21.txt	golle	2479	pierre golle	0.5112296
+13oct08amithealth9.txt	worth fighting	3049	worth the fighting for	0.510913
+13oct08amithealth14.txt	abu rawash	2160	abu rawash	0.510824
+yn_08oct08_file_28	the speech	4254	gerald ratner	0.5107316
+yn_08oct08_file_27	huffington post	4153	the huffington post	0.5105346
+13oct08amithealth8.txt	nlab	236	nlab	0.5104156
+yn_08oct08_file_2	nato	1199	nato	0.51025355
+13oct08amithealth4.txt	oolong	2775	oolong	0.51022315
+13oct08amittech23.txt	megapixel	992	pixel	0.5094796
+13oct08amithealth20.txt	constipation	922	constipation	0.509421
+13oct08amittech17.txt	electroporation	2590	electroporation	0.5092596
+13oct08amitsport1.txt	mohali	1830	punjab cricket association is bindra stadium	0.5092226
+yn_08oct08_file_12	offs	5258	the moons	0.5086833
+13oct08amittech4.txt	the disc	1499	discworld (world)	0.5085658
+13oct08amithealth21.txt	colonoscopy	745	colonoscopy	0.50846183
+13oct08amittech4.txt	the disc	3586	discworld (world)	0.50835437
+yn_08oct08_file_30	christopher timothy	2076	christopher timothy	0.5083344
+13oct08amittech22.txt	jeff green	852	jeff green (writer)	0.5080735
+13oct08amithealth16.txt	progeria research foundation	3270	progeria research foundation	0.50805
+yn_08oct08_file_40	s more	1402	s'more	0.50799423
+13oct08amittech11.txt	the power	2317	the power (snap! song)	0.50792825
+13oct08amithealth1.txt	glutamine	4032	glutamine	0.5078813
+yn_08oct08_file_6	mohammad yousuf	3210	mohammad yousuf (cricketer, born 1974)	0.50784445
+yn_08oct08_file_17	trimaran	250	trimaran	0.5077926
+13oct08amittech7.txt	drinking the kool-aid	3933	drinking the kool-aid	0.5077395
+13oct08amittech24.txt	retina	1732	retina	0.50765055
+13oct08amittech25.txt	malware	210	malware	0.50730395
+13oct08amithealth12.txt	soybean	2554	soybean	0.50726503
+13oct08amithealth18.txt	epilepsy	6664	epilepsy	0.50692636
+yn_08oct08_file_10	america's cup	73	america's cup	0.5067475
+13oct08amithealth14.txt	cone snails	485	conus	0.5067174
+13oct08amithealth4.txt	university of purdue	1140	purdue university	0.5066308
+13oct08amithealth21.txt	s more	101	s'more	0.5065361
+13oct08amittech26.txt	dna polymerase	1396	dna polymerase	0.50640243
+yn_08oct08_file_10	trimaran	87	trimaran	0.5062882
+yn_08oct08_file_2	afghanistan	88	war in afghanistan (2001–2014)	0.5061705
+13oct08amithealth17.txt	human papillomavirus	426	human papillomavirus infection	0.50597733
+13oct08amittech11.txt	microcode	1281	microcode	0.5056014
+13oct08amithealth17.txt	cervical cancer	463	cervical cancer	0.50551236
+yn_08oct08_file_21	dreamin' of you	3154	dreamin' of you (bob dylan song)	0.5054472
+13oct08amitsport10.txt	omega china tour	3493	pga tour china	0.5054339
+13oct08amithealth17.txt	national cancer institute	1417	national cancer institute	0.5053565
+13oct08amithealth15.txt	perimenopause	4433	menopause	0.5053474
+yn_08oct08_file_24	world of	3028	the world of null-a	0.5051605
+13oct08amithealth5.txt	next dawn	2170	the next dawn	0.50514793
+13oct08amithealth12.txt	diabetes mellitus	329	diabetes mellitus	0.5049958
+13oct08amithealth4.txt	esophageal cancer	1043	esophageal cancer	0.504797
+13oct08amithealth4.txt	oolong	3046	oolong	0.5047916
+13oct08amitsport14.txt	to show	252	the t.o. show	0.50465626
+13oct08amittech4.txt	the disc	3996	discworld (world)	0.50451
+13oct08amithealth5.txt	ngland	6616	england	0.50434285
+13oct08amittech13.txt	flexible electronics	1282	flexible electronics	0.50429255
+13oct08_buss_file_11.txt	s more	1332	s'more	0.5041071
+13oct08amithealth17.txt	genital warts	4690	genital wart	0.50401914
+yn_08oct08_file_36	associated press	1700	associated press	0.50353706
+13oct08amithealth16.txt	the nucleus	2127	growth of the old swiss confederacy	0.5034109
+yn_08oct08_file_17	cup. \"it	495	central alaskan yup'ik people	0.5033441
+yn_08oct08_file_10	cup . \"it	355	central alaskan yup'ik people	0.5033441
+13oct08amithealth17.txt	cervical cancer	3871	cervical cancer	0.5032262
+yn_08oct08_file_5	uzbekistan	254	uzbekistan	0.50298756
+13oct08amithealth5.txt	bihar	3193	bihar	0.50287443
+13oct08amithealth1.txt	valine	4492	valine	0.50266814
+yn_08oct08_file_30	alveston	3069	alveston	0.50248694
+13oct08amittech18.txt	nobel foundation	767	nobel foundation	0.502249
+yn_08oct08_file_15	bank of america	121	bank of america	0.5020677
+13oct08amittech5.txt	university of dayton	835	university of dayton	0.50201863
+yn_08oct08_file_5	turkey	871	turkey	0.5016913
+13oct08amittech23.txt	neat	389	near-earth asteroid tracking	0.501176
+yn_08oct08_file_12	thursday next	2412	thursday next	0.50115293
+yn_08oct08_file_17	america's cup	236	america's cup	0.5007586
+yn_08oct08_file_4	to win	980	tołwin	0.5
+yn_08oct08_file_37	last note	2101	a last note	0.5
+yn_08oct08_file_34	siteman	2030	isabella flora siteman	0.5
+yn_08oct08_file_34	sheila allen	1736	sheila allen (english actress)	0.5
+yn_08oct08_file_34	pam blackwell	334	pam blackwell	0.5
+yn_08oct08_file_31	gaffer tape	4734	gaffer tape	0.5
+yn_08oct08_file_31	crawl back	7754	crawl back in	0.5
+yn_08oct08_file_31	cliff, simon	7554	cliff simon	0.5
+yn_08oct08_file_31	when we	1718	when we on	0.5
+yn_08oct08_file_31	lower largo	7012	lower largo	0.5
+yn_08oct08_file_30	when we	1234	when we on	0.5
+yn_08oct08_file_30	justgiving	1601	justgiving	0.5
+yn_08oct08_file_28	when we	2826	when we on	0.5
+yn_08oct08_file_28	the speech	4254	gerald ratner	0.5
+yn_08oct08_file_28	of mothers	5926	the **** of the mothers	0.5
+yn_08oct08_file_27	of mothers	5321	the **** of the mothers	0.5
+yn_08oct08_file_26	world of	2911	the world of null-a	0.5
+yn_08oct08_file_26	what i'm	1500	what i'm for	0.5
+yn_08oct08_file_26	toppel	2364	mads toppel	0.5
+yn_08oct08_file_25	reverb-y	2845	susan mokotoff reverby	0.5
+yn_08oct08_file_25	ghost in love	3385	ghost in love	0.5
+yn_08oct08_file_24	what i'm	1638	what i'm for	0.5
+yn_08oct08_file_24	toppel	2502	mads toppel	0.5
+yn_08oct08_file_21	ghost in love	3123	ghost in love	0.5
+yn_08oct08_file_20	richard tambling	2160	richard tambling	0.5
+yn_08oct08_file_20	jan pienkowski	1352	jan pieńkowski	0.5
+yn_08oct08_file_20	christopher denise	930	christopher denise	0.5
+yn_08oct08_file_20	carolyn marsden	1904	carolyn marsden	0.5
+yn_08oct08_file_18	annandale, new jersey	2691	annandale, new jersey	0.5
+yn_08oct08_file_16	then you	3037	the beatles' christmas records	0.5
+yn_08oct08_file_16	so you	3678	a rock and roll alternative	0.5
+yn_08oct08_file_16	it. it	1995	laconic phrase	0.5
+yn_08oct08_file_16	guru comes	176	a guru comes	0.5
+yn_08oct08_file_14	the decision	2708	voices of animals and men	0.5
+yn_08oct08_file_13	when we	584	when we on	0.5
+yn_08oct08_file_13	leslie gonda	62	leslie gonda	0.5
+yn_08oct08_file_12	offs	4507	the moons	0.5
+yn_08oct08_file_12	ap bank	35	ap bank	0.5
+yn_08oct08_file_11	omab	1886	nomenclature of monoclonal antibodies	0.5
+yn_08oct08_file_11	groep	1182	melis van de groep	0.5
+yn_08oct08_file_0	asadullah	1329	khalifa mohammad asadullah	0.5
+13oct08amittech8.txt	nutah	3866	nütəh	0.5
+13oct08amittech8.txt	end on end	2134	end on end	0.5
+13oct08amittech7.txt	mike boland	3622	mike boland (ice hockey, born 1954)	0.5
+13oct08amittech5.txt	aid climbing	77	aid climbing	0.5
+13oct08amittech4.txt	nnow	400	mikkel rønnow	0.5
+13oct08amittech4.txt	arrayed	3514	jawad al arrayed	0.5
+13oct08amittech3.txt	windows on earth	3242	windows on earth	0.5
+13oct08amittech3.txt	windows on earth	2994	windows on earth	0.5
+13oct08amittech3.txt	windows on earth	2239	windows on earth	0.5
+13oct08amittech25.txt	geoffrey turner	1410	geoffrey turner (bishop)	0.5
+13oct08amittech24.txt	it. it	5514	laconic phrase	0.5
+13oct08amittech24.txt	thomas reh	3344	thomas reh	0.5
+13oct08amittech23.txt	internet is here	3099	the internet is here	0.5
+13oct08amittech21.txt	time you	86	in time with you	0.5
+13oct08amittech21.txt	ngolle	3713	elvis ngolle ngolle	0.5
+13oct08amittech21.txt	ngolle	2968	elvis ngolle ngolle	0.5
+13oct08amittech21.txt	golle	2969	gölle	0.5
+13oct08amittech20.txt	hongyou	2082	wang hongyou	0.5
+13oct08amittech2.txt	nnow	1632	mikkel rønnow	0.5
+13oct08amittech19.txt	spermatogonial stem cells	3238	spermatogonial stem cells	0.5
+13oct08amittech19.txt	spermatogonial stem cells	2600	spermatogonial stem cells	0.5
+13oct08amittech19.txt	nusing	2519	theo nüsing	0.5
+13oct08amittech16.txt	to show	3222	the t.o. show	0.5
+13oct08amittech16.txt	the power	817	the power (snap! song)	0.5
+13oct08amittech16.txt	the power	242	the power (snap! song)	0.5
+13oct08amittech16.txt	the best bet	3654	the best bet	0.5
+13oct08amittech14.txt	marlow industries	3539	marlow industries	0.5
+13oct08amittech13.txt	ray chen	3128	ray chen	0.5
+13oct08amittech13.txt	branz	4233	maría sol branz	0.5
+13oct08amittech13.txt	branz	2525	maría sol branz	0.5
+13oct08amittech13.txt	branz	2351	maría sol branz	0.5
+13oct08amittech12.txt	ravinder dhallan	4455	ravinder dhallan	0.5
+13oct08amitsport7.txt	to win	996	tołwin	0.5
+13oct08amitsport7.txt	to win	996	tołwin	0.5
+13oct08amitsport7.txt	to win	578	tołwin	0.5
+13oct08amitsport7.txt	n\"so	1176	nıso	0.5
+13oct08amitsport7.txt	fernando, nelson	1777	fernando nélson	0.5
+13oct08amitsport5.txt	to win	1551	tołwin	0.5
+13oct08amitsport3.txt	to win	2276	tołwin	0.5
+13oct08amitsport2.txt	nnow	1454	mikkel rønnow	0.5
+13oct08amitsport19.txt	to win	1511	tołwin	0.5
+13oct08amitsport14.txt	n'back	36	n-back	0.5
+13oct08amitsport14.txt	barry, hodge	3665	barry hodge	0.5
+13oct08amitsport11.txt	wrong club	1665	wrong club	0.5
+13oct08amitsport10.txt	to win	65	tołwin	0.5
+13oct08amitsport10.txt	nchan	2753	nchan	0.5
+13oct08amitsport10.txt	omega order	912	order of omega	0.5
+13oct08amitsport10.txt	omega order	3391	order of omega	0.5
+13oct08amitsport10.txt	guiming	671	chen guiming	0.5
+13oct08amithealth8.txt	scarberry	1383	mark s. scarberry	0.5
+13oct08amithealth7.txt	the power	3199	the power (snap! song)	0.5
+13oct08amithealth6.txt	n. yoga	4961	n'yoga	0.5
+13oct08amithealth5.txt	wife, two	1448	a wife or two	0.5
+13oct08amithealth4.txt	light. you	275	the light in you	0.5
+13oct08amithealth21.txt	viatronix	4259	viatronix	0.5
+13oct08amithealth2.txt	when we	1406	when we on	0.5
+13oct08amithealth2.txt	to show	1003	the t.o. show	0.5
+13oct08amithealth19.txt	then you	3415	the beatles' christmas records	0.5
+13oct08amithealth19.txt	so you	1602	a rock and roll alternative	0.5
+13oct08amithealth17.txt	the 1980s and 1990s	6206	bruges group	0.5
+13oct08amithealth16.txt	the nucleus	1193	growth of the old swiss confederacy	0.5
+13oct08amithealth15.txt	to show	5090	the t.o. show	0.5
+13oct08amithealth15.txt	neat	3218	near-earth asteroid tracking	0.5
+13oct08amithealth15.txt	drugs, pregnancy	5317	drugs in pregnancy	0.5
+13oct08amithealth14.txt	baldomero olivera	287	baldomero olivera	0.5
+13oct08amithealth12.txt	when we	1857	when we on	0.5
+13oct08amithealth11.txt	n\"more	1874	or-n-more (album)	0.5
+13oct08amithealth11.txt	add.\n	1297	add n to (x)	0.5
+13oct08amithealth1.txt	time you	5593	in time with you	0.5
+13oct08amithealth1.txt	so you	877	a rock and roll alternative	0.5
+13oct08amithealth20.txt	opioid-induced constipation	2867	opioid	0.4999979
+13oct08amitsport20.txt	nlcs	1158	national league championship series	0.4999317
+13oct08amittech17.txt	mount sinai school of medicine	3415	icahn school of medicine at mount sinai	0.49975842
+13oct08amittech17.txt	dna vaccine	528	dna vaccination	0.49957687
+13oct08amittech25.txt	firefox	4106	firefox	0.4995258
+13oct08amithealth16.txt	cardiovascular disease	2972	cardiovascular disease	0.49931675
+13oct08amithealth5.txt	bihar	4729	bihar	0.49919963
+13oct08amittech11.txt	university of michigan	695	university of michigan	0.4991051
+13oct08amithealth5.txt	nepal	3305	nepal	0.49908218
+13oct08amittech21.txt	machine learning	3419	machine learning	0.4986661
+13oct08amittech5.txt	nanostructure	900	nanostructure	0.49853498
+13oct08amittech4.txt	holographic storage	1941	holographic data storage	0.49840122
+13oct08amithealth5.txt	bangladesh	1021	bangladesh	0.4981963
+13oct08amittech22.txt	university of california, los angeles	2154	university of california, los angeles	0.49798906
+13oct08amithealth20.txt	chemotherapy	486	chemotherapy	0.49796388
+yn_08oct08_file_21	pretenders	3954	the pretenders	0.4974823
+13oct08amithealth14.txt	university of utah	515	university of utah	0.4972153
+yn_08oct08_file_11	ing groep nv	1178	ing group	0.49710757
+13oct08amithealth18.txt	hypertension	3411	hypertension	0.4970051
+yn_08oct08_file_8	associated press	165	associated press	0.4969558
+yn_08oct08_file_8	afghanistan	135	war in afghanistan (2001–2014)	0.49672854
+yn_08oct08_file_0	afghan national security forces	708	afghan national security forces	0.49667168
+yn_08oct08_file_9	pakistan	468	pakistan	0.4966551
+13oct08amittech19.txt	spermatogonia	2236	spermatogonium	0.49648806
+yn_08oct08_file_16	maple syrup	2369	maple syrup	0.496406
+13oct08amittech17.txt	ndna	2260	nuclear dna	0.49612123
+13oct08amithealth16.txt	cardiovascular disease	2077	cardiovascular disease	0.49598625
+yn_08oct08_file_31	eiger	2062	eiger	0.4959733
+13oct08amithealth4.txt	black tea	2789	black tea	0.49594748
+yn_08oct08_file_14	american international group inc	2633	american international group	0.49584487
+yn_08oct08_file_6	afghanistan	2918	war in afghanistan (2001–2014)	0.4958419
+yn_08oct08_file_1	close air support	768	close air support	0.49582797
+yn_08oct08_file_21	tommy gun	5382	tommy gun (song)	0.49558157
+yn_08oct08_file_33	chile	3052	chile	0.4952582
+13oct08amithealth9.txt	insecticide	2840	insecticide	0.49524975
+13oct08amithealth20.txt	constipation	2457	constipation	0.49501652
+13oct08amittech9.txt	rotary engine	1456	pistonless rotary engine	0.49431252
+yn_08oct08_file_4	taliban	1238	taliban	0.49417943
+yn_08oct08_file_13	iceland	4678	iceland	0.4937974
+yn_08oct08_file_23	gabriel dumont	1249	gabriel dumont (métis leader)	0.4937655
+yn_08oct08_file_12	associated press	5537	associated press	0.4936906
+yn_08oct08_file_36	associated press	789	associated press	0.49349123
+13oct08amittech2.txt	iphone	3059	iphone	0.49329084
+13oct08amittech24.txt	university of washington	3431	university of washington	0.49314123
+13oct08amittech4.txt	polycarbonate	4433	polycarbonate	0.49247292
+13oct08amithealth21.txt	colorectal cancer	2591	colorectal cancer	0.49245685
+13oct08amithealth17.txt	nobel prize for physiology or medicine	84	nobel prize in physiology or medicine	0.49236786
+13oct08amithealth5.txt	insecticide	4475	insecticide	0.49219424
+13oct08amithealth5.txt	bihar	6277	bihar	0.49215236
+13oct08amitsport19.txt	davis cup	435	davis cup	0.4918225
+ganeshtestdoc.txt	indian cricket team	354	india national cricket team	0.49154764
+13oct08amittech23.txt	t-mobile	874	t-mobile us	0.4912915
+yn_08oct08_file_12	bank of america	1604	bank of america	0.4907141
+13oct08amithealth5.txt	andhra pradesh	6679	andhra pradesh	0.49068448
+13oct08amithealth4.txt	oolong tea	3046	oolong	0.49047923
+13oct08amittech23.txt	wi-fi	930	wi-fi	0.49045122
+13oct08amithealth6.txt	sanskrit	996	sanskrit	0.4902665
+yn_08oct08_file_28	karachi	4190	karachi	0.49020848
+yn_08oct08_file_5	afghanistan	74	afghanistan	0.4901129
+13oct08amithealth14.txt	morphine	1818	morphine	0.4897544
+yn_08oct08_file_8	nato	1230	nato	0.48971426
+yn_08oct08_file_4	nato	461	nato	0.4896643
+yn_08oct08_file_12	bank of america	1823	bank of america	0.48950905
+13oct08_buss_file_11.txt	moody's investors service	1147	moody's investors service	0.48946732
+13oct08amithealth12.txt	insulin	1448	insulin	0.4891006
+13oct08amittech17.txt	food and drug administration	280	food and drug administration	0.4882058
+yn_08oct08_file_33	malaysia	3075	malaysia	0.48807207
+yn_08oct08_file_31	longest journey	6798	the longest journey	0.48794514
+13oct08amithealth12.txt	infant formula	3056	infant formula	0.48776317
+13oct08amittech18.txt	c. elegans	2820	caenorhabditis elegans	0.48766237
+13oct08amithealth4.txt	american journal of clinical nutrition	2321	the american journal of clinical nutrition	0.4876065
+13oct08amithealth4.txt	caffeine	2435	caffeine	0.48745355
+13oct08amithealth16.txt	cardiovascular disease	4093	cardiovascular disease	0.48730797
+13oct08amithealth18.txt	optic nerve	7263	optic nerve	0.48693714
+13oct08amitsport20.txt	fastball	1523	fastball	0.48684585
+13oct08amitsport10.txt	xiamen	3100	xiamen	0.4866909
+yn_08oct08_file_18	bank of america	3026	bank of america	0.48662078
+yn_08oct08_file_15	associated press	1299	associated press	0.48605582
+yn_08oct08_file_30	theatre royal bath	2180	theatre royal, bath	0.48585737
+yn_08oct08_file_6	afghanistan	2140	war in afghanistan (2001–2014)	0.4858414
+13oct08amittech14.txt	thermoelectrics	2786	thermoelectric effect	0.48580506
+yn_08oct08_file_40	haiti	1837	haiti	0.48562527
+13oct08amithealth5.txt	patna	6141	patna	0.48533782
+13oct08amithealth18.txt	alpha waves	2528	alpha wave	0.48517644
+13oct08amittech23.txt	android	648	android (operating system)	0.48508874
+yn_08oct08_file_17	america's cup	1060	america's cup	0.4848503
+yn_08oct08_file_10	america's cup	928	america's cup	0.4848503
+yn_08oct08_file_18	bank of america	2062	bank of america	0.48473543
+yn_08oct08_file_34	american cancer society	884	american cancer society	0.48452315
+yn_08oct08_file_4	afghanistan	496	war in afghanistan (2001–2014)	0.48445606
+13oct08amittech19.txt	embryo	3693	embryo	0.48406112
+13oct08amittech24.txt	retina	4003	retina	0.48367327
+13oct08amittech2.txt	unix	2018	unix	0.48335528
+13oct08amithealth18.txt	spasticity	6677	spasticity	0.48327968
+13oct08amitsport3.txt	kazakhstan	266	kazakhstan national football team	0.48271948
+13oct08amithealth5.txt	bihar	261	bihar	0.4821264
+13oct08amittech24.txt	retina	457	retina	0.48183647
+13oct08amittech25.txt	antivirus software	2211	antivirus software	0.48180598
+yn_08oct08_file_33	gains from trade	6332	gains from trade	0.48148406
+13oct08amittech14.txt	bismuth	2903	bismuth	0.4813286
+13oct08amithealth4.txt	cholesterol	1838	cholesterol	0.48121405
+13oct08amittech13.txt	monocrystalline silicon	4300	monocrystalline silicon	0.48118293
+13oct08amittech24.txt	retina	3549	retina	0.4808796
+yn_08oct08_file_17	trimaran	2403	trimaran	0.48083094
+yn_08oct08_file_10	trimaran	2277	trimaran	0.48083094
+13oct08amittech26.txt	university of washington	5009	university of washington	0.48049307
+13oct08amithealth4.txt	egcg	2996	epigallocatechin gallate	0.48047754
+yn_08oct08_file_5	associated press	107	associated press	0.4804152
+13oct08amitsport10.txt	guangzhou	3039	guangzhou	0.48019934
+13oct08amittech12.txt	genetic disorder	2933	genetic disorder	0.4800616
+yn_08oct08_file_18	bank of america	404	bank of america	0.4800254
+yn_08oct08_file_9	pakistan	138	pakistan	0.47996402
+13oct08amittech13.txt	amorphous silicon	2714	amorphous silicon	0.47930783
+13oct08amittech23.txt	iphone	820	iphone	0.47921157
+13oct08amithealth4.txt	egcg	2111	epigallocatechin gallate	0.47904205
+yn_08oct08_file_31	eiger	317	eiger	0.4790267
+13oct08amithealth6.txt	dharana	2605	dhāraṇā	0.47901857
+13oct08amitsport15.txt	mike ashley	396	mike ashley (businessman)	0.47876847
+yn_08oct08_file_30	mujahideen	2787	mujahideen	0.4786352
+13oct08amithealth20.txt	constipation	2882	constipation	0.47814047
+13oct08amithealth1.txt	carbohydrate	2505	carbohydrate	0.47794318
+yn_08oct08_file_5	pakistan	241	pakistan	0.47788402
+13oct08amithealth21.txt	new york university	2407	new york university	0.477601
+13oct08amitsport2.txt	rajasthan	2008	rajasthan	0.47757858
+yn_08oct08_file_23	lloydminster	311	lloydminster	0.47753158
+13oct08amitsport10.txt	omega china tour	2887	pga tour china	0.47716025
+13oct08amithealth16.txt	gene therapy	3953	gene therapy	0.4768689
+yn_08oct08_file_16	seattle times	467	the seattle times	0.47636628
+13oct08amittech24.txt	macular degeneration	5108	macular degeneration	0.4761421
+yn_08oct08_file_12	bank of america	948	bank of america	0.4758347
+13oct08amittech2.txt	iphone	2768	iphone	0.47538063
+13oct08amithealth17.txt	cervical cancer	56	cervical cancer	0.47520518
+13oct08amithealth16.txt	angioplasty	1848	angioplasty	0.47511682
+yn_08oct08_file_2	associated press	119	associated press	0.4750318
+13oct08amittech3.txt	skype	855	skype	0.4749269
+13oct08amittech24.txt	retina	3315	retina	0.47481352
+13oct08amithealth15.txt	insomnia	1774	insomnia	0.47442842
+13oct08amithealth4.txt	green tea extract	2448	green tea extract	0.47390842
+13oct08amithealth4.txt	green tea	2253	green tea	0.4736579
+13oct08amithealth18.txt	but not	4813	for but not with	0.47336668
+yn_08oct08_file_15	bank of america corp	300	bank of america	0.47295833
+13oct08amittech12.txt	dna sequencing	391	dna sequencing	0.47275802
+yn_08oct08_file_28	slate.com	4746	slate (magazine)	0.47246474
+13oct08amithealth21.txt	computed tomography	1368	ct scan	0.47240418
+13oct08amittech26.txt	enzyme	1715	enzyme	0.4713233
+yn_08oct08_file_13	steven udvar-hazy	2341	steven f. udvar-házy	0.4712275
+yn_08oct08_file_17	america's cup	2760	america's cup	0.4710328
+yn_08oct08_file_10	america's cup	2636	america's cup	0.4710328
+13oct08amithealth7.txt	march of dimes	2697	march of dimes	0.47076815
+yn_08oct08_file_4	nato	1772	nato	0.47061163
+13oct08amittech23.txt	iphone	5165	iphone	0.47016925
+yn_08oct08_file_6	saudi arabia	998	saudi arabia	0.4697047
+13oct08amithealth5.txt	parasitic disease	792	parasitic disease	0.46961564
+13oct08amithealth11.txt	innate immune system	2249	innate immune system	0.46917188
+13oct08amithealth18.txt	sex hormone	3643	sex steroid	0.46895957
+yn_08oct08_file_4	afghanistan	228	war in afghanistan (2001–2014)	0.46875888
+ganeshtestdoc.txt	sir donald bradman	472	don bradman	0.46869555
+13oct08amittech12.txt	stanford university	235	stanford university	0.46865925
+13oct08amittech11.txt	university of michigan	119	university of michigan	0.46845093
+13oct08amittech12.txt	university of connecticut	4787	university of connecticut	0.468241
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	0.4679024
+yn_08oct08_file_4	russia	1791	russian empire	0.4675854
+13oct08amittech26.txt	enzyme	1382	enzyme	0.46715716
+13oct08amithealth1.txt	glycogen	575	glycogen	0.46702754
+13oct08amittech16.txt	virginia tech	441	virginia tech	0.46679798
+13oct08amittech22.txt	desalination	1110	desalination	0.46674362
+13oct08amitsport1.txt	but not	1102	for but not with	0.46666667
+13oct08amithealth9.txt	but not	859	for but not with	0.46666667
+yn_08oct08_file_14	bank of america	2238	bank of america	0.4660396
+yn_08oct08_file_16	lake forest park	683	lake forest park, washington	0.4658286
+13oct08amithealth18.txt	chemotherapy	6837	chemotherapy	0.4657477
+13oct08amittech12.txt	amniotic fluid	1641	amniotic fluid	0.4654289
+13oct08amithealth15.txt	zoloft	1955	sertraline	0.46537894
+13oct08amitsport19.txt	match of the day	3025	match of the day	0.46523282
+13oct08amithealth17.txt	human immunodeficiency virus	1165	hiv	0.46511132
+yn_08oct08_file_11	penoles	2388	peñoles	0.46487176
+13oct08amithealth11.txt	protein	1183	protein	0.46477997
+yn_08oct08_file_21	pretenders	4427	the pretenders	0.46455002
+yn_08oct08_file_33	thailand	3065	thailand	0.4644819
+13oct08amittech23.txt	app store	3274	app store (ios)	0.46445936
+yn_08oct08_file_7	afghanistan	272	war in afghanistan (2001–2014)	0.46438703
+yn_08oct08_file_13	getty images	38	getty images	0.46394697
+13oct08amittech2.txt	intel	1786	intel	0.46348226
+yn_08oct08_file_6	mujahideen	3276	mujahideen	0.4634446
+13oct08amithealth9.txt	serotype	729	serotype	0.4633044
+13oct08amittech23.txt	android	4621	android (operating system)	0.46323785
+13oct08amitsport19.txt	match of the day	3521	match of the day	0.4631741
+13oct08_buss_file_11.txt	bank of america	670	bank of america	0.4627994
+13oct08amittech8.txt	fort worth, texas	1038	fort worth, texas	0.46279758
+13oct08amithealth18.txt	american medical association	2322	american medical association	0.4626245
+13oct08amithealth5.txt	bihar	4406	bihar	0.46260357
+13oct08amithealth16.txt	cardiovascular disease	372	cardiovascular disease	0.4624925
+yn_08oct08_file_15	barclays capital	554	barclays investment bank	0.46240574
+yn_08oct08_file_4	afghanistan	902	war in afghanistan (2001–2014)	0.46232417
+13oct08amithealth6.txt	hypertension	5696	hypertension	0.4622068
+13oct08amithealth19.txt	nfat	37	nfat	0.46212122
+yn_08oct08_file_28	afghanistan	6926	war in afghanistan (2001–2014)	0.46185845
+yn_08oct08_file_27	afghanistan	6321	war in afghanistan (2001–2014)	0.46185845
+13oct08amittech8.txt	san francisco chronicle	1257	san francisco chronicle	0.46180123
+13oct08amittech24.txt	gene therapy	4709	gene therapy	0.4616584
+13oct08amittech25.txt	forrester research	1376	forrester research	0.461623
+yn_08oct08_file_11	credit suisse group ag	2083	credit suisse	0.46138462
+yn_08oct08_file_28	lahore	4030	lahore	0.46131712
+13oct08amithealth5.txt	malaria	4539	malaria	0.46108148
+13oct08amitsport11.txt	asian tour	184	asian tour	0.4608857
+13oct08amittech9.txt	minivan	2368	minivan	0.46058524
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	0.46049404
+13oct08amithealth4.txt	cholesterol	2267	cholesterol	0.46035832
+13oct08amithealth17.txt	nobel prize	2797	nobel prize in physiology or medicine	0.46030414
+13oct08amittech2.txt	iphone	2626	iphone	0.46026558
+13oct08amithealth20.txt	chemotherapy	169	chemotherapy	0.46023837
+13oct08amithealth7.txt	iron lung	1531	iron lung	0.4601918
+13oct08amithealth1.txt	insulin	1662	insulin	0.46017063
+13oct08amitsport4.txt	ajax	1592	afc ajax	0.45998722
+yn_08oct08_file_34	mammogram	2321	mammography	0.45995143
+yn_08oct08_file_12	bank of america	1177	bank of america	0.4595729
+yn_08oct08_file_28	pakistan	1719	pakistan	0.4594376
+13oct08amitsport14.txt	kazakhstan	136	kazakhstan national football team	0.459357
+13oct08amittech12.txt	university of connecticut health center	3155	university of connecticut health center	0.45928773
+ganeshtestdoc.txt	ball tampering	110	ball tampering	0.45852393
+yn_08oct08_file_26	migraine	1861	migraine	0.4585082
+13oct08amittech25.txt	web browser	1631	web browser	0.45825976
+13oct08amittech23.txt	smartphone	341	smartphone	0.4580735
+13oct08amithealth20.txt	stimulant	1600	stimulant	0.45793104
+yn_08oct08_file_17	america's cup	2593	america's cup	0.4578996
+yn_08oct08_file_10	america's cup	2469	america's cup	0.4578996
+13oct08amittech9.txt	rotary engine	1291	wankel engine	0.4578564
+13oct08amitsport1.txt	india	2032	india national cricket team	0.45777243
+13oct08amittech23.txt	android	3739	android (operating system)	0.45717874
+13oct08amithealth16.txt	national academy of sciences	264	national academy of sciences	0.45709908
+yn_08oct08_file_17	america's cup	793	america's cup	0.45709372
+yn_08oct08_file_10	america's cup	655	america's cup	0.45709372
+13oct08amithealth20.txt	constipation	2228	constipation	0.4566531
+13oct08amittech9.txt	rotary engine	548	wankel engine	0.45664686
+yn_08oct08_file_11	brazil	724	brazil	0.45646745
+yn_08oct08_file_39	bahamas olympic association	104	bahamas olympic committee	0.45639545
+yn_08oct08_file_31	peru	7332	peru	0.45630738
+13oct08amittech8.txt	shreveport, louisiana	1090	shreveport, louisiana	0.45608336
+yn_08oct08_file_7	afghanistan	272	war in afghanistan (2001–2014)	0.45568547
+yn_08oct08_file_9	afghanistan	70	afghanistan	0.4556037
+yn_08oct08_file_5	edt	422	eastern time zone	0.4555654
+yn_08oct08_file_30	bournville	827	bournville (chocolate bar)	0.45541134
+yn_08oct08_file_40	spanish wells	3248	spanish wells	0.455195
+13oct08amithealth20.txt	opioid-induced constipation	2442	opioid	0.45490623
+yn_08oct08_file_11	peru	507	peru	0.45490026
+yn_08oct08_file_31	snow hole	263	the snow hole	0.45454547
+13oct08amittech9.txt	autocar	455	autocar	0.4543753
+yn_08oct08_file_22	roseland theater	104	roseland theater	0.45424584
+13oct08amithealth20.txt	constipation	0	constipation	0.45420715
+13oct08amithealth1.txt	branched chain amino acids	4397	branched-chain amino acid	0.4541561
+13oct08amittech14.txt	bismuth	3978	bismuth	0.45405805
+yn_08oct08_file_17	new york state court of appeals	3172	new york court of appeals	0.45397
+yn_08oct08_file_10	new york state court of appeals	3049	new york court of appeals	0.45397
+yn_08oct08_file_12	bank of america	4405	bank of america	0.45389795
+13oct08amitsport15.txt	javascript	907	javascript	0.45371065
+yn_08oct08_file_14	bank of america	198	bank of america	0.45336342
+yn_08oct08_file_11	chile	1538	chile	0.453259
+13oct08amithealth2.txt	food calorie	1046	food energy	0.45305687
+13oct08amithealth20.txt	constipation	290	constipation	0.4530259
+yn_08oct08_file_11	brazil	444	brazil	0.45301193
+13oct08amithealth12.txt	insulin	6720	insulin	0.4530006
+yn_08oct08_file_19	bunker fuel	3786	fuel oil	0.45245698
+13oct08amittech25.txt	malware	1813	malware	0.45230916
+13oct08amittech23.txt	android	4808	android (operating system)	0.4523079
+yn_08oct08_file_24	migraine	1999	migraine	0.45227113
+13oct08amithealth17.txt	nobel prize	7449	nobel prize	0.45218956
+yn_08oct08_file_30	liberal democrat	2589	liberal democracy	0.45197147
+13oct08amittech26.txt	pacific biosciences	6844	pacific biosciences	0.45178255
+yn_08oct08_file_23	gabriel dumont institute	1249	gabriel dumont institute	0.45176739
+13oct08amittech26.txt	pacific biosciences	2887	pacific biosciences	0.4515456
+yn_08oct08_file_27	getty images	185	getty images	0.4511727
+13oct08amithealth5.txt	nephew, niece	1495	nephew and niece	0.45117047
+yn_08oct08_file_13	bank of america	3093	bank of america	0.45111042
+yn_08oct08_file_17	america's cup	2109	america's cup	0.45076638
+yn_08oct08_file_10	america's cup	1982	america's cup	0.45076638
+13oct08amithealth5.txt	indian council for medical research	6448	indian council of medical research	0.45061252
+13oct08amittech25.txt	malware	576	malware	0.45059535
+13oct08amithealth6.txt	samadhi	4017	samadhi	0.4505451
+13oct08amithealth13.txt	cholesterol	1314	cholesterol	0.45048082
+yn_08oct08_file_33	sweden	4204	sweden	0.4503344
+yn_08oct08_file_31	iceland	6022	iceland	0.4501703
+yn_08oct08_file_4	afghanistan	90	war in afghanistan (2001–2014)	0.4499284
+yn_08oct08_file_28	hockey mom	6032	soccer mom	0.44981387
+yn_08oct08_file_27	hockey mom	5427	soccer mom	0.44981387
+13oct08amithealth12.txt	diabetic coma	4305	diabetic coma	0.4497248
+13oct08amittech7.txt	linkedin	1522	linkedin	0.4495765
+13oct08amittech9.txt	electric motor	796	electric motor	0.44944778
+13oct08amittech26.txt	pacific biosciences	190	pacific biosciences	0.44925237
+yn_08oct08_file_18	bank of america	3263	bank of america	0.44898695
+yn_08oct08_file_16	pbs	267	pbs	0.4489571
+yn_08oct08_file_33	japan	4162	japan	0.44884217
+13oct08amittech23.txt	t-mobile	79	t-mobile us	0.44865865
+yn_08oct08_file_30	edinburgh film festival	2383	edinburgh international film festival	0.44862416
+yn_08oct08_file_13	citicorp	3612	citigroup	0.44859296
+13oct08amittech24.txt	age-related macular degeneration	1120	macular degeneration	0.44858652
+13oct08amittech7.txt	web 2.0	917	web 2.0	0.44815397
+13oct08amithealth19.txt	power walking	4401	power walking	0.44806316
+13oct08amitsport14.txt	barcelona	3204	fc barcelona	0.44797254
+13oct08amithealth11.txt	immune system	1050	immune system	0.44785917
+yn_08oct08_file_31	lost land of the jaguar	871	lost land of the jaguar	0.4477797
+13oct08amittech11.txt	duke university	2660	duke university	0.4476217
+13oct08amitsport4.txt	liverpool	647	liverpool f.c.	0.44759393
+yn_08oct08_file_40	bahamas	3134	the bahamas	0.44726428
+13oct08amithealth17.txt	nobel prize	980	nobel prize in physiology or medicine	0.44723666
+13oct08amithealth4.txt	egcg	1319	epigallocatechin gallate	0.4471478
+yn_08oct08_file_19	marine diesel oil	345	marine diesel oil	0.44705728
+13oct08amitsport5.txt	primera liga	327	la liga	0.44695434
+13oct08amittech16.txt	cornell university	418	cornell university	0.4467137
+yn_08oct08_file_16	layer cake	3071	layer cake	0.4467135
+13oct08amithealth21.txt	colorectal cancer	712	colorectal cancer	0.4466767
+13oct08amittech9.txt	electric motor	2185	electric motor	0.44665548
+13oct08amitsport19.txt	czech republic	3560	czech republic	0.44641006
+yn_08oct08_file_30	everyman theatre	2006	everyman theatre, cheltenham	0.44604015
+13oct08amithealth5.txt	brazil	1050	brazil	0.44593102
+13oct08amitsport14.txt	bbc sport	2150	bbc sport	0.4458424
+yn_08oct08_file_16	brown sugar	2382	brown sugar	0.44570392
+13oct08amittech4.txt	holographic storage	21	holographic data storage	0.44565952
+13oct08amittech25.txt	malware	2615	malware	0.44525433
+yn_08oct08_file_12	bank of america	1177	bank of america	0.44522542
+13oct08amitsport17.txt	pay-per-view	3419	pay-per-view	0.4449684
+13oct08amithealth1.txt	glutamine	5968	glutamine	0.44487476
+13oct08amittech21.txt	ai challenge	1298	ai challenge	0.44402164
+13oct08amittech15.txt	wi-fi	1257	wi-fi	0.44395703
+13oct08amitsport9.txt	german cycling federation	356	german cycling federation	0.443725
+13oct08amitsport2.txt	cricket	2225	cricket	0.44355074
+yn_08oct08_file_22	oregonian	416	the oregonian	0.4434822
+13oct08amithealth12.txt	insulin	3878	insulin	0.44330943
+yn_08oct08_file_33	bahamas	4	the bahamas	0.44321427
+13oct08amittech15.txt	georgia tech	2432	georgia institute of technology	0.44320995
+13oct08amittech17.txt	national academy of sciences	2910	national academy of sciences	0.44269577
+yn_08oct08_file_31	eiger	2062	eiger	0.44240966
+13oct08amithealth1.txt	whey protein	3856	whey protein	0.44215482
+13oct08amithealth1.txt	non-essential amino acid	4064	essential amino acid	0.44200882
+13oct08amithealth7.txt	march of dimes	1746	march of dimes	0.4419315
+13oct08amittech8.txt	caterpillar	5042	caterpillar inc.	0.4419291
+yn_08oct08_file_23	cree	3735	cree language	0.44161445
+13oct08amittech20.txt	magnetic storage	542	magnetic storage	0.44146377
+yn_08oct08_file_33	bahamas	134	the bahamas	0.4413187
+13oct08amittech12.txt	cytogeneticist	1320	cytogenetics	0.4411716
+13oct08amittech23.txt	t-mobile	265	t-mobile	0.44115102
+yn_08oct08_file_14	bank of america	1230	bank of america	0.44106838
+13oct08amittech12.txt	chromosome 13	1250	chromosome 13 (human)	0.44074553
+13oct08amittech18.txt	protein	1570	protein	0.44035637
+yn_08oct08_file_20	candlewick press	950	candlewick press	0.44034052
+yn_08oct08_file_11	localiza	90	localiza	0.44025555
+yn_08oct08_file_23	metis	3526	métis in canada	0.44021863
+yn_08oct08_file_33	republic of congo	5227	republic of the congo	0.44010103
+13oct08amittech2.txt	iphone	106	iphone	0.44000232
+13oct08amithealth8.txt	ovarian cancer	604	ovarian cancer	0.4399656
+13oct08amithealth1.txt	carbohydrate	2845	carbohydrate	0.43987948
+13oct08amithealth12.txt	insulin	464	insulin	0.43987682
+13oct08amitsport2.txt	sialkot	1149	sialkot	0.439729
+yn_08oct08_file_39	bahamas	695	the bahamas	0.4396488
+13oct08amittech15.txt	optical telecommunication	2061	optical communication	0.43954444
+yn_08oct08_file_17	trimaran	1749	trimaran	0.43922648
+yn_08oct08_file_10	trimaran	1622	trimaran	0.43922648
+13oct08amithealth12.txt	american plague	34	yellow fever	0.43907166
+13oct08amittech5.txt	georgia tech	934	georgia institute of technology	0.43872094
+yn_08oct08_file_4	nato	766	nato	0.43850178
+yn_08oct08_file_5	new york city	1417	new york city	0.43842492
+13oct08amittech12.txt	chromosome 21	4244	chromosome 21 (human)	0.4380974
+13oct08amitsport18.txt	javascript	753	javascript	0.4379165
+yn_08oct08_file_11	chile	1466	chile	0.43780002
+13oct08amithealth13.txt	cholesterol	157	cholesterol	0.4377686
+yn_08oct08_file_16	pbs	1065	pbs	0.4375896
+13oct08amittech2.txt	operating system	3028	operating system	0.4375644
+yn_08oct08_file_11	sul america	1299	sul américa esporte clube	0.4375
+yn_08oct08_file_11	sul america	100	sul américa esporte clube	0.4375
+yn_08oct08_file_40	eleuthera	2879	eleuthera	0.43742374
+13oct08amitsport2.txt	sialkot	715	sialkot	0.43736157
+yn_08oct08_file_14	bank of america	374	bank of america	0.43728542
+13oct08amitsport2.txt	sialkot	559	sialkot	0.4372297
+yn_08oct08_file_21	pretenders	3459	the pretenders	0.4371323
+13oct08amithealth12.txt	insulin	2042	insulin	0.43711427
+yn_08oct08_file_12	bank of america	330	bank of america	0.43701184
+13oct08amithealth18.txt	lab rats	4179	laboratory rat	0.43697378
+yn_08oct08_file_15	bank of america	54	bank of america	0.4369007
+13oct08amitsport10.txt	tianan	3260	cheonan	0.43676427
+yn_08oct08_file_7	afghanistan	125	afghanistan	0.43648735
+13oct08amithealth14.txt	stanford university	1900	stanford university	0.43594962
+yn_08oct08_file_28	pakistan	1396	pakistan	0.4359126
+yn_08oct08_file_40	bahamas	687	the bahamas	0.43582022
+13oct08amittech26.txt	pacific biosciences	5494	pacific biosciences	0.4356797
+13oct08amittech12.txt	prenatal diagnosis	1484	prenatal diagnosis	0.43535
+13oct08amithealth11.txt	protein	1372	protein	0.43504387
+13oct08amittech3.txt	mississippi river delta	2072	mississippi river delta	0.4350386
+13oct08_buss_file_10.txt	wells fargo	1812	wells fargo	0.43441737
+13oct08amithealth4.txt	university of kansas	1282	university of kansas	0.43426138
+yn_08oct08_file_15	ibm	514	ibm	0.43416905
+yn_08oct08_file_31	venezuela	3874	venezuela	0.43409288
+13oct08amithealth12.txt	insulin	3310	insulin	0.43399608
+13oct08amithealth9.txt	serotype	1140	serotype	0.43372765
+yn_08oct08_file_14	bank of america	1757	bank of america	0.43362293
+13oct08amithealth18.txt	coronary atherosclerosis	3454	atherosclerosis	0.4335229
+yn_08oct08_file_16	leaveners	2889	the leaveners	0.43333334
+yn_08oct08_file_33	hungary	4730	hungary	0.43330818
+13oct08amithealth3.txt	immune system	535	immune system	0.4332062
+13oct08amithealth1.txt	glycogen	1151	glycogen	0.43304706
+13oct08amittech23.txt	gps	922	assisted gps	0.4330455
+13oct08amithealth20.txt	constipation	3961	constipation	0.43300605
+13oct08amittech24.txt	age-related macular degeneration	152	macular degeneration	0.4329371
+yn_08oct08_file_28	islamabad	4201	islamabad	0.43272
+13oct08amitsport1.txt	bangalore	26	bangalore	0.43247944
+13oct08amitsport2.txt	pakistan	1306	pakistan	0.43220142
+yn_08oct08_file_5	cia	911	central intelligence agency	0.43187946
+yn_08oct08_file_12	bank of america	38	bank of america	0.43175152
+13oct08amittech23.txt	iphone	478	iphone	0.43146706
+yn_08oct08_file_39	bahamas	773	the bahamas	0.43101752
+13oct08amittech18.txt	columbia university	2503	columbia university	0.43093538
+yn_08oct08_file_5	afghanistan	1217	war in afghanistan (2001–2014)	0.4309049
+13oct08amittech9.txt	minivan	2150	minivan	0.43082014
+13oct08amitsport17.txt	pay-per-view	3878	pay-per-view	0.43060508
+13oct08amithealth12.txt	pancreas	425	pancreas	0.4305061
+13oct08amittech15.txt	3g cellular networks	118	3g	0.43033236
+yn_08oct08_file_30	leominster	789	leominster	0.42993096
+13oct08amitsport2.txt	sialkot	0	sialkot	0.42987725
+yn_08oct08_file_27	perseus books group	4070	perseus books group	0.4298542
+13oct08amithealth6.txt	samadhi	3453	samadhi	0.42964557
+13oct08amittech24.txt	u.s. food and drug administration	65	food and drug administration	0.42943025
+13oct08amitsport1.txt	cricket	266	cricket	0.42928347
+yn_08oct08_file_26	migraine	436	migraine	0.42926025
+yn_08oct08_file_24	migraine	625	migraine	0.42926025
+yn_08oct08_file_18	bank of america	90	bank of america	0.42920715
+13oct08amithealth18.txt	macrophages	4488	macrophage	0.42896402
+13oct08amithealth15.txt	major depression	1862	major depressive disorder	0.42825952
+13oct08amithealth15.txt	klonopin	7164	clonazepam	0.4282403
+13oct08amithealth20.txt	constipation	3317	constipation	0.428223
+13oct08amitsport14.txt	kazakhs	1661	kazakhs	0.42763233
+13oct08amithealth18.txt	thc	4237	tetrahydrocannabinol	0.427381
+13oct08amithealth4.txt	cholesterol	1510	cholesterol	0.42736793
+yn_08oct08_file_20	candlewick press	1632	candlewick press	0.42734268
+13oct08amittech20.txt	magnetic storage	1057	magnetic storage	0.42724228
+13oct08amithealth9.txt	serotype	1350	serotype	0.42673686
+13oct08amittech2.txt	macintosh	1590	macintosh	0.42643365
+13oct08amittech14.txt	boston college	3621	boston college	0.42635387
+yn_08oct08_file_17	trieste	3474	trieste	0.42591837
+yn_08oct08_file_10	trieste	3351	trieste	0.42591837
+13oct08amithealth17.txt	acquired immune deficiency syndrome	5306	hiv/aids	0.4257717
+yn_08oct08_file_27	iraq	3452	iraq war	0.4257411
+yn_08oct08_file_31	lost land of the jaguar	3902	lost land of the jaguar	0.42551064
+yn_08oct08_file_20	candlewick press	531	candlewick press	0.4253011
+13oct08amitsport17.txt	last september	1761	the last september	0.42504284
+13oct08amithealth12.txt	glucose	1805	glucose	0.42501688
+13oct08amitsport17.txt	romford	996	romford	0.42478594
+13oct08amittech26.txt	enzyme	6444	enzyme	0.4246594
+ganeshtestdoc.txt	medium pace	650	fast bowling	0.42437178
+13oct08amithealth4.txt	green tea	1496	green tea	0.42432576
+yn_08oct08_file_40	bahamas	1901	the bahamas	0.42430928
+yn_08oct08_file_15	general growth properties inc	688	general growth properties	0.42378765
+yn_08oct08_file_28	perseus books group	4667	perseus books group	0.42369702
+13oct08amithealth4.txt	cholesterol	2675	cholesterol	0.42342877
+yn_08oct08_file_23	saskatchewan	339	saskatchewan	0.4233977
+yn_08oct08_file_23	saskatoon	476	saskatoon	0.4232791
+13oct08amittech23.txt	harvard university	3799	harvard university	0.42306107
+yn_08oct08_file_19	bunker fuel	298	fuel oil	0.4229752
+13oct08amittech19.txt	testes	659	testicle	0.42292216
+yn_08oct08_file_33	sub-saharan africa	5467	sub-saharan africa	0.4228046
+13oct08amithealth7.txt	epidemiologist	4005	epidemiology	0.42249125
+13oct08amitsport2.txt	pakistan	1548	pakistan	0.42234313
+yn_08oct08_file_13	commercial paper	4457	commercial paper	0.4221907
+13oct08amithealth8.txt	georgia tech	2182	georgia institute of technology	0.4215301
+yn_08oct08_file_23	first nations	3401	first nations	0.42150247
+yn_08oct08_file_21	pretenders	411	the pretenders	0.42147723
+13oct08amithealth5.txt	urdu	723	urdu	0.42111918
+13oct08amithealth12.txt	insulin	5659	insulin	0.42110538
+yn_08oct08_file_38	bahamas	226	the bahamas	0.42101574
+13oct08amittech25.txt	malware	1255	malware	0.420517
+yn_08oct08_file_0	reuters	132	reuters	0.42041254
+13oct08amithealth19.txt	heart rate monitor	3736	heart rate monitor	0.4200975
+13oct08amittech19.txt	testes	54	testicle	0.4199878
+13oct08amithealth12.txt	glucose	1996	glucose	0.4199637
+13oct08_buss_file_10.txt	credit crunch	739	great recession	0.41994506
+13oct08amithealth5.txt	hyderabad	6668	hyderabad	0.41931164
+13oct08amithealth5.txt	jalandhar	1724	jalandhar	0.41927135
+13oct08amithealth5.txt	sudan	1040	sudan	0.41897225
+13oct08amittech26.txt	waveguide	2125	waveguide	0.4186771
+yn_08oct08_file_13	wipeout	459	wipeout (2008 u.s. game show)	0.4181047
+13oct08amithealth7.txt	polio	4920	poliomyelitis	0.41800648
+13oct08amittech25.txt	antivirus software	875	antivirus software	0.4179651
+13oct08amittech16.txt	gps	57	global positioning system	0.41791052
+13oct08amithealth5.txt	kala-azar	683	visceral leishmaniasis	0.417329
+13oct08amithealth1.txt	carbohydrate	1252	carbohydrate	0.41721183
+13oct08amittech4.txt	optical storage	1788	optical disc	0.41719234
+13oct08amittech17.txt	bird flu	847	avian influenza	0.4167663
+yn_08oct08_file_20	kitty can	1292	kitty can	0.41666666
+13oct08amittech12.txt	national academy of sciences	1054	national academy of sciences	0.41648638
+13oct08amithealth18.txt	cocaine	5643	cocaine	0.4164196
+13oct08amittech24.txt	protein	1813	protein	0.41617948
+yn_08oct08_file_31	bedouin	6679	bedouin	0.41604435
+13oct08amithealth4.txt	green tea	3218	green tea	0.41588867
+yn_08oct08_file_26	surrogate mom	2664	surrogacy	0.41577426
+yn_08oct08_file_24	surrogate mom	2803	surrogacy	0.41577426
+yn_08oct08_file_40	bahamas	255	the bahamas	0.41514865
+13oct08amittech23.txt	3g	892	3g	0.41504645
+13oct08amitsport11.txt	us$158	438	u.s. route 258	0.41486135
+13oct08amittech14.txt	thermoelectrics	3319	thermoelectric effect	0.41479695
+yn_08oct08_file_33	chad	5339	chad	0.41477162
+13oct08amithealth12.txt	glucose	4879	glucose	0.41467792
+yn_08oct08_file_17	pacific ocean	1127	pacific ocean	0.41450757
+yn_08oct08_file_10	pacific ocean	1000	pacific ocean	0.41450757
+13oct08amittech24.txt	retina	2818	retina	0.41442174
+yn_08oct08_file_30	gloucestershire	3089	gloucestershire	0.41439447
+13oct08amitsport4.txt	norway	114	norway national football team	0.41439444
+13oct08amitsport2.txt	sialkot	1422	sialkot	0.4142123
+13oct08amithealth13.txt	cholesterol	405	cholesterol	0.41395235
+13oct08amittech23.txt	android market	4621	google play	0.41388488
+13oct08amithealth17.txt	oral sex	3726	oral sex	0.41372192
+13oct08amittech17.txt	protein	1983	protein	0.41363722
+yn_08oct08_file_33	bahamas	2152	the bahamas	0.41362405
+13oct08amitsport6.txt	ferrari	474	scuderia ferrari	0.4135312
+13oct08amitsport2.txt	sialkot	1659	sialkot	0.41351742
+13oct08amithealth5.txt	antimony	4910	antimony	0.41334257
+13oct08amithealth18.txt	bronchitis	5204	bronchitis	0.41324607
+13oct08amithealth20.txt	opioids	2766	opioid	0.4131258
+yn_08oct08_file_18	bank of america	1297	bank of america	0.4130277
+13oct08amithealth17.txt	hiv-1	6113	hiv	0.41269347
+13oct08amithealth7.txt	polio	2806	poliomyelitis	0.4124753
+yn_08oct08_file_18	credit crunch	3489	financial crisis of 2007–2008	0.41242838
+13oct08amittech19.txt	personalized medicine	79	personalized medicine	0.41236615
+13oct08amithealth7.txt	polio	671	poliomyelitis	0.4123351
+13oct08amithealth7.txt	polio	1475	poliomyelitis	0.4122786
+13oct08amittech19.txt	pluripotent	1745	cell potency	0.4121327
+13oct08amittech5.txt	gecko	561	gecko	0.41192183
+13oct08amittech22.txt	aluminosilicate	2241	aluminosilicate	0.41183066
+13oct08amithealth19.txt	karvonen	3646	janet karvonen	0.4117647
+13oct08amithealth19.txt	karvonen	3313	janet karvonen	0.4117647
+13oct08amithealth19.txt	karvonen	2718	janet karvonen	0.4117647
+13oct08amithealth19.txt	karvonen	18	janet karvonen	0.4117647
+13oct08amithealth19.txt	karvonen	1383	janet karvonen	0.4117647
+13oct08amithealth19.txt	karvonen	1162	janet karvonen	0.4117647
+yn_08oct08_file_12	bank of america corp	330	bank of america	0.4117389
+13oct08amittech23.txt	rich miner	2804	rich miner	0.4116014
+yn_08oct08_file_14	thomson financial	935	thomson financial	0.41139504
+13oct08amithealth20.txt	colace	1729	docusate	0.41116136
+13oct08amithealth14.txt	tarantula	2444	tarantula	0.41082254
+13oct08amitsport4.txt	south africa	1703	south africa national football team	0.41082123
+13oct08amittech25.txt	operating system	3891	operating system	0.41075855
+13oct08amitsport10.txt	beijing	3188	beijing	0.41072944
+13oct08amithealth17.txt	immune system	6019	immune system	0.41062173
+13oct08amittech14.txt	thermoelectric modules	2567	thermoelectric generator	0.41039252
+13oct08amittech12.txt	high-throughput sequencing	2695	dna sequencing	0.4101705
+13oct08amitsport4.txt	liverpool	1327	liverpool f.c.	0.40998524
+13oct08amittech18.txt	jellyfish	1799	jellyfish	0.4094775
+13oct08amithealth18.txt	nausea	6809	nausea	0.40901732
+13oct08amittech5.txt	gecko	1129	gecko	0.4087967
+yn_08oct08_file_34	prostate cancer	568	prostate cancer	0.40866345
+13oct08amithealth12.txt	diabetes	3631	diabetes mellitus	0.40787125
+13oct08amitsport2.txt	chennai	2022	chennai	0.40781972
+13oct08amittech14.txt	thermoelectric modules	1420	thermoelectric generator	0.40767393
+yn_08oct08_file_12	thomson reuters	3184	thomson reuters	0.40757892
+13oct08amitsport5.txt	euro 2008	1827	uefa euro 2008	0.4075148
+13oct08amitsport10.txt	li chao	874	li chao (chess player)	0.4074863
+13oct08amithealth9.txt	immune system	934	immune system	0.40744972
+yn_08oct08_file_37	bahamas	276	the bahamas	0.40733927
+13oct08amitsport1.txt	centurion	2626	century (cricket)	0.4070329
+yn_08oct08_file_36	s plane	2505	s-plane	0.40697673
+yn_08oct08_file_12	citigroup inc	1980	citigroup	0.40670663
+13oct08amitsport2.txt	west indies	2285	west indies cricket team	0.40654966
+13oct08amitsport17.txt	clitheroe	6011	clitheroe railway station	0.40610975
+yn_08oct08_file_33	india	4279	india	0.4060774
+13oct08amithealth8.txt	georgia tech	117	georgia institute of technology	0.40604717
+13oct08amithealth12.txt	insulin	6275	insulin	0.40589854
+13oct08amittech20.txt	argonne national laboratories	1759	argonne national laboratory	0.40585554
+yn_08oct08_file_16	succotash	2666	succotash	0.40572032
+13oct08amithealth7.txt	polio	5443	poliomyelitis	0.4056229
+13oct08amithealth12.txt	insulin	7398	insulin	0.4055918
+13oct08amithealth8.txt	georgia tech	555	georgia institute of technology	0.405424
+13oct08amittech5.txt	gecko	56	gecko	0.40542185
+13oct08amittech5.txt	carbon nanotubes	1445	carbon nanotube	0.40537027
+13oct08amittech14.txt	nanocomposite	4289	nanocomposite	0.40533498
+13oct08amittech12.txt	blood test	297	blood test	0.40530106
+yn_08oct08_file_21	32-20 blues	1430	32-20 blues	0.40520385
+yn_08oct08_file_21	morning glory	5875	(what's the story) morning glory?	0.4050997
+yn_08oct08_file_6	mullah mohammad omar	1589	mohammed omar	0.40487605
+13oct08amitsport1.txt	australia	136	australia national cricket team	0.4045521
+yn_08oct08_file_33	bahamas	1812	the bahamas	0.40452456
+13oct08amitsport19.txt	mononucleosis	572	infectious mononucleosis	0.40436265
+13oct08amittech17.txt	bird flu	1326	avian influenza	0.40405458
+13oct08amittech22.txt	membrane technology	796	membrane technology	0.40401298
+13oct08amittech13.txt	materials science	741	materials science	0.40370873
+yn_08oct08_file_21	rockabilly	2875	rockabilly	0.40355623
+13oct08amittech26.txt	orders of magnitude	5696	order of magnitude	0.40318787
+13oct08amithealth7.txt	vaccine	2400	vaccine	0.40260863
+13oct08amittech17.txt	bird flu	18	influenza a virus	0.40232766
+13oct08amittech17.txt	taiwan	1642	taiwan	0.40208858
+13oct08amithealth18.txt	cocaine	5927	cocaine	0.40197092
+13oct08amithealth12.txt	homogenized milk	2638	milk	0.4019604
+yn_08oct08_file_33	singapore	407	singapore	0.40176898
+yn_08oct08_file_6	reuters	139	reuters	0.40176567
+yn_08oct08_file_20	candlewick press	1947	candlewick press	0.4015761
+13oct08amithealth7.txt	polio	4059	poliomyelitis	0.4014633
+13oct08amittech17.txt	virologist	3347	virology	0.40140262
+ganeshtestdoc.txt	overs	279	over (cricket)	0.40130675
+yn_08oct08_file_28	islamabad	3422	islamabad	0.4012271
+yn_08oct08_file_22	holocene	258	holocene	0.401044
+yn_08oct08_file_33	sub-saharan africa	2649	sub-saharan africa	0.4008037
+13oct08amithealth18.txt	marijuana	1769	cannabis (drug)	0.4007809
+yn_08oct08_file_36	bahamas	2520	the bahamas	0.40039676
+13oct08amitsport4.txt	norway	1040	norway national football team	0.40037173
+13oct08amithealth7.txt	placebo	2997	placebo	0.40029192
+13oct08amithealth1.txt	glutamine	4969	glutamine	0.40013242
+yn_08oct08_file_30	this film is	2464	this film is on	0.4
+13oct08amitsport8.txt	the ring	248	the ring (angel)	0.4
+13oct08amitsport15.txt	njoe	1582	brian lo-a-njoe	0.4
+13oct08amittech3.txt	nearsightedness	4918	near-sightedness	0.39999723
+13oct08amitsport2.txt	cricket	536	cricket	0.39973944
+yn_08oct08_file_11	fresnillo	2454	fresnillo	0.3995467
+13oct08amittech14.txt	thermoelectric modules	1591	thermoelectric generator	0.39946818
+13oct08amittech23.txt	youtube	4669	youtube	0.39930478
+13oct08amittech21.txt	computer scientist	478	computer science	0.3991505
+13oct08amittech3.txt	washington, d.c	2939	washington, d.c.	0.3985387
+yn_08oct08_file_17	puget sound	995	puget sound	0.3983971
+yn_08oct08_file_10	puget sound	857	puget sound	0.3983971
+yn_08oct08_file_40	bahamas	2610	the bahamas	0.3979711
+yn_08oct08_file_33	bahamas	1628	the bahamas	0.3978761
+yn_08oct08_file_16	molasses	2359	molasses	0.3977002
+yn_08oct08_file_0	united nations	496	united nations	0.3975371
+13oct08amithealth5.txt	terai	3263	terai	0.39747858
+yn_08oct08_file_16	corned beef	2680	corned beef	0.39704525
+yn_08oct08_file_16	baking powder	3018	baking powder	0.39700067
+13oct08amithealth5.txt	samastipur	4783	samastipur district	0.39674872
+13oct08amithealth1.txt	glycogen	1471	glycogen	0.39643753
+13oct08amithealth7.txt	polio	3548	poliomyelitis	0.39632678
+13oct08amithealth4.txt	green tea	1211	green tea	0.39624542
+13oct08amittech16.txt	gnss	1261	satellite navigation	0.3962316
+13oct08amithealth20.txt	opioids	811	opioid	0.39614743
+yn_08oct08_file_19	twin ports	186	twin ports	0.39583334
+yn_08oct08_file_28	iraq	6917	iraq war	0.39583084
+yn_08oct08_file_27	iraq	6312	iraq war	0.39583084
+13oct08amittech26.txt	illumina	3124	illumina (company)	0.39577317
+13oct08amittech23.txt	t-mobile	2049	t-mobile	0.3956459
+13oct08amitsport7.txt	japanese grand prix	106	japanese grand prix	0.3956051
+yn_08oct08_file_9	nasdaq	8	nasdaq	0.39538634
+13oct08amithealth17.txt	new york city	3996	new york city	0.39538303
+13oct08amitsport19.txt	us open	364	us open (tennis)	0.39533883
+yn_08oct08_file_21	oasis	5526	oasis (band)	0.3952942
+13oct08amithealth14.txt	egypt	2174	ancient egypt	0.39526793
+13oct08amittech5.txt	gecko	1540	gecko	0.39515683
+yn_08oct08_file_33	germany	4123	germany	0.3950957
+ganeshtestdoc.txt	india	165	india	0.3945688
+13oct08amithealth7.txt	u.s. public health service	4872	united states public health service	0.3943448
+13oct08amitsport6.txt	japanese grand prix	132	2008 japanese grand prix	0.3942929
+13oct08amithealth18.txt	immune system	4147	immune system	0.39406776
+13oct08amithealth20.txt	spinal cord	1018	spinal cord	0.39404178
+yn_08oct08_file_39	bahamas	773	the bahamas	0.39399165
+13oct08amithealth16.txt	protein	1155	protein	0.3939342
+13oct08amittech8.txt	russia	681	russian empire	0.39380935
+13oct08amittech3.txt	astronaut	963	astronaut	0.39380157
+yn_08oct08_file_16	baking soda	2989	sodium bicarbonate	0.3937751
+yn_08oct08_file_21	british invasion	3772	british invasion	0.3935294
+13oct08amithealth18.txt	marijuana	5609	cannabis (drug)	0.39341235
+13oct08amittech25.txt	malware	2902	malware	0.39321917
+13oct08amittech26.txt	illumina	3866	illumina (company)	0.39312553
+13oct08amittech23.txt	instant messenger	1594	instant messaging	0.3930008
+13oct08amittech14.txt	thermoelectric modules	4346	thermoelectric generator	0.39277634
+13oct08amithealth21.txt	iodine	2906	iodine	0.3926262
+13oct08amittech8.txt	natural gas	1705	natural gas	0.3925493
+yn_08oct08_file_15	yahoo! inc	1238	yahoo!	0.3923782
+yn_08oct08_file_20	candlewick press	1368	candlewick press	0.3923611
+yn_08oct08_file_18	merrill lynch & co	2161	merrill lynch	0.39219657
+13oct08amithealth5.txt	sand fly	874	sandfly	0.39213806
+yn_08oct08_file_33	switzerland	3931	switzerland	0.39196783
+13oct08amithealth18.txt	marijuana	2061	cannabis (drug)	0.39190036
+yn_08oct08_file_16	cornmeal	2215	cornmeal	0.39180002
+13oct08amithealth6.txt	yoga sutras	3262	yoga sutras of patanjali	0.39163214
+yn_08oct08_file_24	godinez	213	alejandro de la fuente godínez	0.39130434
+13oct08amithealth5.txt	ddt	4487	ddt	0.3912809
+13oct08amithealth15.txt	ucla	1596	university of california, los angeles	0.39108086
+yn_08oct08_file_11	localiza	1081	localiza	0.390785
+13oct08amittech26.txt	human genetic variation	5113	human genetic variation	0.3903531
+13oct08amithealth21.txt	colon cancer	377	colorectal cancer	0.39027792
+13oct08amithealth18.txt	thc	6442	tetrahydrocannabinol	0.38997254
+13oct08amithealth18.txt	marijuana	6474	cannabis (drug)	0.3897578
+13oct08amithealth7.txt	polio virus	5598	poliomyelitis	0.38975438
+13oct08amittech14.txt	thermoelectric modules	2027	thermoelectric generator	0.38948184
+yn_08oct08_file_23	ojibway	3744	ojibwe language	0.38939932
+13oct08amittech26.txt	next generation\" sequencing	2829	dna sequencing	0.38931727
+yn_08oct08_file_13	commercial paper	4854	commercial paper	0.38900045
+13oct08amittech8.txt	chris moreno	1313	chris moreno	0.3888889
+yn_08oct08_file_34	bahamas	227	the bahamas	0.3888268
+yn_08oct08_file_13	reuters	1712	reuters	0.38862318
+13oct08amittech22.txt	hydrophilic	2501	hydrophile	0.38859323
+yn_08oct08_file_33	italy	4242	italy	0.38851568
+13oct08amittech8.txt	horizontal drilling	1657	directional drilling	0.38827485
+13oct08amittech15.txt	intel	3237	intel	0.38824984
+ganeshtestdoc.txt	batsman	505	batting (cricket)	0.388223
+13oct08amitsport10.txt	tianjin	1348	tianjin	0.38784617
+13oct08amithealth9.txt	antibodies	794	antibody	0.38778466
+13oct08amitsport3.txt	midfielder	1090	midfielder	0.38773516
+yn_08oct08_file_21	white album	6263	the beatles (album)	0.38764453
+13oct08amithealth16.txt	farnesyltransferase	2009	farnesyltransferase	0.38762936
+yn_08oct08_file_13	reuters	4082	reuters	0.3876101
+13oct08amitsport17.txt	bbc sport	2622	bbc sport	0.38757193
+13oct08amithealth2.txt	percent daily values	3491	dietary reference intake	0.38755
+13oct08_buss_file_10.txt	credit crunch	399	great recession	0.38736588
+13oct08amittech23.txt	android market	3848	google play	0.38724762
+13oct08amithealth18.txt	marijuana	7059	cannabis (drug)	0.38683748
+13oct08amittech15.txt	intel	2451	intel	0.3868256
+13oct08amittech25.txt	operating system	1706	operating system	0.3867794
+yn_08oct08_file_27	u.s. house of representatives	471	united states house of representatives	0.38677007
+13oct08amittech12.txt	chromosome 21	2066	chromosome 21 (human)	0.38641882
+13oct08amithealth7.txt	polio	1641	poliomyelitis	0.38610244
+yn_08oct08_file_0	reuters	1352	reuters	0.38572094
+13oct08amithealth5.txt	kala-azar	991	visceral leishmaniasis	0.38557634
+13oct08amithealth18.txt	immune system	6330	immune system	0.38557446
+13oct08amittech23.txt	microsoft	2865	microsoft	0.3855532
+yn_08oct08_file_12	yahoo! inc	5476	yahoo!	0.38519746
+yn_08oct08_file_28	gram flour	2935	gram flour	0.38519168
+13oct08amittech23.txt	operating system	173	operating system	0.3850972
+yn_08oct08_file_11	reuters	699	reuters	0.3850957
+13oct08amittech22.txt	desalination	1725	desalination	0.38492543
+13oct08amittech2.txt	itunes	2684	itunes	0.3846988
+13oct08amithealth18.txt	immune system	4785	immune system	0.38462922
+13oct08amittech16.txt	gps	3243	global positioning system	0.3845889
+13oct08amitsport4.txt	oslo	436	oslo	0.38446572
+13oct08amithealth1.txt	protein	6066	protein	0.38409084
+13oct08amitsport6.txt	mclaren	316	mclaren	0.38402572
+yn_08oct08_file_36	republican	2148	republican party (united states)	0.38398933
+yn_08oct08_file_21	troubadour	3206	troubadour	0.38397044
+13oct08amitsport2.txt	cricket	1941	cricket	0.3837031
+13oct08amittech2.txt	os x	1894	macos	0.38331908
+13oct08amittech18.txt	fluoresce	3525	fluorescence	0.38318282
+13oct08amithealth9.txt	thailand	179	thailand	0.38304985
+13oct08amithealth17.txt	stockholm	2762	stockholm	0.38273907
+13oct08amithealth4.txt	cholesterol	3232	cholesterol	0.38267
+13oct08amitsport11.txt	asian tour	481	asian tour	0.38262436
+13oct08amithealth6.txt	dementia	4819	dementia	0.38244647
+yn_08oct08_file_33	france	4223	france	0.3824017
+13oct08amittech3.txt	spacelab 1	1481	sts-9	0.38239038
+13oct08amittech12.txt	fetus	2040	fetus	0.38232535
+13oct08amitsport5.txt	spain	1859	spain national football team	0.382178
+yn_08oct08_file_23	french canadian	3381	french canadians	0.38196954
+13oct08amithealth21.txt	gastroenterology	2354	gastroenterology	0.38194996
+yn_08oct08_file_33	hong kong	328	hong kong	0.3817156
+13oct08amithealth1.txt	insulin	2271	insulin	0.38153562
+yn_08oct08_file_5	new york city	1138	new york city	0.38152993
+13oct08amittech18.txt	biochemistry	3164	biochemistry	0.38106066
+13oct08amithealth14.txt	black widow	64	latrodectus	0.381023
+13oct08amittech16.txt	gps	1339	global positioning system	0.38070995
+yn_08oct08_file_12	wells fargo	3728	wells fargo	0.38041365
+yn_08oct08_file_23	metis	3330	métis in canada	0.37980554
+13oct08amithealth5.txt	kala-azar	4678	visceral leishmaniasis	0.3795398
+13oct08amithealth17.txt	fungi	5479	fungus	0.37944746
+yn_08oct08_file_4	budapest	538	budapest	0.37918976
+13oct08amitsport4.txt	oslo	993	oslo	0.37885267
+13oct08amithealth5.txt	kala-azar	6878	visceral leishmaniasis	0.37870404
+13oct08amittech18.txt	protein	2668	protein	0.37857324
+13oct08amittech26.txt	infectious disease	5952	infection	0.3782583
+yn_08oct08_file_5	jordan	797	jordan	0.37799978
+yn_08oct08_file_40	united states congress	104	united states congress	0.37795007
+13oct08amithealth6.txt	yoga	802	yoga	0.37784928
+13oct08_buss_file_10.txt	credit crunch	2115	financial crisis of 2007–2008	0.3776639
+yn_08oct08_file_2	taliban -led insurgency	796	taliban insurgency	0.37696248
+yn_08oct08_file_28	reuters	173	reuters	0.37678754
+yn_08oct08_file_27	mark wilson	171	united states senate election in washington, 2006	0.37650815
+yn_08oct08_file_4	afghanistan	1053	war in afghanistan (2001–2014)	0.37614417
+13oct08amittech16.txt	geodesy	2801	geodesy	0.3758964
+yn_08oct08_file_13	aig	2892	american international group	0.37586048
+13oct08amithealth18.txt	heroin	5632	heroin	0.37575185
+13oct08amithealth7.txt	polio	256	poliomyelitis	0.37574762
+yn_08oct08_file_21	oasis	5830	oasis (band)	0.37570935
+13oct08amithealth4.txt	cholesterol	165	cholesterol	0.37562948
+13oct08amithealth18.txt	marijuana	4671	cannabis (drug)	0.37556267
+yn_08oct08_file_28	intelligence bureau of pakistan	1696	intelligence bureau (pakistan)	0.37555334
+13oct08amithealth4.txt	apob	444	apolipoprotein b	0.37551373
+13oct08amithealth5.txt	hutment	462	shanty town	0.3754393
+yn_08oct08_file_13	global financial crisis	4646	financial crisis of 2007–2008	0.37530357
+13oct08amithealth5.txt	kala-azar	4279	visceral leishmaniasis	0.37527156
+13oct08amittech16.txt	gps	1339	global positioning system	0.375193
+13oct08amittech24.txt	protein	403	protein	0.37501222
+13oct08amittech25.txt	digital guardian	4299	digital guardian	0.375
+13oct08amittech14.txt	gmz	4225	gmz	0.375
+13oct08amithealth4.txt	nwe	3134	khin moe nwe	0.375
+13oct08amithealth16.txt	protein	1623	protein	0.37482494
+13oct08amitsport19.txt	stockholm	3897	stockholm	0.37460318
+13oct08amithealth14.txt	venom	573	venom	0.37450588
+13oct08amithealth2.txt	protein	2559	protein	0.3744903
+13oct08amithealth16.txt	protein	2212	protein	0.37437722
+13oct08amithealth17.txt	throat cancer	3695	head and neck cancer	0.37428433
+13oct08amittech19.txt	biopsy	382	biopsy	0.37421477
+13oct08amittech22.txt	desalination	1425	desalination	0.37410003
+yn_08oct08_file_15	ibm	71	ibm	0.37402463
+13oct08amittech25.txt	operating system	2711	operating system	0.3740194
+13oct08amitsport14.txt	striker	2741	forward (association football)	0.37396842
+yn_08oct08_file_21	oasis	6090	oasis (band)	0.37390107
+13oct08amithealth17.txt	genital warts	2855	genital wart	0.37309608
+13oct08amitsport2.txt	australia	2267	australia national cricket team	0.3728069
+13oct08amittech5.txt	polymer	2548	polymer	0.37264538
+13oct08amitsport20.txt	rbi	856	run batted in	0.3723832
+13oct08amithealth3.txt	inflammation	633	inflammation	0.37236753
+yn_08oct08_file_33	india	3109	india	0.3723475
+13oct08amittech2.txt	all-in-one computer	1508	desktop computer	0.3723011
+13oct08amittech19.txt	pluripotent	3605	cell potency	0.37218583
+yn_08oct08_file_13	leviathan	3567	leviathan gas field	0.37213278
+13oct08_buss_file_10.txt	credit crunch	739	great recession	0.37211248
+yn_08oct08_file_8	taliban-led insurgency	848	taliban insurgency	0.37181562
+yn_08oct08_file_13	aig	717	american international group	0.3717926
+13oct08amithealth18.txt	marijuana	4265	cannabis (drug)	0.3717483
+13oct08amittech18.txt	gfp	3302	green fluorescent protein	0.3717444
+13oct08amittech8.txt	hydrofracturing	1847	hydraulic fracturing	0.37171102
+13oct08amittech9.txt	lithium-ion batteries	2213	lithium-ion battery	0.3716392
+13oct08amittech7.txt	yahoo	2732	yahoo!	0.37147498
+13oct08amithealth6.txt	diabetes	5713	diabetes mellitus	0.3714
+yn_08oct08_file_13	forbes	109	forbes	0.3712579
+yn_08oct08_file_34	cdt	5141	central time zone	0.37090215
+13oct08amittech17.txt	dna sequence	2062	nucleic acid sequence	0.37090155
+yn_08oct08_file_6	united nations	3645	united nations	0.37061346
+13oct08amittech23.txt	android market	3848	google play	0.37056667
+13oct08amithealth8.txt	antibodies	1613	antibody	0.37052083
+13oct08amithealth4.txt	tooth decay	2546	dental caries	0.37046272
+yn_08oct08_file_33	australia	4006	australia	0.37040004
+yn_08oct08_file_34	lung cancer	2196	lung cancer	0.37015796
+yn_08oct08_file_36	alaska	1932	alaska	0.36997083
+13oct08amithealth12.txt	raw foods diet	7463	raw foodism	0.3698658
+13oct08amithealth12.txt	diabetes	6622	diabetes mellitus	0.36952752
+13oct08amittech24.txt	neurotech	272	neurotechnology	0.3693666
+13oct08amittech5.txt	polymer	2057	polymer	0.36928076
+13oct08amithealth5.txt	kala-azar	5751	visceral leishmaniasis	0.36909652
+13oct08amithealth18.txt	liver	4459	liver	0.36903313
+13oct08amitsport15.txt	wimbledon	1682	wimbledon f.c.	0.3688383
+yn_08oct08_file_34	lung cancer	4830	lung cancer	0.36875543
+13oct08amittech24.txt	amd	1413	advanced micro devices	0.3683833
+yn_08oct08_file_28	wasilla	6488	wasilla, alaska	0.3683029
+yn_08oct08_file_27	wasilla	5883	wasilla, alaska	0.3683029
+13oct08amittech7.txt	facebook	1509	facebook	0.3682992
+13oct08amittech12.txt	fetus	1812	fetus	0.36827478
+13oct08amithealth18.txt	marijuana	2781	cannabis (drug)	0.3680334
+yn_08oct08_file_36	republican	1129	republican party (united states)	0.36797917
+13oct08amittech3.txt	space adventures, ltd	251	space adventures	0.36774752
+13oct08amitsport19.txt	stockholm	1218	stockholm	0.36774266
+13oct08amithealth12.txt	bacteria	2403	bacteria	0.367721
+13oct08amithealth17.txt	hiv	6528	hiv	0.36754632
+13oct08amitsport2.txt	the city	177	carole king	0.36746952
+13oct08amittech16.txt	gps	3732	global positioning system	0.36738697
+13oct08amittech8.txt	natural gas	1447	natural gas	0.36731935
+yn_08oct08_file_33	china	4297	china	0.36729282
+yn_08oct08_file_30	afghan mujahideen	2780	mujahideen	0.3671531
+yn_08oct08_file_5	jamestown	1315	jamestown, new york	0.36708677
+13oct08amithealth6.txt	yoga	1565	yoga	0.36705709
+13oct08amithealth20.txt	slow food	4056	slow food	0.36705703
+13oct08amitsport10.txt	beijing	341	beijing	0.36700505
+yn_08oct08_file_6	united nations	3242	united nations	0.36664432
+13oct08amittech3.txt	farsightedness	4935	far-sightedness	0.36663097
+13oct08amittech17.txt	u.s. food and drug administration	275	food and drug administration	0.36662623
+13oct08amittech16.txt	satellite navigation	10	global positioning system	0.3665429
+13oct08amithealth11.txt	primary hiv infection	685	signs and symptoms of hiv/aids	0.36645547
+yn_08oct08_file_21	oasis	6276	oasis (band)	0.36638877
+13oct08amithealth18.txt	marijuana	968	cannabis (drug)	0.36635625
+13oct08amittech5.txt	carbon nanotubes	3769	carbon nanotube	0.36634278
+13oct08amittech21.txt	computer scientist	4235	computer science	0.3662734
+yn_08oct08_file_8	nyx	1467	house of night	0.36603773
+13oct08amithealth20.txt	broccoli	3254	broccoli	0.36596757
+13oct08amithealth18.txt	marijuana	3809	cannabis (drug)	0.36565387
+13oct08amittech19.txt	induced pluripotent stem cells	1737	induced pluripotent stem cell	0.3654534
+13oct08amittech8.txt	liquid natural gas	4926	liquefied natural gas	0.36510152
+13oct08amithealth2.txt	protein	2753	protein	0.36505485
+13oct08amithealth4.txt	cholesterol	349	cholesterol	0.3648686
+13oct08amitsport14.txt	france	2982	france national football team	0.36483574
+13oct08amithealth15.txt	depressed mood	1758	depression (mood)	0.3647277
+yn_08oct08_file_30	slimbridge	209	slimbridge a.f.c.	0.36470178
+13oct08amittech18.txt	bacteria	1429	bacteria	0.3646592
+13oct08amithealth3.txt	cartilage	1089	cartilage	0.3645146
+13oct08amithealth2.txt	protein	1741	protein	0.3644699
+13oct08amittech13.txt	polymer	1549	polymer	0.3644671
+13oct08amittech18.txt	protein	3627	protein	0.36422473
+13oct08amithealth14.txt	cone snail venom	329	conus	0.3642167
+yn_08oct08_file_11	fresnillo	2265	fresnillo	0.36408615
+yn_08oct08_file_13	forbes.com	295	forbes	0.36407945
+13oct08amithealth12.txt	insulin	4038	insulin	0.36394677
+13oct08amittech4.txt	blu-ray	1812	blu-ray	0.36390817
+13oct08amitsport14.txt	midfielder	1895	midfielder	0.3636625
+yn_08oct08_file_16	salt pork	2638	salt pork	0.36357144
+13oct08amittech5.txt	carbon nanotubes	1667	carbon nanotube	0.36347955
+yn_08oct08_file_31	crevasse	7684	crevasse	0.3634744
+13oct08amittech24.txt	neurotech	2542	neurotechnology	0.3632285
+13oct08amittech5.txt	carbon nanotubes	3328	carbon nanotube	0.36311775
+yn_08oct08_file_30	slimbridge	773	slimbridge a.f.c.	0.3629299
+13oct08amithealth17.txt	autoimmunity	5508	autoimmunity	0.36268842
+13oct08amithealth18.txt	marijuana	5162	cannabis (drug)	0.36234757
+13oct08amittech17.txt	influenza	633	influenza	0.36233228
+13oct08amittech2.txt	os x	3046	macos	0.36224046
+13oct08amittech24.txt	neurotech	4361	neurotechnology	0.3622154
+13oct08amithealth7.txt	polio	0	poliomyelitis	0.3621889
+13oct08amithealth4.txt	green tea	581	green tea	0.3621285
+13oct08amithealth9.txt	thailand	1950	thailand	0.36211497
+13oct08amithealth7.txt	spinal taps	1104	lumbar puncture	0.3619012
+yn_08oct08_file_34	breast cancer	4392	breast cancer	0.36175293
+13oct08amitsport1.txt	australia	287	australia national cricket team	0.36163908
+13oct08amithealth18.txt	marijuana	16	cannabis (drug)	0.3612983
+13oct08amittech5.txt	solder	3961	solder	0.36120915
+13oct08amittech7.txt	apartment hunting	1346	apartment hunting	0.3611111
+13oct08amittech3.txt	laser surgery	4855	laser surgery	0.36101922
+13oct08amithealth4.txt	cholesterol	711	cholesterol	0.36093748
+yn_08oct08_file_23	graphic novel	1890	graphic novel	0.36085126
+13oct08amittech3.txt	immune system	5453	immune system	0.36070234
+yn_08oct08_file_13	forbes	2880	forbes	0.36035407
+yn_08oct08_file_29	oxford street	708	oxford street	0.36028022
+13oct08amittech12.txt	chromosome 18	1166	chromosome 18 (human)	0.36021516
+yn_08oct08_file_12	wells fargo	3006	wells fargo	0.3601898
+yn_08oct08_file_27	iraq	2489	iraq war	0.36014283
+13oct08amitsport10.txt	chinese taipei	520	taiwan	0.36009327
+13oct08amitsport13.txt	catcher	462	catcher	0.36008662
+13oct08amithealth17.txt	hiv	5080	hiv	0.36006808
+13oct08amittech21.txt	microsoft	2570	microsoft	0.35999888
+yn_08oct08_file_23	graphic novel	2323	graphic novel	0.35979292
+13oct08amithealth1.txt	protein	3361	protein	0.3596838
+yn_08oct08_file_23	graphic novel	1163	graphic novel	0.35965782
+13oct08amithealth16.txt	mutation	2648	mutation	0.35958612
+13oct08amithealth7.txt	polio	4255	poliomyelitis	0.35951754
+13oct08amitsport17.txt	kickboxing	4460	kickboxing	0.359267
+13oct08amithealth5.txt	india	1014	india	0.35912097
+13oct08amithealth12.txt	raw foods diet	7231	raw foodism	0.35893825
+13oct08amithealth18.txt	blood pressure	3503	blood pressure	0.35890996
+13oct08amithealth16.txt	protein	4160	protein	0.3588704
+13oct08amithealth20.txt	osmosis	1869	osmosis	0.3588395
+13oct08amithealth11.txt	gene	1166	gene	0.35883063
+yn_08oct08_file_12	wells fargo	2790	wells fargo	0.35852367
+13oct08amittech8.txt	hydrocarbon	3584	hydrocarbon	0.3583401
+yn_08oct08_file_6	taliban government	2330	taliban	0.35796797
+yn_08oct08_file_6	polio	3064	poliomyelitis	0.35757607
+13oct08amittech14.txt	thermoelectric materials	3860	thermoelectric effect	0.3575559
+13oct08amittech3.txt	astronaut	110	astronaut	0.35752633
+13oct08amithealth14.txt	scorpion	2120	scorpion	0.35713324
+yn_08oct08_file_21	oasis	437	oasis (band)	0.3571177
+13oct08amithealth6.txt	yoga	2328	yoga	0.35681164
+13oct08amithealth20.txt	over-the-counter	1546	over-the-counter drug	0.3567483
+13oct08amittech11.txt	computer engineering	2636	computer engineering	0.35649693
+yn_08oct08_file_6	islamist	1352	islamism	0.35649467
+13oct08amithealth18.txt	reproductive system	3835	reproductive system	0.35642326
+13oct08amittech18.txt	jellyfish	146	jellyfish	0.3561985
+13oct08amittech24.txt	steroid	2455	corticosteroid	0.35619745
+13oct08amithealth14.txt	venom	1127	venom	0.35608673
+13oct08amittech7.txt	yahoo	393	yahoo!	0.35589868
+yn_08oct08_file_33	mexico	4260	mexico	0.35579967
+13oct08amittech8.txt	natural gas	4153	natural gas	0.3557641
+13oct08amithealth20.txt	stimulant laxatives	1600	laxative	0.3555285
+13oct08amittech18.txt	protein	156	protein	0.35549888
+13oct08amittech18.txt	protein	3932	protein	0.35544267
+13oct08amithealth18.txt	marijuana	3480	cannabis (drug)	0.35520783
+yn_08oct08_file_23	starphoenix	486	the starphoenix	0.355179
+13oct08amithealth14.txt	venom	2146	venom	0.35500008
+13oct08amittech16.txt	gps	2902	global positioning system	0.35492933
+yn_08oct08_file_9	nasdaq.com	8	nasdaq	0.35479635
+13oct08amithealth21.txt	colon cancer	1	colorectal cancer	0.35453397
+yn_08oct08_file_31	beckoning silence	2025	the beckoning silence	0.35441226
+13oct08amithealth12.txt	insulin	991	insulin	0.35422176
+13oct08amithealth12.txt	insulin	7668	insulin	0.35413697
+13oct08amithealth8.txt	malignancy	725	cancer	0.3539492
+13oct08amitsport5.txt	germany	1869	germany national football team	0.35387823
+13oct08amittech8.txt	natural gas	4699	natural gas	0.35379088
+13oct08amitsport3.txt	minsk	792	minsk	0.35367754
+13oct08amitsport10.txt	i'm so tired	1753	i'm so tired	0.35365853
+yn_08oct08_file_19	tugboat	1495	tugboat	0.35356385
+13oct08amitsport18.txt	beijing	212	beijing	0.35333547
+13oct08amithealth18.txt	marijuana	184	cannabis (drug)	0.35330847
+yn_08oct08_file_3	taliban-led insurgency	521	taliban insurgency	0.35302198
+13oct08amittech12.txt	miscarriage	1771	miscarriage	0.3526924
+13oct08amittech13.txt	gps	686	global positioning system	0.35267264
+13oct08amittech19.txt	bone marrow	5120	bone marrow	0.35259253
+13oct08amittech24.txt	amd	1158	advanced micro devices	0.3525338
+13oct08amittech5.txt	carbon nanotubes	988	carbon nanotube	0.35236287
+13oct08amithealth18.txt	marijuana	2419	cannabis (drug)	0.35234392
+13oct08amithealth17.txt	hiv	5887	hiv	0.35216925
+13oct08amithealth17.txt	hpv	2118	human papillomavirus infection	0.35188478
+yn_08oct08_file_21	oasis	141	oasis (band)	0.3517127
+13oct08amitsport1.txt	india	2669	india	0.3517094
+13oct08amithealth2.txt	amino acids	3036	amino acid	0.3515351
+13oct08amitsport19.txt	stockholm	92	stockholm	0.3513748
+13oct08amithealth11.txt	hiv	157	hiv	0.35122958
+13oct08amittech24.txt	neurotech	804	neurotechnology	0.3509903
+yn_08oct08_file_23	saskatchewan	2349	saskatchewan	0.35097563
+13oct08amittech17.txt	influenza	145	influenza a virus	0.35088205
+yn_08oct08_file_23	metis	1366	métis in canada	0.35067445
+13oct08amittech26.txt	geneticist	4991	genetics	0.3506199
+13oct08amittech17.txt	vaccine	1608	vaccine	0.35060626
+13oct08amithealth11.txt	primary hiv infection	685	signs and symptoms of hiv/aids	0.35031956
+13oct08amittech12.txt	chromosome 21	682	chromosome 21 (human)	0.35019183
+yn_08oct08_file_24	painkiller	1168	analgesic	0.35011417
+13oct08amitsport5.txt	footballer	1448	association football	0.34999815
+yn_08oct08_file_13	forbes	611	forbes	0.34967893
+13oct08amittech21.txt	spam	815	spamming	0.34966838
+13oct08amithealth20.txt	squash	3246	cucurbita	0.3496117
+13oct08amitsport10.txt	beijing	966	beijing	0.34960297
+13oct08amithealth12.txt	diabetes	3147	diabetes mellitus	0.3495632
+13oct08amithealth17.txt	genome	6103	genome	0.34926677
+13oct08amittech20.txt	cobalt	702	cobalt	0.3491043
+13oct08_buss_file_11.txt	structured finance	1175	structured finance	0.34897783
+13oct08amittech24.txt	dry amd	1409	macular degeneration	0.34883332
+13oct08amithealth14.txt	neurobiologist	1882	neuroscience	0.3485977
+13oct08amitsport5.txt	this time next year	133	this time next year (australian tv series)	0.34848484
+13oct08amithealth11.txt	nk cells	1499	natural killer cell	0.34844732
+13oct08amitsport14.txt	minsk	438	minsk	0.34822625
+yn_08oct08_file_23	metis	777	métis in canada	0.34822515
+13oct08amithealth21.txt	biomedical engineering	1761	biomedical engineering	0.3478731
+13oct08amithealth18.txt	thc	5067	tetrahydrocannabinol	0.3478487
+13oct08amittech21.txt	spam	4778	spamming	0.34772876
+13oct08amittech24.txt	neurotech	2103	neurotechnology	0.34771922
+13oct08amithealth5.txt	sand flies	4548	sandfly	0.34758452
+13oct08amithealth2.txt	fahrenheit	656	fahrenheit	0.34742108
+13oct08amittech12.txt	fetus	2775	fetus	0.34739065
+13oct08amitsport1.txt	india	0	india	0.34733996
+13oct08amithealth17.txt	hpv	4489	human papillomavirus infection	0.34695226
+13oct08amittech12.txt	fetus	354	fetus	0.34680152
+13oct08amitsport10.txt	chinese taipei	2811	taiwan	0.34663144
+13oct08amittech8.txt	liquid natural gas	5229	liquefied natural gas	0.34657297
+13oct08amithealth11.txt	hiv	1338	hiv	0.34633175
+yn_08oct08_file_19	transformer	4979	transformer	0.34624556
+13oct08amithealth17.txt	hiv	1198	hiv	0.34618467
+13oct08amithealth15.txt	psychiatric disorder	4197	mental disorder	0.34614545
+13oct08amithealth1.txt	protein	3126	protein	0.34610698
+13oct08amittech8.txt	haynesville	1943	haynesville shale	0.34610578
+yn_08oct08_file_13	forbes	109	forbes	0.34599453
+13oct08amitsport5.txt	portugal	359	portugal national football team	0.34588492
+13oct08amittech16.txt	gps	514	global positioning system	0.3455221
+13oct08amithealth20.txt	laxatives	1829	laxative	0.34545407
+13oct08amithealth14.txt	venom	914	venom	0.34539026
+13oct08amitsport4.txt	macedonia	353	macedonia national football team	0.34538674
+13oct08amithealth4.txt	bacteria	2570	bacteria	0.34530145
+13oct08amittech8.txt	haynesville	2778	haynesville shale	0.34519467
+13oct08amitsport4.txt	scotland	1195	scotland national football team	0.3451643
+13oct08amitsport4.txt	oslo	1565	oslo	0.3451572
+13oct08amittech8.txt	suv	4390	sport utility vehicle	0.34510517
+13oct08amittech24.txt	protein	4815	protein	0.34498554
+13oct08amittech19.txt	testis	716	testicle	0.3449661
+yn_08oct08_file_33	new zealand	423	new zealand	0.34490204
+13oct08amittech21.txt	palo alto research center	2492	parc (company)	0.34467182
+yn_08oct08_file_30	dursley	3221	dursley	0.3445707
+yn_08oct08_file_19	air pollution	1265	air pollution	0.34442854
+13oct08amitsport11.txt	singapore masters	1833	singapore masters	0.34435
+13oct08amithealth4.txt	polyphenols	2061	polyphenol	0.3442799
+13oct08amithealth7.txt	antibodies	5677	antibody	0.343993
+yn_08oct08_file_21	red river shore	1321	red river shore	0.34375
+yn_08oct08_file_12	consumer lending	4343	credit (finance)	0.34357512
+yn_08oct08_file_23	graphic novel	551	graphic novel	0.34303078

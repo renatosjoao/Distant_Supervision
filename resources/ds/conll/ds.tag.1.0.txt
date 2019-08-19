@@ -1,0 +1,284 @@
+-docstart- (1165testb soccer)	motohiro yamaguchi	1376	motohiro yamaguchi	0.9470556
+-docstart- (653 rugby)	josh kronfeld	1185	josh kronfeld	0.945885
+-docstart- (1380testb soccer)	kim joo sung	1977	kim joo-sung	0.9448214
+-docstart- (1380testb soccer)	yoo sang chul	1956	yoo sang-chul	0.9431429
+-docstart- (1165testb soccer)	masakiyo maezono	1400	masakiyo maezono	0.9418278
+-docstart- (653 rugby)	zinzan brooke	1166	zinzan brooke	0.941565
+-docstart- (653 rugby)	andrew mehrtens	1123	andrew mehrtens	0.941375
+-docstart- (1073testa rugby)	josh kronfeld	3408	josh kronfeld	0.937255
+-docstart- (1381testb soccer)	maccabi petah tikva	659	maccabi petah tikva f.c.	0.93659997
+-docstart- (1380testb soccer)	hwang sun hong	1913	hwang sun-hong	0.93613577
+-docstart- (1073testa rugby)	zinzan brooke	3389	zinzan brooke	0.93568003
+-docstart- (447 cricket)	guy whittall	480	guy whittall	0.9347
+-docstart- (1165testb soccer)	yasuto honda	1423	yasuto honda	0.9339889
+-docstart- (1073testa rugby)	andrew mehrtens	3346	andrew mehrtens	0.932945
+-docstart- (1164testb rugby)	massimo giovanelli	1238	massimo giovanelli	0.9326137
+-docstart- (525 cricket)	graham thorpe	414	graham thorpe	0.930975
+-docstart- (1369testb soccer)	stenhousemuir	924	stenhousemuir f.c.	0.9306084
+-docstart- (1193testb soccer)	willem ii tilburg	645	willem ii (football club)	0.929805
+-docstart- (38 cricket)	ijaz ahmed	770	ijaz ahmed (cricketer, born 1968)	0.9285333
+-docstart- (359 soccer)	msv duisburg	742	msv duisburg	0.9282583
+-docstart- (1193testb soccer)	nec nijmegen	773	n.e.c. (football club)	0.92745
+-docstart- (341 soccer)	f.c. national bucharest	374	fc progresul bucurești	0.92706
+-docstart- (359 soccer)	arminia bielefeld	620	arminia bielefeld	0.9269625
+-docstart- (38 cricket)	saeed anwar	757	saeed anwar	0.92686
+-docstart- (368 soccer)	willem ii tilburg	900	willem ii (football club)	0.92666996
+-docstart- (1164testb rugby)	orazio arancio	1206	orazio arancio	0.92647
+-docstart- (540 soccer)	msv duisburg	820	msv duisburg	0.9262346
+-docstart- (1073testa rugby)	frank bunce	3308	frank bunce	0.92588
+-docstart- (1194testb soccer)	sc freiburg	895	sc freiburg	0.9257111
+-docstart- (38 cricket)	inzamam-ul-haq	782	inzamam-ul-haq	0.9254888
+-docstart- (274 soccer)	msv duisburg	990	msv duisburg	0.9254792
+-docstart- (1164testb rugby)	carlo checchinato	1258	carlo checchinato	0.92531824
+-docstart- (1194testb soccer)	arminia bielefeld	780	arminia bielefeld	0.92527777
+-docstart- (1194testb soccer)	werder bremen	585	sv werder bremen	0.92514086
+-docstart- (1194testb soccer)	msv duisburg	617	msv duisburg	0.92512727
+-docstart- (540 soccer)	fortuna duesseldorf	662	fortuna düsseldorf	0.92503464
+-docstart- (359 soccer)	fortuna duesseldorf	558	fortuna düsseldorf	0.9250346
+-docstart- (808 cricket)	moin khan	511	moin khan	0.9249958
+-docstart- (1194testb soccer)	1. fc cologne	524	1. fc köln	0.92477727
+-docstart- (540 soccer)	arminia bielefeld	748	arminia bielefeld	0.92443466
+-docstart- (368 soccer)	sparta rotterdam	869	sparta rotterdam	0.92431
+-docstart- (368 soccer)	nec nijmegen	1004	n.e.c. (football club)	0.92430997
+-docstart- (416 soccer)	stenhousemuir	1351	stenhousemuir f.c.	0.92428887
+-docstart- (1193testb soccer)	nac breda	617	nac breda	0.9242455
+-docstart- (1380testb soccer)	lee young jin	1935	lee young-jin (footballer, born 1963)	0.9240857
+-docstart- (274 soccer)	fortuna duesseldorf	806	fortuna düsseldorf	0.9240166
+-docstart- (416 soccer)	stranraer	1367	stranraer f.c.	0.92393947
+-docstart- (416 soccer)	cowdenbeath	1413	cowdenbeath f.c.	0.9238765
+-docstart- (1193testb soccer)	rkc waalwijk	804	rkc waalwijk	0.92373
+-docstart- (1193testb soccer)	sparta rotterdam	581	sparta rotterdam	0.9237045
+-docstart- (274 soccer)	arminia bielefeld	868	arminia bielefeld	0.9236958
+-docstart- (341 soccer)	gloria bistrita	1092	af gloria bistrița	0.923535
+-docstart- (1194testb soccer)	fortuna dusseldorf	712	fortuna düsseldorf	0.923525
+-docstart- (540 soccer)	borussia moenchengladbach	780	borussia mönchengladbach	0.9232269
+-docstart- (359 soccer)	borussia moenchengladbach	652	borussia mönchengladbach	0.92271245
+-docstart- (1194testb soccer)	fc st. pauli	681	fc st. pauli	0.9224334
+-docstart- (660 soccer)	hapoel jerusalem	218	hapoel jerusalem f.c.	0.9224143
+-docstart- (341 soccer)	f.c. brasov	1065	fc brașov	0.92216504
+-docstart- (653 rugby)	justin marshall	1144	justin marshall	0.92215
+-docstart- (272 soccer)	roda jc kerkrade	647	roda jc kerkrade	0.9220625
+-docstart- (1392testb soccer)	real sociedad	434	real sociedad	0.9219964
+-docstart- (272 soccer)	willem ii tilburg	783	willem ii (football club)	0.9219273
+-docstart- (429 soccer)	atletico mineiro	730	clube atlético mineiro	0.921175
+-docstart- (824 soccer)	willem ii tilburg	980	willem ii (football club)	0.92103636
+-docstart- (540 soccer)	werder bremen	586	sv werder bremen	0.9206654
+-docstart- (334 cricket)	alan mullally	398	alan mullally	0.92048335
+-docstart- (1194testb soccer)	borussia monchengladbach	852	borussia mönchengladbach	0.92047775
+-docstart- (274 soccer)	borussia moenchengladbach	900	borussia mönchengladbach	0.92042506
+-docstart- (447 cricket)	craig evans	494	craig evans (zimbabwean sportsman)	0.920395
+-docstart- (1073testa rugby)	walter little	3288	walter little (rugby player)	0.92039
+-docstart- (653 rugby)	craig dowd	1305	craig dowd	0.920385
+-docstart- (272 soccer)	sparta rotterdam	752	sparta rotterdam	0.9203181
+-docstart- (341 soccer)	ceahlaul piatra neamt	1029	csm ceahlăul piatra neamț	0.91999996
+-docstart- (1370testb soccer)	nottingham forest	750	nottingham forest f.c.	0.9199975
+-docstart- (272 soccer)	nec nijmegen	840	n.e.c. (football club)	0.91942275
+-docstart- (525 cricket)	mark ealham	512	mark ealham	0.91941005
+-docstart- (824 soccer)	nec nijmegen	953	n.e.c. (football club)	0.91907275
+-docstart- (272 soccer)	az alkmaar	815	az alkmaar	0.91907275
+-docstart- (334 cricket)	adam hollioake	326	adam hollioake	0.91902
+-docstart- (359 soccer)	werder bremen	714	sv werder bremen	0.91879165
+-docstart- (1370testb soccer)	middlesbrough	632	middlesbrough f.c.	0.91878426
+-docstart- (653 rugby)	sean fitzpatrick	1271	sean fitzpatrick	0.91862
+-docstart- (660 soccer)	hapoel petah tikva	237	hapoel petah tikva f.c.	0.91830003
+-docstart- (1392testb soccer)	rayo vallecano	530	rayo vallecano	0.9182594
+-docstart- (1204testb soccer)	rayo vallecano	499	rayo vallecano	0.9182594
+-docstart- (368 soccer)	az alkmaar	932	az alkmaar	0.918235
+-docstart- (1194testb soccer)	fc hansa rostock	816	f.c. hansa rostock	0.91807777
+-docstart- (1204testb soccer)	real sociedad	403	real sociedad	0.91802186
+-docstart- (824 soccer)	sparta rotterdam	898	sparta rotterdam	0.9178227
+-docstart- (808 cricket)	saqlain mushtaq	566	saqlain mushtaq	0.91765416
+-docstart- (1369testb soccer)	queen of south	891	queen of the south f.c.	0.91765
+-docstart- (341 soccer)	jiul petrosani	400	csm jiul petroșani	0.91764504
+-docstart- (368 soccer)	rkc waalwijk	842	rkc waalwijk	0.9174773
+-docstart- (447 cricket)	grant flower	466	grant flower	0.91747725
+-docstart- (368 soccer)	roda jc kerkrade	789	roda jc kerkrade	0.91747725
+-docstart- (1193testb soccer)	fortuna sittard	739	fortuna sittard	0.91706
+-docstart- (274 soccer)	werder bremen	962	sv werder bremen	0.9169959
+-docstart- (252 soccer)	stranraer	501	stranraer f.c.	0.91695994
+-docstart- (334 cricket)	robert croft	342	robert croft	0.91677773
+-docstart- (429 soccer)	vasco da gama	761	cr vasco da gama	0.9163725
+-docstart- (808 cricket)	waqar younis	537	waqar younis	0.91634583
+-docstart- (1193testb soccer)	az alkmaar	709	az alkmaar	0.916275
+-docstart- (808 cricket)	mushtaq ahmed	522	mushtaq ahmed (cricketer, born 1970)	0.9161792
+-docstart- (1381testb soccer)	hapoel haifa	727	hapoel haifa f.c.	0.91607994
+-docstart- (252 soccer)	st johnstone	379	st johnstone f.c.	0.9159147
+-docstart- (1381testb soccer)	maccabi herzliya	339	maccabi herzliya f.c.	0.91568744
+-docstart- (1392testb soccer)	racing santander	495	racing de santander	0.9154267
+-docstart- (1204testb soccer)	racing santander	464	racing de santander	0.9154267
+-docstart- (660 soccer)	hapoel haifa	384	hapoel haifa f.c.	0.9149
+-docstart- (824 soccer)	roda jc kerkrade	845	roda jc kerkrade	0.9146273
+-docstart- (525 cricket)	rashid latif	1274	rashid latif	0.9146182
+-docstart- (359 soccer)	vfl bochum	436	vfl bochum	0.9145459
+-docstart- (808 cricket)	wasim akram	486	wasim akram	0.9138833
+-docstart- (252 soccer)	stenhousemuir	417	stenhousemuir f.c.	0.91382635
+-docstart- (1164testb rugby)	alessandro troncon	1186	alessandro troncon	0.913535
+-docstart- (341 soccer)	f.c. petrolul ploiesti	1122	fc petrolul ploiești	0.91313
+-docstart- (252 soccer)	queen of the south	468	queen of the south f.c.	0.912845
+-docstart- (1183testb cricket)	michael bevan	359	michael bevan	0.91216004
+-docstart- (1073testa rugby)	craig dowd	3549	craig dowd	0.91215
+-docstart- (1373testb soccer)	middlesbrough	249	middlesbrough f.c.	0.9119432
+-docstart- (1392testb soccer)	celta vigo	590	celta de vigo	0.91176474
+-docstart- (1204testb soccer)	celta vigo	559	celta de vigo	0.91176474
+-docstart- (252 soccer)	st mirren	367	st mirren f.c.	0.9115156
+-docstart- (447 cricket)	michael bevan	317	michael bevan	0.9114091
+-docstart- (334 cricket)	ronnie irani	312	ronnie irani	0.9113749
+-docstart- (824 soccer)	nac breda	791	nac breda	0.91131544
+-docstart- (1058testa cricket)	adam hollioake	606	adam hollioake	0.91098
+-docstart- (523 soccer)	brentford	823	brentford f.c.	0.910885
+-docstart- (680 soccer)	borussia moenchengladbach	807	borussia mönchengladbach	0.9105577
+-docstart- (1073testa rugby)	sean fitzpatrick	3515	sean fitzpatrick	0.910385
+-docstart- (272 soccer)	rkc waalwijk	725	rkc waalwijk	0.9103409
+-docstart- (525 cricket)	robert croft	573	robert croft	0.909805
+-docstart- (1073testa rugby)	justin marshall	3367	justin marshall	0.90959996
+-docstart- (341 soccer)	rapid bucharest	1159	fc rapid bucurești	0.90941
+-docstart- (680 soccer)	fortuna duesseldorf	692	fortuna düsseldorf	0.9093461
+-docstart- (1370testb soccer)	millwall	1537	millwall f.c.	0.90921247
+-docstart- (680 soccer)	arminia bielefeld	726	arminia bielefeld	0.90860003
+-docstart- (1193testb soccer)	roda jc kerkrade	492	roda jc kerkrade	0.9083375
+-docstart- (525 cricket)	dominic cork	542	dominic cork	0.908045
+-docstart- (653 rugby)	olo brown	1256	olo brown	0.90804
+-docstart- (1194testb soccer)	schalke 04	556	fc schalke 04	0.9078524
+-docstart- (368 soccer)	nac breda	736	nac breda	0.90754616
+-docstart- (272 soccer)	feyenoord	613	feyenoord	0.90754616
+-docstart- (1381testb soccer)	hapoel jerusalem	825	hapoel jerusalem f.c.	0.90740556
+-docstart- (1194testb soccer)	hamburger sv	749	hamburger sv	0.90740556
+-docstart- (1381testb soccer)	hapoel tel aviv	243	hapoel tel aviv f.c.	0.9071063
+-docstart- (824 soccer)	az alkmaar	1012	az alkmaar	0.9064182
+-docstart- (660 soccer)	maccabi petah tikva	344	maccabi petah tikva f.c.	0.90628
+-docstart- (1068testa soccer)	stenhousemuir	350	stenhousemuir f.c.	0.90627253
+-docstart- (680 soccer)	vfl bochum	536	vfl bochum	0.9062454
+-docstart- (1370testb soccer)	sheffield united	824	sheffield united f.c.	0.9058875
+-docstart- (272 soccer)	nac breda	538	nac breda	0.9056072
+-docstart- (1370testb soccer)	bristol rovers	1810	bristol rovers f.c.	0.9052892
+-docstart- (1370testb soccer)	crystal palace	888	crystal palace f.c.	0.90516055
+-docstart- (1369testb soccer)	stranraer	956	stranraer f.c.	0.9050579
+-docstart- (1370testb soccer)	brentford	1508	brentford f.c.	0.90499747
+-docstart- (328 soccer)	nottingham forest	481	nottingham forest f.c.	0.90480506
+-docstart- (1381testb soccer)	hapoel jerusalem	279	hapoel jerusalem f.c.	0.90478885
+-docstart- (824 soccer)	willem ii tilburg	319	willem ii (football club)	0.90474164
+-docstart- (1073testa rugby)	olo brown	3500	olo brown	0.90450996
+-docstart- (808 cricket)	ijaz ahmed	445	ijaz ahmed (cricketer, born 1968)	0.90445006
+-docstart- (1369testb soccer)	st johnstone	489	st johnstone f.c.	0.9042342
+-docstart- (523 soccer)	millwall	990	millwall f.c.	0.90418637
+-docstart- (1183testb cricket)	ian healy	397	ian healy	0.90392506
+-docstart- (523 soccer)	burnley	891	burnley f.c.	0.903825
+-docstart- (660 soccer)	maccabi tel aviv	399	maccabi tel aviv f.c.	0.90353
+-docstart- (552 mcgrath)	kenny cunningham	1462	kenny cunningham	0.90294504
+-docstart- (342 soccer)	zaglebie lubin	336	zagłębie lubin	0.902945
+-docstart- (523 soccer)	notts county	1080	notts county f.c.	0.9028152
+-docstart- (808 cricket)	inzamam-ul-haq	457	inzamam-ul-haq	0.90261257
+-docstart- (1370testb soccer)	sheffield wednesday	434	sheffield wednesday f.c.	0.90244997
+-docstart- (552 mcgrath)	gary breen	1439	gary breen	0.90196
+-docstart- (1370testb soccer)	queens park rangers	1170	queens park rangers f.c.	0.90185
+-docstart- (552 mcgrath)	steve staunton	1480	steve staunton	0.901775
+-docstart- (427 soccer)	newell's old boys	289	newell's old boys	0.90163755
+-docstart- (342 soccer)	ruch chorzow	948	ruch chorzów	0.90117997
+-docstart- (1067testa soccer)	crystal palace	464	crystal palace f.c.	0.9011618
+-docstart- (1069testa soccer)	bristol rovers	466	bristol rovers f.c.	0.90039504
+-docstart- (447 cricket)	andy flower	453	andy flower	0.90018636
+-docstart- (1183testb cricket)	tom moody	386	tom moody	0.900005
+-docstart- (1068testa soccer)	st johnstone	220	st johnstone f.c.	0.8998948
+-docstart- (1381testb soccer)	maccabi herzliya	930	maccabi herzliya f.c.	0.89975625
+-docstart- (334 cricket)	dean headley	384	dean headley	0.89957225
+-docstart- (416 soccer)	bristol rovers	619	bristol rovers f.c.	0.89893186
+-docstart- (416 soccer)	millwall	731	millwall f.c.	0.89892
+-docstart- (523 soccer)	sheffield united	644	sheffield united f.c.	0.89884543
+-docstart- (680 soccer)	werder bremen	614	sv werder bremen	0.89860004
+-docstart- (660 soccer)	hapoel beit she'an	302	hapoel beit she'an f.c.	0.8985375
+-docstart- (1068testa soccer)	stranraer	366	stranraer f.c.	0.8984325
+-docstart- (523 soccer)	bristol rovers	1107	bristol rovers f.c.	0.8983977
+-docstart- (552 mcgrath)	alan mcloughlin	1542	alan mcloughlin	0.89824003
+-docstart- (824 soccer)	rkc waalwijk	728	rkc waalwijk	0.89789236
+-docstart- (1381testb soccer)	maccabi tel aviv	298	maccabi tel aviv f.c.	0.89755
+-docstart- (1370testb soccer)	bristol city	1779	bristol city f.c.	0.89754224
+-docstart- (416 soccer)	bristol city	654	bristol city f.c.	0.8972888
+-docstart- (525 cricket)	mushtaq ahmed	1428	mushtaq ahmed (cricketer, born 1970)	0.89695
+-docstart- (808 cricket)	saeed anwar	432	saeed anwar	0.8966136
+-docstart- (1381testb soccer)	maccabi haifa	758	maccabi haifa f.c.	0.89647
+-docstart- (342 soccer)	gks katowice	304	gks katowice	0.896465
+-docstart- (1058testa cricket)	ronnie irani	622	ronnie irani	0.8959
+-docstart- (341 soccer)	f.c. farul constanta	222	ssc farul constanța	0.8958955
+-docstart- (342 soccer)	zaglebie lubin	917	zagłębie lubin	0.89589
+-docstart- (342 soccer)	gornik zabrze	976	górnik zabrze	0.89589
+-docstart- (824 soccer)	fortuna sittard	815	fortuna sittard	0.895777
+-docstart- (1058testa cricket)	moin khan	797	moin khan	0.8955834
+-docstart- (525 cricket)	wasim akram	1367	wasim akram	0.8955455
+-docstart- (1068testa soccer)	cowdenbeath	402	cowdenbeath f.c.	0.8955333
+-docstart- (523 soccer)	port vale	620	port vale f.c.	0.895395
+-docstart- (342 soccer)	polonia warsaw	319	polonia warsaw	0.89529496
+-docstart- (523 soccer)	crystal palace	415	crystal palace f.c.	0.89516175
+-docstart- (342 soccer)	lks lodz	1005	łks łódź	0.89491
+-docstart- (1183testb cricket)	stuart law	374	stuart law	0.894115
+-docstart- (653 rugby)	robin brooke	1238	robin brooke	0.89404
+-docstart- (1056testa cricket)	saeed anwar	772	saeed anwar	0.8938154
+-docstart- (824 soccer)	feyenoord	283	feyenoord	0.8936654
+-docstart- (1369testb soccer)	cowdenbeath	1196	cowdenbeath f.c.	0.8936589
+-docstart- (1164testb rugby)	franco properzi	1299	franco properzi	0.893625
+-docstart- (824 soccer)	roda jc kerkrade	264	roda jc kerkrade	0.8933692
+-docstart- (1370testb soccer)	port vale	1208	port vale f.c.	0.8932974
+-docstart- (963testa golf)	mark calcavecchia	478	mark calcavecchia	0.89313495
+-docstart- (252 soccer)	greenock morton	329	greenock morton f.c.	0.89313334
+-docstart- (525 cricket)	ian salisbury	480	ian salisbury	0.89313
+-docstart- (416 soccer)	port vale	490	port vale f.c.	0.89262617
+-docstart- (552 mcgrath)	jason mcateer	1559	jason mcateer	0.89196
+-docstart- (1380testb soccer)	ko jeong woon	1874	ko jeong-woon	0.89190626
+-docstart- (524 soccer)	brentford	317	brentford f.c.	0.8917501
+-docstart- (660 soccer)	maccabi haifa	202	maccabi haifa f.c.	0.8915857
+-docstart- (310 golf)	mark o'meara	656	mark o'meara	0.89156
+-docstart- (447 cricket)	ian healy	332	ian healy	0.89150834
+-docstart- (1373testb soccer)	aston villa	287	aston villa f.c.	0.891387
+-docstart- (1370testb soccer)	burnley	1614	burnley f.c.	0.89126825
+-docstart- (808 cricket)	ronnie irani	336	ronnie irani	0.89109087
+-docstart- (680 soccer)	schalke 04	758	fc schalke 04	0.89102435
+-docstart- (38 cricket)	moin khan	838	moin khan	0.8907273
+-docstart- (1056testa cricket)	moin khan	836	moin khan	0.89064616
+-docstart- (1369testb soccer)	st mirren	628	st mirren f.c.	0.89042056
+-docstart- (274 soccer)	bayern munich	705	fc bayern munich	0.89035416
+-docstart- (660 soccer)	maccabi herzliya	437	maccabi herzliya f.c.	0.8902
+-docstart- (252 soccer)	airdrieonians	269	airdrieonians f.c. (1878)	0.890195
+-docstart- (1058testa cricket)	robert croft	636	robert croft	0.89002275
+-docstart- (1067testa soccer)	port vale	493	port vale f.c.	0.88995314
+-docstart- (272 soccer)	ajax amsterdam	562	afc ajax	0.8898493
+-docstart- (1173testb rugby)	rob howley	1936	rob howley	0.8898
+-docstart- (1369testb soccer)	airdrieonians	546	airdrieonians f.c. (1878)	0.88973534
+-docstart- (416 soccer)	notts county	751	notts county f.c.	0.8895452
+-docstart- (655 cricket)	andrew hudson	1144	andrew hudson	0.88944614
+-docstart- (1058testa cricket)	saqlain mushtaq	808	saqlain mushtaq	0.88922083
+-docstart- (1380testb soccer)	ha seok ju	1895	ha seok-ju	0.8892125
+-docstart- (1073testa rugby)	glen osborne	3326	glen osborne	0.88907
+-docstart- (1372testb soccer)	greenock morton	289	greenock morton f.c.	0.8887805
+-docstart- (1104testa soccer)	alpay ozalan	2467	alpay özalan	0.88872504
+-docstart- (334 cricket)	darren gough	356	darren gough	0.88867223
+-docstart- (1164testb rugby)	andrea castellani	1429	andrea castellani	0.88858634
+-docstart- (328 soccer)	middlesbrough	584	middlesbrough f.c.	0.8885143
+-docstart- (1067testa soccer)	millwall	902	millwall f.c.	0.8883174
+-docstart- (1369testb soccer)	greenock morton	656	greenock morton f.c.	0.88823336
+-docstart- (963testa golf)	payne stewart	497	payne stewart	0.888035
+-docstart- (524 soccer)	bristol city	342	bristol city f.c.	0.8880093
+-docstart- (525 cricket)	waqar younis	1460	waqar younis	0.88799375
+-docstart- (552 mcgrath)	ray houghton	1511	ray houghton	0.887645
+-docstart- (1058testa cricket)	mushtaq ahmed	825	mushtaq ahmed (cricketer, born 1970)	0.88758326
+-docstart- (1058testa cricket)	inzamam-ul-haq	756	inzamam-ul-haq	0.8874167
+-docstart- (525 cricket)	asif mujtaba	1336	asif mujtaba	0.88734543
+-docstart- (975testa cricket)	darren lehmann	377	darren lehmann	0.8873409
+-docstart- (552 mcgrath)	ian harte	1451	ian harte	0.88726
+-docstart- (416 soccer)	burnley	742	burnley f.c.	0.887255
+-docstart- (1073testa rugby)	robin brooke	3467	robin brooke	0.88697994
+-docstart- (254 soccer)	sheffield wednesday	223	sheffield wednesday f.c.	0.8867083
+-docstart- (1370testb soccer)	everton	408	everton f.c.	0.88658893
+-docstart- (1165testb soccer)	norio omura	1359	norio omura	0.88647
+-docstart- (310 golf)	hal sutton	763	hal sutton	0.886085
+-docstart- (1369testb soccer)	east fife	747	east fife f.c.	0.8857309
+-docstart- (1058testa cricket)	waqar younis	840	waqar younis	0.885625
+-docstart- (808 cricket)	robert croft	350	robert croft	0.8855636
+-docstart- (525 cricket)	ata-ur-rehman	1489	ata-ur-rehman (cricketer)	0.8854357
+-docstart- (1067testa soccer)	bristol rovers	1063	bristol rovers f.c.	0.8852978
+-docstart- (808 cricket)	ata-ur-rehman	551	ata-ur-rehman (cricketer)	0.88529587
+-docstart- (429 soccer)	flamengo	707	clube de regatas do flamengo	0.8852452
+-docstart- (975testa cricket)	mark waugh	393	mark waugh	0.88502276
+-docstart- (310 golf)	fred couples	787	fred couples	0.8849
+-docstart- (1373testb soccer)	sheffield wednesday	227	sheffield wednesday f.c.	0.88475907
+-docstart- (1173testb rugby)	tony underwood	1874	tony underwood	0.88471
+-docstart- (1067testa soccer)	notts county	1186	notts county f.c.	0.88465863
+-docstart- (1068testa soccer)	airdrieonians	235	airdrieonians f.c.	0.8844175

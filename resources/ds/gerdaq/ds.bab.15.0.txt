@@ -1,0 +1,105 @@
+http:__gerdaq_gerdaq_trainingb.xml_94	springs	9	spring byington	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference (ohsaa)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_90	ansi	0	windows-1252	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	glendale california	7	glendale, california	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	costco	0	costco	1.0
+http:__gerdaq_gerdaq_trainingb.xml_81	america	0	united states	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	memphis area	26	memphis, tennessee	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	corvette	0	general motors	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	micheal jordan	0	michael jordan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	micheal	0	micheal ray richardson	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	jordan	8	michael jordan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_73	venice	0	venice	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	rapids	6	grand rapids, ohio	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	grand rapids	0	grand rapids, ohio	1.0
+http:__gerdaq_gerdaq_trainingb.xml_60	central avenue	17	minnesota state highway 65	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	report	19	firestone firehawk 600	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	fort desoto	0	fort de soto park	1.0
+http:__gerdaq_gerdaq_trainingb.xml_58	fort	0	fort worth, texas	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	ll cool j	0	ll cool j	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	ll cool	0	ll cool j	1.0
+http:__gerdaq_gerdaq_trainingb.xml_56	era	30	era (musical project)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_51	piney	0	piney woods	1.0
+http:__gerdaq_gerdaq_trainingb.xml_5	bear hotel	5	bear hotel (oxfordshire)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_43	black history month	0	black history month (song)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_40	world of	0	discworld (world)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston police	0	houston police department	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston	0	houston police department	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	psychological examiners	24	school psychological examiner	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	new jersey state	0	new jersey	1.0
+http:__gerdaq_gerdaq_trainingb.xml_39	jersey state	4	new jersey	1.0
+http:__gerdaq_gerdaq_trainingb.xml_38	tgp	11	tokyo gore police	1.0
+http:__gerdaq_gerdaq_trainingb.xml_30	sms	20	short message service	1.0
+http:__gerdaq_gerdaq_trainingb.xml_3	mn	23	minnesota	1.0
+http:__gerdaq_gerdaq_trainingb.xml_3	duluth mn	16	duluth, minnesota	1.0
+http:__gerdaq_gerdaq_trainingb.xml_28	raymond poe	0	raymond poe	1.0
+http:__gerdaq_gerdaq_trainingb.xml_28	raymond	0	raymond poe	1.0
+http:__gerdaq_gerdaq_trainingb.xml_25	state of	22	states of brazil	1.0
+http:__gerdaq_gerdaq_trainingb.xml_24	shores	6	dinah shore	1.0
+http:__gerdaq_gerdaq_trainingb.xml_233	shaolin temple	8	shaolin (film)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_232	grover cleveland	0	grover cleveland	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	marriott	13	marriott international	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	courtyard by marriott	0	courtyard by marriott	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	courtyard	0	courtyard by marriott	1.0
+http:__gerdaq_gerdaq_trainingb.xml_225	matsumotos	5	jiro matsumoto	1.0
+http:__gerdaq_gerdaq_trainingb.xml_225	ikki	0	monthly ikki	1.0
+http:__gerdaq_gerdaq_trainingb.xml_221	carly patterson	0	carly patterson	1.0
+http:__gerdaq_gerdaq_trainingb.xml_205	consumer report	0	consumer reports	1.0
+http:__gerdaq_gerdaq_trainingb.xml_201	alaska	0	alaska	1.0
+http:__gerdaq_gerdaq_trainingb.xml_197	nh	27	new hampshire	1.0
+http:__gerdaq_gerdaq_trainingb.xml_190	sids	9	sid the sexist	1.0
+http:__gerdaq_gerdaq_trainingb.xml_186	companies	25	the tetris company	1.0
+http:__gerdaq_gerdaq_trainingb.xml_183	saint	0	saint peter	1.0
+http:__gerdaq_gerdaq_trainingb.xml_180	rob	4	rob reynolds (journalist)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_180	ban	8	east pakistan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_179	mac os	13	mac os	1.0
+http:__gerdaq_gerdaq_trainingb.xml_173	fendi	0	fendi	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	institute	4	institute, west virginia	1.0
+http:__gerdaq_gerdaq_trainingb.xml_16	bce	0	common era	1.0
+http:__gerdaq_gerdaq_trainingb.xml_158	palisades	30	palisades toys	1.0
+http:__gerdaq_gerdaq_trainingb.xml_158	case	24	egyptian exchange	1.0
+http:__gerdaq_gerdaq_trainingb.xml_154	custard	12	roobarb	1.0
+http:__gerdaq_gerdaq_trainingb.xml_150	time	22	the new york times	1.0
+http:__gerdaq_gerdaq_trainingb.xml_150	janis joplin	9	janis joplin	1.0
+http:__gerdaq_gerdaq_trainingb.xml_150	janis	9	janis joplin	1.0
+http:__gerdaq_gerdaq_trainingb.xml_143	woods	7	leonard wood	1.0
+http:__gerdaq_gerdaq_trainingb.xml_143	frantz	0	frank frantz	1.0
+http:__gerdaq_gerdaq_trainingb.xml_142	espn nfl	20	nfl 2k	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	tennesse williams	27	tennessee williams	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	tennesse	27	tennessee	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	menagerie	56	beast boy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_139	glass menagerie	50	the glass menagerie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_134	international furniture fair	5	imm cologne	1.0
+http:__gerdaq_gerdaq_trainingb.xml_131	train	0	canadian pacific railway	1.0
+http:__gerdaq_gerdaq_trainingb.xml_131	toronto	22	toronto	1.0
+http:__gerdaq_gerdaq_trainingb.xml_131	chatham	11	chatham-kent	1.0
+http:__gerdaq_gerdaq_trainingb.xml_128	top games	7	top game	1.0
+http:__gerdaq_gerdaq_trainingb.xml_126	baby	7	lauren bacall	1.0
+http:__gerdaq_gerdaq_trainingb.xml_12	bay	8	san francisco bay area	1.0
+http:__gerdaq_gerdaq_trainingb.xml_114	uk	0	united kingdom	1.0
+http:__gerdaq_gerdaq_trainingb.xml_112	sholder	0	jack sholder	1.0
+http:__gerdaq_gerdaq_trainingb.xml_111	osama bin ladin	0	osama bin laden	1.0
+http:__gerdaq_gerdaq_trainingb.xml_111	osama bin	0	osama bin laden	1.0
+http:__gerdaq_gerdaq_trainingb.xml_111	bin	6	osama bin laden	1.0
+http:__gerdaq_gerdaq_trainingb.xml_106	stamford ct	14	stamford, connecticut	1.0
+http:__gerdaq_gerdaq_trainingb.xml_106	pearle vision	0	pearle opticians	1.0
+http:__gerdaq_gerdaq_trainingb.xml_106	pearle	0	pearle opticians	1.0
+http:__gerdaq_gerdaq_trainingb.xml_106	ct	23	connecticut	1.0
+http:__gerdaq_gerdaq_trainingb.xml_105	internet public library	5	internet public library	1.0
+http:__gerdaq_gerdaq_trainingb.xml_1	bmv	0	mexican stock exchange	1.0
+http:__gerdaq_gerdaq_trainingb.xml_0	billie joe armstrong	0	billie joe armstrong	1.0
+http:__gerdaq_gerdaq_trainingb.xml_0	billie joe	0	billie joe armstrong	1.0
+http:__gerdaq_gerdaq_traininga.xml_92	hopper	12	a bug's life	1.0
+http:__gerdaq_gerdaq_traininga.xml_92	bugs life	2	a bug's life	1.0
+http:__gerdaq_gerdaq_traininga.xml_92	bugs	2	a bug's life	1.0
+http:__gerdaq_gerdaq_traininga.xml_91	plainfield	15	plainfield, indiana	1.0
+http:__gerdaq_gerdaq_traininga.xml_91	liberty school	0	liberty school (brentwood, tennessee)	1.0
+http:__gerdaq_gerdaq_traininga.xml_90	fountains	29	fountain winston	1.0
+http:__gerdaq_gerdaq_traininga.xml_89	martina mcbride	0	martina mcbride	1.0
+http:__gerdaq_gerdaq_traininga.xml_84	sanctuary	4	sanctuary (simon webbe album)	1.0
+http:__gerdaq_gerdaq_traininga.xml_77	town	5	new york city	1.0
+http:__gerdaq_gerdaq_traininga.xml_77	disney	10	walt disney	1.0
+http:__gerdaq_gerdaq_traininga.xml_74	soccer hall of fame	9	national soccer hall of fame	1.0
+http:__gerdaq_gerdaq_traininga.xml_64	new jersey	24	new jersey	1.0
+http:__gerdaq_gerdaq_traininga.xml_59	stacy keibler	0	stacy keibler	1.0
+http:__gerdaq_gerdaq_traininga.xml_59	keibler	6	stacy keibler	1.0

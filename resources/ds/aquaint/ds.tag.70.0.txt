@@ -1,0 +1,566 @@
+apw19981020_1367.htm	apollo 11	330	apollo 11	0.74718666
+apw19981020_1367.htm	roger chaffee	239	roger b. chaffee	0.7222291
+apw19981020_1367.htm	neil armstrong	345	neil armstrong	0.7202633
+apw19981020_1367.htm	buzz aldrin	367	buzz aldrin	0.71886873
+apw19981113_0729.htm	gaza strip	351	gaza strip	0.6972
+apw19981113_0500.htm	gaza strip	348	gaza strip	0.6972
+apw19990519_0141.htm	viking orbiter	954	viking program	0.69693124
+apw19981210_0433.htm	iran-iraq war	1503	iran–iraq war	0.69607776
+apw19980824_0827.htm	osama bin laden	745	osama bin laden	0.6900667
+apw19981020_1367.htm	gus grissom	200	gus grissom	0.6898409
+apw19980620_0458.htm	international committee of the red cross	798	international committee of the red cross	0.67904735
+apw19981020_1367.htm	alan shepard	65	alan shepard	0.6779417
+apw19981210_0433.htm	saddam hussein	42	saddam hussein	0.67774117
+apw19981109_1089.htm	west indies cricket board	238	west indies cricket board	0.6769625
+apw19981020_1367.htm	john glenn	132	john glenn	0.6769625
+apw19980614_0031.htm	international monetary fund	697	international monetary fund	0.67533684
+apw19981109_0152.htm	international court of justice	92	international court of justice	0.6712458
+apw19981109_0140.htm	international court of justice	86	international court of justice	0.6712458
+apw19981010_0354.htm	william cohen	83	william cohen	0.66934544
+apw19980713_0449.htm	lufthansa	630	lufthansa	0.656896
+apw19981109_1089.htm	carl hooper	321	carl hooper	0.65379685
+apw19980930_0284.htm	claude monet	572	claude monet	0.65294063
+apw19981026_0096.htm	african national congress	114	african national congress	0.65171564
+apw19980808_0196.htm	ruhollah khomeini	680	ruhollah khomeini	0.64946365
+apw19990519_0141.htm	hubble space telescope	306	hubble space telescope	0.6480375
+apw19980620_0458.htm	iran-iraq war	1255	iran–iraq war	0.6435119
+apw19980903_1073.htm	adolf hitler	1284	adolf hitler	0.6423
+apw19981109_1172.htm	west indies cricket board	307	west indies cricket board	0.64157
+apw19980624_0607.htm	iran-iraq war	1168	iran–iraq war	0.6389533
+apw19981120_1056.htm	truth comission	536	truth and reconciliation commission	0.638335
+apw19981109_1089.htm	west indies cricket board	678	west indies cricket board	0.63708746
+apw19981109_1172.htm	courtney walsh	76	courtney walsh	0.63697857
+apw19981109_1089.htm	brian lara	292	brian lara	0.63615
+apw19981001_0866.htm	the holocaust	1024	history of the jews in hungary	0.6354875
+apw19980620_0458.htm	iran-iraq war	704	iran–iraq war	0.6354059
+apw19981109_1172.htm	clive lloyd	877	clive lloyd	0.6352933
+apw19981020_1367.htm	hubble space telescope	710	hubble space telescope	0.63296247
+apw19981020_1367.htm	norman thagard	837	norman thagard	0.63284063
+apw19980824_0827.htm	benjamin netanyahu	283	benjamin netanyahu	0.63218236
+apw19980624_0436.htm	iran-iraq war	1174	iran–iraq war	0.63026875
+apw19981120_1056.htm	african national congress	645	african national congress	0.63025236
+apw19981113_0729.htm	yasser arafat international airport	296	yasser arafat international airport	0.62784
+apw19981113_0500.htm	yasser arafat international airport	293	yasser arafat international airport	0.62784
+apw19981109_1172.htm	joel garner	908	joel garner	0.62720937
+apw19981109_1089.htm	joel garner	903	joel garner	0.62720937
+apw19981113_0729.htm	benjamin netanyahu	575	benjamin netanyahu	0.62505
+apw19981113_0500.htm	benjamin netanyahu	565	benjamin netanyahu	0.62505
+apw19980713_0449.htm	lufthansa	1053	lufthansa	0.6248436
+apw19990827_0184.htm	united airlines	58	united airlines	0.6239236
+apw19980811_0512.htm	aum shinri kyo	1272	aum shinrikyo	0.62043154
+apw19981109_1089.htm	clive lloyd	872	clive lloyd	0.61987
+apw19981109_0464.htm	international court of justice	56	international court of justice	0.6156923
+apw19981109_0440.htm	international court of justice	56	international court of justice	0.6156923
+apw19981210_0433.htm	hafez assad	1372	hafez al-assad	0.6142068
+apw19980903_1073.htm	world jewish congress	898	world jewish congress	0.61274284
+apw19980603_1617.htm	port dickson   district	1246	port dickson district	0.61078054
+apw19980930_0284.htm	alfred sisley	630	alfred sisley	0.60915333
+apw19981109_0152.htm	cold war	1211	cold war	0.6084553
+apw19980624_0607.htm	international committee of the red cross	975	international committee of the red cross	0.608235
+apw19980624_0436.htm	international committee of the red cross	981	international committee of the red cross	0.608235
+apw19980713_0449.htm	deutsche bahn	1338	deutsche bahn	0.6081
+apw19981120_1056.htm	truth and reconciliation commission	340	truth and reconciliation commission	0.6070302
+apw19981020_1367.htm	john glenn	1343	john glenn	0.6069385
+apw19981022_0630.htm	international criminal police organization	407	interpol	0.6065389
+apw19981020_1367.htm	sally ride	568	sally ride	0.6063167
+apw19980903_1073.htm	viktor klima	664	viktor klima	0.6062725
+apw19980713_0449.htm	lufthansa	1444	lufthansa	0.6029231
+apw19980917_0818.htm	shoko asahara	292	shoko asahara	0.6020524
+apw19981119_0585.htm	nicolae ceausescu	945	nicolae ceaușescu	0.60171455
+apw19980917_0818.htm	aum shinri kyo	328	aum shinrikyo	0.6016046
+apw19980713_0449.htm	deutsche bahn	641	deutsche bahn	0.6014447
+apw19981109_1172.htm	jimmy adams	597	jimmy adams	0.6007639
+apw19981106_0920.htm	norsk hydro	63	norsk hydro	0.59852815
+apw19980930_0522.htm	taha yassin ramadan	1359	taha yassin ramadan	0.5980375
+apw19980903_1073.htm	madeleine albright	126	madeleine albright	0.5971346
+apw19981130_0743.htm	antonio guterres	348	antónio guterres	0.59705997
+apw19981130_0743.htm	jose maria aznar	610	josé maría aznar	0.5969472
+apw19980627_0596.htm	communist party of india	1021	communist party of india	0.59673
+apw19981109_0464.htm	cold war	1175	cold war	0.59521335
+apw19981109_0440.htm	cold war	1181	cold war	0.59521335
+apw19981109_0140.htm	cold war	1214	cold war	0.5946369
+apw19981020_1367.htm	shannon lucid	1068	shannon lucid	0.5943625
+apw19980603_0791.htm	linear	691	linearity	0.5934611
+apw19990827_0184.htm	o'hare international airport	227	o'hare international airport	0.5931318
+apw19980808_0196.htm	saddam hussein	81	saddam hussein	0.5929816
+apw19980614_0031.htm	chuan leekpai	1247	chuan leekpai	0.5915028
+apw19981106_0920.htm	norsk hydro	1389	norsk hydro	0.5912316
+apw19981020_1367.htm	edward white   ii	216	edward higgins white	0.58733785
+apw20000303_0067.htm	dallas-fort worth international airport	498	dallas/fort worth international airport	0.5872528
+apw20000312_0050.htm	managua	39	managua	0.583097
+apw19981010_0354.htm	united arab emirates	612	united arab emirates	0.580511
+apw19981109_1089.htm	ali bacher	711	ali bacher	0.5791409
+apw19980811_0512.htm	sodium azide	890	sodium azide	0.575926
+apw19981109_1089.htm	jimmy adams	545	jimmy adams	0.5757344
+apw19980903_1073.htm	thomas klestil	323	thomas klestil	0.57543945
+apw19981109_0152.htm	iron curtain	1184	iron curtain	0.5737463
+apw19990519_0141.htm	martian   storm	363	climate of mars	0.57095313
+apw19990519_0141.htm	space telescope science institute	244	space telescope science institute	0.57094544
+apw19981109_1172.htm	ali bacher	716	ali bacher	0.57006335
+apw19980808_0196.htm	iran-iraq war	312	iran–iraq war	0.5691421
+apw20000312_0050.htm	national autonomous university of nicaragua	1211	national autonomous university of nicaragua	0.56875
+apw19980713_0449.htm	lufthansa	3	lufthansa	0.56868386
+apw19980713_0449.htm	lufthansa	155	lufthansa	0.56868386
+apw19980625_1136.htm	air afrique	60	air afrique	0.56794
+apw20000312_0050.htm	nicaragua	6	nicaragua	0.5668522
+apw19980930_0522.htm	iran	29	iran	0.5649678
+apw19981106_0920.htm	norsk hydro	827	norsk hydro	0.5645844
+apw19981109_1172.htm	west indies   players association	107	west indies players' association	0.56369054
+apw19981210_0433.htm	syria	1417	syria	0.5624785
+apw19981119_0585.htm	romania	145	socialist republic of romania	0.5604343
+apw19980625_1136.htm	lagos international airport	455	murtala muhammed international airport	0.5596643
+apw19980610_0111.htm	boris berezovsky	596	boris berezovsky (businessman)	0.5578947
+apw19981020_1367.htm	story musgrave	1207	story musgrave	0.55728215
+apw19981119_0585.htm	romania	887	socialist republic of romania	0.55708045
+apw19981109_0440.htm	radio free europe	1011	radio free europe/radio liberty	0.55700326
+apw19980611_0774.htm	interpol	1221	interpol	0.55699766
+apw19980917_0818.htm	yoshihiro inoue	1009	tokyo subway sarin attack	0.55657
+apw19981022_0630.htm	interpol	3	interpol	0.55554754
+apw19980930_0522.htm	islamic republic news agency	199	islamic republic news agency	0.5550369
+apw19981109_0464.htm	radio free europe	1005	radio free europe/radio liberty	0.5550277
+apw19981109_0152.htm	radio free europe	1041	radio free europe/radio liberty	0.5550277
+apw19981210_0433.htm	syria	3	syria	0.55494183
+apw19981109_0140.htm	iron curtain	1187	iron curtain	0.5527109
+apw19981119_0585.htm	romania	145	socialist republic of romania	0.5522604
+apw20000312_0050.htm	managua	1185	managua	0.5516629
+apw19981106_0920.htm	and carbon	1366	alpha and beta carbon	0.5513921
+apw19981109_0464.htm	iron curtain	1148	iron curtain	0.55132854
+apw19981109_0440.htm	iron curtain	1154	iron curtain	0.55132854
+apw20000312_0050.htm	pope john paul ii	785	pope john paul ii	0.550975
+apw19981210_0433.htm	iran	876	iran	0.5509143
+apw19980930_0522.htm	mohammad shariat-madari	514	mohammad shariatmadari	0.5508722
+apw19981022_0630.htm	interpol	477	interpol	0.5491885
+apw19981119_0585.htm	romania	1248	socialist republic of romania	0.54848427
+apw20000303_0067.htm	cotulla	1477	cotulla, texas	0.5479408
+apw19980930_0522.htm	iran	331	iran	0.5478571
+apw19980624_0607.htm	iran	702	iran	0.54778486
+apw19980624_0436.htm	iran	705	iran	0.54778486
+apw19981026_0096.htm	truth and reconciliation commission	422	truth and reconciliation commission	0.5475956
+apw19981109_0140.htm	radio free europe	1041	radio free europe/radio liberty	0.54707825
+apw19980624_0607.htm	iraqis in iran	1094	iraqis in iran	0.54705834
+apw19980624_0436.htm	iraqis in iran	1100	iraqis in iran	0.54705834
+apw19981210_0433.htm	kamal kharrazi	1316	kamal kharazi	0.545921
+apw19980604_0787.htm	bank of thailand	543	bank of thailand	0.54549783
+apw19990120_0179.htm	beanie babies	96	beanie babies	0.5451
+apw20000312_0050.htm	hurricane mitch	825	hurricane mitch	0.54418844
+apw19980620_0458.htm	iran	74	iran	0.5440012
+apw19981022_0630.htm	interpol	1178	interpol	0.5428608
+apw19980610_0111.htm	sibneft	540	gazprom neft	0.5415
+apw19980624_0607.htm	iran	9	iran	0.5408896
+apw19980624_0436.htm	iran	9	iran	0.5408896
+apw20000312_0050.htm	nicaragua	356	nicaragua	0.53869784
+apw19980625_1136.htm	boeing  -727	75	boeing 727	0.53803295
+apw19980615_0417.htm	brooke shields	11	brooke shields	0.53578436
+apw19981010_0354.htm	iran	286	iran	0.5354477
+apw19980615_0417.htm	mail on sunday	666	daily mail	0.53310263
+apw19981109_0440.htm	iran	901	iran	0.5329277
+apw19980624_0607.htm	iran	282	iran	0.5326992
+apw19980624_0436.htm	iran	282	iran	0.5326992
+apw19981215_1083.htm	dresden    zoo	72	dresden zoo	0.5326079
+apw19980627_0596.htm	prasar bharati	529	doordarshan	0.5325768
+apw19981010_0354.htm	saudi arabia	657	saudi arabia	0.53218234
+apw19980611_0774.htm	interpol	260	interpol	0.5308603
+apw19980930_0522.htm	iran	847	iran	0.5304282
+apw19981109_0464.htm	iran	29	iran	0.52981097
+apw19981109_0440.htm	iran	29	iran	0.52981097
+apw19980930_0522.htm	kermanshah province	381	kermanshah province	0.5292875
+apw19981109_0464.htm	iran	898	iran	0.5291599
+apw19981109_0152.htm	iran	931	iran	0.5291599
+apw20000312_0050.htm	managua	224	managua	0.5291233
+apw19990526_0131.htm	kenai national wildlife refuge	285	kenai national wildlife refuge	0.52895766
+apw19981022_0630.htm	interpol	3	interpol	0.5283146
+apw19980620_0458.htm	iran	1048	iran	0.5278506
+apw19981210_0433.htm	hassan habibi	385	hassan habibi	0.5270139
+apw19980709_0263.htm	phan van khai	91	phan văn khải	0.52679664
+apw19990526_0131.htm	swanson river	1296	swanson river	0.52633095
+apw19981022_0630.htm	illegal drug trade	904	illegal drug trade	0.52560115
+apw19990120_0179.htm	rembrandt	165	rembrandt	0.52518964
+apw19980624_0607.htm	baghdad	226	baghdad	0.5248333
+apw19980624_0436.htm	baghdad	226	baghdad	0.5248333
+apw19990519_0141.htm	carbon dioxide	767	carbon dioxide	0.5239355
+apw19990519_0141.htm	north pole	820	north pole	0.5239069
+apw19981109_0464.htm	kamal kharrazi	237	kamal kharazi	0.5232667
+apw19981109_0440.htm	kamal kharrazi	234	kamal kharazi	0.5232667
+apw19981109_0152.htm	kamal kharrazi	270	kamal kharazi	0.5232667
+apw19981109_0140.htm	kamal kharrazi	264	kamal kharazi	0.5232667
+apw19980824_0827.htm	afghanistan	711	afghanistan	0.5222223
+apw19981120_1056.htm	p.w. botha	130	p. w. botha	0.52205753
+apw19981109_0140.htm	iran	934	iran	0.52196825
+apw19990203_0315.htm	j. paul getty museum	65	j. paul getty museum	0.521858
+apw20000303_0067.htm	mid-atlantic states	1228	mid-atlantic states	0.5217422
+apw19980709_0263.htm	electricity of  vietnam	332	vietnam electricity	0.5217391
+apw19981119_0585.htm	apuseni mountains	1218	apuseni mountains	0.5211923
+apw19980930_0522.htm	gulf war	1446	gulf war	0.52116835
+apw19980603_1617.htm	port dickson	17	port dickson district	0.51958406
+apw19980816_0994.htm	auckland art gallery	130	auckland art gallery	0.5189147
+apw19981010_0354.htm	iran	1039	iran	0.5181466
+apw19981119_0585.htm	transylvania	474	transylvania	0.517359
+apw19980615_0417.htm	jonathan holborow	1379	jonathan holborow	0.51722175
+apw19980930_0284.htm	saint laurent du var	755	saint-laurent-du-var	0.5170289
+apw19981109_1172.htm	caribbean news agency	152	caribbean news agency	0.51693183
+apw19981130_0743.htm	albufeira	400	albufeira	0.5162826
+apw19981109_0464.htm	iran	175	iran	0.5154321
+apw19981109_0440.htm	iran	175	iran	0.5154321
+apw19981109_0152.htm	iran	3	iran	0.5151029
+apw19981109_0140.htm	iran	3	iran	0.5151029
+apw19981109_0152.htm	iran	211	iran	0.51412076
+apw19981109_0140.htm	iran	205	iran	0.51412076
+apw19980615_0417.htm	mail on sunday	343	daily mail	0.51361203
+apw19990203_0315.htm	to return	10	volver	0.51299065
+apw19981106_0920.htm	carbon dioxide	1370	carbon dioxide	0.51290673
+apw19981010_0354.htm	bahrain	450	bahrain	0.5119979
+apw19990120_0179.htm	susan solomon	741	susan solomon	0.5114389
+apw19980713_0449.htm	johannes ludewig	1358	johannes ludewig	0.5111674
+apw19981022_0710.htm	moritz leuenberger	907	moritz leuenberger	0.5108412
+apw19980917_0818.htm	the trial	613	the trial	0.5098048
+apw19980824_0827.htm	david bar-illan	323	david bar-illan	0.5098036
+apw19981130_0743.htm	albufeira	1359	albufeira	0.5088225
+apw19981020_1367.htm	soyuz spacecraft	444	soyuz (spacecraft)	0.50854766
+apw19990526_0131.htm	alaska state troopers	142	alaska state troopers	0.50854284
+apw19980816_0994.htm	auckland   art gallery	633	auckland art gallery	0.5083579
+apw19980620_0458.htm	baghdad	891	baghdad	0.50795555
+apw19981026_0096.htm	apartheid	74	apartheid	0.5070935
+apw19981106_0920.htm	norwegian water resources and energy directorate	303	norwegian water resources and energy directorate	0.5066346
+apw19980624_0607.htm	baghdad	482	baghdad	0.50648886
+apw19980624_0436.htm	baghdad	485	baghdad	0.50648886
+apw20000312_0050.htm	associated press	88	associated press	0.50641334
+apw19980627_0596.htm	nikhil chakravarty	3	nikhil chakravarty	0.5062947
+apw19990203_0315.htm	to return	1003	volver	0.50365174
+apw19981120_1056.htm	johannesburg	721	johannesburg	0.5028865
+apw19980808_0196.htm	iran	1218	iran	0.50198805
+apw19990827_0184.htm	triaca	989	albert c. triaca	0.5
+apw19981215_1083.htm	tritten	1442	anne tritten	0.5
+apw19981120_1056.htm	the decision	1323	voices of animals and men	0.5
+apw19981120_1056.htm	jan d'oliveira	222	jan d'oliveira	0.5
+apw19981022_0710.htm	the power	1194	the power (snap! song)	0.5
+apw19981022_0710.htm	the decision	804	voices of animals and men	0.5
+apw19981022_0710.htm	the  power	421	the power (snap! song)	0.5
+apw19981022_0630.htm	toshinori	327	wakanohō toshinori	0.5
+apw19980917_0818.htm	osamu watanabe	557	osamu watanabe	0.5
+apw19980627_0596.htm	1913, in india	1351	1913 in india	0.5
+apw19980625_1136.htm	fa-gam	1535	fagam	0.5
+apw19980625_1136.htm	cameroon airlines	1132	cameroon airlines	0.5
+apw19980611_0774.htm	two million	1012	two in a million	0.5
+apw19980610_0111.htm	gennady konyakhin	1266	gennady konyakhin	0.5
+apw19980603_1617.htm	pprt	943	pharmacy practice research trust	0.5
+apw19980603_1617.htm	pprt	191	pharmacy practice research trust	0.5
+apw19980603_0791.htm	artero	1081	javier artero	0.5
+apw19980930_0522.htm	baghdad	1158	baghdad	0.49957973
+apw19980610_0111.htm	leninsk-kuznetsky	1123	leninsk-kuznetsky (city)	0.49859
+apw20000312_0050.htm	associated press	1025	associated press	0.49820706
+apw19981010_0354.htm	oman	637	oman	0.49693787
+apw19981210_0433.htm	syria	885	syria	0.4966234
+apw19981215_1083.htm	botswana	554	botswana	0.49640474
+apw19981010_0354.htm	kuwait	645	kuwait	0.49500597
+apw19981026_0096.htm	angola	1479	angola	0.49255815
+apw19981130_0743.htm	iberian peninsula	160	iberian peninsula	0.49221298
+apw19981020_1367.htm	space shuttle	525	space shuttle	0.49157736
+apw19981210_0433.htm	damascus	406	damascus	0.4912023
+apw19981109_1172.htm	south africa	439	south africa national cricket team	0.48924437
+apw19981010_0354.htm	qatar	540	qatar	0.48882425
+apw19990203_0315.htm	mithras	592	mithraism	0.48819917
+apw19981130_0743.htm	european union	1232	european union	0.48788315
+apw19990827_0137.htm	charlotte observer	532	the charlotte observer	0.48544073
+apw19981109_0152.htm	radio free europe	186	radio free europe/radio liberty	0.48459888
+apw19981109_0140.htm	radio free europe	180	radio free europe/radio liberty	0.48459888
+apw19980903_1073.htm	association of art museum directors	1030	association of art museum directors	0.48231786
+apw19980627_0596.htm	indira gandhi	1178	indira gandhi	0.48111933
+apw19981106_0920.htm	carbon dioxide	965	carbon dioxide	0.4810173
+apw19980824_0827.htm	sudan	698	sudan	0.47935566
+apw19980610_0111.htm	siberia	394	siberia	0.47911942
+apw19980614_0031.htm	sirikit	1401	sirikit	0.47813958
+apw20000312_0050.htm	sandinista	549	sandinista national liberation front	0.47793102
+apw19981109_0464.htm	radio free europe	150	radio free europe/radio liberty	0.4777189
+apw19981109_0440.htm	radio free europe	150	radio free europe/radio liberty	0.4777189
+apw19980610_0111.htm	sibneft	241	gazprom neft	0.47621316
+apw19980627_0596.htm	assam	1390	assam	0.47574735
+apw19980903_1073.htm	world war ii	1371	world war ii	0.4747293
+apw20000312_0050.htm	associated press	288	associated press	0.47380096
+apw19980824_0827.htm	associated press	494	associated press	0.47318706
+apw19980808_0196.htm	baghdad	1276	baghdad	0.47197002
+apw19980620_0458.htm	associated press	928	associated press	0.47142917
+apw19990120_0179.htm	sotheby  's	194	sotheby's	0.46992785
+apw19981109_1172.htm	johannesburg	1172	johannesburg	0.46932387
+apw19981109_1089.htm	johannesburg	1172	johannesburg	0.46932387
+apw19980603_1617.htm	chembong	1206	chembong	0.46873158
+apw19981109_1089.htm	south africa	385	south africa national cricket team	0.4685011
+apw19981109_0152.htm	prague	1297	prague	0.46765476
+apw19981120_1056.htm	apartheid	1026	apartheid	0.46636432
+apw19980603_1617.htm	negri sembilan	1172	negeri sembilan	0.46609205
+apw19980625_1136.htm	nigeria	1367	nigeria	0.46355388
+apw19981109_1172.htm	cricket	753	cricket	0.4632693
+apw19980824_0827.htm	university of connecticut	1121	university of connecticut	0.46174964
+apw19980625_1136.htm	nigeria	191	nigeria	0.4601273
+apw19981120_1056.htm	contempt of court	1152	contempt of court	0.4593846
+apw19980614_0031.htm	bangkok	1384	bangkok	0.45811802
+apw19981130_0743.htm	lisbon	454	lisbon	0.45753324
+apw19980610_0111.htm	russia	506	russian empire	0.4558333
+apw19980903_1073.htm	holocaust	248	the holocaust	0.4549277
+apw19980603_0791.htm	radio surgery	1205	radiosurgery	0.45387018
+apw19980624_0607.htm	tehran	609	tehran	0.4528818
+apw19980624_0436.htm	tehran	612	tehran	0.4528818
+apw19981109_0140.htm	prague	1306	prague	0.45260295
+apw19981109_0464.htm	prague	1261	prague	0.45179412
+apw19981109_0440.htm	prague	1268	prague	0.45179412
+apw19990519_0141.htm	polar region	129	polar regions of earth	0.45156658
+apw19980930_0522.htm	tehran	1142	tehran	0.45126468
+apw19990526_0131.htm	anchorage  ,  alaska	37	anchorage, alaska	0.4512014
+apw19980603_0791.htm	radio surgery	901	radiosurgery	0.45098108
+apw19980610_0111.htm	russia	768	russian empire	0.44744223
+apw19980930_0522.htm	tehran	712	tehran	0.44672227
+apw19980808_0196.htm	iraq	793	ba'athist iraq	0.4459707
+apw19981026_0096.htm	south africa	12	union of south africa	0.44558582
+apw19980816_0994.htm	sawed-off shotgun	774	sawed-off shotgun	0.4448172
+apw19980930_0522.htm	tehran	1423	tehran	0.44453797
+apw19980624_0607.htm	iraq	643	iraq	0.44341573
+apw19980624_0436.htm	iraq	646	iraq	0.44341573
+apw19980624_0607.htm	iraq	3	iraq	0.44175074
+apw19980624_0436.htm	iraq	3	iraq	0.44175074
+apw19980603_1617.htm	lukut	1099	lukut	0.4413474
+apw19980930_0522.htm	iraq	61	iraq	0.44120824
+apw19981026_0096.htm	apartheid	885	apartheid	0.44115478
+apw19980620_0458.htm	iraq	127	iraq	0.44106323
+apw19980824_0827.htm	afghanistan	1465	war in afghanistan (2001–2014)	0.43702668
+apw20000312_0050.htm	nandasmo	1390	nandasmo	0.43316078
+apw20000312_0050.htm	nandasmo	1144	nandasmo	0.43316078
+apw19981109_1089.htm	west indies	846	west indies cricket team	0.43129253
+apw19981109_1172.htm	west indies	851	west indies cricket team	0.43067634
+apw19990120_0179.htm	sotheby's	787	sotheby's	0.4284997
+apw19981120_1056.htm	apartheid	109	apartheid	0.42817348
+apw19990519_0141.htm	wide field planetary camera	1009	wide field and planetary camera	0.4281227
+apw19990120_0179.htm	sotheby's	3	sotheby's	0.427369
+apw19981010_0354.htm	iraq	298	iraq	0.4267038
+apw19981113_0729.htm	israel	61	israel	0.42647135
+apw19981113_0500.htm	israel	61	israel	0.42647135
+apw19980603_1617.htm	malaysia	4	malaysia	0.42577207
+apw19981109_1089.htm	south africa	151	south africa national cricket team	0.42557886
+apw19981215_1083.htm	erfurt	440	erfurt	0.42383114
+apw19990519_0141.htm	northern hemisphere	696	northern hemisphere	0.422947
+apw19980614_0031.htm	bangkok post	1040	bangkok post	0.42285845
+apw19980713_0449.htm	cologne	983	cologne	0.42264754
+apw19990120_0179.htm	sotheby's	787	sotheby's	0.42208698
+apw19980811_0512.htm	central nervous system	215	central nervous system	0.42183077
+apw19981109_0152.htm	hague tribunal	47	international court of justice	0.41782117
+apw19981109_0140.htm	hague tribunal	44	international court of justice	0.41782117
+apw19980603_1617.htm	annuar musa	285	annuar musa	0.41767684
+apw19980808_0196.htm	kuwait	961	kuwait	0.41765347
+apw19981113_0729.htm	israel	409	israel	0.41553026
+apw19981113_0500.htm	israel	406	israel	0.41553026
+apw19981109_0152.htm	hague	47	the hague	0.41468334
+apw19981109_0140.htm	hague	44	the hague	0.41468334
+apw19990526_0131.htm	soldotna	340	soldotna, alaska	0.41174984
+apw19981010_0354.htm	iraq	1048	iraq	0.41056103
+apw19980903_1073.htm	holocaust	853	the holocaust	0.40972385
+apw19980811_0512.htm	niigata city	1169	niigata, niigata	0.40840238
+apw19980930_0522.htm	organization of the islamic conference	1479	organisation of islamic cooperation	0.40693003
+apw19980610_0111.htm	russia	970	russian empire	0.4067627
+apw19981109_1172.htm	wicketkeeper	1096	wicket-keeper	0.40277445
+apw19981109_1089.htm	wicketkeeper	1096	wicket-keeper	0.40277445
+apw19981215_1083.htm	erfurt	1148	erfurt	0.4006607
+apw19981106_0920.htm	natural gas	1036	natural gas	0.4005353
+apw19981120_1056.htm	south africa	377	south africa	0.40053165
+apw19981119_0585.htm	dracula	443	dracula	0.4004885
+apw19981106_0920.htm	natural gas	809	natural gas	0.4002409
+apw20000303_0067.htm	green mountains	667	green mountains	0.3996025
+apw20000303_0067.htm	great lakes	1164	great lakes region	0.3977392
+apw19981210_0433.htm	israel	260	israel	0.39609438
+apw19980824_0827.htm	sudan	1481	sudan	0.3956988
+apw19980627_0596.htm	calcutta university	788	university of calcutta	0.3952806
+apw19980808_0196.htm	iraq	585	iraq war	0.39302608
+apw19980614_0031.htm	thailand	503	thailand	0.39036205
+apw19980824_0827.htm	israel	3	israel	0.38974267
+apw19980903_1073.htm	austria	726	austria	0.38923928
+apw19980930_0284.htm	dieppe	616	dieppe	0.38902402
+apw19990203_0315.htm	terra cotta	452	terracotta	0.3882117
+apw19981215_1083.htm	dresden	1341	dresden	0.38817006
+apw19980930_0522.htm	iraq	689	iraq	0.38808322
+apw20000303_0067.htm	louisiana	101	louisiana	0.38770348
+apw19980811_0512.htm	arsenic	736	arsenic	0.38735318
+apw19980713_0449.htm	cologne	500	cologne	0.38701195
+apw19980603_0791.htm	bangkok	251	bangkok	0.38546452
+apw19980903_1073.htm	austria	3	austria	0.3853262
+apw19980610_0111.htm	the city	1183	carole king	0.38418233
+apw19981130_0743.htm	european peninsula	767	europe	0.3840225
+apw19980603_0791.htm	radio surgery	297	radiosurgery	0.38375476
+apw19981109_0464.htm	hague	95	the hague	0.38262343
+apw19981109_0440.htm	hague	95	the hague	0.38262343
+apw19981130_0743.htm	portugal	318	kingdom of portugal	0.3821292
+apw19981109_0464.htm	prague	557	prague	0.38116482
+apw19981109_0152.htm	prague	590	prague	0.38116482
+apw19981109_0140.htm	prague	587	prague	0.38116482
+apw19980811_0512.htm	air-bag	962	airbag	0.38082305
+apw19981109_0440.htm	prague	557	prague	0.380567
+apw19981022_0630.htm	money laundering	930	money laundering	0.37958956
+apw19980917_0818.htm	sarin	400	sarin	0.3792989
+apw19980603_0791.htm	thailand	327	thailand	0.37916964
+apw19981109_0464.htm	munich	1048	munich	0.37829146
+apw19981109_0440.htm	munich	1054	munich	0.37829146
+apw19981109_0152.htm	munich	1084	munich	0.37829146
+apw19980603_0791.htm	brain  haemorrhage	138	intracerebral hemorrhage	0.37746096
+apw19990120_0179.htm	sothebys.com	295	sotheby's	0.37745
+apw20000312_0050.htm	central america	1103	central america	0.37743983
+apw20000312_0050.htm	sandinistas	599	sandinista national liberation front	0.37667465
+apw19980903_1073.htm	vienna	383	vienna	0.375823
+apw19981026_0096.htm	the party	1334	triumph heritage empowerment party	0.375
+apw19980824_0827.htm	islamic militant	791	islamic terrorism	0.37474543
+apw19980603_0791.htm	thailand	3	thailand	0.3747002
+apw19981119_0585.htm	omnivorous	866	omnivore	0.37456146
+apw19981109_0140.htm	munich	1084	munich	0.37423074
+apw19980903_1073.htm	austria	1257	austrian empire	0.3731469
+apw19981001_0866.htm	hungary	986	hungarian people's republic	0.3725944
+apw19980614_0031.htm	thailand	166	thailand	0.37252402
+apw19980603_0791.htm	breast cancer	118	breast cancer	0.37232015
+apw19980824_0827.htm	israel	347	israel	0.37196958
+apw19980604_0787.htm	thailand	1265	thailand	0.37145296
+apw19981215_1083.htm	dresden	427	dresden	0.3697231
+apw20000303_0067.htm	georgia	117	georgia (u.s. state)	0.3692743
+apw19980611_0774.htm	budapest	110	budapest	0.36902258
+apw19980620_0458.htm	prisoner of war	84	prisoner of war	0.36896706
+apw19981109_0140.htm	germany	1092	nazi germany	0.36873525
+apw19990519_0141.htm	mars	32	mars	0.3685792
+apw19980808_0196.htm	united nations	907	united nations	0.36744767
+apw19981109_0440.htm	iraq	789	iraq	0.36697847
+apw19981215_1083.htm	south africa	1267	south africa	0.36687768
+apw19981109_0152.htm	communism	1338	communism	0.36678684
+apw19981109_0464.htm	germany	1056	nazi germany	0.36674255
+apw19981109_0440.htm	germany	1062	nazi germany	0.36674255
+apw19981109_0152.htm	germany	1092	nazi germany	0.36674255
+apw19981119_0585.htm	dracula	9	dracula	0.3665931
+apw19990526_0131.htm	alaska	1182	alaska	0.36526585
+apw19981109_0464.htm	iraq	786	iraq	0.36397412
+apw19981109_0152.htm	iraq	819	iraq	0.36397412
+apw19981109_0140.htm	iraq	822	iraq	0.36397412
+apw19980816_0994.htm	a man	575	military intelligence directorate (israel)	0.36029583
+apw19980713_0449.htm	nuremberg	1018	nuremberg	0.35970125
+apw19981119_0585.htm	dracula	769	dracula	0.35945153
+apw19981215_1083.htm	cologne	358	cologne	0.3590153
+apw19990827_0137.htm	sexual harassment	1324	sexual harassment	0.35747463
+apw19980603_0791.htm	capillaries	1147	capillary	0.3561328
+apw19981113_0729.htm	fayez	755	faisal al-fayez	0.35497856
+apw19981113_0500.htm	fayez	743	faisal al-fayez	0.35497856
+apw19980816_0994.htm	crowbar	1193	crowbar (tool)	0.35457104
+apw19980611_0774.htm	hungary	820	hungarian people's republic	0.35450003
+apw19980611_0774.htm	illegal art	489	illegal art	0.35416666
+apw19980611_0774.htm	illegal art	40	illegal art	0.35416666
+apw19980611_0774.htm	illegal art	692	illegal art	0.35416666
+apw19980824_0827.htm	israel	1268	israel	0.35398385
+apw19981120_1056.htm	head of state	796	head of state	0.35101655
+apw19980808_0196.htm	invasion of  kuwait	948	invasion of kuwait	0.35093743
+apw19990519_0141.htm	mars	1063	mars	0.34867966
+apw19980917_0818.htm	tokyo district court	781	tokyo district court	0.3486422
+apw19980620_0458.htm	icrc	867	international committee of the red cross	0.34720415
+apw19980713_0449.htm	bonn	993	bonn	0.34709606
+apw19990519_0141.htm	mars	690	mars	0.34606314
+apw19981109_0140.htm	communism	1347	communism	0.34488386
+apw19981109_0464.htm	communism	1302	communism	0.34453973
+apw19981109_0440.htm	communism	1310	communism	0.34453973
+apw19981130_0743.htm	portugal	3	portugal	0.34402743
+apw19981106_0920.htm	norway	1053	norway	0.3415049
+apw20000303_0067.htm	new england	1112	new england	0.341183
+apw19981119_0585.htm	hibernate	753	hibernation	0.3402298
+apw19980624_0607.htm	prisoners of war	147	prisoner of war	0.33972168
+apw19980624_0436.htm	prisoners of war	147	prisoner of war	0.33972168
+apw19980615_0417.htm	associated newspapers ltd	615	dmg media	0.3393602
+apw19990526_0131.htm	a man	68	military intelligence directorate (israel)	0.33921668
+apw19981210_0433.htm	damascus airport	406	damascus international airport	0.33828607
+apw19990519_0141.htm	red planet	221	mars	0.3364215
+apw19980610_0111.htm	kemerovo   region	364	kemerovo oblast	0.33460668
+apw20000303_0067.htm	oklahoma	411	oklahoma	0.3345581
+apw19980816_0994.htm	crowbar	799	crowbar (tool)	0.33398157
+apw19981026_0096.htm	masebe	923	florence masebe	0.33333334
+apw19981106_0920.htm	oslo	1490	oslo	0.33286077
+apw20000303_0067.htm	oregon	1053	oregon	0.33202636
+apw19981119_0585.htm	black  bear	54	american black bear	0.33143395
+apw19981020_1367.htm	atlantis	989	space shuttle atlantis	0.33135295
+apw19980903_1073.htm	germany	1302	nazi germany	0.33124718
+apw19980627_0596.htm	emergency rule in india	1201	the emergency (india)	0.33084667
+apw19980811_0512.htm	japan	1312	empire of japan	0.33067405
+apw19980625_1136.htm	guardian	248	the guardian	0.33051896
+apw19980808_0196.htm	ayatollah	670	ruhollah khomeini	0.3292525
+apw19980611_0774.htm	hungary	1234	hungary	0.3271865
+apw19980903_1073.htm	moscow   summit	401	moscow summit (1972)	0.3268978
+apw19981106_0920.htm	nitrogen	1355	nitrogen	0.3267394
+apw19981210_0433.htm	persian	1469	sasanian empire	0.32622927
+apw20000303_0067.htm	tennessee	145	tennessee	0.32574883
+apw19980824_0827.htm	u.s. basketball team	1090	usa basketball	0.32531762
+apw19980620_0458.htm	iraqi news agency	257	media of iraq	0.3248465
+apw19980709_0263.htm	project accounting	647	project accounting	0.32479662
+apw19980811_0512.htm	tokyo	1238	tokyo	0.32453573
+apw20000303_0067.htm	ohio	345	ohio river	0.32443103
+apw19980627_0596.htm	india	29	india	0.32435414
+apw19981109_1089.htm	batsman	281	batting (cricket)	0.32384697
+apw20000303_0067.htm	gulf coast	81	gulf coast of the united states	0.32337552
+apw19980625_1136.htm	guardian	533	the guardian	0.32316896
+apw19981130_0743.htm	portugal	1015	portugal	0.32122177
+apw19981113_0729.htm	civil aviation authority	794	national aviation authority	0.3208111
+apw19981113_0500.htm	civil aviation authority	782	national aviation authority	0.3208111
+apw20000303_0067.htm	maine	749	maine	0.32072616
+apw19980625_1136.htm	lagos	239	lagos	0.3207207
+apw19981109_0152.htm	collapse of communism	1326	revolutions of 1989	0.3199265
+apw19980615_0417.htm	nice airport	515	nice côte d'azur airport	0.3195235
+apw19980610_0111.htm	embezzlement	1235	embezzlement	0.31728387
+apw19981109_1172.htm	david richardson	1112	dave richardson (cricketer)	0.3169647
+apw19981109_1089.htm	david richardson	1112	dave richardson (cricketer)	0.3169647
+apw19981113_0729.htm	palestinian	79	palestinians	0.31692523
+apw19981113_0500.htm	palestinian	79	palestinians	0.31692523
+apw20000303_0067.htm	carolinas	187	the carolinas	0.31681436
+apw19981106_0920.htm	hydrogen	1344	hydrogen	0.31651533
+apw19980811_0512.htm	cyanide	721	cyanide	0.31602663
+apw19981022_0710.htm	hydroelectric	212	hydroelectricity	0.31447726
+apw19980624_0607.htm	iraqi news agency	376	media of iraq	0.3135965
+apw19980624_0436.htm	iraqi news agency	379	media of iraq	0.3135965
+apw19981109_1172.htm	batsman	352	batting (cricket)	0.31331363
+apw19980930_0522.htm	prisoners of war	976	prisoner of war	0.31304312
+apw19980917_0818.htm	cw	1331	the cw	0.31224364
+apw19980709_0263.htm	vietnam	3	vietnam war	0.31153706
+apw19981109_0152.htm	communist	1248	communism	0.30989152
+apw19980824_0827.htm	muslim	911	muslim	0.30838314
+apw19990120_0179.htm	charge card	1278	charge card	0.30833253
+apw19990519_0141.htm	ice sheet	785	ice sheet	0.30733067
+apw19980620_0458.htm	pow	11	prisoner of war	0.3069893
+apw19980614_0031.htm	baht	1151	thai baht	0.3064469
+apw19980624_0607.htm	civil law	868	civil law (legal system)	0.30540785
+apw19980624_0436.htm	civil law	871	civil law (legal system)	0.30540785
+apw19990120_0179.htm	christie 's	1332	christie's	0.30525908
+apw19980811_0512.htm	japan	664	empire of japan	0.30479425
+apw20000303_0067.htm	continental united states	1395	contiguous united states	0.30434644
+apw19981020_1367.htm	spacecraft	275	spacecraft	0.3033239
+apw20000303_0067.htm	grand marais	1525	grand marais, minnesota	0.30329844
+apw19980603_1617.htm	mussel	1064	mussel	0.30273595
+apw19980620_0458.htm	civil law	1139	civil law (legal system)	0.3026738
+apw19980614_0031.htm	baht	406	thai baht	0.30207106
+apw19980709_0263.htm	vietnam	708	vietnam	0.30173638
+apw19981109_0440.htm	netherlands	489	netherlands	0.3016863
+apw19981109_0464.htm	netherlands	492	netherlands	0.3011963
+apw19981109_0152.htm	netherlands	525	netherlands	0.3011963
+apw19981109_0140.htm	netherlands	519	netherlands	0.3011963
+apw19980615_0417.htm	libel	35	defamation	0.30078804
+apw19980610_0111.htm	kemerovo	749	kemerovo oblast	0.30016887
+apw19980816_0994.htm	motorcycle helmet	697	motorcycle helmet	0.2998206
+apw19980614_0031.htm	queen sirikit	1395	sirikit	0.29972437
+apw19980811_0512.htm	nerve gas	1216	nerve agent	0.29946154
+apw19980709_0263.htm	vietnam	708	vietnam	0.29806948
+apw19981113_0729.htm	palestinians	32	palestinians	0.29804587
+apw19981113_0500.htm	palestinians	32	palestinians	0.29804587
+apw19980811_0512.htm	nausea	590	nausea	0.29799256
+apw20000303_0067.htm	texas	1455	texas	0.29796693
+apw19980816_0994.htm	new zealand	23	new zealand	0.29734385
+apw19980816_0994.htm	albert park	1354	melbourne grand prix circuit	0.2960168
+apw19981109_0140.htm	collapse of communism	1335	revolutions of 1989	0.29595006
+apw19981022_0710.htm	nuclear power	42	nuclear power	0.29476956
+apw19980808_0196.htm	ayatollah ruhollah khomeini	670	ruhollah khomeini	0.29475662
+apw19981106_0920.htm	hydroelectric	1237	hydroelectricity	0.2945177
+apw19980713_0449.htm	frankfurt	773	frankfurt	0.29385027
+apw19981109_0464.htm	collapse of communism	1290	revolutions of 1989	0.2936442
+apw19981109_0440.htm	collapse of communism	1298	revolutions of 1989	0.2936442
+apw19980624_0607.htm	pow	35	prisoner of war	0.29226944
+apw19980624_0436.htm	pow	35	prisoner of war	0.29226944
+apw19981130_0743.htm	illegal immigration	1469	illegal immigration	0.2917084
+apw19980611_0774.htm	communism	762	communism	0.29081726
+apw19980930_0284.htm	impressionist	3	impressionism	0.29067278
+apw19981109_0140.htm	farsi  -language	957	persian language	0.29035264
+apw20000303_0067.htm	texas	400	texas	0.29012322
+apw19990519_0141.htm	carbon dioxide    ice	767	dry ice	0.2893778
+apw19981215_1083.htm	germany	1478	german empire	0.2884193
+apw19981109_0140.htm	communist	1254	communism	0.2879886
+apw19981109_0464.htm	communist	1212	communism	0.28764445

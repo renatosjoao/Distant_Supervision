@@ -1,0 +1,89 @@
+http:__aksw.org_n3_reuters-128_99	coface	417	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_99	coface	178	compagnie française d'assurance pour le commerce extérieur	1.0
+http:__aksw.org_n3_reuters-128_95	securities and exchange commission	45	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_93	office of management and budget	0	office of management and budget	1.0
+http:__aksw.org_n3_reuters-128_91	sifi	1161	mokdad sifi	1.0
+http:__aksw.org_n3_reuters-128_9	sons ltd	206	sons ltd	1.0
+http:__aksw.org_n3_reuters-128_9	samuel montagu	187	samuel montagu, 1st baron swaythling	1.0
+http:__aksw.org_n3_reuters-128_9	rolls royce plc	46	rolls-royce holdings	1.0
+http:__aksw.org_n3_reuters-128_9	francis tombs	915	francis tombs, baron tombs	1.0
+http:__aksw.org_n3_reuters-128_9	christopher clark	147	christopher clark	1.0
+http:__aksw.org_n3_reuters-128_88	western digital	223	western digital	1.0
+http:__aksw.org_n3_reuters-128_87	northwest airlines	403	northwest airlines	1.0
+http:__aksw.org_n3_reuters-128_87	brotherhood of railway and airline clerks	4	transportation communications international union	1.0
+http:__aksw.org_n3_reuters-128_86	wall street journal	380	the wall street journal	1.0
+http:__aksw.org_n3_reuters-128_86	senate appropriations	294	united states senate committee on appropriations	1.0
+http:__aksw.org_n3_reuters-128_86	r. foster winans	409	r. foster winans	1.0
+http:__aksw.org_n3_reuters-128_86	john shad	35	john s.r. shad	1.0
+http:__aksw.org_n3_reuters-128_85	securities and exchange commission	32	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_84	london metal exchange	507	london metal exchange	1.0
+http:__aksw.org_n3_reuters-128_84	international chamber of commerce	432	international chamber of commerce	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial group	0	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_80	fleet financial	472	fleetboston financial	1.0
+http:__aksw.org_n3_reuters-128_78	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_74	stifel	501	stifel	1.0
+http:__aksw.org_n3_reuters-128_74	stifel	168	stifel	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	98	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto stock exchange	229	toronto stock exchange	1.0
+http:__aksw.org_n3_reuters-128_7	toronto dominion bank	343	toronto–dominion bank	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	794	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	697	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	435	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1321	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	dominion textile	1189	dominion textile	1.0
+http:__aksw.org_n3_reuters-128_67	avondale mills	867	avondale mills	1.0
+http:__aksw.org_n3_reuters-128_67	asher edelman	1236	asher edelman	1.0
+http:__aksw.org_n3_reuters-128_66	u.s. securities and exchange commission	1024	u.s. securities and exchange commission	1.0
+http:__aksw.org_n3_reuters-128_66	u.k	735	united kingdom	1.0
+http:__aksw.org_n3_reuters-128_66	london international financial futures exchange	548	london international financial futures and options exchange	1.0
+http:__aksw.org_n3_reuters-128_65	vaseretic	100	enalapril	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	677	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	pennzoil	190	pennzoil	1.0
+http:__aksw.org_n3_reuters-128_61	first boston corp	0	first boston	1.0
+http:__aksw.org_n3_reuters-128_60	luxembourg stock exchange	298	luxembourg stock exchange	1.0
+http:__aksw.org_n3_reuters-128_57	reynolds and reynolds	0	reynolds and reynolds	1.0
+http:__aksw.org_n3_reuters-128_55	u.s. national transportation safety board	541	national transportation safety board	1.0
+http:__aksw.org_n3_reuters-128_53	freeport	259	freeport-mcmoran	1.0
+http:__aksw.org_n3_reuters-128_5	teradyne inc	0	teradyne	1.0
+http:__aksw.org_n3_reuters-128_49	texas gulf coast	4498	gulf coast of the united states	1.0
+http:__aksw.org_n3_reuters-128_49	samuel heyman	1891	samuel j. heyman	1.0
+http:__aksw.org_n3_reuters-128_49	garo armen	4792	garo h. armen	1.0
+http:__aksw.org_n3_reuters-128_49	dean witter reynolds	4820	dean witter reynolds	1.0
+http:__aksw.org_n3_reuters-128_49	cain chemical	4150	occidental petroleum	1.0
+http:__aksw.org_n3_reuters-128_49	armen	4992	garo h. armen	1.0
+http:__aksw.org_n3_reuters-128_48	industrial valley	177	industrial valley	1.0
+http:__aksw.org_n3_reuters-128_46	avx	200	advanced vector extensions	1.0
+http:__aksw.org_n3_reuters-128_45	sub-saharan africa	305	sub-saharan africa	1.0
+http:__aksw.org_n3_reuters-128_45	saouma	549	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_45	edouard saouma	285	edouard saouma	1.0
+http:__aksw.org_n3_reuters-128_42	continental bank of canada	0	continental bank of canada	1.0
+http:__aksw.org_n3_reuters-128_41	avnet inc	0	avnet	1.0
+http:__aksw.org_n3_reuters-128_40	readers digest	195	reader's digest	1.0
+http:__aksw.org_n3_reuters-128_37	federal reserve	4	federal reserve system	1.0
+http:__aksw.org_n3_reuters-128_36	satoshi sumita	462	satoshi sumita	1.0
+http:__aksw.org_n3_reuters-128_36	kiichi miyazawa	413	kiichi miyazawa	1.0
+http:__aksw.org_n3_reuters-128_36	karl otto poehl	260	karl otto pöhl	1.0
+http:__aksw.org_n3_reuters-128_36	jacques de larosiere	341	jacques de larosière	1.0
+http:__aksw.org_n3_reuters-128_36	giovanni goria	896	giovanni goria	1.0
+http:__aksw.org_n3_reuters-128_36	gerhard stoltenberg	215	gerhard stoltenberg	1.0
+http:__aksw.org_n3_reuters-128_36	edouard balladur	301	édouard balladur	1.0
+http:__aksw.org_n3_reuters-128_35	moodys	330	moody's corporation	1.0
+http:__aksw.org_n3_reuters-128_35	moodys	255	moody's corporation	1.0
+http:__aksw.org_n3_reuters-128_32	atari corp	64	atari corporation	1.0
+http:__aksw.org_n3_reuters-128_31	southern co	193	southern company	1.0
+http:__aksw.org_n3_reuters-128_31	plant vogtle	1240	vogtle electric generating plant	1.0
+http:__aksw.org_n3_reuters-128_31	georgia public service commission	26	georgia public service commission	1.0
+http:__aksw.org_n3_reuters-128_31	georgia power	713	georgia power	1.0
+http:__aksw.org_n3_reuters-128_31	georgia power	1612	georgia power	1.0
+http:__aksw.org_n3_reuters-128_31	georgia power	1209	georgia power	1.0
+http:__aksw.org_n3_reuters-128_30	wall street	219	wall street	1.0
+http:__aksw.org_n3_reuters-128_30	tenn.	1170	tennessee	1.0
+http:__aksw.org_n3_reuters-128_30	steven rosenberg	1856	steven rosenberg	1.0
+http:__aksw.org_n3_reuters-128_30	john durant	2403	john durant (fl. 1399–1401)	1.0
+http:__aksw.org_n3_reuters-128_30	emeryville	369	emeryville, california	1.0
+http:__aksw.org_n3_reuters-128_30	calif.	381	california	1.0
+http:__aksw.org_n3_reuters-128_26	asarco	60	asarco	1.0
+http:__aksw.org_n3_reuters-128_24	international monetary fund	434	international monetary fund	1.0
+http:__aksw.org_n3_reuters-128_2	bashaw	205	bashaw, alberta	1.0
+http:__aksw.org_n3_reuters-128_19	brazil	337	brazil	1.0

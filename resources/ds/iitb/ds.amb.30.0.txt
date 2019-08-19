@@ -1,0 +1,720 @@
+yn_08oct08_file_9	kouchner	624	bernard kouchner	1.0
+yn_08oct08_file_9	kouchner	380	bernard kouchner	1.0
+yn_08oct08_file_9	bernard kouchner	279	bernard kouchner	1.0
+yn_08oct08_file_8	charlotte observer	2140	the charlotte observer	1.0
+yn_08oct08_file_8	charlotte observer	1546	the charlotte observer	1.0
+yn_08oct08_file_7	thomas steg	313	thomas steg	1.0
+yn_08oct08_file_6	wakil ahmed muttawakil	210	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	qari mohammad yousuf	3197	yousef ahmadi	1.0
+yn_08oct08_file_6	muttawakil	786	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	muttawakil	1141	wakil ahmed muttawakil	1.0
+yn_08oct08_file_6	mullah mohammad omar	1583	mohammed omar	1.0
+yn_08oct08_file_6	kai eide	2925	kai eide	1.0
+yn_08oct08_file_5	new york army national guard	1274	new york army national guard	1.0
+yn_08oct08_file_5	guantanamo bay naval base	731	guantanamo bay naval base	1.0
+yn_08oct08_file_5	defense department	524	united states department of defense	1.0
+yn_08oct08_file_5	defense department	344	united states department of defense	1.0
+yn_08oct08_file_40	eleuthera	3143	eleuthera	1.0
+yn_08oct08_file_40	eleuthera	2879	eleuthera	1.0
+yn_08oct08_file_4	mark carleton-smith	848	mark carleton-smith	1.0
+yn_08oct08_file_39	bahamas olympic association	104	bahamas olympic committee	1.0
+yn_08oct08_file_38	hubert ingraham	107	hubert ingraham	1.0
+yn_08oct08_file_38	christ community church	429	christ community church	1.0
+yn_08oct08_file_38	central bank of the bahamas	850	central bank of the bahamas	1.0
+yn_08oct08_file_36	u.s. treasury	2729	united states department of the treasury	1.0
+yn_08oct08_file_34	washington university	2338	washington university in st. louis	1.0
+yn_08oct08_file_34	siteman cancer center	1915	alvin j. siteman cancer center	1.0
+yn_08oct08_file_34	sheila allen	1636	sheila allen (english actress)	1.0
+yn_08oct08_file_34	pam blackwell	314	pam blackwell	1.0
+yn_08oct08_file_34	nassau	1270	the bahamas	1.0
+yn_08oct08_file_34	farmington	362	farmington, connecticut	1.0
+yn_08oct08_file_34	daily journal	5022	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	daily journal	4781	the daily journal (new jersey)	1.0
+yn_08oct08_file_34	barnes hospital	1940	barnes-jewish hospital	1.0
+yn_08oct08_file_34	bahamas	212	the bahamas	1.0
+yn_08oct08_file_33	sub-saharan africa	5456	sub-saharan africa	1.0
+yn_08oct08_file_33	joan thompson	941	joan beauchamp	1.0
+yn_08oct08_file_33	central africa republic	5297	central african republic	1.0
+yn_08oct08_file_31	siula grande	7900	siula grande	1.0
+yn_08oct08_file_31	siula grande	7294	siula grande	1.0
+yn_08oct08_file_31	outer hebrides	6722	outer hebrides	1.0
+yn_08oct08_file_31	lower largo	1513	lower largo	1.0
+yn_08oct08_file_31	chris bonington	6284	chris bonington	1.0
+yn_08oct08_file_30	theatre royal bath	2165	theatre royal, bath	1.0
+yn_08oct08_file_30	nathaniel parker	2040	nathaniel parker	1.0
+yn_08oct08_file_30	christopher timothy	2061	christopher timothy	1.0
+yn_08oct08_file_30	arctic challenge	443	the arctic challenge	1.0
+yn_08oct08_file_28	wasilla	6466	wasilla, alaska	1.0
+yn_08oct08_file_28	u.s.	5484	united states	1.0
+yn_08oct08_file_28	trig	5745	trig (syntax)	1.0
+yn_08oct08_file_28	st. louis	5661	st. louis	1.0
+yn_08oct08_file_28	seal press	4627	perseus books group	1.0
+yn_08oct08_file_28	sarah palin	5592	sarah palin	1.0
+yn_08oct08_file_28	perseus books group	4659	perseus books group	1.0
+yn_08oct08_file_28	palin	5815	sarah palin	1.0
+yn_08oct08_file_28	national assembly of pakistan	1369	national assembly of pakistan	1.0
+yn_08oct08_file_28	national assembly	1590	national assembly of pakistan	1.0
+yn_08oct08_file_28	joe biden	5712	joe biden	1.0
+yn_08oct08_file_28	iraq	6895	iraq	1.0
+yn_08oct08_file_28	international monetary fund	2108	international monetary fund	1.0
+yn_08oct08_file_28	hillary clinton	6303	hillary clinton	1.0
+yn_08oct08_file_28	gop	6030	government of pakistan	1.0
+yn_08oct08_file_28	fakhri	2850	nargis fakhri	1.0
+yn_08oct08_file_28	fakhri	2605	nargis fakhri	1.0
+yn_08oct08_file_27	wasilla	5861	wasilla, alaska	1.0
+yn_08oct08_file_27	u.s.	4879	united states	1.0
+yn_08oct08_file_27	trig	5140	trig (syntax)	1.0
+yn_08oct08_file_27	st. louis	5056	st. louis	1.0
+yn_08oct08_file_27	sarah palin	4987	sarah palin	1.0
+yn_08oct08_file_27	perseus books group	4062	perseus books group	1.0
+yn_08oct08_file_27	pelosi	653	nancy pelosi	1.0
+yn_08oct08_file_27	pelosi	413	nancy pelosi	1.0
+yn_08oct08_file_27	palin	5210	sarah palin	1.0
+yn_08oct08_file_27	nancy pelosi	51	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	500	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	431	nancy pelosi	1.0
+yn_08oct08_file_27	nancy pelosi	224	nancy pelosi	1.0
+yn_08oct08_file_27	julia ward howe	3779	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1310	julia ward howe	1.0
+yn_08oct08_file_27	julia ward howe	1241	julia ward howe	1.0
+yn_08oct08_file_27	joe biden	5107	joe biden	1.0
+yn_08oct08_file_27	iraq	6290	iraq	1.0
+yn_08oct08_file_27	iraq	3446	iraq	1.0
+yn_08oct08_file_27	iraq	2483	iraq	1.0
+yn_08oct08_file_27	huffington post	4135	huffpost	1.0
+yn_08oct08_file_27	howe	1568	julia ward howe	1.0
+yn_08oct08_file_27	hillary clinton	5698	hillary clinton	1.0
+yn_08oct08_file_27	getty images	185	getty images	1.0
+yn_08oct08_file_27	gop	5425	government of pakistan	1.0
+yn_08oct08_file_26	tomas morato	817	tomas morato	1.0
+yn_08oct08_file_26	sunshine dizon	138	sunshine dizon	1.0
+yn_08oct08_file_26	rosa negra	2794	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	rosa negra	2227	black rose (turkish tv series)	1.0
+yn_08oct08_file_26	quezon city	831	quezon city	1.0
+yn_08oct08_file_26	maryo j. delos reyes	2316	maryo j. de los reyes	1.0
+yn_08oct08_file_26	jun lana	2354	jun lana	1.0
+yn_08oct08_file_26	joel lamangan	2301	joel lamangan	1.0
+yn_08oct08_file_25	dreamin	3199	plata o plomo (fat joe and remy ma album)	1.0
+yn_08oct08_file_25	daniel lanois	2329	daniel lanois	1.0
+yn_08oct08_file_24	tomas morato	999	tomas morato	1.0
+yn_08oct08_file_24	sunshine dizon	328	sunshine dizon	1.0
+yn_08oct08_file_24	sunshine dizon	28	sunshine dizon	1.0
+yn_08oct08_file_24	rosa negra	2923	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	2360	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	rosa negra	151	black rose (turkish tv series)	1.0
+yn_08oct08_file_24	quezon city	1013	quezon city	1.0
+yn_08oct08_file_24	maryo j. delos reyes	2449	maryo j. de los reyes	1.0
+yn_08oct08_file_24	jun lana	2487	jun lana	1.0
+yn_08oct08_file_24	joel lamangan	2434	joel lamangan	1.0
+yn_08oct08_file_24	dizon	3184	sunshine dizon	1.0
+yn_08oct08_file_23	orphan annie	3078	little orphan annie	1.0
+yn_08oct08_file_23	michif	3633	michif	1.0
+yn_08oct08_file_23	gerry ritz	282	gerry ritz	1.0
+yn_08oct08_file_23	gabriel dumont institute	1190	gabriel dumont institute	1.0
+yn_08oct08_file_22	roseland theater	104	roseland theater	1.0
+yn_08oct08_file_22	arlene schnitzer	173	arlene schnitzer	1.0
+yn_08oct08_file_21	topper headon	4922	topper headon	1.0
+yn_08oct08_file_21	ted turner	2653	ted turner	1.0
+yn_08oct08_file_21	shea stadium	5367	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4644	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	4458	shea stadium	1.0
+yn_08oct08_file_21	shea stadium	121	shea stadium	1.0
+yn_08oct08_file_21	rosalee	4192	rosalee mason	1.0
+yn_08oct08_file_21	robert johnson	1373	robert johnson	1.0
+yn_08oct08_file_21	ralph stanley	6895	ralph stanley	1.0
+yn_08oct08_file_21	ralph stanley	2521	ralph stanley	1.0
+yn_08oct08_file_21	philly.com	8202	philadelphia media network	1.0
+yn_08oct08_file_21	philly.com	7742	philadelphia media network	1.0
+yn_08oct08_file_21	philly.com	7369	philadelphia media network	1.0
+yn_08oct08_file_21	new york	4633	shea stadium	1.0
+yn_08oct08_file_21	martin chambers	3958	martin chambers	1.0
+yn_08oct08_file_21	joe strummer	4586	joe strummer	1.0
+yn_08oct08_file_21	jim keltner	3934	jim keltner	1.0
+yn_08oct08_file_21	hynde	4406	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	4133	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	3868	chrissie hynde	1.0
+yn_08oct08_file_21	hynde	3643	chrissie hynde	1.0
+yn_08oct08_file_21	elvis presley	3813	elvis presley	1.0
+yn_08oct08_file_21	dylan	7120	bob dylan	1.0
+yn_08oct08_file_21	dylan	3016	bob dylan	1.0
+yn_08oct08_file_21	dylan	2932	bob dylan	1.0
+yn_08oct08_file_21	dylan	293	bob dylan	1.0
+yn_08oct08_file_21	dylan	2363	bob dylan	1.0
+yn_08oct08_file_21	dylan	1765	bob dylan	1.0
+yn_08oct08_file_21	dylan	1669	bob dylan	1.0
+yn_08oct08_file_21	dylan	1110	bob dylan	1.0
+yn_08oct08_file_21	daniel lanois	2330	daniel lanois	1.0
+yn_08oct08_file_21	dan deluca	439	dan deluca	1.0
+yn_08oct08_file_21	chrissie hynde	3486	chrissie hynde	1.0
+yn_08oct08_file_21	charley patton	2458	charley patton	1.0
+yn_08oct08_file_21	bruce springsteen	693	bruce springsteen	1.0
+yn_08oct08_file_21	bob dylan	514	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	472	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	3844	bob dylan	1.0
+yn_08oct08_file_21	bob dylan	0	bob dylan	1.0
+yn_08oct08_file_21	bo diddley	4209	bo diddley	1.0
+yn_08oct08_file_20	white house	211	white house	1.0
+yn_08oct08_file_20	richard tambling	2130	richard tambling	1.0
+yn_08oct08_file_20	john manders	507	john e. manders	1.0
+yn_08oct08_file_20	jan pienkowski	1524	jan pieńkowski	1.0
+yn_08oct08_file_20	jan pienkowski	1332	jan pieńkowski	1.0
+yn_08oct08_file_20	christopher denise	915	christopher denise	1.0
+yn_08oct08_file_20	carolyn marsden	1874	carolyn marsden	1.0
+yn_08oct08_file_20	candlewick press	935	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	521	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1917	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1612	candlewick press	1.0
+yn_08oct08_file_20	candlewick press	1348	candlewick press	1.0
+yn_08oct08_file_19	villaraigosa	3516	antonio villaraigosa	1.0
+yn_08oct08_file_19	scaqmd	5373	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	5218	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	3350	south coast air quality management district	1.0
+yn_08oct08_file_19	scaqmd	2507	south coast air quality management district	1.0
+yn_08oct08_file_19	s. david freeman	3219	s. david freeman	1.0
+yn_08oct08_file_19	natural resources defense council	2692	natural resources defense council	1.0
+yn_08oct08_file_19	nrdc	4413	hudson's bay company	1.0
+yn_08oct08_file_19	los angeles	793	los angeles	1.0
+yn_08oct08_file_19	los angeles	4928	los angeles	1.0
+yn_08oct08_file_19	long beach	778	long beach, california	1.0
+yn_08oct08_file_19	long beach	5203	long beach, california	1.0
+yn_08oct08_file_19	long beach	5173	long beach, california	1.0
+yn_08oct08_file_19	long beach	4004	long beach, california	1.0
+yn_08oct08_file_19	long beach	3095	long beach, california	1.0
+yn_08oct08_file_19	long beach	1577	long beach, california	1.0
+yn_08oct08_file_19	l.a.	862	los angeles	1.0
+yn_08oct08_file_19	l.a.	5076	los angeles	1.0
+yn_08oct08_file_19	l.a.	3995	los angeles	1.0
+yn_08oct08_file_19	l.a.	3802	los angeles	1.0
+yn_08oct08_file_19	l.a.	2565	los angeles	1.0
+yn_08oct08_file_19	l.a.	2372	los angeles	1.0
+yn_08oct08_file_19	l.a.	2098	los angeles	1.0
+yn_08oct08_file_19	l.a.	1568	los angeles	1.0
+yn_08oct08_file_19	china shipping	4888	china shipping container lines	1.0
+yn_08oct08_file_19	china shipping	2811	china shipping container lines	1.0
+yn_08oct08_file_19	air resources board	3370	california air resources board	1.0
+yn_08oct08_file_18	new york stock exchange	457	new york stock exchange	1.0
+yn_08oct08_file_18	merrill lynch & co.	2161	merrill lynch	1.0
+yn_08oct08_file_18	merrill lynch	3214	merrill lynch	1.0
+yn_08oct08_file_18	merrill lynch	2522	merrill lynch	1.0
+yn_08oct08_file_18	deutsche bank ag	985	deutsche bank	1.0
+yn_08oct08_file_18	countrywide financial corp.	2411	bank of america home loans	1.0
+yn_08oct08_file_18	countrywide	3198	bank of america home loans	1.0
+yn_08oct08_file_18	countrywide	2811	bank of america home loans	1.0
+yn_08oct08_file_17	new york state court of appeals	3096	new york court of appeals	1.0
+yn_08oct08_file_17	larry ellison	2465	larry ellison	1.0
+yn_08oct08_file_17	kostecki	2106	john kostecki	1.0
+yn_08oct08_file_17	kostecki	1444	john kostecki	1.0
+yn_08oct08_file_17	kostecki	1078	john kostecki	1.0
+yn_08oct08_file_17	john kostecki	503	john kostecki	1.0
+yn_08oct08_file_17	ernesto bertarelli	3164	ernesto bertarelli	1.0
+yn_08oct08_file_17	bmw oracle racing	2416	oracle team usa	1.0
+yn_08oct08_file_16	seattle times	454	the seattle times	1.0
+yn_08oct08_file_16	lake forest park	670	lake forest park, washington	1.0
+yn_08oct08_file_16	kimball	908	christopher kimball	1.0
+yn_08oct08_file_16	kimball	295	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	857	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	518	christopher kimball	1.0
+yn_08oct08_file_16	christopher kimball	227	christopher kimball	1.0
+yn_08oct08_file_15	yahoo! inc	1233	yahoo!	1.0
+yn_08oct08_file_15	ibm corp.	514	ibm	1.0
+yn_08oct08_file_15	general growth properties inc.	688	ggp inc.	1.0
+yn_08oct08_file_15	bank of america corp.	300	bank of america	1.0
+yn_08oct08_file_14	thomson financial	905	thomson financial	1.0
+yn_08oct08_file_14	lehman brothers holdings inc.	2526	lehman brothers	1.0
+yn_08oct08_file_14	kenneth d. lewis	1218	ken lewis (executive)	1.0
+yn_08oct08_file_14	countrywide financial	2746	bank of america home loans	1.0
+yn_08oct08_file_14	american international group inc.	2589	american international group	1.0
+yn_08oct08_file_13	weill	3810	sanford i. weill	1.0
+yn_08oct08_file_13	weill	3519	sanford i. weill	1.0
+yn_08oct08_file_13	wachovia	3233	wachovia	1.0
+yn_08oct08_file_13	wachovia	3089	wachovia	1.0
+yn_08oct08_file_13	travelers group	3553	the travelers companies	1.0
+yn_08oct08_file_13	steven udvar-hazy	2317	steven f. udvar-házy	1.0
+yn_08oct08_file_13	sanford weill	3410	sanford i. weill	1.0
+yn_08oct08_file_13	reuters	1690	reuters	1.0
+yn_08oct08_file_13	maurice greenberg	565	maurice r. greenberg	1.0
+yn_08oct08_file_13	louis gonda	1918	louis gonda	1.0
+yn_08oct08_file_13	leslie gonda	62	leslie gonda	1.0
+yn_08oct08_file_13	leslie	2019	leslie gonda	1.0
+yn_08oct08_file_13	leslie	1907	leslie gonda	1.0
+yn_08oct08_file_13	leslie	176	leslie gonda	1.0
+yn_08oct08_file_13	international lease finance	2113	international lease finance corporation	1.0
+yn_08oct08_file_13	greenberg	920	maurice r. greenberg	1.0
+yn_08oct08_file_13	greenberg	1476	maurice r. greenberg	1.0
+yn_08oct08_file_13	greenberg	1115	maurice r. greenberg	1.0
+yn_08oct08_file_13	citigroup	3638	citigroup	1.0
+yn_08oct08_file_13	citigroup	3480	citigroup	1.0
+yn_08oct08_file_13	citicorp	3588	citigroup	1.0
+yn_08oct08_file_13	bernanke	4497	ben bernanke	1.0
+yn_08oct08_file_13	bear stearns	3878	bear stearns	1.0
+yn_08oct08_file_13	aig	813	american international group	1.0
+yn_08oct08_file_13	aig	717	american international group	1.0
+yn_08oct08_file_13	aig	2868	american international group	1.0
+yn_08oct08_file_13	aig	2612	american international group	1.0
+yn_08oct08_file_13	aig	2560	american international group	1.0
+yn_08oct08_file_13	aig	2226	american international group	1.0
+yn_08oct08_file_13	aig	1127	american international group	1.0
+yn_08oct08_file_12	yahoo! inc	5469	yahoo!	1.0
+yn_08oct08_file_12	wachovia corp.	2469	wachovia	1.0
+yn_08oct08_file_12	wachovia	3960	wachovia	1.0
+yn_08oct08_file_12	wachovia	3591	wachovia	1.0
+yn_08oct08_file_12	wachovia	2507	wachovia	1.0
+yn_08oct08_file_12	thomson reuters	3182	thomson reuters	1.0
+yn_08oct08_file_12	regions financial	5346	regions financial corporation	1.0
+yn_08oct08_file_12	regions financial	5062	regions financial corporation	1.0
+yn_08oct08_file_12	mike mayo	1808	mike kruel	1.0
+yn_08oct08_file_12	keycorp	5012	keybank	1.0
+yn_08oct08_file_12	keycorp	4745	keybank	1.0
+yn_08oct08_file_12	jamie dimon	3467	jamie dimon	1.0
+yn_08oct08_file_12	jpmorgan chase & co.	3267	jpmorgan chase	1.0
+yn_08oct08_file_12	jpmorgan	3906	jpmorgan chase	1.0
+yn_08oct08_file_12	jpmorgan	3796	jpmorgan chase	1.0
+yn_08oct08_file_12	golden west financial	2646	golden west financial	1.0
+yn_08oct08_file_12	golden west	2677	golden west financial	1.0
+yn_08oct08_file_12	citigroup inc.	1978	citigroup	1.0
+yn_08oct08_file_12	citigroup	3665	citigroup	1.0
+yn_08oct08_file_12	citigroup	2352	citigroup	1.0
+yn_08oct08_file_12	citigroup	2123	citigroup	1.0
+yn_08oct08_file_11	wal-mart mexico	113	walmart de méxico y centroamérica	1.0
+yn_08oct08_file_11	tokyo	59	tokyo	1.0
+yn_08oct08_file_11	telefonica sa	1702	telefónica	1.0
+yn_08oct08_file_11	telefonica sa	1483	telefónica	1.0
+yn_08oct08_file_11	telefonica chile	1769	movistar (chile)	1.0
+yn_08oct08_file_11	reuters	699	reuters	1.0
+yn_08oct08_file_11	penoles	2388	penol (náutica)	1.0
+yn_08oct08_file_11	latin america	815	latin america	1.0
+yn_08oct08_file_11	latin america	278	latin america	1.0
+yn_08oct08_file_11	latin america	2581	latin america	1.0
+yn_08oct08_file_11	ing groep nv	1178	ing group	1.0
+yn_08oct08_file_11	fresnillo	2454	fresnillo	1.0
+yn_08oct08_file_11	fresnillo	2265	fresnillo	1.0
+yn_08oct08_file_11	credit suisse group ag	2083	credit suisse	1.0
+yn_08oct08_file_11	brazil	724	brazil	1.0
+yn_08oct08_file_11	brazil	544	brazil	1.0
+yn_08oct08_file_11	brazil	444	brazil	1.0
+yn_08oct08_file_11	bloomberg	200	bloomberg l.p.	1.0
+yn_08oct08_file_11	bloomberg	1070	bloomberg l.p.	1.0
+yn_08oct08_file_10	new york state court of appeals	3023	new york court of appeals	1.0
+yn_08oct08_file_10	larry ellison	2390	larry ellison	1.0
+yn_08oct08_file_10	kostecki	2030	john kostecki	1.0
+yn_08oct08_file_10	kostecki	1367	john kostecki	1.0
+yn_08oct08_file_10	kostecki	1001	john kostecki	1.0
+yn_08oct08_file_10	john kostecki	425	john kostecki	1.0
+yn_08oct08_file_10	ernesto bertarelli	3091	ernesto bertarelli	1.0
+yn_08oct08_file_10	bmw oracle racing	2340	oracle team usa	1.0
+yn_08oct08_file_1	zabul province	913	zabul province	1.0
+yn_08oct08_file_1	zabul	387	zabul province	1.0
+yn_08oct08_file_0	nad ali	1246	nad ali district	1.0
+ganeshtestdoc.txt	steve waugh	204	steve waugh	1.0
+ganeshtestdoc.txt	sourav ganguly	66	sourav ganguly	1.0
+ganeshtestdoc.txt	rahul dravid	382	rahul dravid	1.0
+ganeshtestdoc.txt	mike denness	17	mike denness	1.0
+ganeshtestdoc.txt	darren lehmann	217	darren lehmann	1.0
+ganeshtestdoc.txt	damien martyn	247	damien martyn	1.0
+13oct08_buss_file_11.txt	washington mutual	3946	washington mutual	1.0
+13oct08_buss_file_11.txt	u.s. treasury dept.	1315	united states department of the treasury	1.0
+13oct08_buss_file_11.txt	u.s.	928	united states	1.0
+13oct08_buss_file_11.txt	moody's investors service	1120	moody's investors service	1.0
+13oct08_buss_file_11.txt	jpmorgan chase	630	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan chase	4057	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	4190	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	1657	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	jpmorgan	1479	jpmorgan chase	1.0
+13oct08_buss_file_11.txt	bank of america	655	bank of america	1.0
+13oct08_buss_file_10.txt	washington mutual	1736	washington mutual	1.0
+13oct08_buss_file_10.txt	wachovia	1811	wachovia	1.0
+13oct08_buss_file_10.txt	jpmorgan chase	1689	jpmorgan chase	1.0
+13oct08_buss_file_10.txt	ibbotson associates	2202	roger g. ibbotson	1.0
+13oct08_buss_file_10.txt	countrywide financial	1642	bank of america home loans	1.0
+13oct08_buss_file_10.txt	citigroup	1755	citigroup	1.0
+13oct08_buss_file_10.txt	bear stearns	1719	bear stearns	1.0
+13oct08amittech9.txt	felix wankel	312	felix wankel	1.0
+13oct08amittech8.txt	t. boone pickens	3377	t. boone pickens	1.0
+13oct08amittech8.txt	t. boone pickens	268	t. boone pickens	1.0
+13oct08amittech8.txt	san francisco chronicle	1218	san francisco chronicle	1.0
+13oct08amittech8.txt	oval office	5233	oval office	1.0
+13oct08amittech8.txt	navigant consulting	3553	navigant consulting	1.0
+13oct08amittech8.txt	haynesville shale	1087	haynesville shale	1.0
+13oct08amittech8.txt	haynesville	2703	haynesville shale	1.0
+13oct08amittech8.txt	haynesville	1891	haynesville shale	1.0
+13oct08amittech8.txt	energy department	4352	ministry of energy	1.0
+13oct08amittech8.txt	chris moreno	1274	chris moreno	1.0
+13oct08amittech8.txt	chesapeake energy	2259	chesapeake energy	1.0
+13oct08amittech8.txt	barnett shale	975	barnett shale	1.0
+13oct08amittech7.txt	shopping.com	1940	shopping.com	1.0
+13oct08amittech7.txt	mike boland	3584	mike boland (politician)	1.0
+13oct08amittech7.txt	linkedin	1506	linkedin	1.0
+13oct08amittech7.txt	google alerts	1746	google alerts	1.0
+13oct08amittech5.txt	metin sitti	4105	metin sitti	1.0
+13oct08amittech5.txt	carnegie mellon	4152	carnegie mellon university	1.0
+13oct08amittech4.txt	inphase	4612	inphase technologies	1.0
+13oct08amittech4.txt	inphase	3092	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2725	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2479	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2105	inphase technologies	1.0
+13oct08amittech4.txt	inphase	2022	inphase technologies	1.0
+13oct08amittech4.txt	ge global research	415	ge global research	1.0
+13oct08amittech3.txt	yuri lonchakov	1006	yury lonchakov	1.0
+13oct08amittech3.txt	st. louis science center	2936	saint louis science center	1.0
+13oct08amittech3.txt	smithsonian national air and space museum	2869	national air and space museum	1.0
+13oct08amittech3.txt	republic of kazakhstan	898	kazakhstan	1.0
+13oct08amittech3.txt	owen garriott	189	owen k. garriott	1.0
+13oct08amittech3.txt	owen garriott	1321	owen k. garriott	1.0
+13oct08amittech3.txt	national science foundation	2333	national science foundation	1.0
+13oct08amittech3.txt	museum of science	2846	museum of science (boston)	1.0
+13oct08amittech3.txt	mount saint helens	1998	mount st. helens	1.0
+13oct08amittech3.txt	michael fincke	969	michael fincke	1.0
+13oct08amittech26.txt	pacific biosciences	6802	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	5460	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	5111	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	4279	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	2873	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	190	pacific biosciences	1.0
+13oct08amittech26.txt	pacific biosciences	1124	pacific biosciences	1.0
+13oct08amittech26.txt	nusbaum	7076	nusbaum	1.0
+13oct08amittech26.txt	nusbaum	5446	nusbaum	1.0
+13oct08amittech26.txt	evan eichler	4947	evan e. eichler	1.0
+13oct08amittech26.txt	broad institute	3795	broad institute	1.0
+13oct08amittech25.txt	ledingham	4780	una ledingham	1.0
+13oct08amittech25.txt	ledingham	4521	una ledingham	1.0
+13oct08amittech25.txt	ledingham	4098	una ledingham	1.0
+13oct08amittech25.txt	ledingham	3280	una ledingham	1.0
+13oct08amittech25.txt	ledingham	2981	una ledingham	1.0
+13oct08amittech25.txt	ledingham	2801	una ledingham	1.0
+13oct08amittech25.txt	ledingham	2253	una ledingham	1.0
+13oct08amittech25.txt	ledingham	1012	una ledingham	1.0
+13oct08amittech25.txt	geoffrey turner	1394	geoffrey turner (bishop)	1.0
+13oct08amittech25.txt	forrester research	1360	forrester research	1.0
+13oct08amittech25.txt	firefox	4076	firefox os	1.0
+13oct08amittech25.txt	digital guardian	4350	digital guardian	1.0
+13oct08amittech25.txt	digital guardian	4267	digital guardian	1.0
+13oct08amittech24.txt	u.s. food and drug administration	62	food and drug administration	1.0
+13oct08amittech24.txt	thomas reh	3318	thomas reh	1.0
+13oct08amittech24.txt	stephen rose	679	steven rose	1.0
+13oct08amittech24.txt	advanced cell technology	3664	ocata therapeutics	1.0
+13oct08amittech23.txt	zittrain	5248	jonathan zittrain	1.0
+13oct08amittech23.txt	zittrain	4222	jonathan zittrain	1.0
+13oct08amittech23.txt	zittrain	3951	jonathan zittrain	1.0
+13oct08amittech23.txt	rich miner	2790	rich miner	1.0
+13oct08amittech23.txt	jonathan zittrain	3736	jonathan zittrain	1.0
+13oct08amittech23.txt	android market	3144	google play	1.0
+13oct08amittech23.txt	aol	1580	aol	1.0
+13oct08amittech22.txt	university of california	2128	university of california	1.0
+13oct08amittech22.txt	mariñas	2930	luis mariñas	1.0
+13oct08amittech22.txt	mariñas	1591	luis mariñas	1.0
+13oct08amittech22.txt	jeff green	848	jeff green (basketball)	1.0
+13oct08amittech22.txt	green	3722	jeff green (basketball)	1.0
+13oct08amittech22.txt	green	3357	jeff green (basketball)	1.0
+13oct08amittech22.txt	green	2822	jeff green (basketball)	1.0
+13oct08amittech22.txt	green	2630	jeff green (basketball)	1.0
+13oct08amittech22.txt	green	1090	jeff green (basketball)	1.0
+13oct08amittech21.txt	von ahn	5131	luis von ahn	1.0
+13oct08amittech21.txt	von ahn	4510	luis von ahn	1.0
+13oct08amittech21.txt	palo alto research center	2478	parc (company)	1.0
+13oct08amittech21.txt	luis von ahn	4191	luis von ahn	1.0
+13oct08amittech20.txt	sandia national laboratories	231	sandia national laboratories	1.0
+13oct08amittech20.txt	sandia national laboratories	1813	sandia national laboratories	1.0
+13oct08amittech20.txt	argonne national laboratories	1753	argonne national laboratory	1.0
+13oct08amittech2.txt	hewlett-packard	1838	hewlett-packard	1.0
+13oct08amittech2.txt	digital equipment corporation	1306	digital equipment corporation	1.0
+13oct08amittech19.txt	university of tübingen	1087	university of tübingen	1.0
+13oct08amittech19.txt	university of knoxville	5389	university of tennessee	1.0
+13oct08amittech18.txt	roger y. tsien	383	roger y. tsien	1.0
+13oct08amittech18.txt	roger y. tsien	3110	roger y. tsien	1.0
+13oct08amittech18.txt	osamu shimomura	255	osamu shimomura	1.0
+13oct08amittech18.txt	nobel foundation	764	nobel foundation	1.0
+13oct08amittech18.txt	martin chalfie	327	martin chalfie	1.0
+13oct08amittech18.txt	martin chalfie	2415	martin chalfie	1.0
+13oct08amittech18.txt	marine biological laboratory	278	marine biological laboratory	1.0
+13oct08amittech18.txt	elias zerhouni	3801	elias zerhouni	1.0
+13oct08amittech18.txt	chalfie	3238	martin chalfie	1.0
+13oct08amittech18.txt	chalfie	3007	martin chalfie	1.0
+13oct08amittech18.txt	chalfie	2742	martin chalfie	1.0
+13oct08amittech18.txt	chalfie	2562	martin chalfie	1.0
+13oct08amittech18.txt	bruce bursten	1126	bruce e. bursten	1.0
+13oct08amittech18.txt	american chemical society	1158	american chemical society	1.0
+13oct08amittech17.txt	u.s. food and drug administration	270	food and drug administration	1.0
+13oct08amittech17.txt	rockefeller university	1103	rockefeller university	1.0
+13oct08amittech17.txt	peter palese	3331	peter palese	1.0
+13oct08amittech17.txt	palese	3817	peter palese	1.0
+13oct08amittech17.txt	mount sinai school of medicine	3388	icahn school of medicine at mount sinai	1.0
+13oct08amittech17.txt	aaron diamond aids research center	1161	aaron diamond aids research center	1.0
+13oct08amittech16.txt	university of new brunswick	2812	university of new brunswick	1.0
+13oct08amittech16.txt	richard langley	2733	richard langley	1.0
+13oct08amittech16.txt	kintner	935	jill kintner	1.0
+13oct08amittech16.txt	kintner	4601	jill kintner	1.0
+13oct08amittech16.txt	kintner	4195	jill kintner	1.0
+13oct08amittech16.txt	kintner	2501	jill kintner	1.0
+13oct08amittech16.txt	kintner	1101	jill kintner	1.0
+13oct08amittech16.txt	cornell university	415	cornell university	1.0
+13oct08amittech16.txt	cornell	659	cornell university	1.0
+13oct08amittech16.txt	cornell	1986	cornell university	1.0
+13oct08amittech16.txt	canada	2844	toronto	1.0
+13oct08amittech14.txt	marlow industries	3515	marlow industries	1.0
+13oct08amittech14.txt	mit	3899	massachusetts institute of technology	1.0
+13oct08amittech14.txt	mit	3017	massachusetts institute of technology	1.0
+13oct08amittech13.txt	branz	4208	maría sol branz	1.0
+13oct08amittech13.txt	branz	2509	maría sol branz	1.0
+13oct08amittech12.txt	university of connecticut health center	3127	university of connecticut health center	1.0
+13oct08amittech12.txt	stephen quake	199	stephen quake	1.0
+13oct08amittech12.txt	sequenom	4135	sequenom	1.0
+13oct08amittech12.txt	ravinder dhallan	4413	ravinder dhallan	1.0
+13oct08amittech12.txt	ravgen	4450	ravgen	1.0
+13oct08amittech12.txt	national academy of sciences	1046	national academy of sciences	1.0
+13oct08amittech12.txt	howard hughes medical institute	1691	howard hughes medical institute	1.0
+13oct08amittech12.txt	florida international university	852	florida international university	1.0
+13oct08amittech11.txt	duke university	2638	duke university	1.0
+13oct08amitsport9.txt	stefan schumacher	906	stefan schumacher	1.0
+13oct08amitsport9.txt	stefan schumacher	48	stefan schumacher	1.0
+13oct08amitsport9.txt	heinz betz	1627	heinz betz	1.0
+13oct08amitsport9.txt	chatenay-malabry	327	châtenay-malabry	1.0
+13oct08amitsport9.txt	chatenay-malabry	1349	châtenay-malabry	1.0
+13oct08amitsport8.txt	wilfried sauerland	161	wilfried sauerland	1.0
+13oct08amitsport8.txt	valuev	1293	nikolai valuev	1.0
+13oct08amitsport8.txt	sultan ibragimov	1469	sultan ibragimov	1.0
+13oct08amitsport8.txt	nikolai valuev	266	nikolai valuev	1.0
+13oct08amitsport8.txt	nikolai valuev	1164	nikolai valuev	1.0
+13oct08amitsport8.txt	michael moorer	1624	michael moorer	1.0
+13oct08amitsport8.txt	kalle sauerland	974	kalle sauerland	1.0
+13oct08amitsport8.txt	john ruiz	1341	john ruiz	1.0
+13oct08amitsport8.txt	holyfield	729	evander holyfield	1.0
+13oct08amitsport8.txt	holyfield	453	evander holyfield	1.0
+13oct08amitsport8.txt	holyfield	1388	evander holyfield	1.0
+13oct08amitsport8.txt	holyfield	0	evander holyfield	1.0
+13oct08amitsport8.txt	george foreman	1501	george foreman	1.0
+13oct08amitsport8.txt	evander holyfield	579	evander holyfield	1.0
+13oct08amitsport8.txt	evander holyfield	35	evander holyfield	1.0
+13oct08amitsport8.txt	europe	416	europe	1.0
+13oct08amitsport8.txt	don king	911	don king (boxing promoter)	1.0
+13oct08amitsport8.txt	chris meyer	921	chris meyer	1.0
+13oct08amitsport7.txt	robert kubica	296	robert kubica	1.0
+13oct08amitsport7.txt	flavio briatore	1453	flavio briatore	1.0
+13oct08amitsport7.txt	felipe massa	720	felipe massa	1.0
+13oct08amitsport7.txt	briatore	1611	flavio briatore	1.0
+13oct08amitsport6.txt	felipe massa	76	felipe massa	1.0
+13oct08amitsport5.txt	iker casillas	1491	iker casillas	1.0
+13oct08amitsport5.txt	bernd schuster	50	bernd schuster	1.0
+13oct08amitsport4.txt	ullevaal	1071	ullevaal stadion	1.0
+13oct08amitsport4.txt	kuyt	914	dirk kuyt	1.0
+13oct08amitsport4.txt	kuyt	1542	dirk kuyt	1.0
+13oct08amitsport4.txt	klaas-jan huntelaar	1572	klaas-jan huntelaar	1.0
+13oct08amitsport4.txt	john arne riise	1320	john arne riise	1.0
+13oct08amitsport4.txt	dirk kuyt	0	dirk kuyt	1.0
+13oct08amitsport4.txt	bert van marwijk	287	bert van marwijk	1.0
+13oct08amitsport4.txt	aage hareide	524	åge hareide	1.0
+13oct08amitsport3.txt	wayne rooney	2071	wayne rooney	1.0
+13oct08amitsport3.txt	wayne rooney	1794	wayne rooney	1.0
+13oct08amitsport3.txt	shaun wright-phillips	580	shaun wright-phillips	1.0
+13oct08amitsport3.txt	rooney	3438	wayne rooney	1.0
+13oct08amitsport3.txt	rooney	1943	wayne rooney	1.0
+13oct08amitsport3.txt	rio ferdinand	961	rio ferdinand	1.0
+13oct08amitsport3.txt	matthew upson	919	matthew upson	1.0
+13oct08amitsport3.txt	jermain defoe	2765	jermain defoe	1.0
+13oct08amitsport3.txt	gareth barry	413	gareth barry	1.0
+13oct08amitsport3.txt	ferdinand	2698	rio ferdinand	1.0
+13oct08amitsport3.txt	fabio capello	36	fabio capello	1.0
+13oct08amitsport3.txt	emile heskey	2982	emile heskey	1.0
+13oct08amitsport3.txt	emile	3130	emile heskey	1.0
+13oct08amitsport3.txt	capello	808	fabio capello	1.0
+13oct08amitsport3.txt	capello	366	fabio capello	1.0
+13oct08amitsport3.txt	capello	3014	fabio capello	1.0
+13oct08amitsport3.txt	capello	2126	fabio capello	1.0
+13oct08amitsport3.txt	capello	1740	fabio capello	1.0
+13oct08amitsport3.txt	capello	1457	fabio capello	1.0
+13oct08amitsport3.txt	capello	1106	fabio capello	1.0
+13oct08amitsport3.txt	barry	980	gareth barry	1.0
+13oct08amitsport3.txt	alexandr kuchma	2882	aleksandr kuchma	1.0
+13oct08amitsport3.txt	alexander hleb	1427	alexander hleb	1.0
+13oct08amitsport20.txt	shane victorino	1536	shane victorino	1.0
+13oct08amitsport20.txt	pedro feliz	353	pedro feliz	1.0
+13oct08amitsport20.txt	pat burrell	1965	pat burrell	1.0
+13oct08amitsport20.txt	nomar garciaparra	918	nomar garciaparra	1.0
+13oct08amitsport20.txt	matt kemp	1016	matt kemp	1.0
+13oct08amitsport20.txt	jamie moyer	740	jamie moyer	1.0
+13oct08amitsport20.txt	hiroki kuroda	0	hiroki kuroda	1.0
+13oct08amitsport20.txt	chase utley	2033	chase utley	1.0
+13oct08amitsport20.txt	casey blake	943	casey blake	1.0
+13oct08amitsport20.txt	blake dewitt	123	blake dewitt	1.0
+13oct08amitsport2.txt	wasim akram	2325	wasim akram	1.0
+13oct08amitsport2.txt	shoaib malik	253	shoaib malik	1.0
+13oct08amitsport2.txt	shahid afridi	232	shahid afridi	1.0
+13oct08amitsport2.txt	malik	889	shoaib malik	1.0
+13oct08amitsport2.txt	malik	630	shoaib malik	1.0
+13oct08amitsport2.txt	malik	604	shoaib malik	1.0
+13oct08amitsport2.txt	malik	360	shoaib malik	1.0
+13oct08amitsport2.txt	karachi dolphins	287	karachi dolphins	1.0
+13oct08amitsport2.txt	adeel malik	1092	adeel malik	1.0
+13oct08amitsport2.txt	adeel	1215	adeel malik	1.0
+13oct08amitsport19.txt	tommy robredo	1837	tommy robredo	1.0
+13oct08amitsport19.txt	tomas berdych	3492	tomáš berdych	1.0
+13oct08amitsport19.txt	steve darcis	2804	steve darcis	1.0
+13oct08amitsport19.txt	simone bolelli	2375	simone bolelli	1.0
+13oct08amitsport19.txt	rainer schuettler	3547	rainer schüttler	1.0
+13oct08amitsport19.txt	radek stepanek	3410	radek štěpánek	1.0
+13oct08amitsport19.txt	olivier rochus	3125	olivier rochus	1.0
+13oct08amitsport19.txt	nicolas almagro	2398	nicolás almagro	1.0
+13oct08amitsport19.txt	marin cilic	3108	marin čilić	1.0
+13oct08amitsport19.txt	mardy fish	2958	mardy fish	1.0
+13oct08amitsport19.txt	igor andreev	3176	igor andreev	1.0
+13oct08amitsport19.txt	ernests gulbis	3357	ernests gulbis	1.0
+13oct08amitsport19.txt	david nalbandian	3650	david nalbandian	1.0
+13oct08amitsport19.txt	darcis	2872	steve darcis	1.0
+13oct08amitsport19.txt	andy roddick	1975	andy roddick	1.0
+13oct08amitsport19.txt	andreas seppi	1898	andreas seppi	1.0
+13oct08amitsport18.txt	shawn crawford	401	shawn crawford	1.0
+13oct08amitsport18.txt	dutch antilles	918	netherlands antilles	1.0
+13oct08amitsport18.txt	don quarrie	2141	don quarrie	1.0
+13oct08amitsport18.txt	churandy martina	894	churandy martina	1.0
+13oct08amitsport18.txt	christian malcolm	491	christian malcolm	1.0
+13oct08amitsport18.txt	christian malcolm	2806	christian malcolm	1.0
+13oct08amitsport18.txt	carl lewis	2064	carl lewis	1.0
+13oct08amitsport17.txt	ricky hatton	101	ricky hatton	1.0
+13oct08amitsport17.txt	pascal	1915	jean pascal	1.0
+13oct08amitsport17.txt	nicky cook	881	nicky cook	1.0
+13oct08amitsport17.txt	joe calzaghe	124	joe calzaghe	1.0
+13oct08amitsport17.txt	jean pascal	1458	jean pascal	1.0
+13oct08amitsport17.txt	hatton	619	ricky hatton	1.0
+13oct08amitsport17.txt	dana white	3106	dana white	1.0
+13oct08amitsport17.txt	carl froch	1269	carl froch	1.0
+13oct08amitsport17.txt	calzaghe	868	joe calzaghe	1.0
+13oct08amitsport17.txt	calzaghe	630	joe calzaghe	1.0
+13oct08amitsport17.txt	calzaghe	1300	joe calzaghe	1.0
+13oct08amitsport17.txt	barry hearn	3530	barry hearn	1.0
+13oct08amitsport15.txt	thaksin shinawatra	792	thaksin shinawatra	1.0
+13oct08amitsport15.txt	randy lerner	748	randy lerner	1.0
+13oct08amitsport15.txt	obafemi martins	2305	obafemi martins	1.0
+13oct08amitsport15.txt	mark viduka	2292	mark viduka	1.0
+13oct08amitsport15.txt	kevin keegan	641	kevin keegan	1.0
+13oct08amitsport15.txt	jonas gutierrez	2257	jonás gutiérrez	1.0
+13oct08amitsport15.txt	joey barton	2232	joey barton	1.0
+13oct08amitsport15.txt	habib beye	2245	habib beye	1.0
+13oct08amitsport14.txt	zinedine zidane	2974	zinedine zidane	1.0
+13oct08amitsport14.txt	wayne rooney	2514	wayne rooney	1.0
+13oct08amitsport14.txt	walcott	5743	theo walcott	1.0
+13oct08amitsport14.txt	walcott	5462	theo walcott	1.0
+13oct08amitsport14.txt	walcott	5139	theo walcott	1.0
+13oct08amitsport14.txt	theo walcott	4291	theo walcott	1.0
+13oct08amitsport14.txt	steven gerrard	188	steven gerrard	1.0
+13oct08amitsport14.txt	steve hodge	1880	steve hodge	1.0
+13oct08amitsport14.txt	shaun wright-phillips	4255	shaun wright-phillips	1.0
+13oct08amitsport14.txt	rooney	3351	wayne rooney	1.0
+13oct08amitsport14.txt	owen hargreaves	4668	owen hargreaves	1.0
+13oct08amitsport14.txt	hodge	5718	steve hodge	1.0
+13oct08amitsport14.txt	hodge	5345	steve hodge	1.0
+13oct08amitsport14.txt	hodge	4549	steve hodge	1.0
+13oct08amitsport14.txt	hodge	3904	steve hodge	1.0
+13oct08amitsport14.txt	hodge	3617	steve hodge	1.0
+13oct08amitsport14.txt	hodge	3096	steve hodge	1.0
+13oct08amitsport14.txt	hodge	2786	steve hodge	1.0
+13oct08amitsport14.txt	hodge	2109	steve hodge	1.0
+13oct08amitsport14.txt	heskey	4034	emile heskey	1.0
+13oct08amitsport14.txt	heskey	3701	emile heskey	1.0
+13oct08amitsport14.txt	heskey	3446	emile heskey	1.0
+13oct08amitsport14.txt	gerrard	5279	steven gerrard	1.0
+13oct08amitsport14.txt	gerrard	5205	steven gerrard	1.0
+13oct08amitsport14.txt	gerrard	4808	steven gerrard	1.0
+13oct08amitsport14.txt	gerrard	4340	steven gerrard	1.0
+13oct08amitsport14.txt	gerrard	2457	steven gerrard	1.0
+13oct08amitsport14.txt	gerrard	1759	steven gerrard	1.0
+13oct08amitsport14.txt	gareth barry	2443	gareth barry	1.0
+13oct08amitsport14.txt	fabio capello	552	fabio capello	1.0
+13oct08amitsport14.txt	emile heskey	2717	emile heskey	1.0
+13oct08amitsport14.txt	david beckham	5516	david beckham	1.0
+13oct08amitsport14.txt	claude makelele	4689	claude makélélé	1.0
+13oct08amitsport14.txt	chris waddle	5434	chris waddle	1.0
+13oct08amitsport14.txt	capello	2826	fabio capello	1.0
+13oct08amitsport14.txt	capello	1993	fabio capello	1.0
+13oct08amitsport14.txt	capello	1114	fabio capello	1.0
+13oct08amitsport14.txt	beckham	6021	david beckham	1.0
+13oct08amitsport14.txt	barry	5242	gareth barry	1.0
+13oct08amitsport14.txt	barry	4659	gareth barry	1.0
+13oct08amitsport14.txt	barry	3610	gareth barry	1.0
+13oct08amitsport13.txt	shane victorino	311	shane victorino	1.0
+13oct08amitsport13.txt	hiroki kuroda	13	hiroki kuroda	1.0
+13oct08amitsport12.txt	nick van exel	769	nick van exel	1.0
+13oct08amitsport12.txt	james posey	0	james posey	1.0
+13oct08amitsport12.txt	avery johnson	751	avery johnson	1.0
+13oct08amitsport11.txt	liang wen-chong	44	liang wenchong	1.0
+13oct08amitsport11.txt	jyoti randhawa	2766	jyoti randhawa	1.0
+13oct08amitsport11.txt	jeev milkha singh	705	jeev milkha singh	1.0
+13oct08amitsport11.txt	delhi golf club	2748	delhi golf club	1.0
+13oct08amitsport11.txt	delhi golf club	249	delhi golf club	1.0
+13oct08amitsport11.txt	darren beck	313	darren beck	1.0
+13oct08amitsport11.txt	adam blyth	639	adam blyth	1.0
+13oct08amitsport10.txt	zhou jun	30	zhou jun	1.0
+13oct08amitsport10.txt	zhang lianwei	3286	zhang lianwei	1.0
+13oct08amitsport10.txt	qingli	1538	zhang qingli	1.0
+13oct08amitsport10.txt	liang wenchong	3267	liang wenchong	1.0
+13oct08amitsport10.txt	chan yih-shin	531	chan yih-shin	1.0
+13oct08amitsport1.txt	virender sehwag	2557	virender sehwag	1.0
+13oct08amitsport1.txt	virender sehwag	1228	virender sehwag	1.0
+13oct08amitsport1.txt	sachin tendulkar	955	sachin tendulkar	1.0
+13oct08amitsport1.txt	rahul dravid	2610	rahul dravid	1.0
+13oct08amitsport1.txt	rahul dravid	1252	rahul dravid	1.0
+13oct08amitsport1.txt	brian lara	1365	brian lara	1.0
+13oct08amithealth9.txt	london school of hygiene and tropical medicine	324	london school of hygiene & tropical medicine	1.0
+13oct08amithealth8.txt	american chemical society	341	american chemical society	1.0
+13oct08amithealth7.txt	thomas h. weller	2176	thomas huckle weller	1.0
+13oct08amithealth7.txt	thomas francis	2626	thomas francis (english physician)	1.0
+13oct08amithealth7.txt	salk	3134	jonas salk	1.0
+13oct08amithealth7.txt	salk	2323	jonas salk	1.0
+13oct08amithealth7.txt	pennsylvania	2116	pennsylvania	1.0
+13oct08amithealth7.txt	jonas salk	2070	jonas salk	1.0
+13oct08amithealth7.txt	john f. enders	2160	john franklin enders	1.0
+13oct08amithealth7.txt	frederick c. robbins	2197	frederick chapman robbins	1.0
+13oct08amithealth7.txt	franklin d. roosevelt	1593	franklin d. roosevelt	1.0
+13oct08amithealth7.txt	centers for disease control and prevention	4608	centers for disease control and prevention	1.0
+13oct08amithealth7.txt	centers for disease control and prevention	382	centers for disease control and prevention	1.0
+13oct08amithealth7.txt	centers for disease control and prevention	3704	centers for disease control and prevention	1.0
+13oct08amithealth6.txt	shoonya	4054	śūnyatā	1.0
+13oct08amithealth6.txt	samyama	3294	samyama	1.0
+13oct08amithealth6.txt	samyama	3189	samyama	1.0
+13oct08amithealth6.txt	india	1714	tamil nadu	1.0
+13oct08amithealth5.txt	victoria hale	6124	victoria hale	1.0
+13oct08amithealth5.txt	rajendra memorial research institute of medical sciences	6018	rajendra memorial research institute of medical sciences	1.0
+13oct08amithealth5.txt	kala-azar	0	leishmaniasis	1.0
+13oct08amithealth5.txt	indian council for medical research	6381	indian council of medical research	1.0
+13oct08amithealth5.txt	fungizone	2395	amphotericin b	1.0
+13oct08amithealth5.txt	c.p. thakur	3057	c. p. thakur	1.0
+13oct08amithealth4.txt	university of purdue	1134	purdue university	1.0
+13oct08amithealth4.txt	egcg	3106	epigallocatechin gallate	1.0
+13oct08amithealth4.txt	egcg	2976	epigallocatechin gallate	1.0
+13oct08amithealth4.txt	egcg	2104	epigallocatechin gallate	1.0
+13oct08amithealth4.txt	egcg	2097	epigallocatechin gallate	1.0
+13oct08amithealth4.txt	egcg	1313	epigallocatechin gallate	1.0
+13oct08amithealth21.txt	viatronix	4197	viatronix	1.0
+13oct08amithealth20.txt	food and drug administration	2347	food and drug administration	1.0
+13oct08amithealth20.txt	american journal of gastroenterology	2294	the american journal of gastroenterology	1.0
+13oct08amithealth19.txt	karvonen	2645	veikko karvonen	1.0
+13oct08amithealth19.txt	centers for disease control and prevention	2998	centers for disease control and prevention	1.0
+13oct08amithealth18.txt	american medical association	2302	american medical association	1.0
+13oct08amithealth18.txt	ama	2332	american medical association	1.0
+13oct08amithealth17.txt	zur hausen	7630	harald zur hausen	1.0
+13oct08amithealth17.txt	zur hausen	3705	harald zur hausen	1.0
+13oct08amithealth17.txt	pasteur institute	1294	pasteur institute	1.0
+13oct08amithealth17.txt	nobel foundation	2878	nobel foundation	1.0
+13oct08amithealth17.txt	nobel committee	2521	norwegian nobel committee	1.0
+13oct08amithealth17.txt	karolinska institute	2687	karolinska institute	1.0
+13oct08amithealth17.txt	hausen	3969	harald zur hausen	1.0
+13oct08amithealth17.txt	hausen	1801	harald zur hausen	1.0
+13oct08amithealth17.txt	harald zur hausen	326	harald zur hausen	1.0
+13oct08amithealth17.txt	harald zur hausen	2460	harald zur hausen	1.0
+13oct08amithealth17.txt	glaxosmithkline	729	glaxosmithkline	1.0
+13oct08amithealth17.txt	gardasil	694	gardasil	1.0
+13oct08amithealth17.txt	gardasil	4519	gardasil	1.0
+13oct08amithealth17.txt	françoise barré-sinoussi	1003	françoise barré-sinoussi	1.0
+13oct08amithealth17.txt	fauci	7722	anthony s. fauci	1.0
+13oct08amithealth17.txt	cervarix	748	cervarix	1.0
+13oct08amithealth17.txt	barré-sinoussi	6159	françoise barré-sinoussi	1.0
+13oct08amithealth17.txt	barré-sinoussi	5620	françoise barré-sinoussi	1.0
+13oct08amithealth17.txt	anthony fauci	7480	anthony s. fauci	1.0
+13oct08amithealth17.txt	albert einstein college of medicine	3883	albert einstein college of medicine	1.0
+13oct08amithealth16.txt	u.s.	615	united states	1.0
+13oct08amithealth16.txt	national human genome research institute	2518	national human genome research institute	1.0
+13oct08amithealth16.txt	national academy of sciences usa	263	national academy of sciences	1.0
+13oct08amithealth16.txt	mayo foundation for medical education and research	855	mayo clinic	1.0
+13oct08amithealth16.txt	mass.	3277	massachusetts	1.0
+13oct08amithealth16.txt	francis collins	2461	francis collins	1.0
+13oct08amithealth15.txt	the food and drug administration	5616	food and drug administration	1.0
+13oct08amithealth15.txt	pmdd	4858	premenstrual syndrome	1.0
+13oct08amithealth15.txt	cymbalta	6843	duloxetine	1.0

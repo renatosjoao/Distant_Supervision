@@ -1,0 +1,335 @@
+chtb_267.eng	project a	3501	project a	1.0
+chtb_267.eng	production of	1121	tarzan (musical)	1.0
+chtb_267.eng	national product	2899	national product	1.0
+chtb_267.eng	national product	2649	national product	1.0
+chtb_267.eng	more time	3445	more time	1.0
+chtb_267.eng	degrees centigrade	1058	anders celsius	1.0
+chtb_267.eng	centigrade	1066	anders celsius	1.0
+chtb_267.eng	best time	3285	best time	1.0
+chtb_267.eng	xinhua news agency	424	xinhua news agency	1.0
+chtb_267.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_267.eng	xinhua news	424	xinhua news agency	1.0
+chtb_267.eng	xinhua news	2	xinhua news agency	1.0
+chtb_267.eng	weir group	74	weir group	1.0
+chtb_267.eng	weir group	3128	weir group	1.0
+chtb_267.eng	weir group	2316	weir group	1.0
+chtb_267.eng	weir group	2159	weir group	1.0
+chtb_267.eng	weir group	2104	weir group	1.0
+chtb_267.eng	weir group	1731	weir group	1.0
+chtb_267.eng	weir group	1427	weir group	1.0
+chtb_267.eng	the weir	70	the weir	1.0
+chtb_267.eng	september 1st	31	september 1	1.0
+chtb_267.eng	rudong	1927	rudong county	1.0
+chtb_267.eng	jiangsu province	155	jiangsu	1.0
+chtb_227.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_227.eng	xinhua news	2	xinhua news agency	1.0
+chtb_227.eng	august 31st	642	august 31	1.0
+chtb_227.eng	august 31st	30	august 31	1.0
+chtb_227.eng	august 31st	130	august 31	1.0
+chtb_227.eng	august 29th	792	august 29	1.0
+chtb_171.eng	state of	305	states of brazil	1.0
+chtb_171.eng	president fujimori	147	alberto fujimori	1.0
+chtb_171.eng	alberto fujimori	73	alberto fujimori	1.0
+chtb_165.eng	capital of	1326	capital of germany	1.0
+chtb_165.eng	xinhua news agency	2	xinhua news agency	1.0
+chtb_165.eng	xinhua news	2	xinhua news agency	1.0
+chtb_165.eng	waitan	2307	the bund	1.0
+chtb_165.eng	tokyo mitsubishi	445	the bank of tokyo-mitsubishi ufj	1.0
+chtb_165.eng	shanghai branch	98	shanghai	1.0
+chtb_165.eng	shanghai branch	636	shanghai	1.0
+chtb_165.eng	shanghai branch	580	shanghai	1.0
+chtb_165.eng	shanghai branch	497	shanghai	1.0
+chtb_165.eng	shanghai branch	1987	shanghai	1.0
+chtb_165.eng	shanghai branch	1910	shanghai	1.0
+chtb_165.eng	sanwa bank	663	the bank of tokyo-mitsubishi ufj	1.0
+chtb_165.eng	mitsubishi bank	451	the bank of tokyo-mitsubishi ufj	1.0
+chtb_165.eng	kangyo bank	616	dai-ichi kangyo bank	1.0
+chtb_165.eng	japan industrial bank	1933	industrial bank of japan	1.0
+chtb_165.eng	franklin templeton	1233	franklin templeton investments	1.0
+chtb_165.eng	dai-ichi kangyo bank	607	dai-ichi kangyo bank	1.0
+chtb_165.eng	credit bank	2018	credit bank	1.0
+chtb_165.eng	april 3rd	32	april 3	1.0
+voa20001223.2000.0139	vojislav kostunica	40	vojislav koštunica	1.0
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	1.0
+voa20001223.2000.0139	kostunica	49	vojislav koštunica	1.0
+voa20001223.2000.0139	democratic opposition of serbia	138	democratic opposition of serbia	1.0
+voa20001223.2000.0139	democratic opposition	138	democratic opposition of serbia	1.0
+voa20001220.2000.0060	old friend	275	knock madness	1.0
+voa20001220.2000.0060	first priority	430	first priority music	1.0
+voa20001220.2000.0060	w bush	52	george w. bush	1.0
+voa20001220.2000.0060	voa news	19	voice of america	1.0
+voa20001220.2000.0060	us businesses	532	economy of the united states	1.0
+voa20001220.2000.0060	o' neil	132	darren o'neill	1.0
+voa20001220.2000.0060	mel martinez	672	mel martínez	1.0
+voa20001220.2000.0060	jeb bush	822	jeb bush	1.0
+voa20001220.2000.0060	governor of texas	876	governor of texas	1.0
+voa20001220.2000.0060	governor of	876	governor of gilgit–baltistan	1.0
+voa20001220.2000.0060	george w bush	45	george w. bush	1.0
+voa20001220.2000.0060	george w	45	george w. bush	1.0
+voa20001220.2000.0060	don evans	314	don evans	1.0
+voa20001208.2000.1275	national ice hockey league	88	english national ice hockey league	1.0
+voa20001208.2000.1275	cup championships	693	norwegian football cup	1.0
+voa20001129.2000.0364	state of florida	3000	florida	1.0
+voa20001129.2000.0364	state of	3000	states of brazil	1.0
+voa20001129.2000.0364	real alternative	545	realplayer	1.0
+voa20001129.2000.0364	w bush	3671	george w. bush	1.0
+voa20001129.2000.0364	vice president gore	3577	al gore	1.0
+voa20001129.2000.0364	voa news	25	voice of america	1.0
+voa20001129.2000.0364	lawrence tribe	770	laurence tribe	1.0
+voa20001129.2000.0364	harvard law	790	harvard law school	1.0
+voa20001129.2000.0364	george w bush	3664	george w. bush	1.0
+voa20001129.2000.0364	george w	3664	george w. bush	1.0
+voa20001129.2000.0364	florida courts	1419	judiciary of florida	1.0
+pri20001201.2000.1828	state of florida	411	florida	1.0
+pri20001201.2000.1828	state of	411	states of brazil	1.0
+pri20001201.2000.1828	w. bush	324	george w. bush	1.0
+pri20001201.2000.1828	w.	324	w. (film)	1.0
+pri20001201.2000.1828	sandra day o'connor	776	sandra day o'connor	1.0
+pri20001201.2000.1828	miami dade counties	1291	miami-dade county, florida	1.0
+pri20001201.2000.1828	miami dade	1291	miami-dade county, florida	1.0
+pri20001201.2000.1828	george w.	317	george w. bush	1.0
+pri20001201.2000.1828	florida supreme court	541	supreme court of florida	1.0
+pri20001201.2000.1828	florida supreme court	1144	supreme court of florida	1.0
+pri20001201.2000.1828	federal high court	498	islamabad high court	1.0
+pri20001201.2000.1828	court building	278	commercial buildings in sycamore historic district	1.0
+pri20001128.2000.0055	palm beach county	667	palm beach county, florida	1.0
+pri20001128.2000.0055	npr news	2814	npr	1.0
+pri20001128.2000.0055	npr news	18	npr	1.0
+pri20001128.2000.0055	n.	401	n.	1.0
+pri20001128.2000.0055	miami police	1107	miami police department	1.0
+pri20001128.2000.0055	miami dade county	513	miami-dade county, florida	1.0
+pri20001128.2000.0055	miami dade	513	miami-dade county, florida	1.0
+pri20001128.2000.0055	kplu	2065	kplu-fm	1.0
+pri20001128.2000.0055	inski	294	ińsko landscape park	1.0
+pri20001128.2000.0055	corey flintoff	46	corey flintoff	1.0
+pri20001122.2000.0320	yasser arafat	35	yasser arafat	1.0
+pri20001122.2000.0320	npr news	348	npr	1.0
+pri20001122.2000.0320	hadera	222	hadera	1.0
+pri20001122.2000.0320	ehud barak	296	ehud barak	1.0
+pri20001122.2000.0320	corey flintoff	332	corey flintoff	1.0
+pri20001031.2000.1824	wind and rain	620	the twa sisters	1.0
+pri20001031.2000.1824	singapore airlines	62	singapore airlines	1.0
+pri20001031.2000.1824	singapore airlines	373	singapore airlines	1.0
+pri20001031.2000.1824	sq006	139	singapore airlines flight 006	1.0
+pri20001031.2000.1824	gregor	31	the chaser	1.0
+pri20001031.2000.1824	flight sq006	132	singapore airlines flight 006	1.0
+pri20001031.2000.1824	angeles	111	los angeles	1.0
+nyt20001217.2241.0165	stand in line	3525	stand in line	1.0
+nyt20001217.2241.0165	day of	1361	day of ashura	1.0
+nyt20001217.2241.0165	westchester county airport	1788	westchester county airport	1.0
+nyt20001217.2241.0165	times news	263	times news (pennsylvania)	1.0
+nyt20001217.2241.0165	orange county, calif.	1758	orange county, california	1.0
+nyt20001217.2241.0165	n.y. times	258	the new york times	1.0
+nyt20001217.2241.0165	los angeles international	1664	los angeles international airport	1.0
+nyt20001217.2241.0165	john wayne airport	1736	john wayne airport	1.0
+nyt20001217.2241.0165	day of	2492	day of ashura	1.0
+nyt20001217.2241.0165	consumer report	4696	consumer reports	1.0
+nyt20001217.2241.0165	aviation administration	2712	maryland aviation administration	1.0
+nyt20001217.2241.0165	angeles	1668	los angeles	1.0
+nyt20001129.2040.0383	team	4260	toronto blue jays	1.0
+nyt20001129.2040.0383	team	1503	toronto blue jays	1.0
+nyt20001129.2040.0383	late friday	4028	friday night videos	1.0
+nyt20001129.2040.0383	w. bush	1051	george w. bush	1.0
+nyt20001129.2040.0383	w.	1051	w. (film)	1.0
+nyt20001129.2040.0383	vice president al gore	355	al gore	1.0
+nyt20001129.2040.0383	times news	286	times news (pennsylvania)	1.0
+nyt20001129.2040.0383	tallahassee	323	tallahassee, florida	1.0
+nyt20001129.2040.0383	richard said	1750	rick say	1.0
+nyt20001129.2040.0383	palm beach counties	1281	palm beach county, florida	1.0
+nyt20001129.2040.0383	n.y. times	281	the new york times	1.0
+nyt20001129.2040.0383	n.	1199	n.	1.0
+nyt20001129.2040.0383	george w.	1044	george w. bush	1.0
+nyt20001129.2040.0383	florida election	445	elections in florida	1.0
+nyt20001129.2040.0383	florida supreme court	585	supreme court of florida	1.0
+nyt20001129.2040.0383	florida supreme court	4157	supreme court of florida	1.0
+nyt20001129.2040.0383	florida supreme court	2653	supreme court of florida	1.0
+nyt20001129.2040.0383	firestone	244	george firestone	1.0
+nyt20001129.2040.0383	district court of appeal	679	florida district courts of appeal	1.0
+nyt20001129.2040.0383	david boies	2321	david boies	1.0
+nyt20001125.1558.0117	other people	2192	other people	1.0
+nyt20001125.1558.0117	need to	1575	need to	1.0
+nyt20001125.1558.0117	loaded gun	2547	loaded gun	1.0
+nyt20001125.1558.0117	gun up	2747	guns up	1.0
+nyt20001125.1558.0117	climb trees	138	climb trees	1.0
+nyt20001125.1558.0117	times news	18	times news (pennsylvania)	1.0
+nyt20001125.1558.0117	rule no. 1	2506	rule no. 1	1.0
+nyt20001125.1558.0117	nov.	528	novellae constitutiones	1.0
+nyt20001125.1558.0117	nov.	321	novellae constitutiones	1.0
+nyt20001125.1558.0117	n.y. times	13	the new york times	1.0
+nyt20001125.1558.0117	michigan department of natural resources	895	michigan department of natural resources	1.0
+nyt20001125.1558.0117	grosse pointe park, mich.	55	grosse pointe park, michigan	1.0
+nyt20001125.1558.0117	grosse pointe park	55	grosse pointe park, michigan	1.0
+nyt20001124.2050.0257	president of taiwan	1262	president of the republic of china	1.0
+nyt20001124.2050.0257	times news	75	times news (pennsylvania)	1.0
+nyt20001124.2050.0257	philippines president	1172	president of the philippines	1.0
+nyt20001124.2050.0257	n.y. times	70	the new york times	1.0
+nyt20001124.2050.0257	mark landler	30	mark landler	1.0
+nyt20001124.2050.0257	joseph estrada	1195	joseph estrada	1.0
+nyt20001124.2050.0257	hong kong general chamber of commerce	2673	hong kong general chamber of commerce	1.0
+nyt20001124.2050.0257	chen shui-bian	1242	chen shui-bian	1.0
+nyt20001124.2050.0257	asian economies	613	economy of asia	1.0
+nyt20001124.2050.0257	asian economies	2157	economy of asia	1.0
+nyt20001123.1511.0062	tournament	752	ncaa men's division i basketball championship	1.0
+nyt20001123.1511.0062	plan a	3779	plan a	1.0
+nyt20001123.1511.0062	times news	73	times news (pennsylvania)	1.0
+nyt20001123.1511.0062	survivor ii	4271	survivor: the australian outback	1.0
+nyt20001123.1511.0062	super bowl xxxv	4308	super bowl xxxv	1.0
+nyt20001123.1511.0062	sun microsystems	790	sun microsystems	1.0
+nyt20001123.1511.0062	sprint pcs	3744	sprint corporation	1.0
+nyt20001123.1511.0062	sprint communications	3698	sprint corporation	1.0
+nyt20001123.1511.0062	roundabout theater company	2346	roundabout theatre company	1.0
+nyt20001123.1511.0062	real news	1603	real news	1.0
+nyt20001123.1511.0062	pure premium	2029	tropicana products	1.0
+nyt20001123.1511.0062	n.y. times	68	the new york times	1.0
+nyt20001123.1511.0062	microsystems	794	microsystems (magazine)	1.0
+nyt20001123.1511.0062	lxviii	4428	1997 world weightlifting championships	1.0
+nyt20001123.1511.0062	l.	2178	carl linnaeus	1.0
+nyt20001123.1511.0062	james l. brooks	2172	james l. brooks	1.0
+nyt20001123.1511.0062	jack nicholson	2127	jack nicholson	1.0
+nyt20001123.1511.0062	is found	678	staffordshire hoard	1.0
+nyt20001123.1511.0062	houston grand opera	4040	houston grand opera	1.0
+nyt20001123.1511.0062	hollywood studio	413	major film studio	1.0
+nyt20001123.1511.0062	greg kinnear	2155	greg kinnear	1.0
+nyt20001123.1511.0062	florida election	454	elections in florida	1.0
+nyt20001123.1511.0062	fidelity investments	932	fidelity investments	1.0
+nyt20001123.1511.0062	drew carey show	367	the drew carey show	1.0
+nyt20001123.1511.0062	corn'' ran	701	corn run	1.0
+nyt20001123.1511.0062	coffee-mate	1670	coffee-mate	1.0
+nyt20001123.1511.0062	blue shield	3093	blue shield (comics)	1.0
+nyt20001123.1511.0062	blue cross blue shield	3082	blue cross blue shield association	1.0
+nyt20001123.1511.0062	avaya communication	3632	avaya	1.0
+nyt20001123.1511.0062	avaya	3632	avaya	1.0
+nyt20001123.1511.0062	arthur godfrey	3487	arthur godfrey	1.0
+nyt20001123.1511.0062	american airlines theater	2421	american airlines theatre	1.0
+nyt20001123.1511.0062	american airlines	2421	american airlines	1.0
+nyt20001123.1511.0062	aiden shaw	3999	aiden shaw	1.0
+nyt20001109.1946.0315	w. bush	1331	george w. bush	1.0
+nyt20001109.1946.0315	w.	1331	w. (film)	1.0
+nyt20001109.1946.0315	vice president al gore	1363	al gore	1.0
+nyt20001109.1946.0315	very bad things	1132	very bad things	1.0
+nyt20001109.1946.0315	times news	51	times news (pennsylvania)	1.0
+nyt20001109.1946.0315	thursday afternoon	2117	thursday afternoon	1.0
+nyt20001109.1946.0315	sierra club	4003	sierra club	1.0
+nyt20001109.1946.0315	ralph nader	851	ralph nader	1.0
+nyt20001109.1946.0315	ralph nader	748	ralph nader	1.0
+nyt20001109.1946.0315	ralph nader	491	ralph nader	1.0
+nyt20001109.1946.0315	ralph nader	101	ralph nader	1.0
+nyt20001109.1946.0315	nov.	1944	novellae constitutiones	1.0
+nyt20001109.1946.0315	n.y. times	46	the new york times	1.0
+nyt20001109.1946.0315	george w.	1324	george w. bush	1.0
+nyt20001109.1946.0315	g.w. bush	1885	george w. bush	1.0
+nyt20001109.1946.0315	florida green party	3506	green party of florida	1.0
+nyt20001109.1946.0315	dorothy byrne	3463	dorothy byrne	1.0
+nyt20001106.1705.0187	rest of	3764	flanders	1.0
+nyt20001106.1705.0187	many ways	2816	usher (album)	1.0
+nyt20001106.1705.0187	w. bush	448	george w. bush	1.0
+nyt20001106.1705.0187	w.	448	w. (film)	1.0
+nyt20001106.1705.0187	vice president al gore	925	al gore	1.0
+nyt20001106.1705.0187	times news	280	times news (pennsylvania)	1.0
+nyt20001106.1705.0187	president clinton	952	bill clinton	1.0
+nyt20001106.1705.0187	n.y. times	275	the new york times	1.0
+nyt20001106.1705.0187	green bay, wis.	3041	green bay, wisconsin	1.0
+nyt20001106.1705.0187	george w.	441	george w. bush	1.0
+nyt20001106.1705.0187	frank bruni	236	frank bruni	1.0
+nyt20001106.1705.0187	davenport, iowa	47	davenport, iowa	1.0
+nyt20001106.1705.0187	chattanooga, tenn.	317	chattanooga, tennessee	1.0
+nyt20001101.2212.0429	s stock	400	london underground s7 and s8 stock	1.0
+nyt20001101.2212.0429	new jobs	3732	inter milan	1.0
+nyt20001101.2212.0429	cable companies	3953	mediaone	1.0
+nyt20001101.2212.0429	warner cable	3205	time warner cable	1.0
+nyt20001101.2212.0429	times news	62	times news (pennsylvania)	1.0
+nyt20001101.2212.0429	stephen case	597	steve case	1.0
+nyt20001101.2212.0429	sanford c. bernstein	1592	alliancebernstein	1.0
+nyt20001101.2212.0429	roger mcnamee	2128	roger mcnamee	1.0
+nyt20001101.2212.0429	n.y. times	57	the new york times	1.0
+nyt20001101.2212.0429	merrill lynch	2465	merrill lynch	1.0
+nyt20001101.2212.0429	john schreiber	2698	john schreiber	1.0
+nyt20001101.2212.0429	huge deals	2055	hugh d. mcintosh	1.0
+nyt20001101.2212.0429	america online	570	aol	1.0
+nyt20001101.2212.0429	america online	3919	aol	1.0
+nyt20001101.2212.0429	america online	3154	aol	1.0
+nyt20001101.2212.0429	america online	154	aol	1.0
+nyt20001101.2212.0429	alex berenson	16	alex berenson	1.0
+nyt20001002.1754.0290	miles long	3918	miles long	1.0
+nyt20001002.1754.0290	times news	200	times news (pennsylvania)	1.0
+nyt20001002.1754.0290	sea lab	1357	sealab	1.0
+nyt20001002.1754.0290	national marine fisheries service	672	national marine fisheries service	1.0
+nyt20001002.1754.0290	national marine fisheries service	4042	national marine fisheries service	1.0
+nyt20001002.1754.0290	n.y. times	195	the new york times	1.0
+nyt20001002.1754.0290	dauphin island sea lab	1342	dauphin island sea lab	1.0
+nyt20001002.1754.0290	dauphin island	1342	dauphin island, alabama	1.0
+apw20001225.2035.0477	uses	2898	united states employment service	1.0
+apw20001225.2035.0477	icast	3602	icast	1.0
+apw20001225.2035.0477	garden variety	1586	garden variety (band)	1.0
+apw20001225.2035.0477	everyone else	283	everyone else	1.0
+apw20001225.2035.0477	cable lines	1316	keihan cable line	1.0
+apw20001225.2035.0477	tribal voice	3612	tribal voice	1.0
+apw20001225.2035.0477	metrix	3303	metrix uk	1.0
+apw20001225.2035.0477	media metrix	3297	comscore	1.0
+apw20001225.2035.0477	imunified	4400	imunified	1.0
+apw20001225.2035.0477	icq	2185	icq	1.0
+apw20001225.2035.0477	communications commission	878	communications commission	1.0
+apw20001225.2035.0477	brian park	4112	brian park	1.0
+apw20001225.2035.0477	america online	4347	aol	1.0
+apw20001225.2035.0477	america online	310	aol	1.0
+apw20001219.1316.0416	false impression	1392	false impression	1.0
+apw20001219.1316.0416	jack'' hanlon	195	jack hanlon	1.0
+apw20001219.1316.0416	coldwell banker	212	coldwell banker	1.0
+apw20001218.2221.0727	upper midwest	64	upper midwest	1.0
+apw20001218.2221.0727	series of	18	national lampoon's vacation (film series)	1.0
+apw20001218.2221.0727	northern new england	1514	new england	1.0
+apw20001218.2221.0727	light snow	1433	the makioka sisters (novel)	1.0
+apw20001218.2221.0727	eastern texas	1118	east texas	1.0
+apw20001218.2221.0727	rockwell, iowa	177	rockwell, iowa	1.0
+apw20001218.2221.0727	phillips, wis.	1755	phillips, wisconsin	1.0
+apw20001218.2221.0727	oceanside, calif.	1799	oceanside, california	1.0
+apw20001218.2221.0727	lower 48	1700	contiguous united states	1.0
+apw20001218.2221.0727	cuming county	557	cuming county, nebraska	1.0
+apw20001218.2221.0727	brownsville, texas	1822	brownsville, texas	1.0
+apw20001216.2012.0590	tuscaloosa county	254	tuscaloosa county, alabama	1.0
+apw20001216.2012.0590	tuscaloosa, ala.	2	tuscaloosa, alabama	1.0
+apw20001216.2012.0590	dale county	991	dale county, alabama	1.0
+apw20001216.2012.0590	dale county	1091	dale county, alabama	1.0
+apw20001216.2012.0590	alabama-florida	708	alabama-florida league	1.0
+apw20001211.0507.0196	rusz	1444	slimnic	1.0
+apw20001211.0507.0196	newport beach	1151	newport beach, california	1.0
+apw20001211.0507.0196	larry little	806	larry little	1.0
+apw20001211.0507.0196	jonesboro, ark.	949	jonesboro, arkansas	1.0
+apw20001211.0507.0196	hemet	1998	hemet, california	1.0
+apw20001211.0507.0196	cycle world	89	cycle world	1.0
+apw20001211.0507.0196	cycle world	784	cycle world	1.0
+apw20001211.0507.0196	cycle world	519	cycle world	1.0
+apw20001211.0507.0196	cycle world	293	cycle world	1.0
+apw20001211.0507.0196	cycle world	1344	cycle world	1.0
+apw20001211.0507.0196	ap	22	krasue	1.0
+apw20001208.1126.0362	version of	2743	the original astro boy	1.0
+apw20001208.1126.0362	tribute to	972	tribute to	1.0
+apw20001208.1126.0362	sniffer	3147	andy ellis (rugby league)	1.0
+apw20001208.1126.0362	original text	473	beowulf	1.0
+apw20001208.1126.0362	yavlinsky	1931	grigory yavlinsky	1.0
+apw20001208.1126.0362	yavlinsky	1502	grigory yavlinsky	1.0
+apw20001208.1126.0362	yabloko	1556	yabloko	1.0
+apw20001208.1126.0362	yabloko	1537	yabloko	1.0
+apw20001208.1126.0362	vladimir putin	371	vladimir putin	1.0
+apw20001208.1126.0362	vladimir lenin	530	vladimir lenin	1.0
+apw20001208.1126.0362	union of right forces	1597	union of right forces	1.0
+apw20001208.1126.0362	soviet sports	2284	sovetsky sport	1.0
+apw20001208.1126.0362	soviet collapse	1201	dissolution of the soviet union	1.0
+apw20001208.1126.0362	soviet anthem	72	national anthem of the soviet union	1.0
+apw20001208.1126.0362	soviet anthem	2712	national anthem of the soviet union	1.0
+apw20001208.1126.0362	soviet anthem	2407	national anthem of the soviet union	1.0
+apw20001208.1126.0362	soviet anthem	2037	national anthem of the soviet union	1.0
+apw20001208.1126.0362	soviet anthem	1321	national anthem of the soviet union	1.0
+apw20001208.1126.0362	mikhail glinka	1139	mikhail glinka	1.0
+apw20001208.1126.0362	josef stalin	549	joseph stalin	1.0
+apw20001208.1126.0362	grigory yavlinsky	1494	grigory yavlinsky	1.0
+apw20001208.1126.0362	gennady seleznyov	2952	gennadiy seleznyov	1.0
+apw20001208.1126.0362	communist leaders	512	premier of the soviet union	1.0
+apw20001208.1126.0362	boris yeltsin	2073	boris yeltsin	1.0
+apw20001207.2118.0838	back to the sea	4544	back to the sea	1.0
+apw20001207.2118.0838	age of dinosaurs	4724	age of reptiles (comics)	1.0
+apw20001207.2118.0838	thomas r. holtz jr.	1002	thomas r. holtz, jr.	1.0
+apw20001207.2118.0838	thomas r. holtz	1002	thomas r. holtz, jr.	1.0
+apw20001207.2118.0838	microraptor zhaoianus	1516	microraptor	1.0
+apw20001207.2118.0838	microraptor	2086	microraptor	1.0
+apw20001207.2118.0838	microraptor	1516	microraptor	1.0

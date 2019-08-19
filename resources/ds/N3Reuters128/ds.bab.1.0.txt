@@ -1,0 +1,19 @@
+http:__aksw.org_n3_reuters-128_99	march 1	498	march 1	1.0
+http:__aksw.org_n3_reuters-128_97	june	110	june stahl	1.0
+http:__aksw.org_n3_reuters-128_97	japan	0	japan	1.0
+http:__aksw.org_n3_reuters-128_96	dlrs	149	arise the republic	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham lambert	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_95	drexel burnham	258	drexel burnham lambert	1.0
+http:__aksw.org_n3_reuters-128_94	onno ruding	496	onno ruding	1.0
+http:__aksw.org_n3_reuters-128_94	nv	32	nevada	1.0
+http:__aksw.org_n3_reuters-128_94	dutch state mines	61	dsm (company)	1.0
+http:__aksw.org_n3_reuters-128_94	amsterdam bourse	925	amsterdam stock exchange	1.0
+http:__aksw.org_n3_reuters-128_93	dlrs	447	dlr band	1.0
+http:__aksw.org_n3_reuters-128_93	u.s. economy	748	economy of the united states	1.0
+http:__aksw.org_n3_reuters-128_93	house budget committees	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house budget	123	united states house committee on the budget	1.0
+http:__aksw.org_n3_reuters-128_93	house appropriations	260	united states house committee on appropriations	1.0
+http:__aksw.org_n3_reuters-128_92	july 31	728	july 31	1.0
+http:__aksw.org_n3_reuters-128_91	taking steps	481	alan ayckbourn	1.0
+http:__aksw.org_n3_reuters-128_91	montedisons	171	edison (company)	1.0
+http:__aksw.org_n3_reuters-128_91	montedison	925	edison (company)	1.0

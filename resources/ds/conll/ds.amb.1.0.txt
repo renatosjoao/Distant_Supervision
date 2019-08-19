@@ -1,0 +1,264 @@
+-docstart- (999testa lebed)	maskhadov	461	aslan maskhadov	1.0
+-docstart- (999testa lebed)	khasavyurt	35	khasavyurt	1.0
+-docstart- (999testa lebed)	aslan maskhadov	139	aslan maskhadov	1.0
+-docstart- (999testa lebed)	alexander lebed	84	alexander lebed	1.0
+-docstart- (998testa yeltsin)	yastrzhembsky	921	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	yastrzhembsky	555	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	sergei yastrzhembsky	192	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	595	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	481	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	224	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	interfax	40	interfax	1.0
+-docstart- (998testa yeltsin)	interfax	154	interfax	1.0
+-docstart- (998testa yeltsin)	central clinical hospital	635	central clinical hospital	1.0
+-docstart- (998testa yeltsin)	boris yeltsin	86	boris yeltsin	1.0
+-docstart- (997testa polish)	slobodan milosevic	730	slobodan milošević	1.0
+-docstart- (997testa polish)	dariusz rosati	89	dariusz rosati	1.0
+-docstart- (996testa tajik)	sherbatov	664	eliezer sherbatov	1.0
+-docstart- (996testa tajik)	pamir mountains	250	pamir mountains	1.0
+-docstart- (996testa tajik)	layron	772	layron dejarnette	1.0
+-docstart- (995testa top)	sharetsky	879	syamyon sharetski	1.0
+-docstart- (995testa top)	sharetsky	629	syamyon sharetski	1.0
+-docstart- (995testa top)	sharetsky	1423	syamyon sharetski	1.0
+-docstart- (995testa top)	semyon sharetsky	259	syamyon sharetski	1.0
+-docstart- (995testa top)	alexander lukashenko	119	alexander lukashenko	1.0
+-docstart- (993testa ruling)	organisation for security and cooperation in europe	934	organization for security and co-operation in europe	1.0
+-docstart- (993testa ruling)	john kornblum	346	john c. kornblum	1.0
+-docstart- (993testa ruling)	alija izetbegovic	440	alija izetbegović	1.0
+-docstart- (992testa lebed)	maskhadov	620	aslan maskhadov	1.0
+-docstart- (992testa lebed)	maskhadov	453	aslan maskhadov	1.0
+-docstart- (992testa lebed)	khasavyurt	47	khasavyurt	1.0
+-docstart- (992testa lebed)	chechen republic	399	chechnya	1.0
+-docstart- (992testa lebed)	boris yeltsin	1156	boris yeltsin	1.0
+-docstart- (992testa lebed)	aslan maskhadov	146	aslan maskhadov	1.0
+-docstart- (992testa lebed)	alexander lebed	96	alexander lebed	1.0
+-docstart- (991testa yeltsin)	itar-tass	1213	tass	1.0
+-docstart- (991testa yeltsin)	interfax	342	interfax	1.0
+-docstart- (991testa yeltsin)	interfax	263	interfax	1.0
+-docstart- (991testa yeltsin)	chernomyrdin	358	viktor chernomyrdin	1.0
+-docstart- (991testa yeltsin)	chernomyrdin	1526	viktor chernomyrdin	1.0
+-docstart- (991testa yeltsin)	boris yeltsin	144	boris yeltsin	1.0
+-docstart- (991testa yeltsin)	aslan maskhadov	700	aslan maskhadov	1.0
+-docstart- (991testa yeltsin)	alexander lebed	220	alexander lebed	1.0
+-docstart- (990testa chad)	nagoum yamassoum	200	nagoum yamassoum	1.0
+-docstart- (990testa chad)	n'djamena university	105	university of n'djamena	1.0
+-docstart- (99 miss)	reuters	697	reuters	1.0
+-docstart- (99 miss)	reuters	2423	reuters	1.0
+-docstart- (99 miss)	nikki campbell	1430	nikki campbell	1.0
+-docstart- (99 miss)	martin brooks	2125	martin e. brooks	1.0
+-docstart- (99 miss)	alicia machado	113	alicia machado	1.0
+-docstart- (987testa soccer)	phil babb	244	phil babb	1.0
+-docstart- (987testa soccer)	ian harte	284	ian harte	1.0
+-docstart- (987testa soccer)	gary breen	211	gary breen	1.0
+-docstart- (986testa boxing-bruno)	world boxing council	329	world boxing council	1.0
+-docstart- (986testa boxing-bruno)	wbc	352	world boxing council	1.0
+-docstart- (986testa boxing-bruno)	oliver mccall	1105	oliver mccall	1.0
+-docstart- (986testa boxing-bruno)	mike tyson	367	mike tyson	1.0
+-docstart- (986testa boxing-bruno)	frank bruno	91	frank bruno	1.0
+-docstart- (986testa boxing-bruno)	david mcleod	784	david mcleod	1.0
+-docstart- (985testa late)	u.s. treasury	1352	united states department of the treasury	1.0
+-docstart- (985testa late)	tokyo stock exchange	2176	tokyo stock exchange	1.0
+-docstart- (985testa late)	nsw treasury	2355	the treasury (new south wales)	1.0
+-docstart- (985testa late)	matif	1005	matif	1.0
+-docstart- (985testa late)	kansai international airport	2632	kansai international airport	1.0
+-docstart- (985testa late)	kansai electric power	2606	kansai electric power company	1.0
+-docstart- (985testa late)	dnib	2546	ibadan airport	1.0
+-docstart- (985testa late)	dnib	2448	ibadan airport	1.0
+-docstart- (982testa douglas)	new york stock exchange	329	new york stock exchange	1.0
+-docstart- (982testa douglas)	mich.	59	michigan	1.0
+-docstart- (982testa douglas)	johnson controls inc	659	johnson controls	1.0
+-docstart- (982testa douglas)	james hoey	866	james hoey (politician)	1.0
+-docstart- (982testa douglas)	farmington hills	41	farmington hills, michigan	1.0
+-docstart- (981testa u.s.)	napm	47	purchasing managers' index	1.0
+-docstart- (981testa u.s.)	napm	268	purchasing managers' index	1.0
+-docstart- (981testa u.s.)	lawrence lindsey	1984	lawrence b. lindsey	1.0
+-docstart- (981testa u.s.)	federal open market committee	1904	federal open market committee	1.0
+-docstart- (981testa u.s.)	alan greenspan	2227	alan greenspan	1.0
+-docstart- (98 turkish)	isbank	930	türkiye i̇ş bankası	1.0
+-docstart- (98 turkish)	interbank	591	interbank	1.0
+-docstart- (98 turkish)	istanbul	44	istanbul	1.0
+-docstart- (98 turkish)	cukurova	981	chukurova	1.0
+-docstart- (977testa polish)	national bank of poland	71	national bank of poland	1.0
+-docstart- (975testa cricket)	upul chandana	632	upul chandana	1.0
+-docstart- (975testa cricket)	stuart law	319	stuart law	1.0
+-docstart- (975testa cricket)	steve waugh	405	steve waugh	1.0
+-docstart- (975testa cricket)	sanath jayasuriya	460	sanath jayasuriya	1.0
+-docstart- (975testa cricket)	roshan mahanama	559	roshan mahanama	1.0
+-docstart- (975testa cricket)	romesh kaluwitharana	479	romesh kaluwitharana	1.0
+-docstart- (975testa cricket)	ricky ponting	346	ricky ponting	1.0
+-docstart- (975testa cricket)	muthiah muralitharan	610	muttiah muralitharan	1.0
+-docstart- (975testa cricket)	mark waugh	393	mark waugh	1.0
+-docstart- (975testa cricket)	jason gillespie	302	jason gillespie	1.0
+-docstart- (975testa cricket)	ian healy	247	ian healy	1.0
+-docstart- (975testa cricket)	glenn mcgrath	331	glenn mcgrath	1.0
+-docstart- (975testa cricket)	darren lehmann	377	darren lehmann	1.0
+-docstart- (975testa cricket)	chaminda vaas	595	chaminda vaas	1.0
+-docstart- (975testa cricket)	asanka gurusinha	501	asanka gurusinha	1.0
+-docstart- (975testa cricket)	arjuna ranatunga	430	arjuna ranatunga	1.0
+-docstart- (975testa cricket)	aravinda de silva	519	aravinda de silva	1.0
+-docstart- (973testa cricket)	tillekeratne	235	stanley tillekeratne	1.0
+-docstart- (973testa cricket)	s. waugh	848	steve waugh	1.0
+-docstart- (973testa cricket)	s. waugh	294	steve waugh	1.0
+-docstart- (973testa cricket)	s. waugh	1186	steve waugh	1.0
+-docstart- (973testa cricket)	kaluwitharana	438	romesh kaluwitharana	1.0
+-docstart- (973testa cricket)	kaluwitharana	357	romesh kaluwitharana	1.0
+-docstart- (971testa soccer)	gianluigi lentini	97	gianluigi lentini	1.0
+-docstart- (971testa soccer)	fabio capello	824	fabio capello	1.0
+-docstart- (971testa soccer)	emiliano mondonico	884	emiliano mondonico	1.0
+-docstart- (970testa soccer)	paris st germain	226	paris saint-germain f.c.	1.0
+-docstart- (970testa soccer)	dominique baratelli	90	dominique baratelli	1.0
+-docstart- (970testa soccer)	baratelli	191	dominique baratelli	1.0
+-docstart- (970testa soccer)	baratelli	9	dominique baratelli	1.0
+-docstart- (970testa soccer)	albert emon	260	albert emon	1.0
+-docstart- (97 egypt)	u.n. security council	405	united nations security council	1.0
+-docstart- (97 egypt)	hosni mubarak	221	hosni mubarak	1.0
+-docstart- (97 egypt)	hassan al-turabi	922	hassan al-turabi	1.0
+-docstart- (969testa athletics)	kosevo	473	koševo	1.0
+-docstart- (969testa athletics)	international amateur athletic federation	255	international association of athletics federations	1.0
+-docstart- (969testa athletics)	iaaf	817	international association of athletics federations	1.0
+-docstart- (968testa soccer)	roberto bisconti	444	roberto bisconti	1.0
+-docstart- (968testa soccer)	guy hellers	324	guy hellers	1.0
+-docstart- (968testa soccer)	didier ernst	581	didier ernst	1.0
+-docstart- (967testa athletics)	yoelvis quesada	5033	yoelbi quesada	1.0
+-docstart- (967testa athletics)	yelena gulyayeva	4572	yelena gulyayeva	1.0
+-docstart- (967testa athletics)	yekaterina podkopayeva	588	yekaterina podkopayeva	1.0
+-docstart- (967testa athletics)	xiomara rivero	5478	xiomara rivero	1.0
+-docstart- (967testa athletics)	william tanui	1699	william tanui	1.0
+-docstart- (967testa athletics)	vladimir dubrovshchik	2045	vladimir dubrovshchik	1.0
+-docstart- (967testa athletics)	virgilijus alekna	2088	virgilijus alekna	1.0
+-docstart- (967testa athletics)	valentina fedyushina	1511	valentina fedyushina	1.0
+-docstart- (967testa athletics)	torrance zellner	2896	torrance zellner	1.0
+-docstart- (967testa athletics)	tony jarrett	846	tony jarrett	1.0
+-docstart- (967testa athletics)	tom nyariki	4898	tom nyariki	1.0
+-docstart- (967testa athletics)	tim lobinger	4159	tim lobinger	1.0
+-docstart- (967testa athletics)	tegla loroupe	2725	tegla loroupe	1.0
+-docstart- (967testa athletics)	tatyana motkova	4464	tatyana babashkina	1.0
+-docstart- (967testa athletics)	tanja damaske	5300	tanja damaske	1.0
+-docstart- (967testa athletics)	svetlana masterkova	441	svetlana masterkova	1.0
+-docstart- (967testa athletics)	sven nylander	3039	sven nylander	1.0
+-docstart- (967testa athletics)	stephanie storp	1552	stephanie storp	1.0
+-docstart- (967testa athletics)	stefka kostadinova	4349	stefka kostadinova	1.0
+-docstart- (967testa athletics)	sigurd njerve	5169	sigurd njerve	1.0
+-docstart- (967testa athletics)	shem kororia	4824	shem kororia	1.0
+-docstart- (967testa athletics)	samuel matete	2939	samuel matete	1.0
+-docstart- (967testa athletics)	sally barsosio	2834	sally barsosio	1.0
+-docstart- (967testa athletics)	rose cheruiyot	2647	rose cheruiyot	1.0
+-docstart- (967testa athletics)	rohan robinson	3103	rohan robinson	1.0
+-docstart- (967testa athletics)	phylis smith	3375	phylis smith	1.0
+-docstart- (967testa athletics)	pauline konga	2798	pauline konga	1.0
+-docstart- (967testa athletics)	patricia djate-taillard	501	patricia djaté-taillard	1.0
+-docstart- (967testa athletics)	osmond ezinwa	5793	osmond ezinwa	1.0
+-docstart- (967testa athletics)	olabisi afolabi	3338	olabisi afolabi	1.0
+-docstart- (967testa athletics)	noureddine morceli	1600	noureddine morceli	1.0
+-docstart- (967testa athletics)	norberto tellez	3785	norberto téllez	1.0
+-docstart- (967testa athletics)	nico motchebon	3855	nico motchebon	1.0
+-docstart- (967testa athletics)	nele zilinskiene	4533	nelė žilinskienė	1.0
+-docstart- (967testa athletics)	michelle freeman	158	michelle freeman	1.0
+-docstart- (967testa athletics)	michael moellenbeck	2201	michael möllenbeck	1.0
+-docstart- (967testa athletics)	merlene ottey	2299	merlene ottey	1.0
+-docstart- (967testa athletics)	mary onyali	2366	mary onyali-omagbemi	1.0
+-docstart- (967testa athletics)	marko koers	1768	marko koers	1.0
+-docstart- (967testa athletics)	mark crear	809	mark crear	1.0
+-docstart- (967testa athletics)	marcus o'sullivan	1877	marcus o'sullivan	1.0
+-docstart- (967testa athletics)	marc blume	3697	marc blume	1.0
+-docstart- (967testa athletics)	maksim tarasov	4125	maksim tarasov	1.0
+-docstart- (967testa athletics)	ludmila engquist	204	ludmila engquist	1.0
+-docstart- (967testa athletics)	louise mcpaul	5441	louise currey	1.0
+-docstart- (967testa athletics)	linford christie	5720	linford christie	1.0
+-docstart- (967testa athletics)	linda kisabaka	3409	linda kisabaka	1.0
+-docstart- (967testa athletics)	leah pells	633	leah pells	1.0
+-docstart- (967testa athletics)	lars riedel	1931	lars riedel	1.0
+-docstart- (967testa athletics)	laban rotich	1734	laban rotich	1.0
+-docstart- (967testa athletics)	kazakstan	4210	kazakhstan	1.0
+-docstart- (967testa athletics)	karin janke	3445	karin janke	1.0
+-docstart- (967testa athletics)	julie baumann	344	julie baumann	1.0
+-docstart- (967testa athletics)	john mayock	1842	john mayock	1.0
+-docstart- (967testa athletics)	jearl miles	3240	jearl miles clark	1.0
+-docstart- (967testa athletics)	jean galfione	4230	jean galfione	1.0
+-docstart- (967testa athletics)	isel lopez	5377	isel lópez	1.0
+-docstart- (967testa athletics)	isaac viciosa	1807	isaac viciosa	1.0
+-docstart- (967testa athletics)	irina privalova	2469	irina privalova	1.0
+-docstart- (967testa athletics)	irina korzhanenko	1473	irina korzhanenko	1.0
+-docstart- (967testa athletics)	inger miller	2505	inger miller	1.0
+-docstart- (967testa athletics)	inga babakova	4389	inha babakova	1.0
+-docstart- (967testa athletics)	igor trandenkov	4090	igor trandenkov	1.0
+-docstart- (967testa athletics)	igor potapovich	4192	igor potapovich	1.0
+-docstart- (967testa athletics)	heli rantanen	5406	heli rantanen	1.0
+-docstart- (967testa athletics)	gwen torrence	2334	gwen torrence	1.0
+-docstart- (967testa athletics)	gunhild halle	2761	gunhild haugen	1.0
+-docstart- (967testa athletics)	gillian russell	383	gillian russell	1.0
+-docstart- (967testa athletics)	gete wami	2612	gete wami	1.0
+-docstart- (967testa athletics)	george panayiotopoulos	5932	georgios panagiotopoulos	1.0
+-docstart- (967testa athletics)	geir moen	3667	geir moen	1.0
+-docstart- (967testa athletics)	geir moen	1213	geir moen	1.0
+-docstart- (967testa athletics)	gail devers	2261	gail devers	1.0
+-docstart- (967testa athletics)	gabriela szabo	2557	gabriela szabo	1.0
+-docstart- (967testa athletics)	frankie fredericks	5688	frankie fredericks	1.0
+-docstart- (967testa athletics)	frankie fredericks	1098	frankie fredericks	1.0
+-docstart- (967testa athletics)	frank busemann	1015	frank busemann	1.0
+-docstart- (967testa athletics)	florian schwarthoff	880	florian schwarthoff	1.0
+-docstart- (967testa athletics)	florian schwarthoff	5967	florian schwarthoff	1.0
+-docstart- (967testa athletics)	fita bayissa	4932	fita bayisa	1.0
+-docstart- (967testa athletics)	fatima yusuf	3270	fatima yusuf	1.0
+-docstart- (967testa athletics)	falk balzer	952	falk balzer	1.0
+-docstart- (967testa athletics)	falk balzer	5907	falk balzer	1.0
+-docstart- (967testa athletics)	falilat ogunkoya	3194	falilat ogunkoya	1.0
+-docstart- (967testa athletics)	emilio valle	921	emilio valle	1.0
+-docstart- (967testa athletics)	dusan kovacs	3141	dusán kovács	1.0
+-docstart- (967testa athletics)	donovan bailey	5635	donovan bailey	1.0
+-docstart- (967testa athletics)	donovan bailey	3564	donovan bailey	1.0
+-docstart- (967testa athletics)	dmitri markov	4297	dmitri markov	1.0
+-docstart- (967testa athletics)	dionne rose	311	dionne rose-henley	1.0
+-docstart- (967testa athletics)	derrick adkins	2973	derrick adkins	1.0
+-docstart- (967testa athletics)	davidson ezinwa	5843	davidson ezinwa	1.0
+-docstart- (967testa athletics)	davidson ezinwa	3630	davidson ezinwa	1.0
+-docstart- (967testa athletics)	david kiptoo	3893	david kiptoo	1.0
+-docstart- (967testa athletics)	craig winrow	3998	craig winrow	1.0
+-docstart- (967testa athletics)	chryste gaines	2399	chryste gaines	1.0
+-docstart- (967testa athletics)	chandra sturrup	2432	chandra sturrup	1.0
+-docstart- (967testa athletics)	carmen wuestenhagen	666	carmen wüstenhagen	1.0
+-docstart- (967testa athletics)	carlos calado	5203	carlos calado	1.0
+-docstart- (967testa athletics)	carla sacramento	547	carla sacramento	1.0
+-docstart- (967testa athletics)	brahim lahlafi	4859	brahim lahlafi	1.0
+-docstart- (967testa athletics)	astrid kumbernuss	1393	astrid kumbernuss	1.0
+-docstart- (967testa athletics)	annemari sandell	2684	annemari sandell-hyvärinen	1.0
+-docstart- (967testa athletics)	anja ruecker	3304	anja rücker	1.0
+-docstart- (967testa athletics)	andreas seelig	2165	andreas seelig	1.0
+-docstart- (967testa athletics)	aliuska lopez	241	aliuska lópez	1.0
+-docstart- (967testa athletics)	alina astafei	4430	alina astafei	1.0
+-docstart- (966testa athletics)	merlene ottey	1555	merlene ottey	1.0
+-docstart- (966testa athletics)	golden four	1053	http://de.wikipedia.org/wiki/golden four	1.0
+-docstart- (966testa athletics)	gail devers	1457	gail devers	1.0
+-docstart- (966testa athletics)	donovan bailey	162	donovan bailey	1.0
+-docstart- (964testa golf)	tom lehman	2117	tom lehman	1.0
+-docstart- (964testa golf)	tiger woods	247	tiger woods	1.0
+-docstart- (964testa golf)	scott hoch	1913	scott hoch	1.0
+-docstart- (964testa golf)	phil mickelson	1972	phil mickelson	1.0
+-docstart- (964testa golf)	payne stewart	1879	payne stewart	1.0
+-docstart- (964testa golf)	nortel open	1505	tucson open	1.0
+-docstart- (964testa golf)	nolan henke	93	nolan henke	1.0
+-docstart- (964testa golf)	mark o'meara	2132	mark o'meara	1.0
+-docstart- (964testa golf)	duffy waldorf	368	duffy waldorf	1.0
+-docstart- (964testa golf)	bob estes	327	bob estes	1.0
+-docstart- (964testa golf)	billy mayfair	1780	billy mayfair	1.0
+-docstart- (964testa golf)	billy andrade	353	billy andrade	1.0
+-docstart- (964testa golf)	andrew magee	1274	andrew magee	1.0
+-docstart- (963testa golf)	tiger woods	623	tiger woods	1.0
+-docstart- (963testa golf)	steve stricker	433	steve stricker	1.0
+-docstart- (963testa golf)	payne stewart	497	payne stewart	1.0
+-docstart- (963testa golf)	olin browne	564	olin browne	1.0
+-docstart- (963testa golf)	nolan henke	264	nolan henke	1.0
+-docstart- (963testa golf)	neal lancaster	352	neal lancaster	1.0
+-docstart- (963testa golf)	mike hulbert	592	mike hulbert	1.0
+-docstart- (963testa golf)	mark calcavecchia	478	mark calcavecchia	1.0
+-docstart- (963testa golf)	loren roberts	418	loren roberts	1.0
+-docstart- (963testa golf)	jesper parnevik	322	jesper parnevik	1.0
+-docstart- (963testa golf)	duffy waldorf	307	duffy waldorf	1.0
+-docstart- (963testa golf)	brian henninger	606	brian henninger	1.0
+-docstart- (963testa golf)	brian claar	449	brian claar	1.0
+-docstart- (963testa golf)	bob estes	279	bob estes	1.0
+-docstart- (963testa golf)	billy mayfair	512	billy mayfair	1.0
+-docstart- (963testa golf)	billy andrade	292	billy andrade	1.0
+-docstart- (962testa nfl)	randall cunningham	74	randall cunningham	1.0
+-docstart- (962testa nfl)	jeffrey lurie	813	jeffrey lurie	1.0
+-docstart- (961testa tennis)	todd martin	960	todd martin	1.0

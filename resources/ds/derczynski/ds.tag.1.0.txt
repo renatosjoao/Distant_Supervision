@@ -1,0 +1,3 @@
+tw_60.txt	joe torre	27	joe torre	0.7346417
+tw_117.txt	ebgp	54	border gateway protocol	0.69847775
+tw_169.txt	pretty little liars	31	pretty little liars	0.69528997

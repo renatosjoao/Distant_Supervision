@@ -1,0 +1,1102 @@
+@RELATION "multilabel_instances_train: -C -3"
+@ATTRIBUTE docid        STRING
+@ATTRIBUTE mention      STRING
+@ATTRIBUTE offset       NUMERIC
+@ATTRIBUTE link         STRING
+@ATTRIBUTE swords  NUMERIC
+@ATTRIBUTE sf         NUMERIC
+@ATTRIBUTE sdf      NUMERIC
+@ATTRIBUTE scand      NUMERIC
+@ATTRIBUTE mpos      NUMERIC
+@ATTRIBUTE msent     NUMERIC
+@ATTRIBUTE dwords     NUMERIC
+@ATTRIBUTE dents   NUMERIC
+@ATTRIBUTE Aclass        {0,1}
+@ATTRIBUTE Bclass        {0,1}
+@ATTRIBUTE Tclass        {0,1}
+
+@DATA
+"-docstart- (999testa lebed)","maskhadov",461,"NULL",1.0,2.0,10.0,1.0,0.91,65.0,80.0,12.0,1,1,0
+"-docstart- (999testa lebed)","khasavyurt",35,"NULL",1.0,1.0,2.0,2.0,0.07,215.0,80.0,12.0,1,1,0
+"-docstart- (999testa lebed)","aslan maskhadov",139,"NULL",2.0,1.0,10.0,1.0,0.27,215.0,80.0,12.0,1,1,1
+"-docstart- (999testa lebed)","alexander lebed",84,"NULL",2.0,1.0,16.0,1.0,0.17,215.0,80.0,12.0,1,1,1
+"-docstart- (998testa yeltsin)","yastrzhembsky",921,"NULL",1.0,3.0,3.0,0.0,0.8,121.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","yastrzhembsky",555,"NULL",1.0,3.0,3.0,0.0,0.48,116.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","sergei yastrzhembsky",192,"NULL",2.0,1.0,3.0,1.0,0.17,174.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","interfax",40,"NULL",1.0,2.0,14.0,1.0,0.03,49.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","interfax",154,"NULL",1.0,2.0,14.0,1.0,0.13,174.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","central clinical hospital",635,"NULL",3.0,1.0,2.0,1.0,0.55,142.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","boris yeltsin",86,"NULL",2.0,1.0,18.0,1.0,0.07,174.0,189.0,27.0,1,1,1
+"-docstart- (997testa polish)","slobodan milosevic",730,"NULL",2.0,1.0,2.0,1.0,0.64,120.0,172.0,24.0,1,1,1
+"-docstart- (997testa polish)","dariusz rosati",89,"NULL",2.0,1.0,4.0,1.0,0.08,225.0,172.0,24.0,1,1,1
+"-docstart- (996testa tajik)","sherbatov",664,"NULL",1.0,2.0,1.0,0.0,0.27,116.0,411.0,25.0,1,0,0
+"-docstart- (996testa tajik)","pamir mountains",250,"NULL",2.0,1.0,0.0,1.0,0.1,235.0,411.0,25.0,1,1,1
+"-docstart- (996testa tajik)","layron",772,"NULL",1.0,1.0,1.0,0.0,0.31,116.0,411.0,25.0,1,0,0
+"-docstart- (995testa top)","sharetsky",879,"NULL",1.0,4.0,1.0,0.0,0.39,52.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","sharetsky",629,"NULL",1.0,4.0,1.0,0.0,0.28,222.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","sharetsky",1423,"NULL",1.0,4.0,1.0,0.0,0.63,181.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","semyon sharetsky",259,"NULL",2.0,1.0,1.0,0.0,0.11,203.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","alexander lukashenko",119,"NULL",2.0,1.0,1.0,1.0,0.05,179.0,356.0,30.0,1,1,1
+"-docstart- (993testa ruling)","organisation for security and cooperation in europe",934,"NULL",7.0,1.0,9.0,1.0,0.69,184.0,211.0,20.0,1,0,1
+"-docstart- (993testa ruling)","john kornblum",346,"NULL",2.0,1.0,2.0,1.0,0.26,177.0,211.0,20.0,1,1,1
+"-docstart- (993testa ruling)","alija izetbegovic",440,"NULL",2.0,1.0,1.0,1.0,0.33,177.0,211.0,20.0,1,1,1
+"-docstart- (992testa lebed)","maskhadov",620,"NULL",1.0,3.0,10.0,1.0,0.44,118.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","maskhadov",453,"NULL",1.0,3.0,10.0,1.0,0.32,214.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","khasavyurt",47,"NULL",1.0,1.0,2.0,2.0,0.03,233.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","chechen republic",399,"NULL",2.0,1.0,1.0,2.0,0.29,214.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","boris yeltsin",1156,"NULL",2.0,1.0,18.0,1.0,0.83,134.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","aslan maskhadov",146,"NULL",2.0,1.0,10.0,1.0,0.1,233.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","alexander lebed",96,"NULL",2.0,1.0,16.0,1.0,0.07,233.0,224.0,28.0,1,1,1
+"-docstart- (991testa yeltsin)","interfax",342,"NULL",1.0,2.0,14.0,1.0,0.2,92.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","interfax",263,"NULL",1.0,2.0,14.0,1.0,0.16,237.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","chernomyrdin",358,"NULL",1.0,3.0,4.0,1.0,0.21,92.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","chernomyrdin",1526,"NULL",1.0,3.0,4.0,1.0,0.91,160.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","boris yeltsin",144,"NULL",2.0,1.0,18.0,1.0,0.09,237.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","aslan maskhadov",700,"NULL",2.0,1.0,10.0,1.0,0.42,190.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","alexander lebed",220,"NULL",2.0,1.0,16.0,1.0,0.13,237.0,275.0,38.0,1,1,1
+"-docstart- (990testa chad)","nagoum yamassoum",200,"NULL",2.0,1.0,1.0,1.0,0.24,228.0,128.0,5.0,1,1,1
+"-docstart- (990testa chad)","n'djamena university",105,"NULL",2.0,1.0,1.0,0.0,0.12,228.0,128.0,5.0,1,0,1
+"-docstart- (99 miss)","reuters",697,"NULL",1.0,2.0,111.0,5.0,0.25,147.0,491.0,37.0,1,1,1
+"-docstart- (99 miss)","reuters",2423,"NULL",1.0,2.0,111.0,5.0,0.87,50.0,491.0,37.0,1,1,1
+"-docstart- (99 miss)","nikki campbell",1430,"NULL",2.0,1.0,1.0,1.0,0.52,69.0,491.0,37.0,1,1,1
+"-docstart- (99 miss)","martin brooks",2125,"NULL",2.0,1.0,1.0,1.0,0.77,138.0,491.0,37.0,1,1,0
+"-docstart- (99 miss)","alicia machado",113,"NULL",2.0,1.0,1.0,1.0,0.04,203.0,491.0,37.0,1,1,1
+"-docstart- (987testa soccer)","phil babb",244,"NULL",2.0,1.0,2.0,1.0,0.44,139.0,83.0,26.0,1,1,1
+"-docstart- (987testa soccer)","ian harte",284,"NULL",2.0,1.0,4.0,1.0,0.52,139.0,83.0,26.0,1,1,1
+"-docstart- (987testa soccer)","gary breen",211,"NULL",2.0,1.0,2.0,1.0,0.38,139.0,83.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","world boxing council",329,"NULL",3.0,1.0,1.0,2.0,0.22,167.0,279.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","wbc",352,"NULL",1.0,1.0,1.0,16.0,0.24,167.0,279.0,26.0,1,0,1
+"-docstart- (986testa boxing-bruno)","oliver mccall",1105,"NULL",2.0,1.0,1.0,1.0,0.75,166.0,279.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","mike tyson",367,"NULL",2.0,1.0,1.0,3.0,0.25,167.0,279.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","frank bruno",91,"NULL",2.0,1.0,1.0,2.0,0.06,145.0,279.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","david mcleod",784,"NULL",2.0,1.0,1.0,1.0,0.53,141.0,279.0,26.0,1,0,0
+"-docstart- (985testa late)","u.s. treasury",1352,"NULL",2.0,1.0,6.0,3.0,0.5,210.0,436.0,41.0,1,0,0
+"-docstart- (985testa late)","tokyo stock exchange",2176,"NULL",3.0,1.0,1.0,1.0,0.81,64.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","nsw treasury",2355,"NULL",2.0,1.0,1.0,1.0,0.87,93.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","matif",1005,"NULL",1.0,1.0,0.0,1.0,0.37,73.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","kansai international airport",2632,"NULL",3.0,1.0,1.0,1.0,0.97,108.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","kansai electric power",2606,"NULL",3.0,1.0,1.0,1.0,0.96,108.0,436.0,41.0,1,1,0
+"-docstart- (985testa late)","dnib",2546,"NULL",1.0,2.0,1.0,0.0,0.94,50.0,436.0,41.0,1,1,0
+"-docstart- (985testa late)","dnib",2448,"NULL",1.0,2.0,1.0,0.0,0.91,98.0,436.0,41.0,1,1,1
+"-docstart- (982testa douglas)","new york stock exchange",329,"NULL",4.0,1.0,6.0,3.0,0.15,59.0,368.0,28.0,1,1,1
+"-docstart- (982testa douglas)","johnson controls inc",659,"NULL",3.0,1.0,1.0,0.0,0.3,178.0,368.0,28.0,1,0,1
+"-docstart- (982testa douglas)","james hoey",866,"NULL",2.0,1.0,1.0,3.0,0.4,208.0,368.0,28.0,1,1,1
+"-docstart- (982testa douglas)","farmington hills",41,"NULL",2.0,1.0,1.0,3.0,0.02,24.0,368.0,28.0,1,1,1
+"-docstart- (981testa u.s.)","napm",47,"NULL",1.0,3.0,1.0,0.0,0.02,48.0,487.0,34.0,1,0,0
+"-docstart- (981testa u.s.)","napm",268,"NULL",1.0,3.0,1.0,0.0,0.09,253.0,487.0,34.0,1,0,0
+"-docstart- (981testa u.s.)","lawrence lindsey",1984,"NULL",2.0,1.0,2.0,1.0,0.68,58.0,487.0,34.0,1,1,1
+"-docstart- (981testa u.s.)","federal open market committee",1904,"NULL",4.0,1.0,2.0,1.0,0.65,174.0,487.0,34.0,1,1,1
+"-docstart- (981testa u.s.)","alan greenspan",2227,"NULL",2.0,1.0,3.0,1.0,0.76,158.0,487.0,34.0,1,1,1
+"-docstart- (98 turkish)","isbank",930,"NULL",1.0,1.0,1.0,1.0,0.73,80.0,210.0,9.0,1,1,1
+"-docstart- (977testa polish)","national bank of poland",71,"NULL",4.0,1.0,1.0,1.0,0.35,120.0,33.0,4.0,1,1,1
+"-docstart- (975testa cricket)","upul chandana",632,"NULL",2.0,1.0,1.0,1.0,0.98,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","stuart law",319,"NULL",2.0,1.0,4.0,1.0,0.49,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","steve waugh",405,"NULL",2.0,1.0,2.0,1.0,0.63,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","sanath jayasuriya",460,"NULL",2.0,1.0,4.0,1.0,0.71,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","roshan mahanama",559,"NULL",2.0,1.0,3.0,1.0,0.87,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","romesh kaluwitharana",479,"NULL",2.0,1.0,3.0,1.0,0.74,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","ricky ponting",346,"NULL",2.0,1.0,4.0,1.0,0.54,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","muthiah muralitharan",610,"NULL",2.0,1.0,3.0,1.0,0.94,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","mark waugh",393,"NULL",2.0,1.0,3.0,1.0,0.61,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","jason gillespie",302,"NULL",2.0,1.0,2.0,1.0,0.47,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","ian healy",247,"NULL",2.0,1.0,6.0,2.0,0.38,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","glenn mcgrath",331,"NULL",2.0,1.0,3.0,1.0,0.51,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","darren lehmann",377,"NULL",2.0,1.0,1.0,1.0,0.58,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","chaminda vaas",595,"NULL",2.0,1.0,3.0,1.0,0.92,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","asanka gurusinha",501,"NULL",2.0,1.0,3.0,1.0,0.78,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","arjuna ranatunga",430,"NULL",2.0,1.0,4.0,1.0,0.67,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","aravinda de silva",519,"NULL",3.0,1.0,4.0,1.0,0.8,229.0,96.0,29.0,1,1,1
+"-docstart- (973testa cricket)","tillekeratne",235,"NULL",1.0,2.0,4.0,0.0,0.17,38.0,254.0,67.0,1,0,0
+"-docstart- (973testa cricket)","s. waugh",848,"NULL",2.0,3.0,2.0,0.0,0.6,30.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","s. waugh",294,"NULL",2.0,3.0,2.0,0.0,0.21,57.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","s. waugh",1186,"NULL",2.0,3.0,2.0,0.0,0.84,54.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","kaluwitharana",438,"NULL",1.0,3.0,5.0,1.0,0.31,43.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","kaluwitharana",357,"NULL",1.0,3.0,5.0,1.0,0.25,41.0,254.0,67.0,1,1,1
+"-docstart- (971testa soccer)","gianluigi lentini",97,"NULL",2.0,1.0,1.0,1.0,0.11,233.0,146.0,22.0,1,1,1
+"-docstart- (971testa soccer)","fabio capello",824,"NULL",2.0,1.0,2.0,1.0,0.91,166.0,146.0,22.0,1,1,1
+"-docstart- (971testa soccer)","emiliano mondonico",884,"NULL",2.0,1.0,1.0,1.0,0.98,166.0,146.0,22.0,1,1,1
+"-docstart- (970testa soccer)","paris st germain",226,"NULL",3.0,1.0,10.0,1.0,0.48,163.0,81.0,14.0,1,1,1
+"-docstart- (970testa soccer)","dominique baratelli",90,"NULL",2.0,1.0,1.0,1.0,0.19,157.0,81.0,14.0,1,1,1
+"-docstart- (970testa soccer)","baratelli",191,"NULL",1.0,3.0,1.0,0.0,0.4,163.0,81.0,14.0,1,1,0
+"-docstart- (970testa soccer)","baratelli",9,"NULL",1.0,3.0,1.0,0.0,0.02,33.0,81.0,14.0,1,1,0
+"-docstart- (970testa soccer)","albert emon",260,"NULL",2.0,1.0,2.0,1.0,0.55,163.0,81.0,14.0,1,1,1
+"-docstart- (97 egypt)","u.n. security council",405,"NULL",3.0,1.0,3.0,1.0,0.29,181.0,245.0,30.0,1,1,1
+"-docstart- (97 egypt)","hosni mubarak",221,"NULL",2.0,1.0,4.0,2.0,0.16,217.0,245.0,30.0,1,1,1
+"-docstart- (97 egypt)","hassan al-turabi",922,"NULL",2.0,1.0,1.0,1.0,0.65,114.0,245.0,30.0,1,0,1
+"-docstart- (969testa athletics)","kosevo",473,"NULL",1.0,1.0,1.0,0.0,0.49,238.0,170.0,20.0,1,0,0
+"-docstart- (969testa athletics)","international amateur athletic federation",255,"NULL",4.0,1.0,1.0,1.0,0.27,238.0,170.0,20.0,1,1,1
+"-docstart- (969testa athletics)","iaaf",817,"NULL",1.0,1.0,0.0,2.0,0.85,222.0,170.0,20.0,1,1,0
+"-docstart- (968testa soccer)","roberto bisconti",444,"NULL",2.0,1.0,1.0,1.0,0.55,238.0,141.0,18.0,1,1,1
+"-docstart- (968testa soccer)","guy hellers",324,"NULL",2.0,1.0,1.0,1.0,0.4,132.0,141.0,18.0,1,1,1
+"-docstart- (968testa soccer)","didier ernst",581,"NULL",2.0,1.0,1.0,1.0,0.72,238.0,141.0,18.0,1,1,1
+"-docstart- (967testa athletics)","yoelvis quesada",5033,"NULL",2.0,1.0,2.0,1.0,0.84,29.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","yelena gulyayeva",4572,"NULL",2.0,1.0,2.0,1.0,0.76,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","yekaterina podkopayeva",588,"NULL",2.0,1.0,2.0,1.0,0.1,40.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","xiomara rivero",5478,"NULL",2.0,1.0,1.0,1.0,0.91,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","vladimir dubrovshchik",2045,"NULL",2.0,1.0,2.0,1.0,0.34,38.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","virgilijus alekna",2088,"NULL",2.0,1.0,1.0,1.0,0.35,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","valentina fedyushina",1511,"NULL",2.0,1.0,1.0,0.0,0.25,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","torrance zellner",2896,"NULL",2.0,1.0,2.0,1.0,0.48,22.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tony jarrett",846,"NULL",2.0,1.0,1.0,1.0,0.14,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tom nyariki",4898,"NULL",2.0,1.0,1.0,1.0,0.82,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tim lobinger",4159,"NULL",2.0,1.0,2.0,1.0,0.69,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tegla loroupe",2725,"NULL",2.0,1.0,1.0,1.0,0.45,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tatyana motkova",4464,"NULL",2.0,1.0,2.0,1.0,0.74,30.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","tanja damaske",5300,"NULL",2.0,1.0,1.0,1.0,0.88,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","svetlana masterkova",441,"NULL",2.0,1.0,5.0,1.0,0.07,47.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","sven nylander",3039,"NULL",2.0,1.0,1.0,1.0,0.51,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","stephanie storp",1552,"NULL",2.0,1.0,1.0,1.0,0.26,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","stefka kostadinova",4349,"NULL",2.0,1.0,2.0,1.0,0.72,35.0,1145.0,306.0,1,0,1
+"-docstart- (967testa athletics)","sigurd njerve",5169,"NULL",2.0,1.0,2.0,1.0,0.86,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","shem kororia",4824,"NULL",2.0,1.0,1.0,1.0,0.8,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","samuel matete",2939,"NULL",2.0,1.0,2.0,1.0,0.49,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","sally barsosio",2834,"NULL",2.0,1.0,2.0,1.0,0.47,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","rose cheruiyot",2647,"NULL",2.0,1.0,1.0,1.0,0.44,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","rohan robinson",3103,"NULL",2.0,1.0,2.0,1.0,0.52,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","phylis smith",3375,"NULL",2.0,1.0,2.0,1.0,0.56,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","pauline konga",2798,"NULL",2.0,1.0,2.0,1.0,0.47,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","patricia djate-taillard",501,"NULL",2.0,1.0,1.0,0.0,0.08,41.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","osmond ezinwa",5793,"NULL",2.0,1.0,3.0,1.0,0.96,109.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","olabisi afolabi",3338,"NULL",2.0,1.0,1.0,1.0,0.56,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","noureddine morceli",1600,"NULL",2.0,1.0,2.0,1.0,0.27,45.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","norberto tellez",3785,"NULL",2.0,1.0,1.0,0.0,0.63,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","nico motchebon",3855,"NULL",2.0,1.0,1.0,1.0,0.64,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","nele zilinskiene",4533,"NULL",2.0,1.0,2.0,0.0,0.75,39.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","michelle freeman",158,"NULL",2.0,1.0,4.0,1.0,0.03,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","michael moellenbeck",2201,"NULL",2.0,1.0,1.0,0.0,0.37,36.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","merlene ottey",2299,"NULL",2.0,1.0,4.0,1.0,0.38,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","mary onyali",2366,"NULL",2.0,1.0,2.0,1.0,0.39,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","marko koers",1768,"NULL",2.0,1.0,1.0,1.0,0.29,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","mark crear",809,"NULL",2.0,1.0,1.0,1.0,0.13,16.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","marcus o'sullivan",1877,"NULL",2.0,1.0,2.0,1.0,0.31,36.0,1145.0,306.0,1,0,1
+"-docstart- (967testa athletics)","marc blume",3697,"NULL",2.0,1.0,1.0,1.0,0.62,27.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","maksim tarasov",4125,"NULL",2.0,1.0,1.0,1.0,0.69,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","ludmila engquist",204,"NULL",2.0,1.0,3.0,1.0,0.03,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","louise mcpaul",5441,"NULL",2.0,1.0,2.0,1.0,0.91,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","linford christie",5720,"NULL",2.0,1.0,7.0,1.0,0.95,68.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","linda kisabaka",3409,"NULL",2.0,1.0,1.0,1.0,0.57,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","leah pells",633,"NULL",2.0,1.0,2.0,1.0,0.11,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","lars riedel",1931,"NULL",2.0,1.0,2.0,1.0,0.32,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","laban rotich",1734,"NULL",2.0,1.0,2.0,1.0,0.29,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","karin janke",3445,"NULL",2.0,1.0,1.0,1.0,0.57,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","julie baumann",344,"NULL",2.0,1.0,2.0,0.0,0.06,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","john mayock",1842,"NULL",2.0,1.0,3.0,1.0,0.31,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","jearl miles",3240,"NULL",2.0,1.0,1.0,1.0,0.54,17.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","jean galfione",4230,"NULL",2.0,1.0,1.0,1.0,0.7,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","isel lopez",5377,"NULL",2.0,1.0,2.0,1.0,0.9,24.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","isaac viciosa",1807,"NULL",2.0,1.0,2.0,1.0,0.3,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","irina privalova",2469,"NULL",2.0,1.0,2.0,1.0,0.41,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","irina korzhanenko",1473,"NULL",2.0,1.0,1.0,1.0,0.25,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","inger miller",2505,"NULL",2.0,1.0,2.0,1.0,0.42,18.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","inga babakova",4389,"NULL",2.0,1.0,2.0,1.0,0.73,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","igor trandenkov",4090,"NULL",2.0,1.0,1.0,1.0,0.68,35.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","igor potapovich",4192,"NULL",2.0,1.0,1.0,1.0,0.7,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","heli rantanen",5406,"NULL",2.0,1.0,1.0,1.0,0.9,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gwen torrence",2334,"NULL",2.0,1.0,3.0,1.0,0.39,19.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gunhild halle",2761,"NULL",2.0,1.0,1.0,1.0,0.46,32.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","gillian russell",383,"NULL",2.0,1.0,2.0,1.0,0.06,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gete wami",2612,"NULL",2.0,1.0,1.0,1.0,0.44,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","george panayiotopoulos",5932,"NULL",2.0,1.0,1.0,0.0,0.99,123.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","geir moen",3667,"NULL",2.0,2.0,1.0,1.0,0.61,25.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","geir moen",1213,"NULL",2.0,2.0,1.0,1.0,0.2,25.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gail devers",2261,"NULL",2.0,1.0,4.0,1.0,0.38,17.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gabriela szabo",2557,"NULL",2.0,1.0,1.0,1.0,0.43,42.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","frankie fredericks",5688,"NULL",2.0,2.0,5.0,1.0,0.95,68.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","frankie fredericks",1098,"NULL",2.0,2.0,5.0,1.0,0.18,35.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","frank busemann",1015,"NULL",2.0,1.0,1.0,1.0,0.17,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","florian schwarthoff",880,"NULL",2.0,2.0,1.0,1.0,0.15,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","florian schwarthoff",5967,"NULL",2.0,2.0,1.0,1.0,0.99,123.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","fita bayissa",4932,"NULL",2.0,1.0,1.0,1.0,0.82,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","fatima yusuf",3270,"NULL",2.0,1.0,1.0,1.0,0.54,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falk balzer",952,"NULL",2.0,2.0,1.0,1.0,0.16,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falk balzer",5907,"NULL",2.0,2.0,1.0,1.0,0.98,123.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falilat ogunkoya",3194,"NULL",2.0,1.0,3.0,1.0,0.53,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","emilio valle",921,"NULL",2.0,1.0,3.0,1.0,0.15,26.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","dusan kovacs",3141,"NULL",2.0,1.0,2.0,0.0,0.52,29.0,1145.0,306.0,1,0,1
+"-docstart- (967testa athletics)","donovan bailey",5635,"NULL",2.0,2.0,7.0,1.0,0.94,48.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","donovan bailey",3564,"NULL",2.0,2.0,7.0,1.0,0.59,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","dmitri markov",4297,"NULL",2.0,1.0,1.0,1.0,0.72,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","dionne rose",311,"NULL",2.0,1.0,3.0,1.0,0.05,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","derrick adkins",2973,"NULL",2.0,1.0,3.0,1.0,0.5,20.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","davidson ezinwa",5843,"NULL",2.0,2.0,3.0,1.0,0.97,109.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","davidson ezinwa",3630,"NULL",2.0,2.0,3.0,1.0,0.6,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","david kiptoo",3893,"NULL",2.0,1.0,1.0,1.0,0.65,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","craig winrow",3998,"NULL",2.0,1.0,1.0,1.0,0.67,31.0,1145.0,306.0,1,0,1
+"-docstart- (967testa athletics)","chryste gaines",2399,"NULL",2.0,1.0,2.0,1.0,0.4,20.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","chandra sturrup",2432,"NULL",2.0,1.0,3.0,1.0,0.41,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","carmen wuestenhagen",666,"NULL",2.0,1.0,1.0,0.0,0.11,38.0,1145.0,306.0,1,0,0
+"-docstart- (967testa athletics)","carlos calado",5203,"NULL",2.0,1.0,1.0,1.0,0.87,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","carla sacramento",547,"NULL",2.0,1.0,2.0,1.0,0.09,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","brahim lahlafi",4859,"NULL",2.0,1.0,1.0,1.0,0.81,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","astrid kumbernuss",1393,"NULL",2.0,1.0,1.0,1.0,0.23,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","annemari sandell",2684,"NULL",2.0,1.0,1.0,1.0,0.45,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","anja ruecker",3304,"NULL",2.0,1.0,1.0,0.0,0.55,29.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","andreas seelig",2165,"NULL",2.0,1.0,1.0,1.0,0.36,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","aliuska lopez",241,"NULL",2.0,1.0,3.0,1.0,0.04,27.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","alina astafei",4430,"NULL",2.0,1.0,2.0,1.0,0.74,29.0,1145.0,306.0,1,1,1
+"-docstart- (966testa athletics)","merlene ottey",1555,"NULL",2.0,1.0,4.0,1.0,0.98,64.0,269.0,39.0,1,1,1
+"-docstart- (966testa athletics)","golden four",1053,"NULL",2.0,1.0,2.0,0.0,0.66,99.0,269.0,39.0,1,0,0
+"-docstart- (966testa athletics)","gail devers",1457,"NULL",2.0,1.0,4.0,1.0,0.91,128.0,269.0,39.0,1,1,1
+"-docstart- (966testa athletics)","donovan bailey",162,"NULL",2.0,1.0,7.0,1.0,0.1,233.0,269.0,39.0,1,1,1
+"-docstart- (964testa golf)","tom lehman",2117,"NULL",2.0,1.0,4.0,1.0,0.95,122.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","tiger woods",247,"NULL",2.0,1.0,4.0,2.0,0.11,103.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","scott hoch",1913,"NULL",2.0,1.0,4.0,1.0,0.86,78.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","phil mickelson",1972,"NULL",2.0,1.0,5.0,1.0,0.89,132.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","payne stewart",1879,"NULL",2.0,1.0,2.0,1.0,0.84,26.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","nolan henke",93,"NULL",2.0,1.0,3.0,1.0,0.04,130.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","mark o'meara",2132,"NULL",2.0,1.0,4.0,1.0,0.96,122.0,411.0,36.0,1,0,1
+"-docstart- (964testa golf)","duffy waldorf",368,"NULL",2.0,1.0,7.0,1.0,0.17,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","bob estes",327,"NULL",2.0,1.0,3.0,1.0,0.15,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","billy mayfair",1780,"NULL",2.0,1.0,7.0,1.0,0.8,165.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","billy andrade",353,"NULL",2.0,1.0,2.0,1.0,0.16,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","andrew magee",1274,"NULL",2.0,1.0,1.0,1.0,0.57,182.0,411.0,36.0,1,1,1
+"-docstart- (963testa golf)","tiger woods",623,"NULL",2.0,1.0,4.0,2.0,0.94,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","steve stricker",433,"NULL",2.0,1.0,6.0,1.0,0.65,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","payne stewart",497,"NULL",2.0,1.0,2.0,1.0,0.75,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","olin browne",564,"NULL",2.0,1.0,1.0,1.0,0.85,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","nolan henke",264,"NULL",2.0,1.0,3.0,1.0,0.4,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","neal lancaster",352,"NULL",2.0,1.0,1.0,1.0,0.53,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","mike hulbert",592,"NULL",2.0,1.0,2.0,1.0,0.89,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","mark calcavecchia",478,"NULL",2.0,1.0,1.0,1.0,0.72,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","loren roberts",418,"NULL",2.0,1.0,5.0,1.0,0.63,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","jesper parnevik",322,"NULL",2.0,1.0,3.0,1.0,0.48,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","duffy waldorf",307,"NULL",2.0,1.0,7.0,1.0,0.46,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","brian henninger",606,"NULL",2.0,1.0,1.0,1.0,0.91,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","brian claar",449,"NULL",2.0,1.0,1.0,1.0,0.68,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","bob estes",279,"NULL",2.0,1.0,3.0,1.0,0.42,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","billy mayfair",512,"NULL",2.0,1.0,7.0,1.0,0.77,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","billy andrade",292,"NULL",2.0,1.0,2.0,1.0,0.44,423.0,106.0,34.0,1,1,1
+"-docstart- (962testa nfl)","randall cunningham",74,"NULL",2.0,2.0,1.0,1.0,0.06,200.0,189.0,24.0,1,1,1
+"-docstart- (962testa nfl)","jeffrey lurie",813,"NULL",2.0,1.0,1.0,1.0,0.69,105.0,189.0,24.0,1,1,1
+"-docstart- (961testa tennis)","todd martin",960,"NULL",2.0,1.0,12.0,1.0,0.25,177.0,693.0,50.0,1,1,1
+"-docstart- (999testa lebed)","tens",404,"NULL",1.0,1.0,0.0,4.0,0.8,193.0,80.0,12.0,0,1,0
+"-docstart- (999testa lebed)","military leader",123,"NULL",2.0,1.0,0.0,6.0,0.24,215.0,80.0,12.0,0,1,0
+"-docstart- (999testa lebed)","framework",324,"NULL",1.0,1.0,0.0,30.0,0.64,193.0,80.0,12.0,0,1,0
+"-docstart- (999testa lebed)","conflict in",386,"NULL",2.0,1.0,0.0,0.0,0.76,193.0,80.0,12.0,0,1,0
+"-docstart- (999testa lebed)","maskhadov",461,"NULL",1.0,2.0,10.0,1.0,0.91,65.0,80.0,12.0,1,1,0
+"-docstart- (999testa lebed)","maskhadov",145,"NULL",1.0,2.0,10.0,1.0,0.29,215.0,80.0,12.0,0,1,0
+"-docstart- (999testa lebed)","khasavyurt, russia",35,"NULL",2.0,1.0,0.0,0.0,0.07,215.0,80.0,12.0,0,1,1
+"-docstart- (999testa lebed)","khasavyurt",35,"NULL",1.0,1.0,2.0,2.0,0.07,215.0,80.0,12.0,1,1,0
+"-docstart- (999testa lebed)","chechen separatist",104,"NULL",2.0,1.0,0.0,1.0,0.21,215.0,80.0,12.0,0,1,1
+"-docstart- (999testa lebed)","aslan maskhadov",139,"NULL",2.0,1.0,10.0,1.0,0.27,215.0,80.0,12.0,1,1,1
+"-docstart- (999testa lebed)","alexander lebed",84,"NULL",2.0,1.0,16.0,1.0,0.17,215.0,80.0,12.0,1,1,1
+"-docstart- (998testa yeltsin)","yastrzhembsky",921,"NULL",1.0,3.0,3.0,0.0,0.8,121.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","yastrzhembsky",555,"NULL",1.0,3.0,3.0,0.0,0.48,116.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","yastrzhembsky",199,"NULL",1.0,3.0,3.0,0.0,0.17,174.0,189.0,27.0,0,1,0
+"-docstart- (998testa yeltsin)","sergei yastrzhembsky",192,"NULL",2.0,1.0,3.0,1.0,0.17,174.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","russian news",284,"NULL",2.0,1.0,0.0,1.0,0.25,203.0,189.0,27.0,0,1,0
+"-docstart- (998testa yeltsin)","interfax",40,"NULL",1.0,2.0,14.0,1.0,0.03,49.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","interfax",154,"NULL",1.0,2.0,14.0,1.0,0.13,174.0,189.0,27.0,1,1,0
+"-docstart- (998testa yeltsin)","clinical hospital",643,"NULL",2.0,1.0,0.0,0.0,0.56,142.0,189.0,27.0,0,1,0
+"-docstart- (998testa yeltsin)","central clinical hospital",635,"NULL",3.0,1.0,2.0,1.0,0.55,142.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","boris yeltsin",86,"NULL",2.0,1.0,18.0,1.0,0.07,174.0,189.0,27.0,1,1,1
+"-docstart- (998testa yeltsin)","barvikha sanatorium",1006,"NULL",2.0,1.0,0.0,1.0,0.87,121.0,189.0,27.0,0,1,1
+"-docstart- (997testa polish)","slobodan milosevic",730,"NULL",2.0,1.0,2.0,1.0,0.64,120.0,172.0,24.0,1,1,1
+"-docstart- (997testa polish)","serbian president",712,"NULL",2.0,1.0,0.0,2.0,0.63,120.0,172.0,24.0,0,1,1
+"-docstart- (997testa polish)","polish foreign minister",0,"NULL",3.0,1.0,0.0,1.0,0.0,44.0,172.0,24.0,0,1,0
+"-docstart- (997testa polish)","dariusz rosati",89,"NULL",2.0,1.0,4.0,1.0,0.08,225.0,172.0,24.0,1,1,1
+"-docstart- (996testa tajik)","stop the war",2443,"NULL",3.0,1.0,0.0,1.0,0.99,83.0,411.0,25.0,0,1,0
+"-docstart- (996testa tajik)","tajik government",87,"NULL",2.0,1.0,0.0,1.0,0.04,235.0,411.0,25.0,0,1,0
+"-docstart- (996testa tajik)","pamir mountains",250,"NULL",2.0,1.0,0.0,1.0,0.1,235.0,411.0,25.0,1,1,1
+"-docstart- (995testa top)","state of",534,"NULL",2.0,1.0,0.0,5.0,0.24,222.0,356.0,30.0,0,1,0
+"-docstart- (995testa top)","speaker of the",224,"NULL",3.0,1.0,0.0,4.0,0.1,203.0,356.0,30.0,0,1,0
+"-docstart- (995testa top)","people for",2080,"NULL",2.0,1.0,0.0,0.0,0.92,150.0,356.0,30.0,0,1,0
+"-docstart- (995testa top)","sharetsky",879,"NULL",1.0,4.0,1.0,0.0,0.39,52.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","sharetsky",629,"NULL",1.0,4.0,1.0,0.0,0.28,222.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","sharetsky",266,"NULL",1.0,4.0,1.0,0.0,0.12,203.0,356.0,30.0,0,1,0
+"-docstart- (995testa top)","sharetsky",1423,"NULL",1.0,4.0,1.0,0.0,0.63,181.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","semyon sharetsky",259,"NULL",2.0,1.0,1.0,0.0,0.11,203.0,356.0,30.0,1,1,0
+"-docstart- (995testa top)","president lukashenko",488,"NULL",2.0,1.0,0.0,1.0,0.22,222.0,356.0,30.0,0,1,0
+"-docstart- (995testa top)","alexander lukashenko",119,"NULL",2.0,1.0,1.0,1.0,0.05,179.0,356.0,30.0,1,1,1
+"-docstart- (994testa belgrade)","tanjug",749,"NULL",1.0,3.0,3.0,1.0,0.77,155.0,148.0,20.0,1,1,1
+"-docstart- (994testa belgrade)","tanjug",378,"NULL",1.0,3.0,3.0,1.0,0.39,194.0,148.0,20.0,1,1,0
+"-docstart- (994testa belgrade)","tanjug",229,"NULL",1.0,3.0,3.0,1.0,0.24,210.0,148.0,20.0,1,1,1
+"-docstart- (994testa belgrade)","surcin",470,"NULL",1.0,1.0,1.0,0.0,0.49,152.0,148.0,20.0,1,1,1
+"-docstart- (994testa belgrade)","september 21",184,"NULL",2.0,1.0,0.0,2.0,0.19,210.0,148.0,20.0,0,1,0
+"-docstart- (994testa belgrade)","federal air",848,"NULL",2.0,1.0,0.0,1.0,0.88,159.0,148.0,20.0,0,1,0
+"-docstart- (994testa belgrade)","belgrade airport",731,"NULL",2.0,3.0,0.0,1.0,0.75,155.0,148.0,20.0,0,1,1
+"-docstart- (994testa belgrade)","belgrade airport",392,"NULL",2.0,3.0,0.0,1.0,0.4,194.0,148.0,20.0,0,1,1
+"-docstart- (994testa belgrade)","belgrade airport",0,"NULL",2.0,3.0,0.0,1.0,0.0,50.0,148.0,20.0,0,1,1
+"-docstart- (994testa belgrade)","batajnica airport",766,"NULL",2.0,1.0,0.0,1.0,0.79,159.0,148.0,20.0,0,1,1
+"-docstart- (994testa belgrade)","aerodrom beograd",95,"NULL",2.0,1.0,1.0,0.0,0.1,210.0,148.0,20.0,0,1,1
+"-docstart- (993testa ruling)","party on",94,"NULL",2.0,1.0,0.0,1.0,0.07,197.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","osce",988,"NULL",1.0,2.0,9.0,3.0,0.73,184.0,211.0,20.0,1,1,1
+"-docstart- (993testa ruling)","osce",1176,"NULL",1.0,2.0,9.0,3.0,0.87,235.0,211.0,20.0,1,1,0
+"-docstart- (993testa ruling)","john kornblum",346,"NULL",2.0,1.0,2.0,1.0,0.26,177.0,211.0,20.0,1,1,1
+"-docstart- (993testa ruling)","bosnian government",272,"NULL",2.0,1.0,0.0,3.0,0.2,47.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","bosnian president",422,"NULL",2.0,1.0,0.0,1.0,0.31,177.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","august 28",638,"NULL",2.0,1.0,0.0,2.0,0.47,84.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","assistant secretary of state",317,"NULL",4.0,1.0,0.0,5.0,0.24,177.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","assistant secretary",317,"NULL",2.0,1.0,0.0,11.0,0.24,177.0,211.0,20.0,0,1,0
+"-docstart- (993testa ruling)","alija izetbegovic",440,"NULL",2.0,1.0,1.0,1.0,0.33,177.0,211.0,20.0,1,1,1
+"-docstart- (992testa lebed)","war is over",539,"NULL",3.0,1.0,0.0,2.0,0.39,80.0,224.0,28.0,0,1,0
+"-docstart- (992testa lebed)","maskhadov",620,"NULL",1.0,3.0,10.0,1.0,0.44,118.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","maskhadov",453,"NULL",1.0,3.0,10.0,1.0,0.32,214.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","maskhadov",152,"NULL",1.0,3.0,10.0,1.0,0.11,233.0,224.0,28.0,0,1,0
+"-docstart- (992testa lebed)","khasavyurt, russia",47,"NULL",2.0,1.0,0.0,0.0,0.03,233.0,224.0,28.0,0,1,1
+"-docstart- (992testa lebed)","khasavyurt",47,"NULL",1.0,1.0,2.0,2.0,0.03,233.0,224.0,28.0,1,1,0
+"-docstart- (992testa lebed)","chernomyrdin",1302,"NULL",1.0,1.0,4.0,1.0,0.93,118.0,224.0,28.0,0,1,0
+"-docstart- (992testa lebed)","chechen republic",399,"NULL",2.0,1.0,1.0,2.0,0.29,214.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","boris yeltsin",1156,"NULL",2.0,1.0,18.0,1.0,0.83,134.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","aslan maskhadov",146,"NULL",2.0,1.0,10.0,1.0,0.1,233.0,224.0,28.0,1,1,1
+"-docstart- (992testa lebed)","alexander lebed",96,"NULL",2.0,1.0,16.0,1.0,0.07,233.0,224.0,28.0,1,1,1
+"-docstart- (991testa yeltsin)","security chief",205,"NULL",2.0,1.0,0.0,2.0,0.12,237.0,275.0,38.0,0,1,0
+"-docstart- (991testa yeltsin)","russian prime minister",71,"NULL",3.0,1.0,0.0,2.0,0.04,237.0,275.0,38.0,0,1,1
+"-docstart- (991testa yeltsin)","maskhadov",706,"NULL",1.0,1.0,10.0,1.0,0.42,190.0,275.0,38.0,0,1,0
+"-docstart- (991testa yeltsin)","itar-tass news agency",1213,"NULL",3.0,1.0,0.0,1.0,0.72,168.0,275.0,38.0,0,1,0
+"-docstart- (991testa yeltsin)","interfax",342,"NULL",1.0,2.0,14.0,1.0,0.2,92.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","interfax",263,"NULL",1.0,2.0,14.0,1.0,0.16,237.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","chernomyrdin",358,"NULL",1.0,3.0,4.0,1.0,0.21,92.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","chernomyrdin",1526,"NULL",1.0,3.0,4.0,1.0,0.91,160.0,275.0,38.0,1,1,0
+"-docstart- (991testa yeltsin)","chernomyrdin",101,"NULL",1.0,3.0,4.0,1.0,0.06,237.0,275.0,38.0,0,1,0
+"-docstart- (991testa yeltsin)","boris yeltsin",144,"NULL",2.0,1.0,18.0,1.0,0.09,237.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","aslan maskhadov",700,"NULL",2.0,1.0,10.0,1.0,0.42,190.0,275.0,38.0,1,1,1
+"-docstart- (991testa yeltsin)","alexander lebed",220,"NULL",2.0,1.0,16.0,1.0,0.13,237.0,275.0,38.0,1,1,1
+"-docstart- (990testa chad)","held hostage",221,"NULL",2.0,1.0,0.0,4.0,0.26,228.0,128.0,5.0,0,1,0
+"-docstart- (990testa chad)","government of chad",75,"NULL",3.0,1.0,0.0,2.0,0.09,228.0,128.0,5.0,0,1,1
+"-docstart- (990testa chad)","yamassoum",207,"NULL",1.0,1.0,0.0,0.0,0.25,228.0,128.0,5.0,0,1,0
+"-docstart- (990testa chad)","september 2",784,"NULL",2.0,1.0,0.0,3.0,0.93,103.0,128.0,5.0,0,1,0
+"-docstart- (990testa chad)","nagoum yamassoum",200,"NULL",2.0,1.0,1.0,1.0,0.24,228.0,128.0,5.0,1,1,1
+"-docstart- (990testa chad)","nagoum",200,"NULL",1.0,1.0,0.0,0.0,0.24,228.0,128.0,5.0,0,1,0
+"-docstart- (99 miss)","president of",2140,"NULL",2.0,1.0,0.0,16.0,0.77,138.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","front page news",1764,"NULL",3.0,1.0,0.0,1.0,0.64,127.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","nikki campbell",1430,"NULL",2.0,1.0,1.0,1.0,0.52,69.0,491.0,37.0,1,1,1
+"-docstart- (99 miss)","n.m.",70,"NULL",1.0,1.0,3.0,0.0,0.03,234.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","miss teen usa pageant",406,"NULL",4.0,1.0,0.0,2.0,0.15,164.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","miss teen",406,"NULL",2.0,1.0,0.0,1.0,0.15,164.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","martin brooks",2125,"NULL",2.0,1.0,1.0,1.0,0.77,138.0,491.0,37.0,1,1,0
+"-docstart- (99 miss)","las cruces, n.m.",58,"NULL",3.0,1.0,0.0,0.0,0.02,234.0,491.0,37.0,0,1,0
+"-docstart- (99 miss)","alicia machado",113,"NULL",2.0,1.0,1.0,1.0,0.04,203.0,491.0,37.0,1,1,1
+"-docstart- (989testa east)","driefontein",78,"NULL",1.0,2.0,0.0,3.0,0.13,197.0,93.0,6.0,0,1,0
+"-docstart- (989testa east)","driefontein",465,"NULL",1.0,2.0,0.0,3.0,0.8,167.0,93.0,6.0,0,1,0
+"-docstart- (988testa nigerian)","eastern nigeria",88,"NULL",2.0,1.0,0.0,1.0,0.13,180.0,125.0,5.0,0,1,0
+"-docstart- (988testa nigerian)","uyo",503,"NULL",1.0,1.0,5.0,4.0,0.73,133.0,125.0,5.0,1,1,1
+"-docstart- (988testa nigerian)","news agency of nigeria",284,"NULL",4.0,1.0,3.0,1.0,0.41,116.0,125.0,5.0,0,1,1
+"-docstart- (987testa soccer)","phil babb",244,"NULL",2.0,1.0,2.0,1.0,0.44,139.0,83.0,26.0,1,1,1
+"-docstart- (987testa soccer)","newsroom",525,"NULL",1.0,1.0,0.0,6.0,0.96,35.0,83.0,26.0,0,1,0
+"-docstart- (987testa soccer)","ian harte",284,"NULL",2.0,1.0,4.0,1.0,0.52,139.0,83.0,26.0,1,1,1
+"-docstart- (987testa soccer)","gary breen",211,"NULL",2.0,1.0,2.0,1.0,0.38,139.0,83.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","world heavyweight title",1224,"NULL",3.0,1.0,0.0,3.0,0.83,69.0,279.0,26.0,0,1,0
+"-docstart- (986testa boxing-bruno)","world heavyweight",64,"NULL",2.0,2.0,0.0,4.0,0.04,145.0,279.0,26.0,0,1,0
+"-docstart- (986testa boxing-bruno)","world heavyweight",1224,"NULL",2.0,2.0,0.0,4.0,0.83,69.0,279.0,26.0,0,1,0
+"-docstart- (986testa boxing-bruno)","opening round",1371,"NULL",2.0,1.0,0.0,17.0,0.93,143.0,279.0,26.0,0,1,0
+"-docstart- (986testa boxing-bruno)","world boxing council",329,"NULL",3.0,1.0,1.0,2.0,0.22,167.0,279.0,26.0,1,1,1
+"-docstart- (986testa boxing-bruno)","oliver mccall",1105,"NULL",2.0,1.0,1.0,1.0,0.75,166.0,279.0,26.0,1,1,1
+"-docstart- (985testa late)","futures ended",887,"NULL",2.0,1.0,0.0,0.0,0.33,92.0,436.0,41.0,0,1,0
+"-docstart- (985testa late)","dollar deals",2690,"NULL",2.0,1.0,0.0,1.0,1.0,108.0,436.0,41.0,0,1,0
+"-docstart- (985testa late)","tokyo stock exchange",2176,"NULL",3.0,1.0,1.0,1.0,0.81,64.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","nsw treasury",2355,"NULL",2.0,1.0,1.0,1.0,0.87,93.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","matif",1005,"NULL",1.0,1.0,0.0,1.0,0.37,73.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","london international",343,"NULL",2.0,1.0,0.0,0.0,0.13,122.0,436.0,41.0,0,1,0
+"-docstart- (985testa late)","liffe",788,"NULL",1.0,4.0,6.0,1.0,0.29,109.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","liffe",405,"NULL",1.0,4.0,6.0,1.0,0.15,122.0,436.0,41.0,0,1,1
+"-docstart- (985testa late)","liffe",2099,"NULL",1.0,4.0,6.0,1.0,0.78,72.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","liffe",1253,"NULL",1.0,4.0,6.0,1.0,0.46,55.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","kansai international airport",2632,"NULL",3.0,1.0,1.0,1.0,0.97,108.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","kansai electric power",2606,"NULL",3.0,1.0,1.0,1.0,0.96,108.0,436.0,41.0,1,1,0
+"-docstart- (985testa late)","kansai electric",2606,"NULL",2.0,1.0,0.0,1.0,0.96,108.0,436.0,41.0,0,1,0
+"-docstart- (985testa late)","dnib",2546,"NULL",1.0,2.0,1.0,0.0,0.94,50.0,436.0,41.0,1,1,0
+"-docstart- (985testa late)","dnib",2448,"NULL",1.0,2.0,1.0,0.0,0.91,98.0,436.0,41.0,1,1,1
+"-docstart- (985testa late)","chicago board of trade",1578,"NULL",4.0,1.0,2.0,2.0,0.58,136.0,436.0,41.0,1,1,1
+"-docstart- (983testa uk)","state of",486,"NULL",2.0,1.0,0.0,5.0,0.83,192.0,109.0,7.0,0,1,0
+"-docstart- (983testa uk)","jim ballantyne",541,"NULL",2.0,1.0,1.0,1.0,0.92,52.0,109.0,7.0,0,1,1
+"-docstart- (982testa douglas)","schroder",1770,"NULL",1.0,1.0,0.0,3.0,0.81,99.0,368.0,28.0,0,1,0
+"-docstart- (982testa douglas)","new york stock exchange",329,"NULL",4.0,1.0,6.0,3.0,0.15,59.0,368.0,28.0,1,1,1
+"-docstart- (982testa douglas)","magna international",235,"NULL",2.0,1.0,0.0,1.0,0.11,230.0,368.0,28.0,0,1,1
+"-docstart- (982testa douglas)","johnson controls",659,"NULL",2.0,2.0,1.0,1.0,0.3,178.0,368.0,28.0,0,1,1
+"-docstart- (982testa douglas)","johnson controls",1982,"NULL",2.0,2.0,1.0,1.0,0.91,199.0,368.0,28.0,0,1,1
+"-docstart- (982testa douglas)","james hoey",866,"NULL",2.0,1.0,1.0,3.0,0.4,208.0,368.0,28.0,1,1,1
+"-docstart- (982testa douglas)","farmington hills, mich.",41,"NULL",3.0,1.0,0.0,1.0,0.02,254.0,368.0,28.0,0,1,0
+"-docstart- (982testa douglas)","farmington hills",41,"NULL",2.0,1.0,1.0,3.0,0.02,24.0,368.0,28.0,1,1,1
+"-docstart- (982testa douglas)","co.",1790,"NULL",1.0,1.0,0.0,5.0,0.82,178.0,368.0,28.0,0,1,0
+"-docstart- (981testa u.s.)","revisions",2582,"NULL",1.0,1.0,0.0,6.0,0.88,80.0,487.0,34.0,0,1,0
+"-docstart- (981testa u.s.)","futures end",10,"NULL",2.0,1.0,0.0,1.0,0.0,48.0,487.0,34.0,0,1,0
+"-docstart- (981testa u.s.)","u.s. economy",2059,"NULL",2.0,1.0,0.0,2.0,0.7,175.0,487.0,34.0,0,1,0
+"-docstart- (981testa u.s.)","primary dealers",475,"NULL",2.0,1.0,0.0,1.0,0.16,140.0,487.0,34.0,0,1,1
+"-docstart- (981testa u.s.)","national association of purchasing management",220,"NULL",5.0,1.0,1.0,1.0,0.07,253.0,487.0,34.0,0,1,1
+"-docstart- (981testa u.s.)","national association of",220,"NULL",3.0,1.0,0.0,0.0,0.07,253.0,487.0,34.0,0,1,0
+"-docstart- (981testa u.s.)","lawrence lindsey",1984,"NULL",2.0,1.0,2.0,1.0,0.68,58.0,487.0,34.0,1,1,1
+"-docstart- (981testa u.s.)","federal open market committee",1904,"NULL",4.0,1.0,2.0,1.0,0.65,174.0,487.0,34.0,1,1,1
+"-docstart- (981testa u.s.)","fed chairman",2214,"NULL",2.0,1.0,0.0,1.0,0.75,158.0,487.0,34.0,0,1,1
+"-docstart- (981testa u.s.)","fomc",2423,"NULL",1.0,1.0,2.0,1.0,0.83,125.0,487.0,34.0,1,1,0
+"-docstart- (981testa u.s.)","alan greenspan",2227,"NULL",2.0,1.0,3.0,1.0,0.76,158.0,487.0,34.0,1,1,1
+"-docstart- (980testa nymex)","s and",358,"NULL",2.0,1.0,0.0,0.0,0.28,132.0,214.0,8.0,0,1,0
+"-docstart- (980testa nymex)","u.s. labor",213,"NULL",2.0,1.0,0.0,1.0,0.17,201.0,214.0,8.0,0,1,0
+"-docstart- (980testa nymex)","nymex",70,"NULL",1.0,3.0,4.0,1.0,0.05,166.0,214.0,8.0,0,1,0
+"-docstart- (980testa nymex)","nymex",1180,"NULL",1.0,3.0,4.0,1.0,0.92,46.0,214.0,8.0,0,1,1
+"-docstart- (980testa nymex)","nymex",0,"NULL",1.0,3.0,4.0,1.0,0.0,49.0,214.0,8.0,0,1,1
+"-docstart- (98 turkish)","industrial index",1030,"NULL",2.0,1.0,0.0,1.0,0.81,38.0,210.0,9.0,0,1,0
+"-docstart- (98 turkish)","isbank",930,"NULL",1.0,1.0,1.0,1.0,0.73,80.0,210.0,9.0,1,1,1
+"-docstart- (979testa jones)","st. petersburg, fla.",162,"NULL",3.0,1.0,0.0,1.0,0.34,193.0,65.0,11.0,0,1,0
+"-docstart- (978testa canada)","canada savings bonds",386,"NULL",3.0,1.0,0.0,0.0,0.49,28.0,135.0,9.0,0,1,0
+"-docstart- (978testa canada)","august 28",133,"NULL",2.0,1.0,0.0,2.0,0.17,133.0,135.0,9.0,0,1,0
+"-docstart- (978testa canada)","aug 28",185,"NULL",2.0,1.0,0.0,0.0,0.23,58.0,135.0,9.0,0,1,0
+"-docstart- (977testa polish)","national bank of poland",71,"NULL",4.0,1.0,1.0,1.0,0.35,120.0,33.0,4.0,1,1,1
+"-docstart- (977testa polish)","friday",146,"NULL",1.0,1.0,0.0,31.0,0.72,120.0,33.0,4.0,0,1,0
+"-docstart- (977testa polish)","bank of poland",80,"NULL",3.0,1.0,0.0,1.0,0.39,120.0,33.0,4.0,0,1,0
+"-docstart- (976testa romania)","last year",988,"NULL",2.0,1.0,0.0,111.0,0.63,39.0,252.0,13.0,0,1,0
+"-docstart- (976testa romania)","luli",1513,"NULL",1.0,1.0,0.0,2.0,0.97,49.0,252.0,13.0,0,1,0
+"-docstart- (976testa romania)","bucharest stock exchange",511,"NULL",3.0,1.0,0.0,1.0,0.33,171.0,252.0,13.0,0,1,1
+"-docstart- (975testa cricket)","world",192,"NULL",1.0,1.0,0.0,185.0,0.3,179.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","upul chandana",632,"NULL",2.0,1.0,1.0,1.0,0.98,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","stuart law",319,"NULL",2.0,1.0,4.0,1.0,0.49,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","steve waugh",405,"NULL",2.0,1.0,2.0,1.0,0.63,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","singer world series",185,"NULL",3.0,1.0,12.0,1.0,0.29,179.0,96.0,29.0,0,1,1
+"-docstart- (975testa cricket)","sanath jayasuriya",460,"NULL",2.0,1.0,4.0,1.0,0.71,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","roshan mahanama",559,"NULL",2.0,1.0,3.0,1.0,0.87,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","romesh kaluwitharana",479,"NULL",2.0,1.0,3.0,1.0,0.74,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","muthiah muralitharan",610,"NULL",2.0,1.0,3.0,1.0,0.94,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","michael bevan",270,"NULL",2.0,1.0,3.0,1.0,0.42,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","mark waugh",393,"NULL",2.0,1.0,3.0,1.0,0.61,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","lehmann",384,"NULL",1.0,1.0,2.0,20.0,0.59,191.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","kaluwitharana",486,"NULL",1.0,1.0,5.0,1.0,0.75,229.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","jason gillespie",302,"NULL",2.0,1.0,2.0,1.0,0.47,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","ian healy",247,"NULL",2.0,1.0,6.0,2.0,0.38,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","hashan",538,"NULL",1.0,1.0,0.0,1.0,0.83,229.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","gurusinha",508,"NULL",1.0,1.0,0.0,0.0,0.79,229.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","glenn mcgrath",331,"NULL",2.0,1.0,3.0,1.0,0.51,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","glenn",331,"NULL",1.0,1.0,0.0,45.0,0.51,191.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","darren lehmann",377,"NULL",2.0,1.0,1.0,1.0,0.58,191.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","chaminda vaas",595,"NULL",2.0,1.0,3.0,1.0,0.92,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","asanka gurusinha",501,"NULL",2.0,1.0,3.0,1.0,0.78,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","asanka",501,"NULL",1.0,1.0,0.0,0.0,0.78,229.0,96.0,29.0,0,1,0
+"-docstart- (975testa cricket)","arjuna ranatunga",430,"NULL",2.0,1.0,4.0,1.0,0.67,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","aravinda de silva",519,"NULL",3.0,1.0,4.0,1.0,0.8,229.0,96.0,29.0,1,1,1
+"-docstart- (975testa cricket)","aravinda",519,"NULL",1.0,1.0,0.0,0.0,0.8,229.0,96.0,29.0,0,1,0
+"-docstart- (974testa cricket)","singer world series",194,"NULL",3.0,1.0,12.0,1.0,0.83,185.0,40.0,6.0,0,1,1
+"-docstart- (974testa cricket)","friday",228,"NULL",1.0,1.0,0.0,31.0,0.97,185.0,40.0,6.0,0,1,0
+"-docstart- (973testa cricket)","de silva",1358,"NULL",2.0,3.0,5.0,5.0,0.96,88.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","world series cricket",94,"NULL",3.0,1.0,0.0,1.0,0.07,134.0,254.0,67.0,0,1,1
+"-docstart- (973testa cricket)","world",94,"NULL",1.0,1.0,0.0,185.0,0.07,134.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","singer world series",87,"NULL",3.0,1.0,12.0,1.0,0.06,134.0,254.0,67.0,0,1,1
+"-docstart- (973testa cricket)","september 1",1405,"NULL",2.0,1.0,0.0,5.0,0.99,88.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","s. waugh",848,"NULL",2.0,3.0,2.0,0.0,0.6,30.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","s. waugh",294,"NULL",2.0,3.0,2.0,0.0,0.21,57.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","s. waugh",1186,"NULL",2.0,3.0,2.0,0.0,0.84,54.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","r.",321,"NULL",1.0,3.0,0.0,12.0,0.23,49.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","kaluwitharana",832,"NULL",1.0,3.0,5.0,1.0,0.59,19.0,254.0,67.0,0,1,1
+"-docstart- (973testa cricket)","kaluwitharana",438,"NULL",1.0,3.0,5.0,1.0,0.31,43.0,254.0,67.0,1,1,0
+"-docstart- (973testa cricket)","kaluwitharana",357,"NULL",1.0,3.0,5.0,1.0,0.25,41.0,254.0,67.0,1,1,1
+"-docstart- (973testa cricket)","j.",422,"NULL",1.0,1.0,0.0,8.0,0.3,81.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","gurusinha",862,"NULL",1.0,1.0,0.0,0.0,0.61,24.0,254.0,67.0,0,1,1
+"-docstart- (973testa cricket)","fall of",583,"NULL",2.0,2.0,0.0,5.0,0.41,148.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","fall of",1080,"NULL",2.0,2.0,0.0,5.0,0.76,63.0,254.0,67.0,0,1,0
+"-docstart- (973testa cricket)","aravinda de silva",1349,"NULL",3.0,1.0,4.0,1.0,0.95,88.0,254.0,67.0,0,1,1
+"-docstart- (972testa cricket)","singer world series",138,"NULL",3.0,1.0,12.0,1.0,0.5,157.0,49.0,8.0,0,1,1
+"-docstart- (972testa cricket)","scores",209,"NULL",1.0,1.0,0.0,18.0,0.75,61.0,49.0,8.0,0,1,0
+"-docstart- (971testa soccer)","mondonico",893,"NULL",1.0,1.0,0.0,1.0,0.99,166.0,146.0,22.0,0,1,0
+"-docstart- (971testa soccer)","gianluigi lentini",97,"NULL",2.0,1.0,1.0,1.0,0.11,233.0,146.0,22.0,1,1,1
+"-docstart- (971testa soccer)","fabio capello",824,"NULL",2.0,1.0,2.0,1.0,0.91,166.0,146.0,22.0,1,1,1
+"-docstart- (971testa soccer)","emiliano mondonico",884,"NULL",2.0,1.0,1.0,1.0,0.98,166.0,146.0,22.0,1,1,1
+"-docstart- (970testa soccer)","emon",267,"NULL",1.0,1.0,33.0,2.0,0.56,163.0,81.0,14.0,0,1,0
+"-docstart- (970testa soccer)","dominique baratelli",90,"NULL",2.0,1.0,1.0,1.0,0.19,157.0,81.0,14.0,1,1,1
+"-docstart- (970testa soccer)","baratelli",191,"NULL",1.0,3.0,1.0,0.0,0.4,163.0,81.0,14.0,1,1,0
+"-docstart- (970testa soccer)","baratelli",100,"NULL",1.0,3.0,1.0,0.0,0.21,157.0,81.0,14.0,0,1,0
+"-docstart- (970testa soccer)","baratelli",9,"NULL",1.0,3.0,1.0,0.0,0.02,33.0,81.0,14.0,1,1,0
+"-docstart- (970testa soccer)","albert emon",260,"NULL",2.0,1.0,2.0,1.0,0.55,163.0,81.0,14.0,1,1,1
+"-docstart- (97 egypt)","u.n. security council",405,"NULL",3.0,1.0,3.0,1.0,0.29,181.0,245.0,30.0,1,1,1
+"-docstart- (97 egypt)","sudanese people",791,"NULL",2.0,1.0,0.0,1.0,0.56,183.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","sudanese government",280,"NULL",2.0,3.0,0.0,3.0,0.2,115.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","sudanese government",127,"NULL",2.0,3.0,0.0,3.0,0.09,217.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","sudanese government",1015,"NULL",2.0,3.0,0.0,3.0,0.72,114.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","president hosni mubarak",211,"NULL",3.0,1.0,0.0,1.0,0.15,217.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","national islamic",960,"NULL",2.0,1.0,0.0,1.0,0.68,114.0,245.0,30.0,0,1,0
+"-docstart- (97 egypt)","hosni mubarak",221,"NULL",2.0,1.0,4.0,2.0,0.16,217.0,245.0,30.0,1,1,1
+"-docstart- (97 egypt)","addis ababa",539,"NULL",2.0,2.0,3.0,3.0,0.38,151.0,245.0,30.0,1,1,1
+"-docstart- (97 egypt)","addis ababa",357,"NULL",2.0,2.0,3.0,3.0,0.25,115.0,245.0,30.0,1,1,1
+"-docstart- (969testa athletics)","war in",666,"NULL",2.0,1.0,0.0,1.0,0.7,245.0,170.0,20.0,0,1,0
+"-docstart- (969testa athletics)","lot",865,"NULL",1.0,1.0,0.0,26.0,0.9,222.0,170.0,20.0,0,1,0
+"-docstart- (969testa athletics)","september 9",238,"NULL",2.0,1.0,0.0,3.0,0.25,200.0,170.0,20.0,0,1,0
+"-docstart- (969testa athletics)","kosevo stadium",473,"NULL",2.0,1.0,0.0,1.0,0.49,238.0,170.0,20.0,0,1,1
+"-docstart- (969testa athletics)","kenny harrison",91,"NULL",2.0,1.0,3.0,1.0,0.1,200.0,170.0,20.0,1,1,1
+"-docstart- (969testa athletics)","international amateur athletic federation",255,"NULL",4.0,1.0,1.0,1.0,0.27,238.0,170.0,20.0,1,1,1
+"-docstart- (969testa athletics)","iaaf",817,"NULL",1.0,1.0,0.0,2.0,0.85,222.0,170.0,20.0,1,1,0
+"-docstart- (968testa soccer)","roberto bisconti",444,"NULL",2.0,1.0,1.0,1.0,0.55,238.0,141.0,18.0,1,1,1
+"-docstart- (968testa soccer)","intertoto",176,"NULL",1.0,1.0,1.0,4.0,0.22,170.0,141.0,18.0,0,1,0
+"-docstart- (968testa soccer)","guy hellers",324,"NULL",2.0,1.0,1.0,1.0,0.4,132.0,141.0,18.0,1,1,1
+"-docstart- (968testa soccer)","didier ernst",581,"NULL",2.0,1.0,1.0,1.0,0.72,238.0,141.0,18.0,1,1,1
+"-docstart- (968testa soccer)","august 20",700,"NULL",2.0,1.0,0.0,5.0,0.86,64.0,141.0,18.0,0,1,0
+"-docstart- (967testa athletics)","yoelvis quesada",5033,"NULL",2.0,1.0,2.0,1.0,0.84,29.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","yelena gulyayeva",4572,"NULL",2.0,1.0,2.0,1.0,0.76,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","yekaterina podkopayeva",588,"NULL",2.0,1.0,2.0,1.0,0.1,40.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","xiomara rivero",5478,"NULL",2.0,1.0,1.0,1.0,0.91,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","vladimir dubrovshchik",2045,"NULL",2.0,1.0,2.0,1.0,0.34,38.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","virgilijus alekna",2088,"NULL",2.0,1.0,1.0,1.0,0.35,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","viciosa",1813,"NULL",1.0,1.0,0.0,0.0,0.3,30.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","venuste niyongabo",1658,"NULL",2.0,1.0,1.0,0.0,0.28,36.0,1145.0,306.0,0,1,1
+"-docstart- (967testa athletics)","valentina fedyushina",1511,"NULL",2.0,1.0,1.0,0.0,0.25,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","trandenkov",4095,"NULL",1.0,1.0,0.0,0.0,0.68,35.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","torrance zellner",2896,"NULL",2.0,1.0,2.0,1.0,0.48,22.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tony jarrett",846,"NULL",2.0,1.0,1.0,1.0,0.14,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tom nyariki",4898,"NULL",2.0,1.0,1.0,1.0,0.82,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tim lobinger",4159,"NULL",2.0,1.0,2.0,1.0,0.69,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tegla loroupe",2725,"NULL",2.0,1.0,1.0,1.0,0.45,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","tegla",2725,"NULL",1.0,1.0,0.0,0.0,0.45,31.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","tatyana motkova",4464,"NULL",2.0,1.0,2.0,1.0,0.74,30.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","tanja damaske",5300,"NULL",2.0,1.0,1.0,1.0,0.88,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","svetlana masterkova",441,"NULL",2.0,1.0,5.0,1.0,0.07,47.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","sven nylander",3039,"NULL",2.0,1.0,1.0,1.0,0.51,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","stephanie storp",1552,"NULL",2.0,1.0,1.0,1.0,0.26,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","sigurd njerve",5169,"NULL",2.0,1.0,2.0,1.0,0.86,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","shem kororia",4824,"NULL",2.0,1.0,1.0,1.0,0.8,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","schwarthoff",888,"NULL",1.0,2.0,0.0,0.0,0.15,36.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","schwarthoff",5975,"NULL",1.0,2.0,0.0,0.0,1.0,123.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","samuel matete",2939,"NULL",2.0,1.0,2.0,1.0,0.49,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","sally barsosio",2834,"NULL",2.0,1.0,2.0,1.0,0.47,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","rose cheruiyot",2647,"NULL",2.0,1.0,1.0,1.0,0.44,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","rohan robinson",3103,"NULL",2.0,1.0,2.0,1.0,0.52,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","privalova",2475,"NULL",1.0,1.0,0.0,0.0,0.41,31.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","potapovich",4197,"NULL",1.0,1.0,0.0,0.0,0.7,33.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","phylis smith",3375,"NULL",2.0,1.0,2.0,1.0,0.56,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","phylis",3375,"NULL",1.0,1.0,0.0,1.0,0.56,29.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","pauline konga",2798,"NULL",2.0,1.0,2.0,1.0,0.47,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","patricia djate-taillard",501,"NULL",2.0,1.0,1.0,0.0,0.08,41.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","osmond ezinwa",5793,"NULL",2.0,1.0,3.0,1.0,0.96,109.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","olabisi afolabi",3338,"NULL",2.0,1.0,1.0,1.0,0.56,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","nyariki",4902,"NULL",1.0,1.0,0.0,0.0,0.82,29.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","noureddine morceli",1600,"NULL",2.0,1.0,2.0,1.0,0.27,45.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","norberto tellez",3785,"NULL",2.0,1.0,1.0,0.0,0.63,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","njerve",5176,"NULL",1.0,1.0,0.0,0.0,0.86,29.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","nico motchebon",3855,"NULL",2.0,1.0,1.0,1.0,0.64,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","nele zilinskiene",4533,"NULL",2.0,1.0,2.0,0.0,0.75,39.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","motchebon",3860,"NULL",1.0,1.0,0.0,0.0,0.64,33.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","michelle freeman",158,"NULL",2.0,1.0,4.0,1.0,0.03,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","michael moellenbeck",2201,"NULL",2.0,1.0,1.0,0.0,0.37,36.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","merlene ottey",2299,"NULL",2.0,1.0,4.0,1.0,0.38,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","mary onyali",2366,"NULL",2.0,1.0,2.0,1.0,0.39,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","marko koers",1768,"NULL",2.0,1.0,1.0,1.0,0.29,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","mark crear",809,"NULL",2.0,1.0,1.0,1.0,0.13,16.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","marc blume",3697,"NULL",2.0,1.0,1.0,1.0,0.62,27.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","maksim tarasov",4125,"NULL",2.0,1.0,1.0,1.0,0.69,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","ludmila engquist",204,"NULL",2.0,1.0,3.0,1.0,0.03,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","louise mcpaul",5441,"NULL",2.0,1.0,2.0,1.0,0.91,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","loroupe",2731,"NULL",1.0,1.0,0.0,0.0,0.45,31.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","lobinger",4163,"NULL",1.0,1.0,0.0,0.0,0.69,28.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","linford christie",5720,"NULL",2.0,1.0,7.0,1.0,0.95,68.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","linda kisabaka",3409,"NULL",2.0,1.0,1.0,1.0,0.57,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","leah pells",633,"NULL",2.0,1.0,2.0,1.0,0.11,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","lars riedel",1931,"NULL",2.0,1.0,2.0,1.0,0.32,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","lahlafi",4866,"NULL",1.0,1.0,0.0,0.0,0.81,34.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","laban rotich",1734,"NULL",2.0,1.0,2.0,1.0,0.29,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","kumbernuss",1400,"NULL",1.0,1.0,0.0,1.0,0.23,34.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","korzhanenko",1479,"NULL",1.0,1.0,0.0,0.0,0.25,33.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","kororia",4829,"NULL",1.0,1.0,0.0,0.0,0.8,30.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","kisabaka",3415,"NULL",1.0,1.0,0.0,0.0,0.57,31.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","karin janke",3445,"NULL",2.0,1.0,1.0,1.0,0.57,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","kaptyukh",2015,"NULL",1.0,1.0,0.0,0.0,0.34,32.0,1145.0,306.0,0,1,1
+"-docstart- (967testa athletics)","julie baumann",344,"NULL",2.0,1.0,2.0,0.0,0.06,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","juergen schult",2129,"NULL",2.0,1.0,2.0,0.0,0.35,31.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","john mayock",1842,"NULL",2.0,1.0,3.0,1.0,0.31,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","jearl miles",3240,"NULL",2.0,1.0,1.0,1.0,0.54,17.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","jean galfione",4230,"NULL",2.0,1.0,1.0,1.0,0.7,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","isel lopez",5377,"NULL",2.0,1.0,2.0,1.0,0.9,24.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","isaac viciosa",1807,"NULL",2.0,1.0,2.0,1.0,0.3,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","irina privalova",2469,"NULL",2.0,1.0,2.0,1.0,0.41,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","irina korzhanenko",1473,"NULL",2.0,1.0,1.0,1.0,0.25,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","inger miller",2505,"NULL",2.0,1.0,2.0,1.0,0.42,18.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","inga babakova",4389,"NULL",2.0,1.0,2.0,1.0,0.73,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","igor trandenkov",4090,"NULL",2.0,1.0,1.0,1.0,0.68,35.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","igor potapovich",4192,"NULL",2.0,1.0,1.0,1.0,0.7,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","heli rantanen",5406,"NULL",2.0,1.0,1.0,1.0,0.9,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gwen torrence",2334,"NULL",2.0,1.0,3.0,1.0,0.39,19.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gunhild halle",2761,"NULL",2.0,1.0,1.0,1.0,0.46,32.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","grand prix athletics",87,"NULL",3.0,1.0,0.0,1.0,0.01,119.0,1145.0,306.0,0,1,1
+"-docstart- (967testa athletics)","gillian russell",383,"NULL",2.0,1.0,2.0,1.0,0.06,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gete wami",2612,"NULL",2.0,1.0,1.0,1.0,0.44,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","george panayiotopoulos",5932,"NULL",2.0,1.0,1.0,0.0,0.99,123.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","geir moen",3667,"NULL",2.0,2.0,1.0,1.0,0.61,25.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","geir moen",1213,"NULL",2.0,2.0,1.0,1.0,0.2,25.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","galfione",4235,"NULL",1.0,1.0,0.0,0.0,0.71,28.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","gail devers",2261,"NULL",2.0,1.0,4.0,1.0,0.38,17.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","gabriela szabo",2557,"NULL",2.0,1.0,1.0,1.0,0.43,42.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","friedek",5255,"NULL",1.0,1.0,0.0,2.0,0.88,40.0,1145.0,306.0,0,1,1
+"-docstart- (967testa athletics)","frankie fredericks",5688,"NULL",2.0,2.0,5.0,1.0,0.95,68.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","frankie fredericks",1098,"NULL",2.0,2.0,5.0,1.0,0.18,35.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","frank busemann",1015,"NULL",2.0,1.0,1.0,1.0,0.17,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","florian schwarthoff",880,"NULL",2.0,2.0,1.0,1.0,0.15,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","florian schwarthoff",5967,"NULL",2.0,2.0,1.0,1.0,0.99,123.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","fita bayissa",4932,"NULL",2.0,1.0,1.0,1.0,0.82,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","fedyushina",1521,"NULL",1.0,1.0,0.0,0.0,0.25,36.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","fatima yusuf",3270,"NULL",2.0,1.0,1.0,1.0,0.54,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falk balzer",952,"NULL",2.0,2.0,1.0,1.0,0.16,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falk balzer",5907,"NULL",2.0,2.0,1.0,1.0,0.98,123.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falilat ogunkoya",3194,"NULL",2.0,1.0,3.0,1.0,0.53,33.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","falilat",3194,"NULL",1.0,1.0,0.0,0.0,0.53,33.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","fabrizio mori",3006,"NULL",2.0,1.0,1.0,1.0,0.5,28.0,1145.0,306.0,0,1,1
+"-docstart- (967testa athletics)","engquist",212,"NULL",1.0,1.0,3.0,0.0,0.04,32.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","emilio valle",921,"NULL",2.0,1.0,3.0,1.0,0.15,26.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","dubrovshchik",2054,"NULL",1.0,1.0,0.0,0.0,0.34,38.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","donovan bailey",5635,"NULL",2.0,2.0,7.0,1.0,0.94,48.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","donovan bailey",3564,"NULL",2.0,2.0,7.0,1.0,0.59,30.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","dionne rose",311,"NULL",2.0,1.0,3.0,1.0,0.05,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","derrick adkins",2973,"NULL",2.0,1.0,3.0,1.0,0.5,20.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","davidson ezinwa",5843,"NULL",2.0,2.0,3.0,1.0,0.97,109.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","davidson ezinwa",3630,"NULL",2.0,2.0,3.0,1.0,0.6,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","david kiptoo",3893,"NULL",2.0,1.0,1.0,1.0,0.65,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","damaske",5306,"NULL",1.0,1.0,0.0,0.0,0.88,30.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","chryste gaines",2399,"NULL",2.0,1.0,2.0,1.0,0.4,20.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","chryste",2399,"NULL",1.0,1.0,0.0,0.0,0.4,20.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","chandra sturrup",2432,"NULL",2.0,1.0,3.0,1.0,0.41,32.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","carlos calado",5203,"NULL",2.0,1.0,1.0,1.0,0.87,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","carla sacramento",547,"NULL",2.0,1.0,2.0,1.0,0.09,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","brahim lahlafi",4859,"NULL",2.0,1.0,1.0,1.0,0.81,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","babakova",4394,"NULL",1.0,1.0,0.0,0.0,0.73,29.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","ato boldon",1180,"NULL",2.0,1.0,3.0,2.0,0.2,28.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","astrid kumbernuss",1393,"NULL",2.0,1.0,1.0,1.0,0.23,34.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","astafei",4436,"NULL",1.0,1.0,0.0,1.0,0.74,29.0,1145.0,306.0,0,1,0
+"-docstart- (967testa athletics)","annemari sandell",2684,"NULL",2.0,1.0,1.0,1.0,0.45,36.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","anja ruecker",3304,"NULL",2.0,1.0,1.0,0.0,0.55,29.0,1145.0,306.0,1,1,0
+"-docstart- (967testa athletics)","andreas seelig",2165,"NULL",2.0,1.0,1.0,1.0,0.36,31.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","aliuska lopez",241,"NULL",2.0,1.0,3.0,1.0,0.04,27.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","alina astafei",4430,"NULL",2.0,1.0,2.0,1.0,0.74,29.0,1145.0,306.0,1,1,1
+"-docstart- (967testa athletics)","alekna",2099,"NULL",1.0,1.0,0.0,0.0,0.35,36.0,1145.0,306.0,0,1,0
+"-docstart- (966testa athletics)","merlene ottey",1555,"NULL",2.0,1.0,4.0,1.0,0.98,64.0,269.0,39.0,1,1,1
+"-docstart- (966testa athletics)","gail devers",1457,"NULL",2.0,1.0,4.0,1.0,0.91,128.0,269.0,39.0,1,1,1
+"-docstart- (966testa athletics)","donovan bailey",162,"NULL",2.0,1.0,7.0,1.0,0.1,233.0,269.0,39.0,1,1,1
+"-docstart- (965testa soccer)","spanish first division",79,"NULL",3.0,1.0,0.0,6.0,0.14,270.0,85.0,14.0,0,1,1
+"-docstart- (965testa soccer)","not enough",40,"NULL",2.0,1.0,0.0,1.0,0.07,60.0,85.0,14.0,0,1,0
+"-docstart- (965testa soccer)","coruna",117,"NULL",1.0,1.0,0.0,2.0,0.21,270.0,85.0,14.0,0,1,1
+"-docstart- (964testa golf)","rest of",2162,"NULL",2.0,1.0,0.0,0.0,0.97,122.0,411.0,36.0,0,1,0
+"-docstart- (964testa golf)","u.s. amateur championship",481,"NULL",3.0,1.0,2.0,1.0,0.22,134.0,411.0,36.0,0,1,1
+"-docstart- (964testa golf)","tom lehman",2117,"NULL",2.0,1.0,4.0,1.0,0.95,122.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","scott hoch",1913,"NULL",2.0,1.0,4.0,1.0,0.86,78.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","phil mickelson",1972,"NULL",2.0,1.0,5.0,1.0,0.89,132.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","payne stewart",1879,"NULL",2.0,1.0,2.0,1.0,0.84,26.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","parnevik",393,"NULL",1.0,1.0,3.0,0.0,0.18,109.0,411.0,36.0,0,1,0
+"-docstart- (964testa golf)","nolan henke",93,"NULL",2.0,1.0,3.0,1.0,0.04,130.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","jesper parnevik",386,"NULL",2.0,1.0,3.0,1.0,0.17,109.0,411.0,36.0,0,1,1
+"-docstart- (964testa golf)","greater milwaukee",200,"NULL",2.0,1.0,0.0,1.0,0.09,103.0,411.0,36.0,0,1,0
+"-docstart- (964testa golf)","duffy waldorf",368,"NULL",2.0,1.0,7.0,1.0,0.17,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","bob estes",327,"NULL",2.0,1.0,3.0,1.0,0.15,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","billy mayfair",1780,"NULL",2.0,1.0,7.0,1.0,0.8,165.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","billy andrade",353,"NULL",2.0,1.0,2.0,1.0,0.16,109.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","bellsouth",1375,"NULL",1.0,1.0,0.0,2.0,0.62,182.0,411.0,36.0,0,1,0
+"-docstart- (964testa golf)","andrew magee",1274,"NULL",2.0,1.0,1.0,1.0,0.57,182.0,411.0,36.0,1,1,1
+"-docstart- (964testa golf)","amateur championship",486,"NULL",2.0,1.0,0.0,3.0,0.22,51.0,411.0,36.0,0,1,0
+"-docstart- (963testa golf)","first round",204,"NULL",2.0,1.0,0.0,596.0,0.31,133.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","tim simpson",551,"NULL",2.0,1.0,1.0,2.0,0.83,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","steve stricker",433,"NULL",2.0,1.0,6.0,1.0,0.65,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","russ cochran",462,"NULL",2.0,1.0,1.0,2.0,0.69,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","payne stewart",497,"NULL",2.0,1.0,2.0,1.0,0.75,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","parnevik",329,"NULL",1.0,1.0,3.0,0.0,0.49,423.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","olin browne",564,"NULL",2.0,1.0,1.0,1.0,0.85,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","nolan henke",264,"NULL",2.0,1.0,3.0,1.0,0.4,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","neal lancaster",352,"NULL",2.0,1.0,1.0,1.0,0.53,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","mike hulbert",592,"NULL",2.0,1.0,2.0,1.0,0.89,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","mark calcavecchia",478,"NULL",2.0,1.0,1.0,1.0,0.72,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","loren roberts",418,"NULL",2.0,1.0,5.0,1.0,0.63,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","loren",418,"NULL",1.0,1.0,0.0,7.0,0.63,423.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","jurgenson",642,"NULL",1.0,1.0,0.0,2.0,0.97,423.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","jesper parnevik",322,"NULL",2.0,1.0,3.0,1.0,0.48,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","greater milwaukee open",117,"NULL",3.0,2.0,3.0,1.0,0.18,133.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","greater milwaukee",117,"NULL",2.0,2.0,0.0,1.0,0.18,133.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","greater milwaukee",25,"NULL",2.0,2.0,0.0,1.0,0.04,48.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","duffy waldorf",307,"NULL",2.0,1.0,7.0,1.0,0.46,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","cochran",467,"NULL",1.0,1.0,0.0,19.0,0.7,423.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","calcavecchia",483,"NULL",1.0,1.0,0.0,0.0,0.73,423.0,106.0,34.0,0,1,0
+"-docstart- (963testa golf)","brown deer park golf course",166,"NULL",5.0,1.0,2.0,1.0,0.25,133.0,106.0,34.0,0,1,1
+"-docstart- (963testa golf)","brian henninger",606,"NULL",2.0,1.0,1.0,1.0,0.91,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","brian claar",449,"NULL",2.0,1.0,1.0,1.0,0.68,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","bob estes",279,"NULL",2.0,1.0,3.0,1.0,0.42,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","billy mayfair",512,"NULL",2.0,1.0,7.0,1.0,0.77,423.0,106.0,34.0,1,1,1
+"-docstart- (963testa golf)","billy andrade",292,"NULL",2.0,1.0,2.0,1.0,0.44,423.0,106.0,34.0,1,1,1
+"-docstart- (962testa nfl)","more time",621,"NULL",2.0,1.0,0.0,0.0,0.52,170.0,189.0,24.0,0,1,0
+"-docstart- (962testa nfl)","great moments",937,"NULL",2.0,1.0,0.0,0.0,0.79,174.0,189.0,24.0,0,1,0
+"-docstart- (962testa nfl)","nfl history",780,"NULL",2.0,1.0,0.0,3.0,0.66,105.0,189.0,24.0,0,1,0
+"-docstart- (962testa nfl)","jeffrey lurie",813,"NULL",2.0,1.0,1.0,1.0,0.69,105.0,189.0,24.0,1,1,1
+"-docstart- (961testa tennis)","little bit",2047,"NULL",2.0,1.0,0.0,1.0,0.54,84.0,693.0,50.0,0,1,0
+"-docstart- (961testa tennis)","gone home",1474,"NULL",2.0,1.0,0.0,1.0,0.39,115.0,693.0,50.0,0,1,0
+"-docstart- (961testa tennis)","during the day",3370,"NULL",3.0,1.0,0.0,1.0,0.89,53.0,693.0,50.0,0,1,0
+"-docstart- (961testa tennis)","todd martin",960,"NULL",2.0,1.0,12.0,1.0,0.25,177.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","tarango",568,"NULL",1.0,8.0,4.0,1.0,0.15,120.0,693.0,50.0,0,1,0
+"-docstart- (961testa tennis)","tarango",3642,"NULL",1.0,8.0,4.0,1.0,0.96,61.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",3497,"NULL",1.0,8.0,4.0,1.0,0.92,140.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",3079,"NULL",1.0,8.0,4.0,1.0,0.81,44.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",2866,"NULL",1.0,8.0,4.0,1.0,0.76,62.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",2599,"NULL",1.0,8.0,4.0,1.0,0.68,60.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",2186,"NULL",1.0,8.0,4.0,1.0,0.58,244.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","tarango",9,"NULL",1.0,8.0,4.0,1.0,0.0,62.0,693.0,50.0,1,1,0
+"-docstart- (961testa tennis)","marcelo rios",182,"NULL",2.0,1.0,9.0,1.0,0.05,185.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","malivai washington",159,"NULL",2.0,1.0,9.0,1.0,0.04,185.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","leander paes",818,"NULL",2.0,1.0,3.0,1.0,0.22,187.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","jeff tarango",563,"NULL",2.0,1.0,4.0,1.0,0.15,120.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","andre agassi",94,"NULL",2.0,1.0,5.0,1.0,0.02,185.0,693.0,50.0,1,1,1
+"-docstart- (961testa tennis)","all-england club",2311,"NULL",2.0,1.0,1.0,1.0,0.61,244.0,693.0,50.0,1,1,0
+"-docstart- (960testa baseball)","chicago 4",294,"NULL",2.0,1.0,0.0,0.0,0.72,367.0,75.0,25.0,0,1,0
+"-docstart- (960testa baseball)","california 14",208,"NULL",2.0,1.0,0.0,1.0,0.51,367.0,75.0,25.0,0,1,0
+"-docstart- (96 egypt)","plane accident",183,"NULL",2.0,1.0,0.0,2.0,0.16,149.0,200.0,16.0,0,1,0
+"-docstart- (96 egypt)","aviation authority",724,"NULL",2.0,1.0,0.0,1.0,0.64,148.0,200.0,16.0,0,1,0
+"-docstart- (96 egypt)","mohamed fahim",369,"NULL",2.0,1.0,0.0,0.0,0.33,180.0,200.0,16.0,0,1,0
+"-docstart- (96 egypt)","ihlas news agency",1097,"NULL",3.0,1.0,0.0,0.0,0.97,69.0,200.0,16.0,0,1,0
+"-docstart- (96 egypt)","egyptair",852,"NULL",1.0,4.0,1.0,1.0,0.76,68.0,200.0,16.0,1,1,1
+"-docstart- (96 egypt)","egyptair",248,"NULL",1.0,4.0,1.0,1.0,0.22,161.0,200.0,16.0,1,1,0
+"-docstart- (96 egypt)","egyptair",174,"NULL",1.0,4.0,1.0,1.0,0.15,149.0,200.0,16.0,1,1,0
+"-docstart- (96 egypt)","egyptair",100,"NULL",1.0,4.0,1.0,1.0,0.09,149.0,200.0,16.0,1,1,1
+"-docstart- (96 egypt)","cairo airport",416,"NULL",2.0,1.0,0.0,1.0,0.37,180.0,200.0,16.0,0,1,1
+"-docstart- (959testa baseball)","tabulate",143,"NULL",1.0,1.0,0.0,1.0,0.1,211.0,239.0,65.0,0,1,0
+"-docstart- (959testa baseball)","games behind",192,"NULL",2.0,1.0,0.0,1.0,0.14,211.0,239.0,65.0,0,1,1
+"-docstart- (959testa baseball)","california 62",584,"NULL",2.0,1.0,0.0,0.0,0.43,28.0,239.0,65.0,0,1,0
+"-docstart- (959testa baseball)","american league eastern division",209,"NULL",4.0,1.0,10.0,1.0,0.15,211.0,239.0,65.0,0,1,1
+"-docstart- (958testa tennis)","ulihrach",2047,"NULL",1.0,1.0,0.0,1.0,0.85,345.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","u.s. open tennis championships",83,"NULL",4.0,1.0,10.0,2.0,0.03,411.0,484.0,100.0,0,1,1
+"-docstart- (958testa tennis)","u.s. open tennis",83,"NULL",3.0,1.0,0.0,2.0,0.03,411.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","todd martin",2240,"NULL",2.0,1.0,12.0,1.0,0.93,105.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","tim henman",413,"NULL",2.0,1.0,6.0,1.0,0.17,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","tillstrom",770,"NULL",1.0,1.0,7.0,0.0,0.32,494.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","tennis championships",93,"NULL",2.0,1.0,0.0,0.0,0.04,369.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","stefan edberg",2304,"NULL",2.0,1.0,7.0,1.0,0.96,142.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","sjeng schalken",553,"NULL",2.0,1.0,3.0,1.0,0.23,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","scott draper",362,"NULL",2.0,1.0,3.0,1.0,0.15,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","schalken",559,"NULL",1.0,1.0,0.0,1.0,0.23,494.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","sandrine testud",219,"NULL",2.0,1.0,5.0,1.0,0.09,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","sampras",1572,"NULL",1.0,1.0,8.0,1.0,0.66,179.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","roberto carretero",1224,"NULL",2.0,1.0,3.0,1.0,0.51,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","rikl",595,"NULL",1.0,1.0,0.0,1.0,0.25,494.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","randriantefy",2165,"NULL",1.0,1.0,0.0,1.0,0.9,105.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","pioline",1200,"NULL",1.0,1.0,7.0,1.0,0.5,449.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","philippoussis",478,"NULL",1.0,1.0,10.0,1.0,0.2,494.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","petr korda",2006,"NULL",2.0,1.0,6.0,1.0,0.84,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","pete sampras",1567,"NULL",2.0,1.0,8.0,1.0,0.65,179.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","paul haarhuis",1644,"NULL",2.0,1.0,4.0,1.0,0.69,190.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","olhovskiy",518,"NULL",1.0,1.0,0.0,1.0,0.22,494.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","monica seles",2132,"NULL",2.0,1.0,10.0,1.0,0.89,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","mikael tillstrom",763,"NULL",2.0,1.0,7.0,1.0,0.32,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","michael tebbutt",1679,"NULL",2.0,1.0,3.0,1.0,0.7,190.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","mark philippoussis",473,"NULL",2.0,1.0,10.0,1.0,0.2,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","lisa raymond",1759,"NULL",2.0,1.0,3.0,1.0,0.73,190.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","lindsay davenport",930,"NULL",2.0,1.0,7.0,1.0,0.39,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","linda wild",1388,"NULL",2.0,1.0,3.0,1.0,0.58,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","kroslak",1973,"NULL",1.0,1.0,0.0,0.0,0.82,345.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","kimberly po",1786,"NULL",2.0,1.0,4.0,1.0,0.74,24.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","karbacher",2340,"NULL",1.0,1.0,4.0,1.0,0.97,142.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","jonas bjorkman",821,"NULL",2.0,1.0,3.0,1.0,0.34,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","jan kroslak",1969,"NULL",2.0,1.0,3.0,1.0,0.82,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","ivanisevic",334,"NULL",1.0,1.0,6.0,0.0,0.14,369.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","irina spirlea",1114,"NULL",2.0,1.0,3.0,1.0,0.46,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","ines gorrochategui",251,"NULL",2.0,1.0,3.0,0.0,0.1,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","hendrik dreekmann",1849,"NULL",2.0,1.0,1.0,1.0,0.77,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","helena sukova",1036,"NULL",2.0,1.0,4.0,1.0,0.43,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","haarhuis",1649,"NULL",1.0,1.0,0.0,1.0,0.69,190.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","guy forget",633,"NULL",2.0,1.0,3.0,1.0,0.26,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","gorrochategui",256,"NULL",1.0,1.0,0.0,1.0,0.11,369.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","goran ivanisevic",328,"NULL",2.0,1.0,6.0,1.0,0.14,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","gabriela sabatini",1487,"NULL",2.0,1.0,4.0,1.0,0.62,179.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","filippo veglio",1299,"NULL",2.0,1.0,2.0,1.0,0.54,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","dreekmann",1857,"NULL",1.0,1.0,0.0,1.0,0.77,345.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","doug flach",441,"NULL",2.0,1.0,3.0,1.0,0.18,369.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","david rikl",589,"NULL",2.0,1.0,4.0,1.0,0.25,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","david nainkin",852,"NULL",2.0,1.0,2.0,1.0,0.35,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","dally randriantefy",2159,"NULL",2.0,1.0,3.0,1.0,0.9,105.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","corretja",1275,"NULL",1.0,1.0,0.0,1.0,0.53,449.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","conchita martinez",1003,"NULL",2.0,1.0,8.0,0.0,0.42,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","cedric pioline",1193,"NULL",2.0,1.0,7.0,1.0,0.5,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","carretero",1232,"NULL",1.0,1.0,0.0,1.0,0.51,449.0,484.0,100.0,0,1,0
+"-docstart- (958testa tennis)","bohdan ulihrach",2040,"NULL",2.0,1.0,6.0,1.0,0.85,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","bernd karbacher",2334,"NULL",2.0,1.0,4.0,1.0,0.97,142.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","barbara rittner",1413,"NULL",2.0,1.0,3.0,1.0,0.59,179.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","asa carlsson",1453,"NULL",2.0,1.0,4.0,0.0,0.61,179.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","anne-gaelle sidot",962,"NULL",2.0,1.0,3.0,0.0,0.4,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","andrei olhovskiy",511,"NULL",2.0,1.0,3.0,1.0,0.21,494.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","andrei medvedev",1936,"NULL",2.0,1.0,7.0,1.0,0.81,345.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","andrea gaudenzi",2266,"NULL",2.0,1.0,4.0,1.0,0.94,142.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","amanda coetzer",1077,"NULL",2.0,1.0,6.0,1.0,0.45,449.0,484.0,100.0,1,1,1
+"-docstart- (958testa tennis)","alex corretja",1270,"NULL",2.0,1.0,4.0,1.0,0.53,449.0,484.0,100.0,1,1,1
+"-docstart- (957testa baseball)","games behind",410,"NULL",2.0,1.0,0.0,1.0,0.64,152.0,123.0,27.0,0,1,0
+"-docstart- (957testa baseball)","first place",423,"NULL",2.0,1.0,0.0,5.0,0.66,152.0,123.0,27.0,0,1,0
+"-docstart- (957testa baseball)","s. korean",22,"NULL",2.0,1.0,7.0,2.0,0.03,51.0,123.0,27.0,0,1,1
+"-docstart- (957testa baseball)","korean professional baseball",86,"NULL",3.0,1.0,0.0,2.0,0.14,89.0,123.0,27.0,0,1,0
+"-docstart- (957testa baseball)","haitai",450,"NULL",1.0,4.0,6.0,2.0,0.71,152.0,123.0,27.0,1,1,0
+"-docstart- (957testa baseball)","haitai",277,"NULL",1.0,4.0,6.0,2.0,0.43,173.0,123.0,27.0,1,1,0
+"-docstart- (957testa baseball)","haitai",217,"NULL",1.0,4.0,6.0,2.0,0.34,173.0,123.0,27.0,1,1,0
+"-docstart- (957testa baseball)","haitai",187,"NULL",1.0,4.0,6.0,2.0,0.29,173.0,123.0,27.0,1,1,1
+"-docstart- (956testa soccer)","suwan",396,"NULL",1.0,1.0,2.0,0.0,0.78,380.0,128.0,16.0,1,1,1
+"-docstart- (956testa soccer)","puchon",334,"NULL",1.0,2.0,4.0,2.0,0.66,380.0,128.0,16.0,1,1,0
+"-docstart- (956testa soccer)","puchon",163,"NULL",1.0,2.0,4.0,2.0,0.32,380.0,128.0,16.0,1,1,0
+"-docstart- (956testa soccer)","l g",318,"NULL",2.0,1.0,0.0,0.0,0.63,380.0,128.0,16.0,0,1,0
+"-docstart- (956testa soccer)","f g",324,"NULL",2.0,1.0,0.0,1.0,0.64,380.0,128.0,16.0,0,1,0
+"-docstart- (956testa soccer)","chonnam",451,"NULL",1.0,1.0,4.0,0.0,0.89,380.0,128.0,16.0,1,1,1
+"-docstart- (956testa soccer)","chonbuk",489,"NULL",1.0,2.0,4.0,1.0,0.96,380.0,128.0,16.0,1,1,0
+"-docstart- (956testa soccer)","chonbuk",172,"NULL",1.0,2.0,4.0,1.0,0.34,380.0,128.0,16.0,1,1,1
+"-docstart- (955testa squash)","rodney eyles",401,"NULL",2.0,1.0,7.0,1.0,0.84,432.0,93.0,19.0,1,1,1
+"-docstart- (955testa squash)","peter nicol",316,"NULL",2.0,1.0,7.0,1.0,0.66,432.0,93.0,19.0,1,1,1
+"-docstart- (955testa squash)","jansher khan",162,"NULL",2.0,1.0,5.0,1.0,0.34,432.0,93.0,19.0,1,1,1
+"-docstart- (955testa squash)","jansher",162,"NULL",1.0,1.0,5.0,1.0,0.34,432.0,93.0,19.0,0,1,0
+"-docstart- (955testa squash)","dan jenson",265,"NULL",2.0,1.0,2.0,1.0,0.55,432.0,93.0,19.0,1,1,1
+"-docstart- (954testa boxing)","title fight",1296,"NULL",2.0,1.0,0.0,2.0,0.99,111.0,229.0,23.0,0,1,0
+"-docstart- (954testa boxing)","last frontier",864,"NULL",2.0,1.0,0.0,1.0,0.66,64.0,229.0,23.0,0,1,0
+"-docstart- (954testa boxing)","return of",425,"NULL",2.0,1.0,0.0,1.0,0.32,154.0,229.0,23.0,0,1,0
+"-docstart- (954testa boxing)","hands of stone",116,"NULL",3.0,1.0,0.0,1.0,0.09,173.0,229.0,23.0,0,1,1
+"-docstart- (954testa boxing)","association president",1001,"NULL",2.0,1.0,0.0,0.0,0.77,153.0,229.0,23.0,0,1,0
+"-docstart- (953testa soccer)","next home",107,"NULL",2.0,1.0,0.0,1.0,0.14,234.0,130.0,17.0,0,1,0
+"-docstart- (953testa soccer)","game in hand",712,"NULL",3.0,1.0,0.0,0.0,0.92,149.0,130.0,17.0,0,1,0
+"-docstart- (952testa soccer)","tararache",217,"NULL",1.0,1.0,0.0,1.0,0.75,124.0,50.0,11.0,0,1,0
+"-docstart- (952testa soccer)","mihai tararache",211,"NULL",2.0,1.0,2.0,1.0,0.73,124.0,50.0,11.0,1,1,1
+"-docstart- (952testa soccer)","gleveckas",255,"NULL",1.0,1.0,0.0,1.0,0.88,124.0,50.0,11.0,0,1,1
+"-docstart- (952testa soccer)","cosmin contra",187,"NULL",2.0,1.0,2.0,1.0,0.64,124.0,50.0,11.0,1,1,1
+"-docstart- (951testa basketball)","international basketball",79,"NULL",2.0,1.0,0.0,2.0,0.4,153.0,31.0,5.0,0,1,0
+"-docstart- (950testa soccer)","reason why",563,"NULL",2.0,1.0,0.0,0.0,0.44,178.0,229.0,27.0,0,1,0
+"-docstart- (950testa soccer)","miss england",405,"NULL",2.0,1.0,0.0,2.0,0.32,112.0,229.0,27.0,0,1,1
+"-docstart- (950testa soccer)","teddy sheringham",1135,"NULL",2.0,1.0,1.0,1.0,0.89,104.0,229.0,27.0,1,1,1
+"-docstart- (950testa soccer)","les ferdinand",1264,"NULL",2.0,1.0,4.0,1.0,0.99,77.0,229.0,27.0,1,1,1
+"-docstart- (950testa soccer)","glenn hoddle",535,"NULL",2.0,1.0,3.0,1.0,0.42,178.0,229.0,27.0,1,1,1
+"-docstart- (950testa soccer)","alan shearer",94,"NULL",2.0,1.0,3.0,1.0,0.07,112.0,229.0,27.0,1,1,1
+"-docstart- (95 palestinians)","military authorities",1988,"NULL",2.0,1.0,0.0,3.0,0.94,211.0,360.0,39.0,0,1,0
+"-docstart- (95 palestinians)","ramallah",937,"NULL",1.0,1.0,8.0,2.0,0.44,175.0,360.0,39.0,1,1,1
+"-docstart- (95 palestinians)","patrick seale",1652,"NULL",2.0,1.0,1.0,1.0,0.78,97.0,360.0,39.0,1,1,1
+"-docstart- (95 palestinians)","edward said",651,"NULL",2.0,1.0,1.0,1.0,0.31,198.0,360.0,39.0,1,1,1
+"-docstart- (949testa cricket)","one-day internationals",256,"NULL",2.0,1.0,0.0,3.0,0.15,113.0,313.0,48.0,0,1,0
+"-docstart- (949testa cricket)","oval, london",807,"NULL",2.0,2.0,0.0,0.0,0.48,1155.0,313.0,48.0,0,1,0
+"-docstart- (949testa cricket)","oval, london",1664,"NULL",2.0,2.0,0.0,0.0,0.99,1155.0,313.0,48.0,0,1,0
+"-docstart- (949testa cricket)","may may",542,"NULL",2.0,1.0,0.0,0.0,0.32,1155.0,313.0,48.0,0,1,0
+"-docstart- (949testa cricket)","may 22",702,"NULL",2.0,1.0,0.0,3.0,0.42,1155.0,313.0,48.0,0,1,0
+"-docstart- (949testa cricket)","may 20",686,"NULL",2.0,1.0,0.0,2.0,0.41,1155.0,313.0,48.0,0,1,0
+"-docstart- (1165testb soccer)","motohiro yamaguchi",1376,"NULL",2.0,1.0,1.0,1.0,0.76,292.0,347.0,54.0,1,1,1
+"-docstart- (653 rugby)","josh kronfeld",1185,"NULL",2.0,1.0,2.0,1.0,0.9,155.0,238.0,39.0,1,1,1
+"-docstart- (1165testb soccer)","masakiyo maezono",1400,"NULL",2.0,1.0,1.0,1.0,0.77,292.0,347.0,54.0,1,1,1
+"-docstart- (653 rugby)","zinzan brooke",1166,"NULL",2.0,1.0,5.0,1.0,0.89,155.0,238.0,39.0,1,1,1
+"-docstart- (653 rugby)","andrew mehrtens",1123,"NULL",2.0,2.0,3.0,1.0,0.85,44.0,238.0,39.0,1,1,1
+"-docstart- (1073testa rugby)","josh kronfeld",3408,"NULL",2.0,1.0,2.0,1.0,0.96,176.0,649.0,84.0,1,1,1
+"-docstart- (1381testb soccer)","maccabi petah tikva",659,"NULL",3.0,2.0,2.0,2.0,0.62,1009.0,241.0,34.0,1,1,1
+"-docstart- (1380testb soccer)","hwang sun hong",1913,"NULL",3.0,2.0,2.0,1.0,0.96,22.0,399.0,52.0,1,1,1
+"-docstart- (1073testa rugby)","zinzan brooke",3389,"NULL",2.0,1.0,5.0,1.0,0.95,176.0,649.0,84.0,1,1,1
+"-docstart- (447 cricket)","guy whittall",480,"NULL",2.0,1.0,1.0,1.0,0.82,175.0,93.0,30.0,1,1,1
+"-docstart- (1165testb soccer)","yasuto honda",1423,"NULL",2.0,1.0,1.0,1.0,0.78,292.0,347.0,54.0,1,1,1
+"-docstart- (1073testa rugby)","andrew mehrtens",3346,"NULL",2.0,3.0,3.0,1.0,0.94,44.0,649.0,84.0,1,1,1
+"-docstart- (1164testb rugby)","massimo giovanelli",1238,"NULL",2.0,1.0,1.0,1.0,0.86,395.0,234.0,44.0,1,1,1
+"-docstart- (525 cricket)","graham thorpe",414,"NULL",2.0,1.0,4.0,1.0,0.23,33.0,420.0,57.0,1,1,1
+"-docstart- (1369testb soccer)","stenhousemuir",924,"NULL",1.0,1.0,6.0,2.0,0.68,1330.0,366.0,43.0,1,1,1
+"-docstart- (1193testb soccer)","willem ii tilburg",645,"NULL",3.0,2.0,7.0,2.0,0.77,785.0,202.0,23.0,1,1,1
+"-docstart- (359 soccer)","msv duisburg",742,"NULL",2.0,1.0,5.0,3.0,0.97,721.0,202.0,24.0,1,1,1
+"-docstart- (1193testb soccer)","nec nijmegen",773,"NULL",2.0,1.0,9.0,1.0,0.93,785.0,202.0,23.0,1,1,1
+"-docstart- (359 soccer)","arminia bielefeld",620,"NULL",2.0,1.0,7.0,1.0,0.81,721.0,202.0,24.0,1,1,1
+"-docstart- (38 cricket)","saeed anwar",757,"NULL",2.0,2.0,16.0,3.0,0.85,311.0,161.0,42.0,1,1,1
+"-docstart- (368 soccer)","willem ii tilburg",900,"NULL",3.0,2.0,7.0,2.0,0.87,984.0,251.0,39.0,1,1,1
+"-docstart- (1164testb rugby)","orazio arancio",1206,"NULL",2.0,1.0,1.0,1.0,0.83,395.0,234.0,44.0,1,1,1
+"-docstart- (540 soccer)","msv duisburg",820,"NULL",2.0,1.0,5.0,3.0,0.97,807.0,212.0,30.0,1,1,1
+"-docstart- (1073testa rugby)","frank bunce",3308,"NULL",2.0,1.0,3.0,1.0,0.93,135.0,649.0,84.0,1,1,1
+"-docstart- (1194testb soccer)","sc freiburg",895,"NULL",2.0,1.0,2.0,3.0,0.97,238.0,221.0,29.0,1,1,1
+"-docstart- (38 cricket)","inzamam-ul-haq",782,"NULL",1.0,1.0,13.0,1.0,0.88,311.0,161.0,42.0,1,1,1
+"-docstart- (274 soccer)","msv duisburg",990,"NULL",2.0,1.0,5.0,3.0,0.97,966.0,242.0,38.0,1,1,1
+"-docstart- (1164testb rugby)","carlo checchinato",1258,"NULL",2.0,1.0,1.0,1.0,0.87,395.0,234.0,44.0,1,1,1
+"-docstart- (1194testb soccer)","arminia bielefeld",780,"NULL",2.0,1.0,7.0,1.0,0.84,238.0,221.0,29.0,1,1,1
+"-docstart- (1194testb soccer)","werder bremen",585,"NULL",2.0,2.0,8.0,3.0,0.63,161.0,221.0,29.0,1,1,1
+"-docstart- (1194testb soccer)","msv duisburg",617,"NULL",2.0,1.0,5.0,3.0,0.67,161.0,221.0,29.0,0,1,1
+"-docstart- (540 soccer)","fortuna duesseldorf",662,"NULL",2.0,1.0,6.0,1.0,0.78,807.0,212.0,30.0,1,1,1
+"-docstart- (359 soccer)","fortuna duesseldorf",558,"NULL",2.0,1.0,6.0,1.0,0.73,721.0,202.0,24.0,1,1,1
+"-docstart- (808 cricket)","moin khan",511,"NULL",2.0,1.0,13.0,1.0,0.88,176.0,88.0,32.0,1,1,1
+"-docstart- (1194testb soccer)","1. fc cologne",524,"NULL",3.0,1.0,1.0,1.0,0.57,636.0,221.0,29.0,0,0,1
+"-docstart- (540 soccer)","arminia bielefeld",748,"NULL",2.0,1.0,7.0,1.0,0.88,807.0,212.0,30.0,1,1,1
+"-docstart- (368 soccer)","sparta rotterdam",869,"NULL",2.0,2.0,6.0,1.0,0.84,984.0,251.0,39.0,1,1,1
+"-docstart- (368 soccer)","nec nijmegen",1004,"NULL",2.0,2.0,9.0,1.0,0.97,984.0,251.0,39.0,1,1,1
+"-docstart- (416 soccer)","stenhousemuir",1351,"NULL",1.0,1.0,6.0,2.0,0.85,138.0,248.0,116.0,1,1,1
+"-docstart- (1193testb soccer)","nac breda",617,"NULL",2.0,1.0,7.0,1.0,0.74,785.0,202.0,23.0,1,1,1
+"-docstart- (274 soccer)","fortuna duesseldorf",806,"NULL",2.0,2.0,6.0,1.0,0.79,966.0,242.0,38.0,1,1,1
+"-docstart- (416 soccer)","stranraer",1367,"NULL",1.0,1.0,6.0,6.0,0.86,138.0,248.0,116.0,1,1,1
+"-docstart- (416 soccer)","cowdenbeath",1413,"NULL",1.0,1.0,5.0,5.0,0.89,140.0,248.0,116.0,1,1,1
+"-docstart- (1193testb soccer)","rkc waalwijk",804,"NULL",2.0,2.0,6.0,1.0,0.96,785.0,202.0,23.0,1,1,1
+"-docstart- (1193testb soccer)","sparta rotterdam",581,"NULL",2.0,1.0,6.0,1.0,0.7,785.0,202.0,23.0,1,1,1
+"-docstart- (274 soccer)","arminia bielefeld",868,"NULL",2.0,2.0,7.0,1.0,0.85,966.0,242.0,38.0,1,1,1
+"-docstart- (1194testb soccer)","fortuna dusseldorf",712,"NULL",2.0,1.0,1.0,1.0,0.77,238.0,221.0,29.0,1,1,1
+"-docstart- (540 soccer)","borussia moenchengladbach",780,"NULL",2.0,2.0,6.0,0.0,0.92,807.0,212.0,30.0,1,1,1
+"-docstart- (359 soccer)","borussia moenchengladbach",652,"NULL",2.0,1.0,6.0,0.0,0.85,721.0,202.0,24.0,1,1,1
+"-docstart- (1194testb soccer)","fc st. pauli",681,"NULL",3.0,1.0,1.0,2.0,0.74,399.0,221.0,29.0,1,1,1
+"-docstart- (653 rugby)","justin marshall",1144,"NULL",2.0,1.0,4.0,1.0,0.87,44.0,238.0,39.0,1,1,1
+"-docstart- (272 soccer)","roda jc kerkrade",647,"NULL",3.0,1.0,6.0,1.0,0.75,816.0,219.0,29.0,1,1,1
+"-docstart- (1392testb soccer)","real sociedad",434,"NULL",2.0,1.0,2.0,5.0,0.48,844.0,225.0,27.0,1,1,1
+"-docstart- (272 soccer)","willem ii tilburg",783,"NULL",3.0,2.0,7.0,2.0,0.9,816.0,219.0,29.0,1,1,1
+"-docstart- (429 soccer)","atletico mineiro",730,"NULL",2.0,2.0,3.0,1.0,0.6,986.0,306.0,49.0,1,1,1
+"-docstart- (824 soccer)","willem ii tilburg",980,"NULL",3.0,2.0,7.0,2.0,0.93,1009.0,256.0,39.0,1,1,1
+"-docstart- (540 soccer)","werder bremen",586,"NULL",2.0,2.0,8.0,3.0,0.69,807.0,212.0,30.0,1,1,1
+"-docstart- (334 cricket)","alan mullally",398,"NULL",2.0,1.0,4.0,1.0,0.97,212.0,59.0,17.0,1,1,1
+"-docstart- (1194testb soccer)","borussia monchengladbach",852,"NULL",2.0,1.0,1.0,1.0,0.92,238.0,221.0,29.0,1,1,1
+"-docstart- (274 soccer)","borussia moenchengladbach",900,"NULL",2.0,2.0,6.0,0.0,0.89,966.0,242.0,38.0,1,1,1
+"-docstart- (1073testa rugby)","walter little",3288,"NULL",2.0,3.0,3.0,2.0,0.92,135.0,649.0,84.0,1,1,1
+"-docstart- (653 rugby)","craig dowd",1305,"NULL",2.0,1.0,2.0,1.0,0.99,155.0,238.0,39.0,1,1,1
+"-docstart- (272 soccer)","sparta rotterdam",752,"NULL",2.0,2.0,6.0,1.0,0.87,816.0,219.0,29.0,1,1,1
+"-docstart- (1370testb soccer)","nottingham forest",750,"NULL",2.0,1.0,5.0,5.0,0.26,2832.0,789.0,96.0,1,1,1
+"-docstart- (272 soccer)","nec nijmegen",840,"NULL",2.0,1.0,9.0,1.0,0.97,816.0,219.0,29.0,1,1,1
+"-docstart- (525 cricket)","mark ealham",512,"NULL",2.0,1.0,1.0,1.0,0.28,30.0,420.0,57.0,1,1,1
+"-docstart- (824 soccer)","nec nijmegen",953,"NULL",2.0,2.0,9.0,1.0,0.9,1009.0,256.0,39.0,1,1,1
+"-docstart- (272 soccer)","az alkmaar",815,"NULL",2.0,1.0,8.0,2.0,0.94,816.0,219.0,29.0,1,1,1
+"-docstart- (334 cricket)","adam hollioake",326,"NULL",2.0,1.0,2.0,1.0,0.79,212.0,59.0,17.0,1,1,1
+"-docstart- (359 soccer)","werder bremen",714,"NULL",2.0,1.0,8.0,3.0,0.93,721.0,202.0,24.0,1,1,1
+"-docstart- (1370testb soccer)","middlesbrough",632,"NULL",1.0,1.0,9.0,19.0,0.22,2832.0,789.0,96.0,1,1,1
+"-docstart- (653 rugby)","sean fitzpatrick",1271,"NULL",2.0,1.0,4.0,2.0,0.97,155.0,238.0,39.0,1,1,1
+"-docstart- (660 soccer)","hapoel petah tikva",237,"NULL",3.0,1.0,2.0,3.0,0.52,415.0,79.0,18.0,1,1,1
+"-docstart- (1392testb soccer)","rayo vallecano",530,"NULL",2.0,1.0,2.0,2.0,0.59,844.0,225.0,27.0,1,1,1
+"-docstart- (1204testb soccer)","rayo vallecano",499,"NULL",2.0,1.0,2.0,2.0,0.58,733.0,219.0,25.0,1,1,1
+"-docstart- (368 soccer)","az alkmaar",932,"NULL",2.0,2.0,8.0,2.0,0.9,984.0,251.0,39.0,1,1,1
+"-docstart- (1204testb soccer)","real sociedad",403,"NULL",2.0,1.0,2.0,5.0,0.47,733.0,219.0,25.0,1,1,1
+"-docstart- (824 soccer)","sparta rotterdam",898,"NULL",2.0,2.0,6.0,1.0,0.85,1009.0,256.0,39.0,1,1,1
+"-docstart- (808 cricket)","saqlain mushtaq",566,"NULL",2.0,1.0,5.0,1.0,0.97,176.0,88.0,32.0,1,1,1
+"-docstart- (368 soccer)","rkc waalwijk",842,"NULL",2.0,2.0,6.0,1.0,0.82,984.0,251.0,39.0,1,1,1
+"-docstart- (447 cricket)","grant flower",466,"NULL",2.0,1.0,1.0,1.0,0.8,175.0,93.0,30.0,1,1,1
+"-docstart- (368 soccer)","roda jc kerkrade",789,"NULL",3.0,1.0,6.0,1.0,0.77,984.0,251.0,39.0,1,1,1
+"-docstart- (1193testb soccer)","fortuna sittard",739,"NULL",2.0,1.0,8.0,1.0,0.89,785.0,202.0,23.0,1,1,1
+"-docstart- (274 soccer)","werder bremen",962,"NULL",2.0,2.0,8.0,3.0,0.95,966.0,242.0,38.0,1,1,1
+"-docstart- (252 soccer)","stranraer",501,"NULL",1.0,1.0,6.0,6.0,0.74,643.0,120.0,43.0,1,1,1
+"-docstart- (334 cricket)","robert croft",342,"NULL",2.0,1.0,5.0,2.0,0.83,212.0,59.0,17.0,1,1,1
+"-docstart- (808 cricket)","waqar younis",537,"NULL",2.0,1.0,15.0,1.0,0.92,176.0,88.0,32.0,1,1,1
+"-docstart- (1193testb soccer)","az alkmaar",709,"NULL",2.0,1.0,8.0,2.0,0.85,785.0,202.0,23.0,1,1,1
+"-docstart- (1381testb soccer)","hapoel haifa",727,"NULL",2.0,2.0,2.0,2.0,0.69,1009.0,241.0,34.0,1,1,1
+"-docstart- (1381testb soccer)","maccabi herzliya",339,"NULL",2.0,2.0,2.0,1.0,0.32,1009.0,241.0,34.0,1,1,1
+"-docstart- (1392testb soccer)","racing santander",495,"NULL",2.0,1.0,2.0,2.0,0.55,844.0,225.0,27.0,1,1,1
+"-docstart- (1204testb soccer)","racing santander",464,"NULL",2.0,1.0,2.0,2.0,0.54,733.0,219.0,25.0,1,1,1
+"-docstart- (660 soccer)","hapoel haifa",384,"NULL",2.0,1.0,2.0,2.0,0.84,415.0,79.0,18.0,1,1,1
+"-docstart- (824 soccer)","roda jc kerkrade",845,"NULL",3.0,2.0,6.0,1.0,0.8,1009.0,256.0,39.0,1,1,1
+"-docstart- (525 cricket)","rashid latif",1274,"NULL",2.0,1.0,1.0,1.0,0.7,31.0,420.0,57.0,1,1,1
+"-docstart- (359 soccer)","vfl bochum",436,"NULL",2.0,1.0,5.0,1.0,0.57,721.0,202.0,24.0,1,1,1
+"-docstart- (808 cricket)","wasim akram",486,"NULL",2.0,1.0,16.0,1.0,0.84,176.0,88.0,32.0,1,1,1
+"-docstart- (252 soccer)","stenhousemuir",417,"NULL",1.0,1.0,6.0,2.0,0.62,643.0,120.0,43.0,1,1,1
+"-docstart- (1164testb rugby)","alessandro troncon",1186,"NULL",2.0,1.0,1.0,1.0,0.82,395.0,234.0,44.0,1,1,1
+"-docstart- (252 soccer)","queen of the south",468,"NULL",4.0,1.0,2.0,5.0,0.69,643.0,120.0,43.0,1,1,1
+"-docstart- (1183testb cricket)","michael bevan",359,"NULL",2.0,1.0,3.0,1.0,0.51,203.0,109.0,33.0,1,1,1
+"-docstart- (1073testa rugby)","craig dowd",3549,"NULL",2.0,1.0,2.0,1.0,1.0,176.0,649.0,84.0,1,1,1
+"-docstart- (1373testb soccer)","middlesbrough",249,"NULL",1.0,1.0,9.0,19.0,0.22,617.0,203.0,83.0,1,1,1
+"-docstart- (1392testb soccer)","celta vigo",590,"NULL",2.0,1.0,2.0,2.0,0.66,844.0,225.0,27.0,1,1,1
+"-docstart- (1204testb soccer)","celta vigo",559,"NULL",2.0,1.0,2.0,2.0,0.65,733.0,219.0,25.0,1,1,1
+"-docstart- (447 cricket)","michael bevan",317,"NULL",2.0,1.0,3.0,1.0,0.54,182.0,93.0,30.0,1,1,1
+"-docstart- (334 cricket)","ronnie irani",312,"NULL",2.0,1.0,4.0,1.0,0.76,212.0,59.0,17.0,1,1,1
+"-docstart- (824 soccer)","nac breda",791,"NULL",2.0,2.0,7.0,1.0,0.75,1009.0,256.0,39.0,1,1,1
+"-docstart- (1058testa cricket)","adam hollioake",606,"NULL",2.0,2.0,2.0,1.0,0.7,191.0,136.0,40.0,1,1,1
+"-docstart- (523 soccer)","brentford",823,"NULL",1.0,1.0,8.0,13.0,0.43,1902.0,620.0,75.0,1,1,1
+"-docstart- (680 soccer)","borussia moenchengladbach",807,"NULL",2.0,1.0,6.0,0.0,0.93,818.0,219.0,31.0,1,1,1
+"-docstart- (1073testa rugby)","sean fitzpatrick",3515,"NULL",2.0,2.0,4.0,2.0,0.99,176.0,649.0,84.0,1,1,1
+"-docstart- (272 soccer)","rkc waalwijk",725,"NULL",2.0,2.0,6.0,1.0,0.84,816.0,219.0,29.0,1,1,1
+"-docstart- (525 cricket)","robert croft",573,"NULL",2.0,1.0,5.0,2.0,0.32,30.0,420.0,57.0,1,1,1
+"-docstart- (1073testa rugby)","justin marshall",3367,"NULL",2.0,3.0,4.0,1.0,0.95,44.0,649.0,84.0,1,1,1
+"-docstart- (680 soccer)","fortuna duesseldorf",692,"NULL",2.0,2.0,6.0,1.0,0.8,818.0,219.0,31.0,1,1,1
+"-docstart- (1370testb soccer)","millwall",1537,"NULL",1.0,1.0,7.0,7.0,0.54,2832.0,789.0,96.0,1,1,1
+"-docstart- (680 soccer)","arminia bielefeld",726,"NULL",2.0,2.0,7.0,1.0,0.84,818.0,219.0,31.0,1,1,1
+"-docstart- (1193testb soccer)","roda jc kerkrade",492,"NULL",3.0,1.0,6.0,1.0,0.59,785.0,202.0,23.0,1,1,1
+"-docstart- (525 cricket)","dominic cork",542,"NULL",2.0,1.0,1.0,1.0,0.3,31.0,420.0,57.0,1,1,1
+"-docstart- (653 rugby)","olo brown",1256,"NULL",2.0,1.0,2.0,1.0,0.95,155.0,238.0,39.0,1,1,1
+"-docstart- (1194testb soccer)","schalke 04",556,"NULL",2.0,1.0,2.0,2.0,0.6,161.0,221.0,29.0,0,1,1
+"-docstart- (368 soccer)","nac breda",736,"NULL",2.0,2.0,7.0,1.0,0.71,984.0,251.0,39.0,1,1,1
+"-docstart- (272 soccer)","feyenoord",613,"NULL",1.0,1.0,12.0,5.0,0.71,816.0,219.0,29.0,0,1,1
+"-docstart- (1194testb soccer)","hamburger sv",749,"NULL",2.0,1.0,1.0,3.0,0.81,238.0,221.0,29.0,0,1,1
+"-docstart- (1381testb soccer)","hapoel tel aviv",243,"NULL",3.0,2.0,2.0,5.0,0.23,1009.0,241.0,34.0,1,1,1
+"-docstart- (824 soccer)","az alkmaar",1012,"NULL",2.0,2.0,8.0,2.0,0.96,1009.0,256.0,39.0,1,1,1
+"-docstart- (660 soccer)","maccabi petah tikva",344,"NULL",3.0,1.0,2.0,2.0,0.76,415.0,79.0,18.0,1,1,1
+"-docstart- (1068testa soccer)","stenhousemuir",350,"NULL",1.0,1.0,6.0,2.0,0.67,270.0,91.0,33.0,1,1,1
+"-docstart- (680 soccer)","vfl bochum",536,"NULL",2.0,1.0,5.0,1.0,0.62,818.0,219.0,31.0,1,1,1
+"-docstart- (1370testb soccer)","sheffield united",824,"NULL",2.0,1.0,9.0,4.0,0.29,2832.0,789.0,96.0,1,1,1
+"-docstart- (272 soccer)","nac breda",538,"NULL",2.0,2.0,7.0,1.0,0.62,816.0,219.0,29.0,1,1,1
+"-docstart- (1370testb soccer)","bristol rovers",1810,"NULL",2.0,1.0,7.0,2.0,0.63,2832.0,789.0,96.0,1,1,1
+"-docstart- (1370testb soccer)","crystal palace",888,"NULL",2.0,1.0,11.0,33.0,0.31,2832.0,789.0,96.0,1,1,1
+"-docstart- (1369testb soccer)","stranraer",956,"NULL",1.0,1.0,6.0,6.0,0.7,1330.0,366.0,43.0,1,1,1
+"-docstart- (1370testb soccer)","brentford",1508,"NULL",1.0,1.0,8.0,13.0,0.53,2832.0,789.0,96.0,1,1,1
+"-docstart- (328 soccer)","nottingham forest",481,"NULL",2.0,1.0,5.0,5.0,0.35,1344.0,412.0,51.0,1,1,1
+"-docstart- (824 soccer)","willem ii tilburg",319,"NULL",3.0,2.0,7.0,2.0,0.3,1009.0,256.0,39.0,1,1,1
+"-docstart- (1073testa rugby)","olo brown",3500,"NULL",2.0,1.0,2.0,1.0,0.98,176.0,649.0,84.0,1,1,1
+"-docstart- (523 soccer)","millwall",990,"NULL",1.0,1.0,7.0,7.0,0.51,1902.0,620.0,75.0,1,1,1
+"-docstart- (1183testb cricket)","ian healy",397,"NULL",2.0,1.0,6.0,2.0,0.57,203.0,109.0,33.0,1,1,1
+"-docstart- (523 soccer)","burnley",891,"NULL",1.0,1.0,8.0,16.0,0.46,1902.0,620.0,75.0,1,1,1
+"-docstart- (660 soccer)","maccabi tel aviv",399,"NULL",3.0,1.0,3.0,5.0,0.88,415.0,79.0,18.0,0,1,1
+"-docstart- (552 mcgrath)","kenny cunningham",1462,"NULL",2.0,1.0,1.0,2.0,0.88,288.0,288.0,47.0,1,1,1
+"-docstart- (342 soccer)","zaglebie lubin",336,"NULL",2.0,2.0,2.0,2.0,0.33,977.0,252.0,39.0,1,1,1
+"-docstart- (523 soccer)","notts county",1080,"NULL",2.0,1.0,8.0,2.0,0.56,1902.0,620.0,75.0,1,1,1
+"-docstart- (808 cricket)","inzamam-ul-haq",457,"NULL",1.0,1.0,13.0,1.0,0.79,176.0,88.0,32.0,1,1,1
+"-docstart- (1370testb soccer)","sheffield wednesday",434,"NULL",2.0,1.0,9.0,5.0,0.15,2832.0,789.0,96.0,1,1,1
+"-docstart- (552 mcgrath)","gary breen",1439,"NULL",2.0,1.0,2.0,1.0,0.86,288.0,288.0,47.0,1,1,1
+"-docstart- (1370testb soccer)","queens park rangers",1170,"NULL",3.0,1.0,9.0,3.0,0.41,2832.0,789.0,96.0,1,1,1
+"-docstart- (552 mcgrath)","steve staunton",1480,"NULL",2.0,1.0,1.0,1.0,0.89,288.0,288.0,47.0,1,1,1
+"-docstart- (427 soccer)","newell's old boys",289,"NULL",3.0,1.0,1.0,3.0,0.46,506.0,104.0,25.0,1,0,1
+"-docstart- (342 soccer)","ruch chorzow",948,"NULL",2.0,2.0,3.0,1.0,0.92,977.0,252.0,39.0,1,1,1
+"-docstart- (1067testa soccer)","crystal palace",464,"NULL",2.0,1.0,11.0,33.0,0.24,1919.0,622.0,75.0,1,1,1
+"-docstart- (1069testa soccer)","bristol rovers",466,"NULL",2.0,1.0,7.0,2.0,0.49,917.0,165.0,69.0,1,1,1
+"-docstart- (447 cricket)","andy flower",453,"NULL",2.0,1.0,1.0,1.0,0.77,175.0,93.0,30.0,1,1,1
+"-docstart- (1183testb cricket)","tom moody",386,"NULL",2.0,1.0,3.0,3.0,0.55,203.0,109.0,33.0,1,1,1
+"-docstart- (1381testb soccer)","maccabi herzliya",930,"NULL",2.0,2.0,2.0,1.0,0.88,1009.0,241.0,34.0,1,1,1
+"-docstart- (334 cricket)","dean headley",384,"NULL",2.0,1.0,4.0,1.0,0.93,212.0,59.0,17.0,1,1,1
+"-docstart- (416 soccer)","bristol rovers",619,"NULL",2.0,1.0,7.0,2.0,0.39,288.0,248.0,116.0,1,1,1
+"-docstart- (416 soccer)","millwall",731,"NULL",1.0,1.0,7.0,7.0,0.46,288.0,248.0,116.0,1,1,1
+"-docstart- (523 soccer)","sheffield united",644,"NULL",2.0,1.0,9.0,4.0,0.33,1902.0,620.0,75.0,1,1,1
+"-docstart- (680 soccer)","werder bremen",614,"NULL",2.0,1.0,8.0,3.0,0.71,818.0,219.0,31.0,1,1,1
+"-docstart- (660 soccer)","hapoel beit she'an",302,"NULL",3.0,2.0,2.0,1.0,0.66,415.0,79.0,18.0,1,0,1
+"-docstart- (1068testa soccer)","stranraer",366,"NULL",1.0,1.0,6.0,6.0,0.71,270.0,91.0,33.0,1,1,1
+"-docstart- (523 soccer)","bristol rovers",1107,"NULL",2.0,1.0,7.0,2.0,0.57,1902.0,620.0,75.0,1,1,1
+"-docstart- (552 mcgrath)","alan mcloughlin",1542,"NULL",2.0,1.0,1.0,1.0,0.92,288.0,288.0,47.0,1,1,1
+"-docstart- (824 soccer)","rkc waalwijk",728,"NULL",2.0,2.0,6.0,1.0,0.69,1009.0,256.0,39.0,1,1,1
+"-docstart- (1381testb soccer)","maccabi tel aviv",298,"NULL",3.0,2.0,3.0,5.0,0.28,1009.0,241.0,34.0,1,1,1
+"-docstart- (1370testb soccer)","bristol city",1779,"NULL",2.0,1.0,8.0,6.0,0.62,2832.0,789.0,96.0,1,1,1
+"-docstart- (416 soccer)","bristol city",654,"NULL",2.0,1.0,8.0,6.0,0.41,288.0,248.0,116.0,1,1,1
+"-docstart- (808 cricket)","saeed anwar",432,"NULL",2.0,1.0,16.0,3.0,0.74,176.0,88.0,32.0,1,1,1
+"-docstart- (1381testb soccer)","maccabi haifa",758,"NULL",2.0,2.0,2.0,4.0,0.71,1009.0,241.0,34.0,1,1,1
+"-docstart- (342 soccer)","gks katowice",304,"NULL",2.0,2.0,3.0,2.0,0.3,977.0,252.0,39.0,1,1,1
+"-docstart- (1058testa cricket)","ronnie irani",622,"NULL",2.0,1.0,4.0,1.0,0.72,191.0,136.0,40.0,1,1,1
+"-docstart- (342 soccer)","zaglebie lubin",917,"NULL",2.0,2.0,2.0,2.0,0.89,977.0,252.0,39.0,1,1,1
+"-docstart- (342 soccer)","gornik zabrze",976,"NULL",2.0,2.0,2.0,1.0,0.95,977.0,252.0,39.0,1,1,1
+"-docstart- (824 soccer)","fortuna sittard",815,"NULL",2.0,2.0,8.0,1.0,0.77,1009.0,256.0,39.0,1,1,1
+"-docstart- (1058testa cricket)","moin khan",797,"NULL",2.0,1.0,13.0,1.0,0.92,176.0,136.0,40.0,1,1,1
+"-docstart- (525 cricket)","wasim akram",1367,"NULL",2.0,2.0,16.0,1.0,0.75,30.0,420.0,57.0,1,1,1
+"-docstart- (1068testa soccer)","cowdenbeath",402,"NULL",1.0,1.0,5.0,5.0,0.77,270.0,91.0,33.0,1,1,1
+"-docstart- (523 soccer)","port vale",620,"NULL",2.0,1.0,10.0,2.0,0.32,1902.0,620.0,75.0,1,1,1
+"-docstart- (342 soccer)","polonia warsaw",319,"NULL",2.0,2.0,2.0,2.0,0.31,977.0,252.0,39.0,1,1,1
+"-docstart- (523 soccer)","crystal palace",415,"NULL",2.0,1.0,11.0,33.0,0.21,1902.0,620.0,75.0,1,1,1
+"-docstart- (342 soccer)","lks lodz",1005,"NULL",2.0,2.0,2.0,2.0,0.98,977.0,252.0,39.0,1,1,1
+"-docstart- (1183testb cricket)","stuart law",374,"NULL",2.0,1.0,4.0,1.0,0.53,203.0,109.0,33.0,1,1,1
+"-docstart- (653 rugby)","robin brooke",1238,"NULL",2.0,1.0,2.0,1.0,0.94,155.0,238.0,39.0,1,1,1
+"-docstart- (1056testa cricket)","saeed anwar",772,"NULL",2.0,1.0,16.0,3.0,0.57,383.0,242.0,63.0,1,1,1
+"-docstart- (824 soccer)","feyenoord",283,"NULL",1.0,2.0,12.0,5.0,0.27,1009.0,256.0,39.0,1,1,1
+"-docstart- (1369testb soccer)","cowdenbeath",1196,"NULL",1.0,1.0,5.0,5.0,0.88,1330.0,366.0,43.0,1,1,1
+"-docstart- (1164testb rugby)","franco properzi",1299,"NULL",2.0,1.0,0.0,1.0,0.9,395.0,234.0,44.0,0,1,1
+"-docstart- (824 soccer)","roda jc kerkrade",264,"NULL",3.0,2.0,6.0,1.0,0.25,1009.0,256.0,39.0,1,1,1
+"-docstart- (1370testb soccer)","port vale",1208,"NULL",2.0,1.0,10.0,2.0,0.42,2832.0,789.0,96.0,0,1,1
+"-docstart- (963testa golf)","mark calcavecchia",478,"NULL",2.0,1.0,1.0,1.0,0.72,423.0,106.0,34.0,1,1,1
+"-docstart- (252 soccer)","greenock morton",329,"NULL",2.0,1.0,6.0,1.0,0.49,643.0,120.0,43.0,1,1,1
+"-docstart- (525 cricket)","ian salisbury",480,"NULL",2.0,1.0,1.0,1.0,0.27,32.0,420.0,57.0,1,1,1
+"-docstart- (416 soccer)","port vale",490,"NULL",2.0,1.0,10.0,2.0,0.31,270.0,248.0,116.0,1,1,1
+"-docstart- (552 mcgrath)","jason mcateer",1559,"NULL",2.0,1.0,1.0,1.0,0.93,288.0,288.0,47.0,1,1,1
+"-docstart- (524 soccer)","brentford",317,"NULL",1.0,1.0,8.0,13.0,0.36,853.0,154.0,65.0,1,1,1
+"-docstart- (660 soccer)","maccabi haifa",202,"NULL",2.0,1.0,2.0,4.0,0.44,415.0,79.0,18.0,1,1,1
+"-docstart- (310 golf)","mark o'meara",656,"NULL",2.0,1.0,4.0,1.0,0.42,956.0,362.0,63.0,1,0,1
+"-docstart- (447 cricket)","ian healy",332,"NULL",2.0,1.0,6.0,2.0,0.57,182.0,93.0,30.0,1,1,1
+"-docstart- (1373testb soccer)","aston villa",287,"NULL",2.0,1.0,8.0,5.0,0.25,617.0,203.0,83.0,1,1,1
+"-docstart- (1370testb soccer)","burnley",1614,"NULL",1.0,1.0,8.0,16.0,0.56,2832.0,789.0,96.0,1,1,1
+"-docstart- (808 cricket)","ronnie irani",336,"NULL",2.0,1.0,4.0,1.0,0.58,189.0,88.0,32.0,1,1,1
+"-docstart- (680 soccer)","schalke 04",758,"NULL",2.0,1.0,2.0,2.0,0.87,818.0,219.0,31.0,1,1,1
+"-docstart- (38 cricket)","moin khan",838,"NULL",2.0,1.0,13.0,1.0,0.94,311.0,161.0,42.0,1,1,1
+"-docstart- (1056testa cricket)","moin khan",836,"NULL",2.0,2.0,13.0,1.0,0.62,383.0,242.0,63.0,1,1,1
+"-docstart- (274 soccer)","bayern munich",705,"NULL",2.0,1.0,8.0,5.0,0.69,966.0,242.0,38.0,1,1,1
+"-docstart- (660 soccer)","maccabi herzliya",437,"NULL",2.0,1.0,2.0,1.0,0.96,415.0,79.0,18.0,1,1,1
+"-docstart- (1058testa cricket)","robert croft",636,"NULL",2.0,1.0,5.0,2.0,0.73,191.0,136.0,40.0,1,1,1
+"-docstart- (1067testa soccer)","port vale",493,"NULL",2.0,1.0,10.0,2.0,0.25,1919.0,622.0,75.0,1,1,1
+"-docstart- (272 soccer)","ajax amsterdam",562,"NULL",2.0,2.0,15.0,3.0,0.65,816.0,219.0,29.0,1,1,1
+"-docstart- (1173testb rugby)","rob howley",1936,"NULL",2.0,1.0,1.0,1.0,0.77,56.0,473.0,88.0,1,1,1
+"-docstart- (416 soccer)","notts county",751,"NULL",2.0,1.0,8.0,2.0,0.47,288.0,248.0,116.0,1,1,1
+"-docstart- (655 cricket)","andrew hudson",1144,"NULL",2.0,1.0,1.0,1.0,0.9,250.0,214.0,42.0,1,1,1
+"-docstart- (1058testa cricket)","saqlain mushtaq",808,"NULL",2.0,1.0,5.0,1.0,0.93,176.0,136.0,40.0,1,1,1
+"-docstart- (1380testb soccer)","ha seok ju",1895,"NULL",3.0,1.0,1.0,0.0,0.95,18.0,399.0,52.0,0,0,1
+"-docstart- (1073testa rugby)","glen osborne",3326,"NULL",2.0,1.0,3.0,2.0,0.93,135.0,649.0,84.0,1,1,1
+"-docstart- (1372testb soccer)","greenock morton",289,"NULL",2.0,1.0,6.0,1.0,0.39,702.0,132.0,42.0,1,1,1
+"-docstart- (1104testa soccer)","alpay ozalan",2467,"NULL",2.0,1.0,1.0,0.0,0.83,301.0,532.0,74.0,1,1,1
+"-docstart- (334 cricket)","darren gough",356,"NULL",2.0,1.0,5.0,1.0,0.86,212.0,59.0,17.0,1,1,1
+"-docstart- (1164testb rugby)","andrea castellani",1429,"NULL",2.0,1.0,1.0,1.0,0.99,395.0,234.0,44.0,1,1,1
+"-docstart- (328 soccer)","middlesbrough",584,"NULL",1.0,1.0,9.0,19.0,0.42,1344.0,412.0,51.0,1,1,1
+"-docstart- (1067testa soccer)","millwall",902,"NULL",1.0,1.0,7.0,7.0,0.46,1919.0,622.0,75.0,1,1,1
+"-docstart- (1369testb soccer)","greenock morton",656,"NULL",2.0,1.0,6.0,1.0,0.48,1330.0,366.0,43.0,1,1,1
+"-docstart- (963testa golf)","payne stewart",497,"NULL",2.0,1.0,2.0,1.0,0.75,423.0,106.0,34.0,1,1,1
+"-docstart- (524 soccer)","bristol city",342,"NULL",2.0,1.0,8.0,6.0,0.39,853.0,154.0,65.0,1,1,1
+"-docstart- (525 cricket)","waqar younis",1460,"NULL",2.0,2.0,15.0,1.0,0.81,29.0,420.0,57.0,1,1,1
+"-docstart- (552 mcgrath)","ray houghton",1511,"NULL",2.0,1.0,1.0,1.0,0.9,288.0,288.0,47.0,1,1,1
+"-docstart- (1058testa cricket)","inzamam-ul-haq",756,"NULL",1.0,1.0,13.0,1.0,0.87,176.0,136.0,40.0,1,1,1
+"-docstart- (525 cricket)","asif mujtaba",1336,"NULL",2.0,2.0,9.0,1.0,0.74,31.0,420.0,57.0,1,1,1
+"-docstart- (975testa cricket)","darren lehmann",377,"NULL",2.0,1.0,1.0,1.0,0.58,191.0,96.0,29.0,1,1,1
+"-docstart- (552 mcgrath)","ian harte",1451,"NULL",2.0,1.0,4.0,1.0,0.87,288.0,288.0,47.0,1,1,1
+"-docstart- (416 soccer)","burnley",742,"NULL",1.0,1.0,8.0,16.0,0.47,288.0,248.0,116.0,1,1,1
+"-docstart- (1073testa rugby)","robin brooke",3467,"NULL",2.0,1.0,2.0,1.0,0.97,176.0,649.0,84.0,1,1,1
+"-docstart- (1370testb soccer)","everton",408,"NULL",1.0,1.0,13.0,35.0,0.14,2832.0,789.0,96.0,1,1,1
+"-docstart- (1165testb soccer)","norio omura",1359,"NULL",2.0,1.0,1.0,1.0,0.75,292.0,347.0,54.0,1,1,1
+"-docstart- (310 golf)","hal sutton",763,"NULL",2.0,1.0,3.0,1.0,0.49,956.0,362.0,63.0,1,1,1
+"-docstart- (1369testb soccer)","east fife",747,"NULL",2.0,1.0,6.0,3.0,0.55,1330.0,366.0,43.0,1,1,1
+"-docstart- (1058testa cricket)","waqar younis",840,"NULL",2.0,1.0,15.0,1.0,0.97,176.0,136.0,40.0,1,1,1
+"-docstart- (808 cricket)","robert croft",350,"NULL",2.0,1.0,5.0,2.0,0.6,189.0,88.0,32.0,1,1,1
+"-docstart- (1067testa soccer)","bristol rovers",1063,"NULL",2.0,1.0,7.0,2.0,0.54,1919.0,622.0,75.0,1,1,1
+"-docstart- (429 soccer)","flamengo",707,"NULL",1.0,2.0,2.0,19.0,0.58,986.0,306.0,49.0,1,0,1
+"-docstart- (975testa cricket)","mark waugh",393,"NULL",2.0,1.0,3.0,1.0,0.61,191.0,96.0,29.0,1,1,1
+"-docstart- (310 golf)","fred couples",787,"NULL",2.0,1.0,3.0,1.0,0.5,956.0,362.0,63.0,1,1,1
+"-docstart- (1373testb soccer)","sheffield wednesday",227,"NULL",2.0,1.0,9.0,5.0,0.2,617.0,203.0,83.0,1,1,1
+"-docstart- (1173testb rugby)","tony underwood",1874,"NULL",2.0,2.0,1.0,1.0,0.75,128.0,473.0,88.0,1,1,1
+"-docstart- (1067testa soccer)","notts county",1186,"NULL",2.0,1.0,8.0,2.0,0.61,1919.0,622.0,75.0,1,1,1
+"-docstart- (1068testa soccer)","airdrieonians",235,"NULL",1.0,1.0,6.0,3.0,0.45,216.0,91.0,33.0,1,1,1

@@ -1,0 +1,7 @@
+http:__gerdaq_gerdaq_trainingb.xml_94	springs	9	spring byington	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference (ohsaa)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_90	ansi	0	windows-1252	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	glendale california	7	glendale, california	1.0
+http:__gerdaq_gerdaq_trainingb.xml_85	costco	0	costco	1.0
+http:__gerdaq_gerdaq_trainingb.xml_81	america	0	united states	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	memphis area	26	memphis, tennessee	1.0

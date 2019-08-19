@@ -1,0 +1,1320 @@
+-docstart- (999testa lebed)	maskhadov	461	aslan maskhadov	1.0
+-docstart- (999testa lebed)	khasavyurt	35	khasavyurt	1.0
+-docstart- (999testa lebed)	aslan maskhadov	139	aslan maskhadov	1.0
+-docstart- (999testa lebed)	alexander lebed	84	alexander lebed	1.0
+-docstart- (998testa yeltsin)	yastrzhembsky	921	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	yastrzhembsky	555	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	sergei yastrzhembsky	192	sergey yastrzhembsky	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	595	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	481	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	naina yeltsin	224	naina yeltsina	1.0
+-docstart- (998testa yeltsin)	interfax	40	interfax	1.0
+-docstart- (998testa yeltsin)	interfax	154	interfax	1.0
+-docstart- (998testa yeltsin)	central clinical hospital	635	central clinical hospital	1.0
+-docstart- (998testa yeltsin)	boris yeltsin	86	boris yeltsin	1.0
+-docstart- (997testa polish)	slobodan milosevic	730	slobodan milošević	1.0
+-docstart- (997testa polish)	dariusz rosati	89	dariusz rosati	1.0
+-docstart- (996testa tajik)	sherbatov	664	eliezer sherbatov	1.0
+-docstart- (996testa tajik)	pamir mountains	250	pamir mountains	1.0
+-docstart- (996testa tajik)	layron	772	layron dejarnette	1.0
+-docstart- (995testa top)	sharetsky	879	syamyon sharetski	1.0
+-docstart- (995testa top)	sharetsky	629	syamyon sharetski	1.0
+-docstart- (995testa top)	sharetsky	1423	syamyon sharetski	1.0
+-docstart- (995testa top)	semyon sharetsky	259	syamyon sharetski	1.0
+-docstart- (995testa top)	alexander lukashenko	119	alexander lukashenko	1.0
+-docstart- (993testa ruling)	organisation for security and cooperation in europe	934	organization for security and co-operation in europe	1.0
+-docstart- (993testa ruling)	john kornblum	346	john c. kornblum	1.0
+-docstart- (993testa ruling)	alija izetbegovic	440	alija izetbegović	1.0
+-docstart- (992testa lebed)	maskhadov	620	aslan maskhadov	1.0
+-docstart- (992testa lebed)	maskhadov	453	aslan maskhadov	1.0
+-docstart- (992testa lebed)	khasavyurt	47	khasavyurt	1.0
+-docstart- (992testa lebed)	chechen republic	399	chechnya	1.0
+-docstart- (992testa lebed)	boris yeltsin	1156	boris yeltsin	1.0
+-docstart- (992testa lebed)	aslan maskhadov	146	aslan maskhadov	1.0
+-docstart- (992testa lebed)	alexander lebed	96	alexander lebed	1.0
+-docstart- (991testa yeltsin)	itar-tass	1213	tass	1.0
+-docstart- (991testa yeltsin)	interfax	342	interfax	1.0
+-docstart- (991testa yeltsin)	interfax	263	interfax	1.0
+-docstart- (991testa yeltsin)	chernomyrdin	358	viktor chernomyrdin	1.0
+-docstart- (991testa yeltsin)	chernomyrdin	1526	viktor chernomyrdin	1.0
+-docstart- (991testa yeltsin)	boris yeltsin	144	boris yeltsin	1.0
+-docstart- (991testa yeltsin)	aslan maskhadov	700	aslan maskhadov	1.0
+-docstart- (991testa yeltsin)	alexander lebed	220	alexander lebed	1.0
+-docstart- (990testa chad)	nagoum yamassoum	200	nagoum yamassoum	1.0
+-docstart- (990testa chad)	n'djamena university	105	university of n'djamena	1.0
+-docstart- (99 miss)	reuters	697	reuters	1.0
+-docstart- (99 miss)	reuters	2423	reuters	1.0
+-docstart- (99 miss)	nikki campbell	1430	nikki campbell	1.0
+-docstart- (99 miss)	martin brooks	2125	martin e. brooks	1.0
+-docstart- (99 miss)	alicia machado	113	alicia machado	1.0
+-docstart- (987testa soccer)	phil babb	244	phil babb	1.0
+-docstart- (987testa soccer)	ian harte	284	ian harte	1.0
+-docstart- (987testa soccer)	gary breen	211	gary breen	1.0
+-docstart- (986testa boxing-bruno)	world boxing council	329	world boxing council	1.0
+-docstart- (986testa boxing-bruno)	wbc	352	world boxing council	1.0
+-docstart- (986testa boxing-bruno)	oliver mccall	1105	oliver mccall	1.0
+-docstart- (986testa boxing-bruno)	mike tyson	367	mike tyson	1.0
+-docstart- (986testa boxing-bruno)	frank bruno	91	frank bruno	1.0
+-docstart- (986testa boxing-bruno)	david mcleod	784	david mcleod	1.0
+-docstart- (985testa late)	u.s. treasury	1352	united states department of the treasury	1.0
+-docstart- (985testa late)	tokyo stock exchange	2176	tokyo stock exchange	1.0
+-docstart- (985testa late)	nsw treasury	2355	the treasury (new south wales)	1.0
+-docstart- (985testa late)	matif	1005	matif	1.0
+-docstart- (985testa late)	kansai international airport	2632	kansai international airport	1.0
+-docstart- (985testa late)	kansai electric power	2606	kansai electric power company	1.0
+-docstart- (985testa late)	dnib	2546	ibadan airport	1.0
+-docstart- (985testa late)	dnib	2448	ibadan airport	1.0
+-docstart- (982testa douglas)	new york stock exchange	329	new york stock exchange	1.0
+-docstart- (982testa douglas)	mich.	59	michigan	1.0
+-docstart- (982testa douglas)	johnson controls inc	659	johnson controls	1.0
+-docstart- (982testa douglas)	james hoey	866	james hoey (politician)	1.0
+-docstart- (982testa douglas)	farmington hills	41	farmington hills, michigan	1.0
+-docstart- (981testa u.s.)	napm	47	purchasing managers' index	1.0
+-docstart- (981testa u.s.)	napm	268	purchasing managers' index	1.0
+-docstart- (981testa u.s.)	lawrence lindsey	1984	lawrence b. lindsey	1.0
+-docstart- (981testa u.s.)	federal open market committee	1904	federal open market committee	1.0
+-docstart- (981testa u.s.)	alan greenspan	2227	alan greenspan	1.0
+-docstart- (98 turkish)	isbank	930	türkiye i̇ş bankası	1.0
+-docstart- (98 turkish)	interbank	591	interbank	1.0
+-docstart- (98 turkish)	istanbul	44	istanbul	1.0
+-docstart- (98 turkish)	cukurova	981	chukurova	1.0
+-docstart- (977testa polish)	national bank of poland	71	national bank of poland	1.0
+-docstart- (975testa cricket)	upul chandana	632	upul chandana	1.0
+-docstart- (975testa cricket)	stuart law	319	stuart law	1.0
+-docstart- (975testa cricket)	steve waugh	405	steve waugh	1.0
+-docstart- (975testa cricket)	sanath jayasuriya	460	sanath jayasuriya	1.0
+-docstart- (975testa cricket)	roshan mahanama	559	roshan mahanama	1.0
+-docstart- (975testa cricket)	romesh kaluwitharana	479	romesh kaluwitharana	1.0
+-docstart- (975testa cricket)	ricky ponting	346	ricky ponting	1.0
+-docstart- (975testa cricket)	muthiah muralitharan	610	muttiah muralitharan	1.0
+-docstart- (975testa cricket)	mark waugh	393	mark waugh	1.0
+-docstart- (975testa cricket)	jason gillespie	302	jason gillespie	1.0
+-docstart- (975testa cricket)	ian healy	247	ian healy	1.0
+-docstart- (975testa cricket)	glenn mcgrath	331	glenn mcgrath	1.0
+-docstart- (975testa cricket)	darren lehmann	377	darren lehmann	1.0
+-docstart- (975testa cricket)	chaminda vaas	595	chaminda vaas	1.0
+-docstart- (975testa cricket)	asanka gurusinha	501	asanka gurusinha	1.0
+-docstart- (975testa cricket)	arjuna ranatunga	430	arjuna ranatunga	1.0
+-docstart- (975testa cricket)	aravinda de silva	519	aravinda de silva	1.0
+-docstart- (973testa cricket)	tillekeratne	235	stanley tillekeratne	1.0
+-docstart- (973testa cricket)	s. waugh	848	steve waugh	1.0
+-docstart- (973testa cricket)	s. waugh	294	steve waugh	1.0
+-docstart- (973testa cricket)	s. waugh	1186	steve waugh	1.0
+-docstart- (973testa cricket)	kaluwitharana	438	romesh kaluwitharana	1.0
+-docstart- (973testa cricket)	kaluwitharana	357	romesh kaluwitharana	1.0
+-docstart- (971testa soccer)	gianluigi lentini	97	gianluigi lentini	1.0
+-docstart- (971testa soccer)	fabio capello	824	fabio capello	1.0
+-docstart- (971testa soccer)	emiliano mondonico	884	emiliano mondonico	1.0
+-docstart- (970testa soccer)	paris st germain	226	paris saint-germain f.c.	1.0
+-docstart- (970testa soccer)	dominique baratelli	90	dominique baratelli	1.0
+-docstart- (970testa soccer)	baratelli	191	dominique baratelli	1.0
+-docstart- (970testa soccer)	baratelli	9	dominique baratelli	1.0
+-docstart- (970testa soccer)	albert emon	260	albert emon	1.0
+-docstart- (97 egypt)	u.n. security council	405	united nations security council	1.0
+-docstart- (97 egypt)	hosni mubarak	221	hosni mubarak	1.0
+-docstart- (97 egypt)	hassan al-turabi	922	hassan al-turabi	1.0
+-docstart- (969testa athletics)	kosevo	473	koševo	1.0
+-docstart- (969testa athletics)	international amateur athletic federation	255	international association of athletics federations	1.0
+-docstart- (969testa athletics)	iaaf	817	international association of athletics federations	1.0
+-docstart- (968testa soccer)	roberto bisconti	444	roberto bisconti	1.0
+-docstart- (968testa soccer)	guy hellers	324	guy hellers	1.0
+-docstart- (968testa soccer)	didier ernst	581	didier ernst	1.0
+-docstart- (967testa athletics)	yoelvis quesada	5033	yoelbi quesada	1.0
+-docstart- (967testa athletics)	yelena gulyayeva	4572	yelena gulyayeva	1.0
+-docstart- (967testa athletics)	yekaterina podkopayeva	588	yekaterina podkopayeva	1.0
+-docstart- (967testa athletics)	xiomara rivero	5478	xiomara rivero	1.0
+-docstart- (967testa athletics)	william tanui	1699	william tanui	1.0
+-docstart- (967testa athletics)	vladimir dubrovshchik	2045	vladimir dubrovshchik	1.0
+-docstart- (967testa athletics)	virgilijus alekna	2088	virgilijus alekna	1.0
+-docstart- (967testa athletics)	valentina fedyushina	1511	valentina fedyushina	1.0
+-docstart- (967testa athletics)	torrance zellner	2896	torrance zellner	1.0
+-docstart- (967testa athletics)	tony jarrett	846	tony jarrett	1.0
+-docstart- (967testa athletics)	tom nyariki	4898	tom nyariki	1.0
+-docstart- (967testa athletics)	tim lobinger	4159	tim lobinger	1.0
+-docstart- (967testa athletics)	tegla loroupe	2725	tegla loroupe	1.0
+-docstart- (967testa athletics)	tatyana motkova	4464	tatyana babashkina	1.0
+-docstart- (967testa athletics)	tanja damaske	5300	tanja damaske	1.0
+-docstart- (967testa athletics)	svetlana masterkova	441	svetlana masterkova	1.0
+-docstart- (967testa athletics)	sven nylander	3039	sven nylander	1.0
+-docstart- (967testa athletics)	stephanie storp	1552	stephanie storp	1.0
+-docstart- (967testa athletics)	stefka kostadinova	4349	stefka kostadinova	1.0
+-docstart- (967testa athletics)	sigurd njerve	5169	sigurd njerve	1.0
+-docstart- (967testa athletics)	shem kororia	4824	shem kororia	1.0
+-docstart- (967testa athletics)	samuel matete	2939	samuel matete	1.0
+-docstart- (967testa athletics)	sally barsosio	2834	sally barsosio	1.0
+-docstart- (967testa athletics)	rose cheruiyot	2647	rose cheruiyot	1.0
+-docstart- (967testa athletics)	rohan robinson	3103	rohan robinson	1.0
+-docstart- (967testa athletics)	phylis smith	3375	phylis smith	1.0
+-docstart- (967testa athletics)	pauline konga	2798	pauline konga	1.0
+-docstart- (967testa athletics)	patricia djate-taillard	501	patricia djaté-taillard	1.0
+-docstart- (967testa athletics)	osmond ezinwa	5793	osmond ezinwa	1.0
+-docstart- (967testa athletics)	olabisi afolabi	3338	olabisi afolabi	1.0
+-docstart- (967testa athletics)	noureddine morceli	1600	noureddine morceli	1.0
+-docstart- (967testa athletics)	norberto tellez	3785	norberto téllez	1.0
+-docstart- (967testa athletics)	nico motchebon	3855	nico motchebon	1.0
+-docstart- (967testa athletics)	nele zilinskiene	4533	nelė žilinskienė	1.0
+-docstart- (967testa athletics)	michelle freeman	158	michelle freeman	1.0
+-docstart- (967testa athletics)	michael moellenbeck	2201	michael möllenbeck	1.0
+-docstart- (967testa athletics)	merlene ottey	2299	merlene ottey	1.0
+-docstart- (967testa athletics)	mary onyali	2366	mary onyali-omagbemi	1.0
+-docstart- (967testa athletics)	marko koers	1768	marko koers	1.0
+-docstart- (967testa athletics)	mark crear	809	mark crear	1.0
+-docstart- (967testa athletics)	marcus o'sullivan	1877	marcus o'sullivan	1.0
+-docstart- (967testa athletics)	marc blume	3697	marc blume	1.0
+-docstart- (967testa athletics)	maksim tarasov	4125	maksim tarasov	1.0
+-docstart- (967testa athletics)	ludmila engquist	204	ludmila engquist	1.0
+-docstart- (967testa athletics)	louise mcpaul	5441	louise currey	1.0
+-docstart- (967testa athletics)	linford christie	5720	linford christie	1.0
+-docstart- (967testa athletics)	linda kisabaka	3409	linda kisabaka	1.0
+-docstart- (967testa athletics)	leah pells	633	leah pells	1.0
+-docstart- (967testa athletics)	lars riedel	1931	lars riedel	1.0
+-docstart- (967testa athletics)	laban rotich	1734	laban rotich	1.0
+-docstart- (967testa athletics)	kazakstan	4210	kazakhstan	1.0
+-docstart- (967testa athletics)	karin janke	3445	karin janke	1.0
+-docstart- (967testa athletics)	julie baumann	344	julie baumann	1.0
+-docstart- (967testa athletics)	john mayock	1842	john mayock	1.0
+-docstart- (967testa athletics)	jearl miles	3240	jearl miles clark	1.0
+-docstart- (967testa athletics)	jean galfione	4230	jean galfione	1.0
+-docstart- (967testa athletics)	isel lopez	5377	isel lópez	1.0
+-docstart- (967testa athletics)	isaac viciosa	1807	isaac viciosa	1.0
+-docstart- (967testa athletics)	irina privalova	2469	irina privalova	1.0
+-docstart- (967testa athletics)	irina korzhanenko	1473	irina korzhanenko	1.0
+-docstart- (967testa athletics)	inger miller	2505	inger miller	1.0
+-docstart- (967testa athletics)	inga babakova	4389	inha babakova	1.0
+-docstart- (967testa athletics)	igor trandenkov	4090	igor trandenkov	1.0
+-docstart- (967testa athletics)	igor potapovich	4192	igor potapovich	1.0
+-docstart- (967testa athletics)	heli rantanen	5406	heli rantanen	1.0
+-docstart- (967testa athletics)	gwen torrence	2334	gwen torrence	1.0
+-docstart- (967testa athletics)	gunhild halle	2761	gunhild haugen	1.0
+-docstart- (967testa athletics)	gillian russell	383	gillian russell	1.0
+-docstart- (967testa athletics)	gete wami	2612	gete wami	1.0
+-docstart- (967testa athletics)	george panayiotopoulos	5932	georgios panagiotopoulos	1.0
+-docstart- (967testa athletics)	geir moen	3667	geir moen	1.0
+-docstart- (967testa athletics)	geir moen	1213	geir moen	1.0
+-docstart- (967testa athletics)	gail devers	2261	gail devers	1.0
+-docstart- (967testa athletics)	gabriela szabo	2557	gabriela szabo	1.0
+-docstart- (967testa athletics)	frankie fredericks	5688	frankie fredericks	1.0
+-docstart- (967testa athletics)	frankie fredericks	1098	frankie fredericks	1.0
+-docstart- (967testa athletics)	frank busemann	1015	frank busemann	1.0
+-docstart- (967testa athletics)	florian schwarthoff	880	florian schwarthoff	1.0
+-docstart- (967testa athletics)	florian schwarthoff	5967	florian schwarthoff	1.0
+-docstart- (967testa athletics)	fita bayissa	4932	fita bayisa	1.0
+-docstart- (967testa athletics)	fatima yusuf	3270	fatima yusuf	1.0
+-docstart- (967testa athletics)	falk balzer	952	falk balzer	1.0
+-docstart- (967testa athletics)	falk balzer	5907	falk balzer	1.0
+-docstart- (967testa athletics)	falilat ogunkoya	3194	falilat ogunkoya	1.0
+-docstart- (967testa athletics)	emilio valle	921	emilio valle	1.0
+-docstart- (967testa athletics)	dusan kovacs	3141	dusán kovács	1.0
+-docstart- (967testa athletics)	donovan bailey	5635	donovan bailey	1.0
+-docstart- (967testa athletics)	donovan bailey	3564	donovan bailey	1.0
+-docstart- (967testa athletics)	dmitri markov	4297	dmitri markov	1.0
+-docstart- (967testa athletics)	dionne rose	311	dionne rose-henley	1.0
+-docstart- (967testa athletics)	derrick adkins	2973	derrick adkins	1.0
+-docstart- (967testa athletics)	davidson ezinwa	5843	davidson ezinwa	1.0
+-docstart- (967testa athletics)	davidson ezinwa	3630	davidson ezinwa	1.0
+-docstart- (967testa athletics)	david kiptoo	3893	david kiptoo	1.0
+-docstart- (967testa athletics)	craig winrow	3998	craig winrow	1.0
+-docstart- (967testa athletics)	chryste gaines	2399	chryste gaines	1.0
+-docstart- (967testa athletics)	chandra sturrup	2432	chandra sturrup	1.0
+-docstart- (967testa athletics)	carmen wuestenhagen	666	carmen wüstenhagen	1.0
+-docstart- (967testa athletics)	carlos calado	5203	carlos calado	1.0
+-docstart- (967testa athletics)	carla sacramento	547	carla sacramento	1.0
+-docstart- (967testa athletics)	brahim lahlafi	4859	brahim lahlafi	1.0
+-docstart- (967testa athletics)	astrid kumbernuss	1393	astrid kumbernuss	1.0
+-docstart- (967testa athletics)	annemari sandell	2684	annemari sandell-hyvärinen	1.0
+-docstart- (967testa athletics)	anja ruecker	3304	anja rücker	1.0
+-docstart- (967testa athletics)	andreas seelig	2165	andreas seelig	1.0
+-docstart- (967testa athletics)	aliuska lopez	241	aliuska lópez	1.0
+-docstart- (967testa athletics)	alina astafei	4430	alina astafei	1.0
+-docstart- (966testa athletics)	merlene ottey	1555	merlene ottey	1.0
+-docstart- (966testa athletics)	golden four	1053	http://de.wikipedia.org/wiki/golden four	1.0
+-docstart- (966testa athletics)	gail devers	1457	gail devers	1.0
+-docstart- (966testa athletics)	donovan bailey	162	donovan bailey	1.0
+-docstart- (964testa golf)	tom lehman	2117	tom lehman	1.0
+-docstart- (964testa golf)	tiger woods	247	tiger woods	1.0
+-docstart- (964testa golf)	scott hoch	1913	scott hoch	1.0
+-docstart- (964testa golf)	phil mickelson	1972	phil mickelson	1.0
+-docstart- (964testa golf)	payne stewart	1879	payne stewart	1.0
+-docstart- (964testa golf)	nortel open	1505	tucson open	1.0
+-docstart- (964testa golf)	nolan henke	93	nolan henke	1.0
+-docstart- (964testa golf)	mark o'meara	2132	mark o'meara	1.0
+-docstart- (964testa golf)	duffy waldorf	368	duffy waldorf	1.0
+-docstart- (964testa golf)	bob estes	327	bob estes	1.0
+-docstart- (964testa golf)	billy mayfair	1780	billy mayfair	1.0
+-docstart- (964testa golf)	billy andrade	353	billy andrade	1.0
+-docstart- (964testa golf)	andrew magee	1274	andrew magee	1.0
+-docstart- (963testa golf)	tiger woods	623	tiger woods	1.0
+-docstart- (963testa golf)	steve stricker	433	steve stricker	1.0
+-docstart- (963testa golf)	payne stewart	497	payne stewart	1.0
+-docstart- (963testa golf)	olin browne	564	olin browne	1.0
+-docstart- (963testa golf)	nolan henke	264	nolan henke	1.0
+-docstart- (963testa golf)	neal lancaster	352	neal lancaster	1.0
+-docstart- (963testa golf)	mike hulbert	592	mike hulbert	1.0
+-docstart- (963testa golf)	mark calcavecchia	478	mark calcavecchia	1.0
+-docstart- (963testa golf)	loren roberts	418	loren roberts	1.0
+-docstart- (963testa golf)	jesper parnevik	322	jesper parnevik	1.0
+-docstart- (963testa golf)	duffy waldorf	307	duffy waldorf	1.0
+-docstart- (963testa golf)	brian henninger	606	brian henninger	1.0
+-docstart- (963testa golf)	brian claar	449	brian claar	1.0
+-docstart- (963testa golf)	bob estes	279	bob estes	1.0
+-docstart- (963testa golf)	billy mayfair	512	billy mayfair	1.0
+-docstart- (963testa golf)	billy andrade	292	billy andrade	1.0
+-docstart- (962testa nfl)	randall cunningham	74	randall cunningham	1.0
+-docstart- (962testa nfl)	jeffrey lurie	813	jeffrey lurie	1.0
+-docstart- (961testa tennis)	todd martin	960	todd martin	1.0
+-docstart- (961testa tennis)	tarango	3642	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	3497	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	3079	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	2866	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	2599	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	2186	jeff tarango	1.0
+-docstart- (961testa tennis)	tarango	9	jeff tarango	1.0
+-docstart- (961testa tennis)	malivai washington	159	malivai washington	1.0
+-docstart- (961testa tennis)	leander paes	818	leander paes	1.0
+-docstart- (961testa tennis)	jeff tarango	563	jeff tarango	1.0
+-docstart- (961testa tennis)	andre agassi	94	andre agassi	1.0
+-docstart- (961testa tennis)	all-england club	2311	all england lawn tennis and croquet club	1.0
+-docstart- (961testa tennis)	agassi	715	andre agassi	1.0
+-docstart- (96 egypt)	ihlas	1097	ihlas bebou	1.0
+-docstart- (96 egypt)	egyptair	852	egyptair	1.0
+-docstart- (96 egypt)	egyptair	248	egyptair	1.0
+-docstart- (96 egypt)	egyptair	174	egyptair	1.0
+-docstart- (96 egypt)	egyptair	100	egyptair	1.0
+-docstart- (958testa tennis)	todd martin	2240	todd martin	1.0
+-docstart- (958testa tennis)	tim henman	413	tim henman	1.0
+-docstart- (958testa tennis)	stefan edberg	2304	stefan edberg	1.0
+-docstart- (958testa tennis)	sjeng schalken	553	sjeng schalken	1.0
+-docstart- (958testa tennis)	scott draper	362	scott draper	1.0
+-docstart- (958testa tennis)	sandrine testud	219	sandrine testud	1.0
+-docstart- (958testa tennis)	roberto carretero	1224	roberto carretero	1.0
+-docstart- (958testa tennis)	petr korda	2006	petr korda	1.0
+-docstart- (958testa tennis)	pete sampras	1567	pete sampras	1.0
+-docstart- (958testa tennis)	paul haarhuis	1644	paul haarhuis	1.0
+-docstart- (958testa tennis)	monica seles	2132	monica seles	1.0
+-docstart- (958testa tennis)	mikael tillstrom	763	mikael tillström	1.0
+-docstart- (958testa tennis)	michael tebbutt	1679	michael tebbutt	1.0
+-docstart- (958testa tennis)	mark philippoussis	473	mark philippoussis	1.0
+-docstart- (958testa tennis)	lisa raymond	1759	lisa raymond	1.0
+-docstart- (958testa tennis)	lindsay davenport	930	lindsay davenport	1.0
+-docstart- (958testa tennis)	linda wild	1388	linda wild	1.0
+-docstart- (958testa tennis)	kimberly po	1786	kimberly po	1.0
+-docstart- (958testa tennis)	jonas bjorkman	821	jonas björkman	1.0
+-docstart- (958testa tennis)	jan kroslak	1969	ján krošlák	1.0
+-docstart- (958testa tennis)	irina spirlea	1114	irina spîrlea	1.0
+-docstart- (958testa tennis)	ines gorrochategui	251	inés gorrochategui	1.0
+-docstart- (958testa tennis)	hendrik dreekmann	1849	hendrik dreekmann	1.0
+-docstart- (958testa tennis)	helena sukova	1036	helena suková	1.0
+-docstart- (958testa tennis)	guy forget	633	guy forget	1.0
+-docstart- (958testa tennis)	goran ivanisevic	328	goran ivanišević	1.0
+-docstart- (958testa tennis)	gabriela sabatini	1487	gabriela sabatini	1.0
+-docstart- (958testa tennis)	filippo veglio	1299	filippo veglio	1.0
+-docstart- (958testa tennis)	doug flach	441	doug flach	1.0
+-docstart- (958testa tennis)	david rikl	589	david rikl	1.0
+-docstart- (958testa tennis)	david nainkin	852	david nainkin	1.0
+-docstart- (958testa tennis)	dally randriantefy	2159	dally randriantefy	1.0
+-docstart- (958testa tennis)	conchita martinez	1003	conchita martínez	1.0
+-docstart- (958testa tennis)	cedric pioline	1193	cédric pioline	1.0
+-docstart- (958testa tennis)	bohdan ulihrach	2040	bohdan ulihrach	1.0
+-docstart- (958testa tennis)	bernd karbacher	2334	bernd karbacher	1.0
+-docstart- (958testa tennis)	barbara rittner	1413	barbara rittner	1.0
+-docstart- (958testa tennis)	asa carlsson	1453	åsa svensson	1.0
+-docstart- (958testa tennis)	anne-gaelle sidot	962	anne-gaëlle sidot	1.0
+-docstart- (958testa tennis)	andrei olhovskiy	511	andrei olhovskiy	1.0
+-docstart- (958testa tennis)	andrei medvedev	1936	andriy medvedev	1.0
+-docstart- (958testa tennis)	andrea gaudenzi	2266	andrea gaudenzi	1.0
+-docstart- (958testa tennis)	amanda coetzer	1077	amanda coetzer	1.0
+-docstart- (958testa tennis)	alex corretja	1270	àlex corretja	1.0
+-docstart- (957testa baseball)	ssangbangwool	471	ssangbangwool raiders	1.0
+-docstart- (957testa baseball)	ssangbangwool	235	ssangbangwool raiders	1.0
+-docstart- (957testa baseball)	haitai	450	haitai	1.0
+-docstart- (957testa baseball)	haitai	277	haitai	1.0
+-docstart- (957testa baseball)	haitai	217	haitai	1.0
+-docstart- (957testa baseball)	haitai	187	haitai	1.0
+-docstart- (956testa soccer)	puchon	334	bucheon	1.0
+-docstart- (956testa soccer)	puchon	163	bucheon	1.0
+-docstart- (956testa soccer)	chonnam	451	south jeolla province	1.0
+-docstart- (956testa soccer)	chonbuk	489	north jeolla province	1.0
+-docstart- (956testa soccer)	chonbuk	172	north jeolla province	1.0
+-docstart- (955testa squash)	rodney eyles	401	rodney eyles	1.0
+-docstart- (955testa squash)	peter nicol	316	peter nicol	1.0
+-docstart- (955testa squash)	jansher khan	162	jansher khan	1.0
+-docstart- (955testa squash)	dan jenson	265	dan jenson	1.0
+-docstart- (952testa soccer)	mihai tararache	211	mihai tararache	1.0
+-docstart- (952testa soccer)	cosmin contra	187	cosmin contra	1.0
+-docstart- (950testa soccer)	teddy sheringham	1135	teddy sheringham	1.0
+-docstart- (950testa soccer)	les ferdinand	1264	les ferdinand	1.0
+-docstart- (950testa soccer)	glenn hoddle	535	glenn hoddle	1.0
+-docstart- (950testa soccer)	alan shearer	94	alan shearer	1.0
+-docstart- (95 palestinians)	al-risala	492	al-risala (al-shafi‘i)	1.0
+-docstart- (95 palestinians)	patrick seale	1652	patrick seale	1.0
+-docstart- (95 palestinians)	palestinian authority	1217	palestinian national authority	1.0
+-docstart- (95 palestinians)	plo	2075	palestine liberation organization	1.0
+-docstart- (95 palestinians)	edward said	651	edward said	1.0
+-docstart- (948testa cricket)	p. simmons	237	patrick simmons	1.0
+-docstart- (948testa cricket)	j. ratcliffe	638	http://de.wikipedia.org/wiki/jacob ratcliffe	1.0
+-docstart- (948testa cricket)	j. adams	947	john adams	1.0
+-docstart- (947testa cricket)	tim o'gorman	1932	tim o'gorman	1.0
+-docstart- (947testa cricket)	phil simmons	107	phil simmons	1.0
+-docstart- (947testa cricket)	peter such	888	peter such	1.0
+-docstart- (947testa cricket)	martin mccague	2238	martin mccague	1.0
+-docstart- (947testa cricket)	mark butcher	1599	mark butcher	1.0
+-docstart- (947testa cricket)	grace road	533	grace road	1.0
+-docstart- (947testa cricket)	andy caddick	653	andrew caddick	1.0
+-docstart- (945 golf)	wayne riley	911	wayne riley	1.0
+-docstart- (945 golf)	stephen mcallister	447	stephen mcallister	1.0
+-docstart- (945 golf)	robert allenby	151	robert allenby	1.0
+-docstart- (945 golf)	retief goosen	1044	retief goosen	1.0
+-docstart- (945 golf)	philip walton	812	philip walton	1.0
+-docstart- (945 golf)	peter hedblom	1009	peter hedblom	1.0
+-docstart- (945 golf)	pedro linhart	193	pedro linhart	1.0
+-docstart- (945 golf)	paul lawrie	724	paul lawrie	1.0
+-docstart- (945 golf)	paul eales	547	paul eales	1.0
+-docstart- (945 golf)	mike clayton	603	michael clayton (golfer)	1.0
+-docstart- (945 golf)	miguel angel jimenez	746	miguel ángel jiménez	1.0
+-docstart- (945 golf)	klas eriksson	568	klas eriksson	1.0
+-docstart- (945 golf)	jose coceres	510	josé cóceres	1.0
+-docstart- (945 golf)	joakim haeggman	476	joakim haeggman	1.0
+-docstart- (945 golf)	ian woosnam	346	ian woosnam	1.0
+-docstart- (945 golf)	francisco cea	368	francisco cea bermúdez	1.0
+-docstart- (945 golf)	david gilford	1085	david gilford	1.0
+-docstart- (945 golf)	costantino rocca	270	costantino rocca	1.0
+-docstart- (945 golf)	barry lane	890	barry lane	1.0
+-docstart- (944 motorcycling)	tadayuki okada	446	tadayuki okada	1.0
+-docstart- (944 motorcycling)	shinichi itoh	577	shinichi ito	1.0
+-docstart- (944 motorcycling)	norifumi abe	269	norifumi abe	1.0
+-docstart- (944 motorcycling)	michael doohan	165	mick doohan	1.0
+-docstart- (944 motorcycling)	luca cadalora	311	luca cadalora	1.0
+-docstart- (944 motorcycling)	jean-michel bayle	221	jean-michel bayle	1.0
+-docstart- (944 motorcycling)	carlos checa	489	carlos checa	1.0
+-docstart- (944 motorcycling)	alexandre barros	530	alex barros	1.0
+-docstart- (944 motorcycling)	alex criville	353	àlex crivillé	1.0
+-docstart- (943 soccer)	roy aitken	544	roy aitken	1.0
+-docstart- (943 soccer)	paris st germain	989	paris saint-germain f.c.	1.0
+-docstart- (943 soccer)	kombouare	268	antoine kombouaré	1.0
+-docstart- (943 soccer)	kombouare	1282	antoine kombouaré	1.0
+-docstart- (943 soccer)	kombouare	25	antoine kombouaré	1.0
+-docstart- (943 soccer)	david ginola	1053	david ginola	1.0
+-docstart- (943 soccer)	antoine kombouare	106	antoine kombouaré	1.0
+-docstart- (943 soccer)	abderdeen	51	aberdeenshire (parliament of scotland constituency)	1.0
+-docstart- (942 cycling)	tea vikstedt-nyman	777	tea vikstedt-nyman	1.0
+-docstart- (942 cycling)	tatiana stiajkina	710	tetyana styazhkina	1.0
+-docstart- (942 cycling)	tanya dubnicoff	330	tanya dubnicoff	1.0
+-docstart- (942 cycling)	nathalie lancien	931	nathalie lancien	1.0
+-docstart- (942 cycling)	magali faure	214	magali faure-humbert	1.0
+-docstart- (942 cycling)	judith arndt	746	judith arndt	1.0
+-docstart- (942 cycling)	jane quigley	637	jane alexander	1.0
+-docstart- (942 cycling)	ingrid haringa	830	ingrid haringa	1.0
+-docstart- (942 cycling)	felicia ballanger	296	félicia ballanger	1.0
+-docstart- (942 cycling)	dubnicoff	416	tanya dubnicoff	1.0
+-docstart- (942 cycling)	ballanger	458	félicia ballanger	1.0
+-docstart- (942 cycling)	annett neumann	182	annett neumann	1.0
+-docstart- (941 cycling)	tanya dubnicoff	487	tanya dubnicoff	1.0
+-docstart- (941 cycling)	nathalie lancien	1465	nathalie lancien	1.0
+-docstart- (941 cycling)	magali faure	446	magali faure-humbert	1.0
+-docstart- (941 cycling)	jane quigley	824	jane alexander	1.0
+-docstart- (941 cycling)	ingrid haringa	1344	ingrid haringa	1.0
+-docstart- (941 cycling)	felicia ballanger	93	félicia ballanger	1.0
+-docstart- (941 cycling)	ballanger	518	félicia ballanger	1.0
+-docstart- (941 cycling)	ballanger	257	félicia ballanger	1.0
+-docstart- (941 cycling)	ballanger	10	félicia ballanger	1.0
+-docstart- (941 cycling)	annett neumann	282	annett neumann	1.0
+-docstart- (940 soccer)	john hartson	186	john hartson	1.0
+-docstart- (94 australia)	qian qichen	275	qian qichen	1.0
+-docstart- (94 australia)	alexander downer	92	alexander downer	1.0
+-docstart- (939 soccer)	ronald brunmayr	256	ronald brunmayr	1.0
+-docstart- (939 soccer)	ewald brenner	199	ewald brenner	1.0
+-docstart- (938 wall)	white house	2852	white house	1.0
+-docstart- (938 wall)	wall street	622	wall street	1.0
+-docstart- (938 wall)	wall street	1559	wall street	1.0
+-docstart- (938 wall)	wall street	135	wall street	1.0
+-docstart- (938 wall)	wall street	0	wall street	1.0
+-docstart- (938 wall)	u.s. treasury	2164	united states department of the treasury	1.0
+-docstart- (938 wall)	u.s.	2568	united states	1.0
+-docstart- (938 wall)	u.s.	2087	united states	1.0
+-docstart- (938 wall)	u.s.	1106	united states	1.0
+-docstart- (938 wall)	tokyo	3256	tokyo	1.0
+-docstart- (938 wall)	robert rubin	194	robert rubin	1.0
+-docstart- (938 wall)	lloyd bentsen	737	lloyd bentsen	1.0
+-docstart- (938 wall)	federal reserve	2263	federal reserve system	1.0
+-docstart- (938 wall)	alan greenspan	2213	alan greenspan	1.0
+-docstart- (936 algeria)	malcolm rifkind	1340	malcolm rifkind	1.0
+-docstart- (936 algeria)	islamic salvation front	534	islamic salvation front	1.0
+-docstart- (935 lenzing)	lenzing ag	87	lenzing ag	1.0
+-docstart- (934 press)	jose maria aznar	442	josé maría aznar	1.0
+-docstart- (934 press)	diario 16	342	diario 16	1.0
+-docstart- (934 press)	coopers and lybrand	541	pricewaterhousecoopers	1.0
+-docstart- (934 press)	cinco dias	480	cinco días	1.0
+-docstart- (933 indicators)	bank of spain	1416	bank of spain	1.0
+-docstart- (932 loxley)	loxley	0	river loxley	1.0
+-docstart- (931 singapore)	texaco inc.	1080	texaco	1.0
+-docstart- (931 singapore)	singapore petroleum company	972	singapore petroleum company	1.0
+-docstart- (931 singapore)	chevron corp	1063	chevron corporation	1.0
+-docstart- (931 singapore)	caltex	1022	caltex	1.0
+-docstart- (927 salomon)	tokyo	39	tokyo	1.0
+-docstart- (926 s.)	s. korea	0	south korea	1.0
+-docstart- (926 s.)	poland	280	poland	1.0
+-docstart- (926 s.)	poland	242	poland	1.0
+-docstart- (926 s.)	ltd	289	private company limited by shares	1.0
+-docstart- (926 s.)	daewoo group	664	daewoo	1.0
+-docstart- (926 s.)	daewoo	9	daewoo	1.0
+-docstart- (926 s.)	daewoo	418	daewoo	1.0
+-docstart- (926 s.)	dacom	543	dacom	1.0
+-docstart- (926 s.)	dacom	17	dacom	1.0
+-docstart- (925 mbishi)	tokyo-mitsubishi bank	153	the bank of tokyo-mitsubishi ufj	1.0
+-docstart- (924 siam)	siam commercial bank	438	siam commercial bank	1.0
+-docstart- (923 simex)	bank of japan	240	bank of japan	1.0
+-docstart- (921 hong)	donald tsang	117	donald tsang	1.0
+-docstart- (921 hong)	bill birch	971	bill birch	1.0
+-docstart- (920 earthquake)	television new zealand	204	television new zealand	1.0
+-docstart- (92 former)	moengo	416	moengo	1.0
+-docstart- (92 former)	desi bouterse	1159	dési bouterse	1.0
+-docstart- (919 interview-t&n)	kolbenschmidt	2395	rheinmetall automotive	1.0
+-docstart- (918 kekkila)	helsinki	42	helsinki	1.0
+-docstart- (917 audi)	volkswagen ag	175	volkswagen group	1.0
+-docstart- (917 audi)	herbert demel	101	http://de.wikipedia.org/wiki/herbert demel	1.0
+-docstart- (916 finns)	iltalehti	887	iltalehti	1.0
+-docstart- (915 algeria)	leveilly	417	http://de.wikipedia.org/wiki/michael leveilly	1.0
+-docstart- (913 galeforce)	royal meteorological institute	692	royal meteorological institute	1.0
+-docstart- (912 bodies)	vnukovo airlines	479	vnukovo airlines	1.0
+-docstart- (912 bodies)	barentsburg	1175	barentsburg	1.0
+-docstart- (91 peru)	shining path	749	shining path	1.0
+-docstart- (91 peru)	shining path	337	shining path	1.0
+-docstart- (91 peru)	abimael guzman	818	abimael guzmán	1.0
+-docstart- (909 italy)	nitto santapaola	712	benedetto santapaola	1.0
+-docstart- (908 german)	gorleben	579	gorleben	1.0
+-docstart- (905 new)	place beauvau	1513	place beauvau	1.0
+-docstart- (905 new)	le figaro	1696	le figaro	1.0
+-docstart- (905 new)	la corse	931	corsica	1.0
+-docstart- (905 new)	jean-louis debre	789	jean-louis debré	1.0
+-docstart- (905 new)	france-soir	1464	france-soir	1.0
+-docstart- (904 clinton)	bill clinton	81	bill clinton	1.0
+-docstart- (903 feature)	united daughters of the confederacy	3442	united daughters of the confederacy	1.0
+-docstart- (903 feature)	southern illinois university at carbondale	2679	southern illinois university carbondale	1.0
+-docstart- (903 feature)	national park service	3726	national park service	1.0
+-docstart- (902 beachcomber)	national transportation safety board	422	national transportation safety board	1.0
+-docstart- (902 beachcomber)	island beach state park	309	island beach state park	1.0
+-docstart- (902 beachcomber)	atlantic highlands	48	atlantic highlands, new jersey	1.0
+-docstart- (901 clinton)	bob dole	373	bob dole	1.0
+-docstart- (901 clinton)	bill clinton	68	bill clinton	1.0
+-docstart- (900 baker)	itamar rabinovich	749	itamar rabinovich	1.0
+-docstart- (90 argentine)	jason webb	585	jason webb (basketball)	1.0
+-docstart- (9 port)	lattakia	146	latakia	1.0
+-docstart- (9 port)	lattakia	111	latakia	1.0
+-docstart- (899 press)	wall street journal	15	the wall street journal	1.0
+-docstart- (899 press)	the wall street journal	263	the wall street journal	1.0
+-docstart- (899 press)	national basketball association	69	nba on nbc	1.0
+-docstart- (899 press)	international business machines corp.	1034	ibm	1.0
+-docstart- (899 press)	bill clinton	874	bill clinton	1.0
+-docstart- (899 press)	baxter international inc	658	baxter international	1.0
+-docstart- (899 press)	america online inc	110	aol	1.0
+-docstart- (898 keane)	keane inc	80	keane (company)	1.0
+-docstart- (898 keane)	ing group	235	ing group	1.0
+-docstart- (897 u.s.)	s. korea	479	south korea	1.0
+-docstart- (897 u.s.)	s. korea	253	south korea	1.0
+-docstart- (895 jordanian)	kabariti	448	abdul karim al-kabariti	1.0
+-docstart- (895 jordanian)	kabariti	323	abdul karim al-kabariti	1.0
+-docstart- (895 jordanian)	kabariti	13	abdul karim al-kabariti	1.0
+-docstart- (894 new)	raymond mabus	497	ray mabus	1.0
+-docstart- (894 new)	bill clinton	317	bill clinton	1.0
+-docstart- (893 egypt)	islamic museum	543	islamic museum, jerusalem	1.0
+-docstart- (891 iran)	west azerbaijan	276	west azerbaijan province	1.0
+-docstart- (891 iran)	necmettin erbakan	1058	necmettin erbakan	1.0
+-docstart- (891 iran)	ali fallahiyan	1177	ali fallahian	1.0
+-docstart- (890 jordanian)	kabariti	777	abdul karim al-kabariti	1.0
+-docstart- (890 jordanian)	kabariti	269	abdul karim al-kabariti	1.0
+-docstart- (890 jordanian)	kabariti	13	abdul karim al-kabariti	1.0
+-docstart- (889 canada)	statistics canada	243	statistics canada	1.0
+-docstart- (888 slough)	slough estates	1413	segro	1.0
+-docstart- (888 slough)	slough estates	0	segro	1.0
+-docstart- (888 slough)	nigel mobbs	1530	nigel mobbs	1.0
+-docstart- (888 slough)	land securities	402	landsec	1.0
+-docstart- (888 slough)	british land	364	british land	1.0
+-docstart- (887 oasis)	patsy kensit	778	patsy kensit	1.0
+-docstart- (887 oasis)	noel gallagher	1065	noel gallagher	1.0
+-docstart- (887 oasis)	liam gallagher	61	liam gallagher	1.0
+-docstart- (886 first)	calif.	41	california	1.0
+-docstart- (885 housecall)	wall street	448	wall street	1.0
+-docstart- (885 housecall)	morgan stanley	254	morgan stanley	1.0
+-docstart- (885 housecall)	housecall	571	house call	1.0
+-docstart- (885 housecall)	housecall	331	house call	1.0
+-docstart- (885 housecall)	housecall	0	house call	1.0
+-docstart- (884 sierra)	sierra semiconductor	0	pmc-sierra	1.0
+-docstart- (884 sierra)	scott randall	1135	scott randall	1.0
+-docstart- (884 sierra)	pmc-sierra	865	pmc-sierra	1.0
+-docstart- (884 sierra)	pmc-sierra	2005	pmc-sierra	1.0
+-docstart- (884 sierra)	international business machines corp.	1551	ibm	1.0
+-docstart- (884 sierra)	hambrecht & quist	1903	hambrecht & quist	1.0
+-docstart- (884 sierra)	calif.	283	california	1.0
+-docstart- (882 socal)	steve conroy	365	steve conroy (referee)	1.0
+-docstart- (880 sri)	welikanda	323	welikanda	1.0
+-docstart- (880 sri)	tamil tiger	67	liberation tigers of tamil eelam	1.0
+-docstart- (880 sri)	liberation tigers of tamil eelam	224	liberation tigers of tamil eelam	1.0
+-docstart- (880 sri)	ltte	259	liberation tigers of tamil eelam	1.0
+-docstart- (880 sri)	ltte	1051	liberation tigers of tamil eelam	1.0
+-docstart- (88 grozny)	alexander lebed	423	alexander lebed	1.0
+-docstart- (879 elephant)	madhumalla	286	madhumalla	1.0
+-docstart- (877 salang)	halo trust	766	halo trust	1.0
+-docstart- (877 salang)	abdul rashid dostum	554	abdul rashid dostum	1.0
+-docstart- (876 press)	sui southern gas	785	sui southern gas company	1.0
+-docstart- (876 press)	sindh high court	2301	sindh high court	1.0
+-docstart- (876 press)	nawaz sharif	576	nawaz sharif	1.0
+-docstart- (876 press)	muslim commercial bank	2064	mcb bank limited	1.0
+-docstart- (876 press)	karachi stock exchange	1747	karachi stock exchange	1.0
+-docstart- (876 press)	gadoon	381	jadun	1.0
+-docstart- (876 press)	asif ali zardari	1607	asif ali zardari	1.0
+-docstart- (875 french)	indre	476	indre	1.0
+-docstart- (875 french)	cherbourg	321	cherbourg-octeville	1.0
+-docstart- (875 french)	cherbourg	152	cherbourg-octeville	1.0
+-docstart- (872 key)	dick morris	55	dick morris	1.0
+-docstart- (872 key)	bill clinton	132	bill clinton	1.0
+-docstart- (870 florida)	pembroke pines	741	pembroke pines, florida	1.0
+-docstart- (870 florida)	pembroke pines	222	pembroke pines, florida	1.0
+-docstart- (870 florida)	miami herald	455	miami herald	1.0
+-docstart- (87 press)	trepca	729	trepča mines	1.0
+-docstart- (87 press)	oslobodjenje	195	oslobođenje	1.0
+-docstart- (87 press)	komarica	672	franjo komarica	1.0
+-docstart- (87 press)	dnevni avaz	784	dnevni avaz	1.0
+-docstart- (869 u.s.)	sullivan's island	306	sullivan's island, south carolina	1.0
+-docstart- (869 u.s.)	s.c.	59	south carolina	1.0
+-docstart- (868 clinton)	star magazine	720	star (magazine)	1.0
+-docstart- (868 clinton)	new york post	775	new york post	1.0
+-docstart- (868 clinton)	dick morris	115	dick morris	1.0
+-docstart- (868 clinton)	bill clinton	75	bill clinton	1.0
+-docstart- (867 o.j.)	nicole brown simpson	392	nicole brown simpson	1.0
+-docstart- (867 o.j.)	jackie frank	48	jacqueline frank deluca	1.0
+-docstart- (866 police)	richard andrews	267	richard bullock andrews	1.0
+-docstart- (866 police)	n.j.	66	new jersey	1.0
+-docstart- (865 help-wanted)	ken goldstein	517	ken goldstein	1.0
+-docstart- (865 help-wanted)	conference board	490	the conference board	1.0
+-docstart- (865 help-wanted)	conference board	107	the conference board	1.0
+-docstart- (863 export)	onic	3197	national indigenous organization of colombia	1.0
+-docstart- (862 researchers)	the university of pennsylvania	642	university of pennsylvania	1.0
+-docstart- (861 montana)	piper jaffray	35	piper jaffray	1.0
+-docstart- (860 scandal)	star magazine	492	star (magazine)	1.0
+-docstart- (860 scandal)	michael conlon	47	michael conlan (boxer)	1.0
+-docstart- (860 scandal)	feinstein	1542	dianne feinstein	1.0
+-docstart- (860 scandal)	dick morris	726	dick morris	1.0
+-docstart- (860 scandal)	dick morris	420	dick morris	1.0
+-docstart- (860 scandal)	dianne feinstein	1354	dianne feinstein	1.0
+-docstart- (860 scandal)	bill clinton	91	bill clinton	1.0
+-docstart- (86 yeltsin)	tatyana dmitrieva	203	tatyana dmitrieva	1.0
+-docstart- (86 yeltsin)	boris yeltsin	97	boris yeltsin	1.0
+-docstart- (859 moroccan)	skhirat	398	skhirat	1.0
+-docstart- (859 moroccan)	skhirat	179	skhirat	1.0
+-docstart- (859 moroccan)	shimon peres	253	shimon peres	1.0
+-docstart- (859 moroccan)	shimon peres	129	shimon peres	1.0
+-docstart- (859 moroccan)	skhirat	44	skhirat	1.0
+-docstart- (859 moroccan)	king hassan	72	hassan ii of morocco	1.0
+-docstart- (859 moroccan)	king hassan	363	hassan ii of morocco	1.0
+-docstart- (858 hamas)	ramle	298	ramla	1.0
+-docstart- (858 hamas)	ahmed yassin	148	ahmed yassin	1.0
+-docstart- (857 thai)	new aspiration party	1199	new aspiration party	1.0
+-docstart- (857 thai)	chavalit yongchaiyudh	1147	chavalit yongchaiyudh	1.0
+-docstart- (857 thai)	chatichai choonhavan	1009	chatichai choonhavan	1.0
+-docstart- (857 thai)	banharn silpa-archa	149	banharn silpa-archa	1.0
+-docstart- (857 thai)	banharn	918	banharn silpa-archa	1.0
+-docstart- (857 thai)	banharn	529	banharn silpa-archa	1.0
+-docstart- (857 thai)	banharn	368	banharn silpa-archa	1.0
+-docstart- (857 thai)	banharn	34	banharn silpa-archa	1.0
+-docstart- (857 thai)	banharn	1280	banharn silpa-archa	1.0
+-docstart- (855 seven)	lucas moreira neves	926	lucas moreira neves	1.0
+-docstart- (855 seven)	fernando henrique cardoso	581	fernando henrique cardoso	1.0
+-docstart- (854 brazil)	tv globo	254	rede globo	1.0
+-docstart- (854 brazil)	supreme federal tribunal	272	supreme federal court	1.0
+-docstart- (854 brazil)	red brigade	189	red brigades	1.0
+-docstart- (853 tension)	popular revolutionary army	1538	popular revolutionary army	1.0
+-docstart- (85 lebed)	novye atagi	50	novye atagi	1.0
+-docstart- (85 lebed)	alexander lebed	104	alexander lebed	1.0
+-docstart- (849 venezuela)	ocei	343	http://es.wikipedia.org/wiki/instituto nacional de estadística de venezuela	1.0
+-docstart- (849 venezuela)	ocei	281	http://es.wikipedia.org/wiki/instituto nacional de estadística de venezuela	1.0
+-docstart- (845 viral)	victor babes	391	victor babeș	1.0
+-docstart- (844 serbian)	podujevo	699	podujevo	1.0
+-docstart- (844 serbian)	donje ljupce	663	lupçi i poshtëm	1.0
+-docstart- (844 serbian)	celopek	804	čelopek, zvornik	1.0
+-docstart- (842 kornblum)	slobodan milosevic	125	slobodan milošević	1.0
+-docstart- (842 kornblum)	peter greste	45	peter greste	1.0
+-docstart- (842 kornblum)	organisation for security and cooperation in europe	1671	organization for security and co-operation in europe	1.0
+-docstart- (842 kornblum)	john kornblum	89	john c. kornblum	1.0
+-docstart- (842 kornblum)	biljana plavsic	2182	biljana plavšić	1.0
+-docstart- (84 russians)	novye atagi	40	novye atagi	1.0
+-docstart- (84 russians)	itar-tass	410	tass	1.0
+-docstart- (84 russians)	boris yeltsin	89	boris yeltsin	1.0
+-docstart- (84 russians)	aslan maskhadov	171	aslan maskhadov	1.0
+-docstart- (84 russians)	alexander lebed	122	alexander lebed	1.0
+-docstart- (839 press)	reuters	120	reuters	1.0
+-docstart- (839 press)	national security council	1091	united states national security council	1.0
+-docstart- (839 press)	le populaire	807	le populaire (french newspaper)	1.0
+-docstart- (839 press)	le jour	759	le jour	1.0
+-docstart- (839 press)	la voie	349	notre voie	1.0
+-docstart- (839 press)	ivory coast	15	ivory coast	1.0
+-docstart- (839 press)	henri konan bedie	486	henri konan bédié	1.0
+-docstart- (839 press)	fraternite matin	198	fraternité matin	1.0
+-docstart- (838 chad)	republican front	662	republican front (burkina faso)	1.0
+-docstart- (838 chad)	patriotic salvation movement	694	patriotic salvation movement	1.0
+-docstart- (838 chad)	n'djamena	49	n'djamena	1.0
+-docstart- (838 chad)	idriss deby	87	idriss déby	1.0
+-docstart- (838 chad)	deby	687	idriss déby	1.0
+-docstart- (838 chad)	deby	423	idriss déby	1.0
+-docstart- (836 dutch)	s. africa	29	south africa	1.0
+-docstart- (835 nigeria)	tom ikimi	248	tom ikimi	1.0
+-docstart- (835 nigeria)	ken saro-wiwa	901	ken saro-wiwa	1.0
+-docstart- (835 nigeria)	ikimi	517	tom ikimi	1.0
+-docstart- (835 nigeria)	ikimi	276	tom ikimi	1.0
+-docstart- (834 zaire)	south kivu	1024	south kivu	1.0
+-docstart- (834 zaire)	national election commission	97	national elections commission (liberia)	1.0
+-docstart- (834 zaire)	mobutu sese seko	1220	mobutu sese seko	1.0
+-docstart- (834 zaire)	maniema	1036	maniema	1.0
+-docstart- (833 london)	london international financial futures exchange	59	london international financial futures and options exchange	1.0
+-docstart- (833 london)	euroswiss	460	swiss global air lines	1.0
+-docstart- (832 rugby)	will carling	98	will carling	1.0
+-docstart- (832 rugby)	will carling	595	will carling	1.0
+-docstart- (832 rugby)	julia carling	402	julia carling	1.0
+-docstart- (831 nd)	miltiadis evert	250	miltiadis evert	1.0
+-docstart- (83 czech)	czech national bank	164	czech national bank	1.0
+-docstart- (828 soccer)	richard witschge	246	richard witschge	1.0
+-docstart- (828 soccer)	philip cocu	297	phillip cocu	1.0
+-docstart- (828 soccer)	john veldman	215	john veldman	1.0
+-docstart- (828 soccer)	guus hiddink	334	guus hiddink	1.0
+-docstart- (828 soccer)	giovanni van bronckhorst	378	giovanni van bronckhorst	1.0
+-docstart- (827 soccer)	albert emon	149	albert emon	1.0
+-docstart- (826 soccer)	sampdoria	333	u.c. sampdoria	1.0
+-docstart- (826 soccer)	jonathan bachini	446	jonathan bachini	1.0
+-docstart- (825 athletics)	linford christie	163	linford christie	1.0
+-docstart- (825 athletics)	lindy remigino	1795	lindy remigino	1.0
+-docstart- (825 athletics)	harrison dillard	1768	harrison dillard	1.0
+-docstart- (825 athletics)	frankie fredericks	440	frankie fredericks	1.0
+-docstart- (825 athletics)	donovan bailey	128	donovan bailey	1.0
+-docstart- (825 athletics)	carl lewis	2210	carl lewis	1.0
+-docstart- (825 athletics)	allan wells	1890	allan wells	1.0
+-docstart- (824 soccer)	vitesse arnhem	615	sbv vitesse	1.0
+-docstart- (824 soccer)	vitesse arnhem	188	sbv vitesse	1.0
+-docstart- (824 soccer)	twente enschede	698	fc twente	1.0
+-docstart- (824 soccer)	twente enschede	234	fc twente	1.0
+-docstart- (824 soccer)	roda jc kerkrade	845	roda jc kerkrade	1.0
+-docstart- (824 soccer)	roda jc kerkrade	264	roda jc kerkrade	1.0
+-docstart- (824 soccer)	rkc waalwijk	728	rkc waalwijk	1.0
+-docstart- (824 soccer)	rkc waalwijk	339	rkc waalwijk	1.0
+-docstart- (824 soccer)	nec nijmegen	953	n.e.c. (football club)	1.0
+-docstart- (824 soccer)	nec nijmegen	151	n.e.c. (football club)	1.0
+-docstart- (824 soccer)	nac breda	791	nac breda	1.0
+-docstart- (824 soccer)	nac breda	139	nac breda	1.0
+-docstart- (824 soccer)	fortuna sittard	815	fortuna sittard	1.0
+-docstart- (824 soccer)	fortuna sittard	431	fortuna sittard	1.0
+-docstart- (824 soccer)	feyenoord rotterdam	581	feyenoord	1.0
+-docstart- (823 soccer)	nec nijmegen	166	n.e.c. (football club)	1.0
+-docstart- (823 soccer)	nac breda	126	nac breda	1.0
+-docstart- (823 soccer)	abdellaoui	140	ayoub abdellaoui	1.0
+-docstart- (823 soccer)	amsterdam	39	amsterdam	1.0
+-docstart- (822 baseball)	terry pendleton	718	terry pendleton	1.0
+-docstart- (822 baseball)	luis polonia	754	luis polonia	1.0
+-docstart- (822 baseball)	denny neagle	189	denny neagle	1.0
+-docstart- (822 baseball)	andruw jones	812	andruw jones	1.0
+-docstart- (821 tennis)	tauziat	609	nathalie tauziat	1.0
+-docstart- (821 tennis)	nathalie tauziat	433	nathalie tauziat	1.0
+-docstart- (821 tennis)	monica seles	1483	monica seles	1.0
+-docstart- (821 tennis)	conchita martinez	79	conchita martínez	1.0
+-docstart- (819 baseball)	terry mulholland	118	terry mulholland	1.0
+-docstart- (819 baseball)	rick huisman	1537	rick huisman	1.0
+-docstart- (819 baseball)	ray durham	1062	ray durham	1.0
+-docstart- (819 baseball)	pat hentgen	1645	pat hentgen	1.0
+-docstart- (819 baseball)	ozzie guillen	1077	ozzie guillén	1.0
+-docstart- (819 baseball)	orel hershiser	2083	orel hershiser	1.0
+-docstart- (819 baseball)	kingdome	465	kingdome	1.0
+-docstart- (819 baseball)	jose offerman	1366	josé offerman	1.0
+-docstart- (819 baseball)	johnny damon	1428	johnny damon	1.0
+-docstart- (819 baseball)	john marzano	560	john marzano	1.0
+-docstart- (819 baseball)	jay buhner	67	jay buhner	1.0
+-docstart- (819 baseball)	hershiser	2285	orel hershiser	1.0
+-docstart- (819 baseball)	don wengert	641	don wengert	1.0
+-docstart- (819 baseball)	dave nilsson	1305	dave nilsson	1.0
+-docstart- (819 baseball)	albert belle	2135	albert belle	1.0
+-docstart- (817 tennis)	tina krizan	325	tina križan	1.0
+-docstart- (817 tennis)	thomas muster	1420	thomas muster	1.0
+-docstart- (817 tennis)	thomas enqvist	583	thomas enqvist	1.0
+-docstart- (817 tennis)	tami whitlinger jones	1860	tami whitlinger	1.0
+-docstart- (817 tennis)	steffi graf	848	steffi graf	1.0
+-docstart- (817 tennis)	sergi bruguera	654	sergi bruguera	1.0
+-docstart- (817 tennis)	sandra dopfer	494	sandra dopfer	1.0
+-docstart- (817 tennis)	rita grande	298	rita grande	1.0
+-docstart- (817 tennis)	petra langrova	1123	petra langrová	1.0
+-docstart- (817 tennis)	pablo campana	1485	pablo campana	1.0
+-docstart- (817 tennis)	nicole arendt	2343	nicole arendt	1.0
+-docstart- (817 tennis)	nathalie dechy	1241	nathalie dechy	1.0
+-docstart- (817 tennis)	natasha zvereva	978	natasha zvereva	1.0
+-docstart- (817 tennis)	natalia baudone	264	nathalie baudone	1.0
+-docstart- (817 tennis)	naoko sawamatsu	1162	naoko sawamatsu	1.0
+-docstart- (817 tennis)	naoko kijimuta	913	naoko kijimuta	1.0
+-docstart- (817 tennis)	nanne dahlman	525	nanne dahlman	1.0
+-docstart- (817 tennis)	miriam oremans	1821	miriam oremans	1.0
+-docstart- (817 tennis)	martina hingis	1785	martina hingis	1.0
+-docstart- (817 tennis)	magnus gustafsson	1696	magnus gustafsson	1.0
+-docstart- (817 tennis)	leander paes	2059	leander paes	1.0
+-docstart- (817 tennis)	kenneth carlsen	1616	kenneth carlsen	1.0
+-docstart- (817 tennis)	karina habsudova	1206	karina habšudová	1.0
+-docstart- (817 tennis)	karin kschwendt	877	karin kschwendt	1.0
+-docstart- (817 tennis)	judith wiesner	1933	judith wiesner	1.0
+-docstart- (817 tennis)	jim grabb	2128	jim grabb	1.0
+-docstart- (817 tennis)	jason stoltenberg	1579	jason stoltenberg	1.0
+-docstart- (817 tennis)	jared palmer	2202	jared palmer	1.0
+-docstart- (817 tennis)	jana novotna	1309	jana novotná	1.0
+-docstart- (817 tennis)	jan siemerink	2481	jan siemerink	1.0
+-docstart- (817 tennis)	jakob hlasek	722	jakob hlasek	1.0
+-docstart- (817 tennis)	hernan gumy	2171	hernán gumy	1.0
+-docstart- (817 tennis)	guillaume raoux	614	guillaume raoux	1.0
+-docstart- (817 tennis)	florencia labat	1346	florencia labat	1.0
+-docstart- (817 tennis)	els callens	358	els callens	1.0
+-docstart- (817 tennis)	elena wagner	1082	elena pampoulova	1.0
+-docstart- (817 tennis)	elena likhovtseva	429	elena likhovtseva	1.0
+-docstart- (817 tennis)	dirk dier	1451	dirk dier	1.0
+-docstart- (817 tennis)	debbie graham	1965	debbie graham	1.0
+-docstart- (817 tennis)	david wheaton	2402	david wheaton	1.0
+-docstart- (817 tennis)	barbara paulus	1050	barbara paulus	1.0
+-docstart- (817 tennis)	arnaud boetsch	1665	arnaud boetsch	1.0
+-docstart- (817 tennis)	arantxa sanchez vicario	2304	arantxa sánchez vicario	1.0
+-docstart- (817 tennis)	annabel ellwood	387	annabel ellwood	1.0
+-docstart- (817 tennis)	andre agassi	2032	andre agassi	1.0
+-docstart- (817 tennis)	amy frazier	1896	amy frazier	1.0
+-docstart- (817 tennis)	alexandra fusai	943	alexandra fusai	1.0
+-docstart- (817 tennis)	alberto berasategui	756	alberto berasategui	1.0
+-docstart- (817 tennis)	ai sugiyama	1011	ai sugiyama	1.0
+-docstart- (816 baseball)	ssangbangwool	461	ssangbangwool raiders	1.0
+-docstart- (816 baseball)	ssangbangwool	260	ssangbangwool raiders	1.0
+-docstart- (816 baseball)	ssangbangwool	189	ssangbangwool raiders	1.0
+-docstart- (816 baseball)	ssangbangwool	153	ssangbangwool raiders	1.0
+-docstart- (816 baseball)	haitai	440	haitai	1.0
+-docstart- (816 baseball)	haitai	233	haitai	1.0
+-docstart- (815 soccer)	puchon	355	bucheon	1.0
+-docstart- (815 soccer)	chonnam	448	south jeolla province	1.0
+-docstart- (815 soccer)	chonbuk	486	north jeolla province	1.0
+-docstart- (814 squash)	zubair jahan khan	750	zubair jahan khan	1.0
+-docstart- (814 squash)	simon frenz	193	http://de.wikipedia.org/wiki/simon frenz	1.0
+-docstart- (814 squash)	rodney eyles	718	rodney eyles	1.0
+-docstart- (814 squash)	peter nicol	487	peter nicol	1.0
+-docstart- (814 squash)	mir zaman gul	350	http://de.wikipedia.org/wiki/mir zaman gul	1.0
+-docstart- (814 squash)	joseph kneipp	269	joseph kneipp	1.0
+-docstart- (814 squash)	jonathon power	517	jonathon power	1.0
+-docstart- (814 squash)	jansher khan	162	jansher khan	1.0
+-docstart- (814 squash)	dan jenson	395	dan jenson	1.0
+-docstart- (814 squash)	brett martin	429	brett martin	1.0
+-docstart- (814 squash)	amr shabana	593	amr shabana	1.0
+-docstart- (812 soccer)	zimbabwe football association	224	zimbabwe football association	1.0
+-docstart- (812 soccer)	zifa	281	zimbabwe football association	1.0
+-docstart- (812 soccer)	zifa	256	zimbabwe football association	1.0
+-docstart- (812 soccer)	john fashanu	865	john fashanu	1.0
+-docstart- (812 soccer)	hans segers	836	hans segers	1.0
+-docstart- (812 soccer)	bruce grobbelaar	95	bruce grobbelaar	1.0
+-docstart- (811 athletics)	linford christie	57	linford christie	1.0
+-docstart- (811 athletics)	frankie fredericks	410	frankie fredericks	1.0
+-docstart- (811 athletics)	donovan bailey	327	donovan bailey	1.0
+-docstart- (810 rugby)	jim telfer	85	jim telfer	1.0
+-docstart- (810 rugby)	ian mcgeechan	305	ian mcgeechan	1.0
+-docstart- (81 fifty)	interfax	931	interfax	1.0
+-docstart- (81 fifty)	interfax	724	interfax	1.0
+-docstart- (81 fifty)	interfax	469	interfax	1.0
+-docstart- (81 fifty)	interfax	292	interfax	1.0
+-docstart- (81 fifty)	interfax	265	interfax	1.0
+-docstart- (81 fifty)	aslan maskhadov	582	aslan maskhadov	1.0
+-docstart- (81 fifty)	alexander lebed	541	alexander lebed	1.0
+-docstart- (809 cricket)	w. weston	572	lil' flip	1.0
+-docstart- (808 cricket)	wasim akram	486	wasim akram	1.0
+-docstart- (808 cricket)	waqar younis	537	waqar younis	1.0
+-docstart- (808 cricket)	saqlain mushtaq	566	saqlain mushtaq	1.0
+-docstart- (808 cricket)	salim malik	473	saleem malik	1.0
+-docstart- (808 cricket)	ronnie irani	336	ronnie irani	1.0
+-docstart- (808 cricket)	mike atherton	236	michael atherton	1.0
+-docstart- (808 cricket)	matthew maynard	305	matthew maynard	1.0
+-docstart- (808 cricket)	inzamam-ul-haq	457	inzamam-ul-haq	1.0
+-docstart- (808 cricket)	graham thorpe	290	graham thorpe	1.0
+-docstart- (808 cricket)	graham lloyd	322	graham lloyd	1.0
+-docstart- (808 cricket)	dean headley	378	dean headley	1.0
+-docstart- (808 cricket)	darren gough	364	darren gough	1.0
+-docstart- (808 cricket)	ata-ur-rehman	551	ata-ur-rehman (cricketer)	1.0
+-docstart- (808 cricket)	alan mullally	392	alan mullally	1.0
+-docstart- (808 cricket)	aamir sohail	418	aamer sohail	1.0
+-docstart- (807 lombardi)	sven teutenberg	940	sven teutenberg	1.0
+-docstart- (807 lombardi)	servais knaven	575	servais knaven	1.0
+-docstart- (807 lombardi)	rolf sorensen	303	rolf sørensen	1.0
+-docstart- (807 lombardi)	palmans	515	http://de.wikipedia.org/wiki/palmans-cras	1.0
+-docstart- (807 lombardi)	palmans	1056	http://de.wikipedia.org/wiki/palmans-cras	1.0
+-docstart- (807 lombardi)	olaf ludwig	613	olaf ludwig	1.0
+-docstart- (807 lombardi)	max van heeswijk	892	max van heeswijk	1.0
+-docstart- (807 lombardi)	marty jemison	537	marty jemison	1.0
+-docstart- (807 lombardi)	marco lietti	434	marco lietti	1.0
+-docstart- (807 lombardi)	maarten den bakker	378	maarten den bakker	1.0
+-docstart- (807 lombardi)	mg-technogym	457	mg maglificio (cycling team)	1.0
+-docstart- (807 lombardi)	lietti	841	marco lietti	1.0
+-docstart- (807 lombardi)	johan capiot	986	johan capiot	1.0
+-docstart- (807 lombardi)	jeroen blijlevens	663	jeroen blijlevens	1.0
+-docstart- (807 lombardi)	jans koerts	1028	jans koerts	1.0
+-docstart- (807 lombardi)	hans de clerq	489	hans de clercq	1.0
+-docstart- (806 cricket)	wasim akram	834	wasim akram	1.0
+-docstart- (806 cricket)	wasim akram	765	wasim akram	1.0
+-docstart- (806 cricket)	wasim akram	703	wasim akram	1.0
+-docstart- (806 cricket)	wasim akram	297	wasim akram	1.0
+-docstart- (806 cricket)	wasim akram	1071	wasim akram	1.0
+-docstart- (806 cricket)	waqar younis	735	waqar younis	1.0
+-docstart- (806 cricket)	waqar younis	525	waqar younis	1.0
+-docstart- (806 cricket)	waqar younis	1095	waqar younis	1.0
+-docstart- (806 cricket)	saqlain mushtaq	554	saqlain mushtaq	1.0
+-docstart- (806 cricket)	saqlain mushtaq	1118	saqlain mushtaq	1.0
+-docstart- (806 cricket)	salim malik	366	saleem malik	1.0
+-docstart- (806 cricket)	inzamam-ul-haq	319	inzamam-ul-haq	1.0
+-docstart- (806 cricket)	g. lloyd	849	g. e. r. lloyd	1.0
+-docstart- (806 cricket)	ata-ur-rehman	539	ata-ur-rehman (cricketer)	1.0
+-docstart- (806 cricket)	ata-ur-rehman	1145	ata-ur-rehman (cricketer)	1.0
+-docstart- (806 cricket)	aamir sohail	805	aamer sohail	1.0
+-docstart- (806 cricket)	aamir sohail	240	aamer sohail	1.0
+-docstart- (806 cricket)	aamir sohail	1194	aamer sohail	1.0
+-docstart- (805 cricket)	wasim akram	497	wasim akram	1.0
+-docstart- (805 cricket)	salim malik	1671	saleem malik	1.0
+-docstart- (805 cricket)	ronnie irani	567	ronnie irani	1.0
+-docstart- (805 cricket)	inzamam-ul-haq	1639	inzamam-ul-haq	1.0
+-docstart- (805 cricket)	graham lloyd	691	graham lloyd	1.0
+-docstart- (805 cricket)	dean headley	643	dean headley	1.0
+-docstart- (805 cricket)	darren gough	600	darren gough	1.0
+-docstart- (805 cricket)	aamir sohail	480	aamer sohail	1.0
+-docstart- (804 cycling)	tanya dubnicoff	1150	tanya dubnicoff	1.0
+-docstart- (804 cycling)	soren lausberg	662	sören lausberg	1.0
+-docstart- (804 cycling)	oksana grichina	1098	oksana grishina (cyclist)	1.0
+-docstart- (804 cycling)	michelle ferris	1182	michelle ferris	1.0
+-docstart- (804 cycling)	magali faure	912	magali faure-humbert	1.0
+-docstart- (804 cycling)	laurent gane	698	laurent gané	1.0
+-docstart- (804 cycling)	kathrin freitag	941	kathrin freitag	1.0
+-docstart- (804 cycling)	herve thuet	730	http://de.wikipedia.org/wiki/hervé thuet	1.0
+-docstart- (804 cycling)	gary neiwand	589	gary neiwand	1.0
+-docstart- (804 cycling)	francis moreau	303	francis moreau	1.0
+-docstart- (804 cycling)	florian rousseau	712	florian rousseau	1.0
+-docstart- (804 cycling)	felicia ballanger	1064	félicia ballanger	1.0
+-docstart- (804 cycling)	darryn hill	563	darryn hill	1.0
+-docstart- (804 cycling)	chris boardman	403	chris boardman	1.0
+-docstart- (804 cycling)	chris boardman	186	chris boardman	1.0
+-docstart- (804 cycling)	annett neumann	1237	annett neumann	1.0
+-docstart- (804 cycling)	andrea collinelli	461	andrea collinelli	1.0
+-docstart- (804 cycling)	andrea collinelli	261	andrea collinelli	1.0
+-docstart- (804 cycling)	alexei markov	227	alexei markov	1.0
+-docstart- (802 cycling)	wilfried peeters	566	wilfried peeters	1.0
+-docstart- (802 cycling)	vyacheslav ekimov	383	viatcheslav ekimov	1.0
+-docstart- (802 cycling)	rolf sorensen	270	rolf sørensen	1.0
+-docstart- (802 cycling)	olaf ludwig	1110	olaf ludwig	1.0
+-docstart- (802 cycling)	marco lietti	872	marco lietti	1.0
+-docstart- (802 cycling)	maarten den bakker	993	maarten den bakker	1.0
+-docstart- (802 cycling)	mg-technogym	895	mg maglificio (cycling team)	1.0
+-docstart- (802 cycling)	erik dekker	442	erik dekker	1.0
+-docstart- (802 cycling)	erik breukink	521	erik breukink	1.0
+-docstart- (802 cycling)	bart voskamp	607	bart voskamp	1.0
+-docstart- (801 golf)	robert allenby	181	robert allenby	1.0
+-docstart- (801 golf)	retief goosen	559	retief goosen	1.0
+-docstart- (801 golf)	philip walton	526	philip walton	1.0
+-docstart- (801 golf)	peter hedblom	628	peter hedblom	1.0
+-docstart- (801 golf)	pedro linhart	660	pedro linhart	1.0
+-docstart- (801 golf)	paul lawrie	1037	paul lawrie	1.0
+-docstart- (801 golf)	paul eales	943	paul eales	1.0
+-docstart- (801 golf)	paul affleck	1134	paul affleck	1.0
+-docstart- (801 golf)	ove sellberg	597	ove sellberg	1.0
+-docstart- (801 golf)	mike clayton	691	michael clayton (golfer)	1.0
+-docstart- (801 golf)	miguel angel jimenez	873	miguel ángel jiménez	1.0
+-docstart- (801 golf)	klas eriksson	911	klas eriksson	1.0
+-docstart- (801 golf)	jose coceres	1056	josé cóceres	1.0
+-docstart- (801 golf)	ian woosnam	854	ian woosnam	1.0
+-docstart- (801 golf)	iain pyman	800	iain pyman	1.0
+-docstart- (801 golf)	francisco cea	236	francisco cea bermúdez	1.0
+-docstart- (801 golf)	emanuele canonica	725	emanuele canonica	1.0
+-docstart- (801 golf)	david gilford	344	david gilford	1.0
+-docstart- (801 golf)	daniel chopra	309	daniel chopra	1.0
+-docstart- (801 golf)	costantino rocca	404	costantino rocca	1.0
+-docstart- (801 golf)	colin montgomerie	438	colin montgomerie	1.0
+-docstart- (801 golf)	andrew coltart	1015	andrew coltart	1.0
+-docstart- (80 indicators)	nbh	884	constitution protection office	1.0
+-docstart- (80 indicators)	nbh	345	constitution protection office	1.0
+-docstart- (80 indicators)	nbh	1041	constitution protection office	1.0
+-docstart- (80 indicators)	japan credit rating agency	1009	japan credit rating agency	1.0
+-docstart- (80 indicators)	ibca	919	international braille chess association	1.0
+-docstart- (80 indicators)	duff & phelps	904	duff & phelps	1.0
+-docstart- (799 eu)	eu commission	0	european commission	1.0
+-docstart- (797 iraq)	yasushi akashi	2552	yasushi akashi	1.0
+-docstart- (797 iraq)	boutros boutros-ghali	1214	boutros boutros-ghali	1.0
+-docstart- (795 nato)	north atlantic treaty organisation	86	nato	1.0
+-docstart- (795 nato)	george joulwan	535	george joulwan	1.0
+-docstart- (794 iran)	abolhassan banisadr	124	abolhassan banisadr	1.0
+-docstart- (793 press)	diario 16	323	diario 16	1.0
+-docstart- (793 press)	caja de madrid	602	caja madrid	1.0
+-docstart- (793 press)	cinco dias	448	cinco días	1.0
+-docstart- (793 press)	aleix vidal-quadras	248	alejo vidal-quadras roca	1.0
+-docstart- (792 palestinian)	yasser arafat	959	yasser arafat	1.0
+-docstart- (792 palestinian)	palestinian authority	789	palestinian national authority	1.0
+-docstart- (792 palestinian)	palestinian authority	0	palestinian national authority	1.0
+-docstart- (792 palestinian)	gaza	724	gaza strip	1.0
+-docstart- (792 palestinian)	gaza	221	gaza strip	1.0
+-docstart- (792 palestinian)	gaza	45	gaza strip	1.0
+-docstart- (791 press)	wen wei po	327	wen wei po	1.0
+-docstart- (791 press)	south china morning post	801	south china morning post	1.0
+-docstart- (791 press)	legal department	1219	legal department	1.0
+-docstart- (791 press)	hong kong economic times	1185	hong kong economic times	1.0
+-docstart- (79 rottweiler)	vanderbijlpark	292	vanderbijlpark	1.0
+-docstart- (789 hwa)	hong kong	43	mtr	1.0
+-docstart- (788 shanghai)	writers association	138	writers association, andhra pradesh	1.0
+-docstart- (788 shanghai)	dai houying	192	dai houying	1.0
+-docstart- (788 shanghai)	anhui	440	anhui	1.0
+-docstart- (786 liu)	hong kong	39	hong kong dollar	1.0
+-docstart- (785 japan)	yukio hatoyama	1040	yukio hatoyama	1.0
+-docstart- (785 japan)	ryutaro hashimoto	617	ryutaro hashimoto	1.0
+-docstart- (785 japan)	new party sakigake	236	new party sakigake	1.0
+-docstart- (785 japan)	masayoshi takemura	265	masayoshi takemura	1.0
+-docstart- (784 china)	ryutaro hashimoto	1110	ryutaro hashimoto	1.0
+-docstart- (784 china)	china daily	371	china daily	1.0
+-docstart- (783 mof)	wataru kubo	94	wataru kubo	1.0
+-docstart- (783 mof)	bank of japan	168	bank of japan	1.0
+-docstart- (782 two)	ieng mouly	579	ieng mouly	1.0
+-docstart- (782 two)	ieng mouly	408	ieng mouly	1.0
+-docstart- (781 khmer)	ta mok	610	ta mok	1.0
+-docstart- (781 khmer)	son sen	618	son sen	1.0
+-docstart- (781 khmer)	pol pot	601	pol pot	1.0
+-docstart- (781 khmer)	pol pot	44	pol pot	1.0
+-docstart- (781 khmer)	pol pot	329	pol pot	1.0
+-docstart- (781 khmer)	pol pot	174	pol pot	1.0
+-docstart- (781 khmer)	pol pot	1281	pol pot	1.0
+-docstart- (781 khmer)	ieng sary	982	ieng sary	1.0
+-docstart- (781 khmer)	ieng sary	259	ieng sary	1.0
+-docstart- (781 khmer)	ieng sary	14	ieng sary	1.0
+-docstart- (781 khmer)	ieng sary	117	ieng sary	1.0
+-docstart- (780 shanghai)	sino-thai	98	thai chinese	1.0
+-docstart- (78 south)	robben island	307	robben island	1.0
+-docstart- (778 rtrs)	newcrest	341	newcrest mining	1.0
+-docstart- (778 rtrs)	newcrest	213	newcrest mining	1.0
+-docstart- (777 rtrs)	guinness peat group plc	96	coats group	1.0
+-docstart- (775 stagecoach)	swebus ab	516	nobina sverige	1.0
+-docstart- (775 stagecoach)	swebus ab	214	nobina sverige	1.0
+-docstart- (775 stagecoach)	swebus	405	swebus express	1.0
+-docstart- (775 stagecoach)	swebus	16	swebus express	1.0
+-docstart- (775 stagecoach)	stagecoach holdings plc	104	stagecoach group	1.0
+-docstart- (774 hoek)	amsterdam	344	amsterdam	1.0
+-docstart- (774 hoek)	amsterdam	43	amsterdam	1.0
+-docstart- (773 press)	pasok	264	pasok	1.0
+-docstart- (773 press)	miltiadis evert	1459	miltiadis evert	1.0
+-docstart- (773 press)	miltiadis evert	1099	miltiadis evert	1.0
+-docstart- (773 press)	constantine mitsotakis	1432	konstantinos mitsotakis	1.0
+-docstart- (773 press)	athens metro	799	athens metro	1.0
+-docstart- (772 spanish)	bunol	664	buñol	1.0
+-docstart- (772 spanish)	bunol	208	buñol	1.0
+-docstart- (772 spanish)	bunol	44	buñol	1.0
+-docstart- (771 highlights)	pao de acucar	602	sugarloaf mountain	1.0
+-docstart- (771 highlights)	joao vale de almeida	205	joão vale de almeida	1.0
+-docstart- (771 highlights)	eurostat	1003	eurostat	1.0
+-docstart- (771 highlights)	camat	677	christopher camat	1.0
+-docstart- (771 highlights)	auchan	619	auchan	1.0
+-docstart- (771 highlights)	anita gradin	912	anita gradin	1.0
+-docstart- (770 stephanie)	fili houteman	561	http://de.wikipedia.org/wiki/muriel houtteman	1.0
+-docstart- (770 stephanie)	daniel ducruet	122	daniel ducruet	1.0
+-docstart- (77 guinea)	organisation of the islamic conference	474	organisation of islamic cooperation	1.0
+-docstart- (77 guinea)	lansana conte	437	lansana conté	1.0
+-docstart- (77 guinea)	ahmed sekou toure	1062	ahmed sékou touré	1.0
+-docstart- (768 france)	juppe	9	alain juppé	1.0
+-docstart- (768 france)	juppe	266	alain juppé	1.0
+-docstart- (768 france)	dimitris reppas	231	dimitris reppas	1.0
+-docstart- (768 france)	costas simitis	303	costas simitis	1.0
+-docstart- (768 france)	alain juppe	84	alain juppé	1.0
+-docstart- (764 us)	ninth circuit	2669	united states court of appeals for the ninth circuit	1.0
+-docstart- (764 us)	gale norton	2221	gale norton	1.0
+-docstart- (764 us)	fourth circuit	1809	united states court of appeals for the fourth circuit	1.0
+-docstart- (761 lamm)	richard lamm	105	richard lamm	1.0
+-docstart- (76 nigerian)	ulimo-j	955	united liberation movement of liberia for democracy	1.0
+-docstart- (76 nigerian)	tubmanburg	765	tubmanburg	1.0
+-docstart- (76 nigerian)	john inienger	311	john mark inienger	1.0
+-docstart- (76 nigerian)	economic community of west african states	1318	economic community of west african states	1.0
+-docstart- (76 nigerian)	ecomog	36	economic community of west african states monitoring group	1.0
+-docstart- (76 nigerian)	ecomog	151	economic community of west african states monitoring group	1.0
+-docstart- (76 nigerian)	ecomog	1252	economic community of west african states monitoring group	1.0
+-docstart- (759 fsa)	financial security assurance	71	financial security assurance	1.0
+-docstart- (759 fsa)	avalon borough	389	avalon, new jersey	1.0
+-docstart- (759 fsa)	ark.	253	arkansas	1.0
+-docstart- (758 israel)	hosni mubarak	151	hosni mubarak	1.0
+-docstart- (758 israel)	benjamin netanyahu	285	benjamin netanyahu	1.0
+-docstart- (757 turkey)	kurdistan workers party	281	kurdistan workers' party	1.0
+-docstart- (756 italian)	tansu ciller	633	tansu çiller	1.0
+-docstart- (756 italian)	suleyman demirel	595	süleyman demirel	1.0
+-docstart- (756 italian)	romano prodi	81	romano prodi	1.0
+-docstart- (756 italian)	necmettin erbakan	511	necmettin erbakan	1.0
+-docstart- (755 turkey)	tansu ciller	84	tansu çiller	1.0
+-docstart- (755 turkey)	necmettin erbakan	600	necmettin erbakan	1.0
+-docstart- (755 turkey)	ciller	9	tansu çiller	1.0
+-docstart- (754 arafat)	yitzhak mordechai	3578	yitzhak mordechai	1.0
+-docstart- (754 arafat)	shimon peres	2341	shimon peres	1.0
+-docstart- (754 arafat)	plo	2981	palestine liberation organization	1.0
+-docstart- (754 arafat)	plo	2554	palestine liberation organization	1.0
+-docstart- (754 arafat)	netanyahu	998	benjamin netanyahu	1.0
+-docstart- (754 arafat)	netanyahu	3042	benjamin netanyahu	1.0
+-docstart- (754 arafat)	netanyahu	2197	benjamin netanyahu	1.0
+-docstart- (754 arafat)	netanyahu	1934	benjamin netanyahu	1.0
+-docstart- (754 arafat)	kiryat sefer	741	modi'in illit	1.0
+-docstart- (754 arafat)	dore gold	3057	dore gold	1.0
+-docstart- (754 arafat)	benjamin netanyahu	512	benjamin netanyahu	1.0
+-docstart- (753 aei)	bureau veritas	218	bureau veritas	1.0
+-docstart- (752 dow)	louis viannet	1804	general confederation of labour (france)	1.0
+-docstart- (752 dow)	cgt	1852	general confederation of labour (france)	1.0
+-docstart- (752 dow)	bank of japan	2364	bank of japan	1.0
+-docstart- (752 dow)	american airlines	924	american airlines	1.0
+-docstart- (751 miltiadis)	miltiadis evert	120	miltiadis evert	1.0
+-docstart- (751 miltiadis)	miltiadis evert	0	miltiadis evert	1.0
+-docstart- (751 miltiadis)	costas simitis	351	costas simitis	1.0
+-docstart- (751 miltiadis)	alexandroupolis	297	alexandroupoli	1.0
+-docstart- (751 miltiadis)	alexandroupolis	183	alexandroupoli	1.0
+-docstart- (751 miltiadis)	alexandroupolis	25	alexandroupoli	1.0
+-docstart- (750 vw)	volkswagen ag	85	volkswagen group	1.0
+-docstart- (748 india)	pesalai	2064	pesalai	1.0
+-docstart- (748 india)	palk strait	2015	palk strait	1.0
+-docstart- (748 india)	m. karunanidhi	771	m. karunanidhi	1.0
+-docstart- (748 india)	liberation tigers of tamil eelam	362	liberation tigers of tamil eelam	1.0
+-docstart- (748 india)	ltte	355	liberation tigers of tamil eelam	1.0
+-docstart- (748 india)	ltte	1856	liberation tigers of tamil eelam	1.0
+-docstart- (748 india)	chinnathambi	2198	chinnathambi	1.0
+-docstart- (747 belgium)	indusind bank	377	indusind bank	1.0
+-docstart- (746 india)	palkhivala	860	nanabhoy palkhivala	1.0
+-docstart- (746 india)	palkhivala	665	nanabhoy palkhivala	1.0
+-docstart- (746 india)	palkhivala	430	nanabhoy palkhivala	1.0
+-docstart- (746 india)	palkhivala	1453	nanabhoy palkhivala	1.0
+-docstart- (746 india)	nani palkhivala	246	nanabhoy palkhivala	1.0
+-docstart- (746 india)	associated cement companies	86	acc (company)	1.0
+-docstart- (745 anti-bhutto)	nawaz sharif	353	nawaz sharif	1.0
+-docstart- (744 swiss)	credit suisse	793	credit suisse	1.0
+-docstart- (743 french)	le canard enchaine	226	le canard enchaîné	1.0
+-docstart- (743 french)	finance ministry	266	ministry of finance (india)	1.0
+-docstart- (742 options)	vnu	280	verenigde nederlandse uitgeverijen	1.0
+-docstart- (742 options)	ing	259	ing group	1.0
+-docstart- (742 options)	amsterdam	302	amsterdam	1.0
+-docstart- (742 options)	amsterdam	40	amsterdam	1.0
+-docstart- (742 options)	ahold	175	ahold	1.0
+-docstart- (742 options)	abn amro	231	abn amro	1.0
+-docstart- (740 burundi)	u.n. security council	332	united nations security council	1.0
+-docstart- (740 burundi)	pierre buyoya	666	pierre buyoya	1.0
+-docstart- (740 burundi)	julius nyrere	506	julius nyerere	1.0
+-docstart- (740 burundi)	juan somavia	2146	juan somavía	1.0
+-docstart- (740 burundi)	buyoya	2492	pierre buyoya	1.0
+-docstart- (74 soccer)	puchon	336	bucheon	1.0
+-docstart- (74 soccer)	puchon	166	bucheon	1.0
+-docstart- (74 soccer)	chonnam	448	south jeolla province	1.0
+-docstart- (74 soccer)	chonnam	139	south jeolla province	1.0
+-docstart- (74 soccer)	chonbuk	486	north jeolla province	1.0
+-docstart- (739 amoco)	shabwa	980	shabwah governorate	1.0
+-docstart- (739 amoco)	shabwa	262	shabwah governorate	1.0
+-docstart- (739 amoco)	ministry of petroleum and minerals	817	ministry of energy, industry and mineral resources	1.0
+-docstart- (739 amoco)	amoco	783	amoco	1.0
+-docstart- (739 amoco)	amoco	688	amoco	1.0
+-docstart- (739 amoco)	amoco	495	amoco	1.0
+-docstart- (739 amoco)	amoco	347	amoco	1.0
+-docstart- (739 amoco)	amoco	204	amoco	1.0
+-docstart- (739 amoco)	amoco	0	amoco	1.0
+-docstart- (738 first)	first union	916	first union	1.0
+-docstart- (738 first)	first union	579	first union	1.0
+-docstart- (738 first)	first union	272	first union	1.0
+-docstart- (737 wheat--rains)	texas panhandle	1806	texas panhandle	1.0
+-docstart- (737 wheat--rains)	greg frost	48	gregory frost	1.0
+-docstart- (737 wheat--rains)	greg frost	2836	gregory frost	1.0
+-docstart- (735 balance-water)	kan.	34	kansas	1.0
+-docstart- (735 balance-water)	a.g. edwards & sons, inc.	521	a. g. edwards	1.0
+-docstart- (734 dole)	nancy reagan	793	nancy reagan	1.0
+-docstart- (734 dole)	kemp	1063	jack kemp	1.0
+-docstart- (734 dole)	jack kemp	943	jack kemp	1.0
+-docstart- (734 dole)	california	3255	california	1.0
+-docstart- (734 dole)	calif.	72	california	1.0
+-docstart- (733 iraq)	sudan airways	680	sudan airways	1.0
+-docstart- (732 kurd)	saddam hussein	704	saddam hussein	1.0
+-docstart- (732 kurd)	patriotic union of kurdistan	414	patriotic union of kurdistan	1.0
+-docstart- (731 iraqi)	robert pelletreau	594	robert pelletreau	1.0
+-docstart- (731 iraqi)	pelletreau	720	robert pelletreau	1.0
+-docstart- (731 iraqi)	patriotic union of kurdistan	268	patriotic union of kurdistan	1.0
+-docstart- (731 iraqi)	massoud barzani	659	masoud barzani	1.0
+-docstart- (731 iraqi)	jalal talabani	627	jalal talabani	1.0
+-docstart- (730 plo)	benjamin netanyahu	657	benjamin netanyahu	1.0
+-docstart- (730 plo)	ahmed korei	1169	ahmed qurei	1.0
+-docstart- (73 rtrs)	wayne ferreira	736	wayne ferreira	1.0
+-docstart- (73 rtrs)	todd martin	867	todd martin	1.0
+-docstart- (73 rtrs)	tillstrom	3012	mikael tillström	1.0
+-docstart- (73 rtrs)	tillstrom	2576	mikael tillström	1.0
+-docstart- (73 rtrs)	tillstrom	2384	mikael tillström	1.0
+-docstart- (73 rtrs)	stefan edberg	2448	stefan edberg	1.0
+-docstart- (73 rtrs)	sampras	3063	pete sampras	1.0
+-docstart- (73 rtrs)	rosset	3173	marc rosset	1.0
+-docstart- (73 rtrs)	philippoussis	3039	mark philippoussis	1.0
+-docstart- (73 rtrs)	philippoussis	30	mark philippoussis	1.0
+-docstart- (73 rtrs)	philippoussis	1134	mark philippoussis	1.0
+-docstart- (73 rtrs)	philippoussis	1030	mark philippoussis	1.0
+-docstart- (73 rtrs)	pete sampras	2674	pete sampras	1.0
+-docstart- (73 rtrs)	nestor	283	daniel nestor	1.0
+-docstart- (73 rtrs)	nestor	1467	daniel nestor	1.0
+-docstart- (73 rtrs)	mikael tillstrom	659	mikael tillström	1.0
+-docstart- (73 rtrs)	mark philippoussis	997	mark philippoussis	1.0
+-docstart- (73 rtrs)	marc rosset	911	marc rosset	1.0
+-docstart- (73 rtrs)	malivai washington	814	malivai washington	1.0
+-docstart- (73 rtrs)	ivanisevic	2604	goran ivanišević	1.0
+-docstart- (73 rtrs)	ivanisevic	2496	goran ivanišević	1.0
+-docstart- (73 rtrs)	ivanisevic	2277	goran ivanišević	1.0
+-docstart- (73 rtrs)	goran ivanisevic	590	goran ivanišević	1.0
+-docstart- (73 rtrs)	daniel vacek	1335	daniel vacek	1.0
+-docstart- (73 rtrs)	daniel nestor	159	daniel nestor	1.0
+-docstart- (728 rtrs)	rtrs	0	radio televizija republike srpske	1.0
+-docstart- (728 rtrs)	arthur yates	7	arthur yates	1.0
+-docstart- (727 barrier)	jose eduardo dutra	363	josé eduardo dutra	1.0
+-docstart- (726 quake)	ryutaro hashimoto	209	ryutaro hashimoto	1.0
+-docstart- (725 govt)	myles frechette	600	myles frechette	1.0
+-docstart- (725 govt)	ernesto samper	128	ernesto samper	1.0
+-docstart- (722 lebed)	yevgeny primakov	1906	yevgeny primakov	1.0
+-docstart- (722 lebed)	gazeta wyborcza	293	gazeta wyborcza	1.0
+-docstart- (722 lebed)	gazeta wyborcza	1065	gazeta wyborcza	1.0
+-docstart- (722 lebed)	dariusz rosati	209	dariusz rosati	1.0
+-docstart- (722 lebed)	boris yeltsin	981	boris yeltsin	1.0
+-docstart- (721 estonia)	toomas savi	626	toomas savi	1.0
+-docstart- (721 estonia)	lennart meri	336	lennart meri	1.0
+-docstart- (721 estonia)	arnold ruutel	368	arnold rüütel	1.0
+-docstart- (720 exiled)	republika srbska	2147	republika srpska	1.0
+-docstart- (720 exiled)	republika srbska	1338	republika srpska	1.0
+-docstart- (720 exiled)	organisation for security and cooperation in europe	797	organization for security and co-operation in europe	1.0
+-docstart- (720 exiled)	bosnia-hercegovina	2045	bosnia and herzegovina	1.0
+-docstart- (72 tennis)	yevgeny kafelnikov	2741	yevgeny kafelnikov	1.0
+-docstart- (72 tennis)	yayuk basuki	445	yayuk basuki	1.0
+-docstart- (72 tennis)	todd martin	2190	todd martin	1.0
+-docstart- (72 tennis)	thomas muster	1839	thomas muster	1.0
+-docstart- (72 tennis)	steffi graf	188	steffi graf	1.0
+-docstart- (72 tennis)	stefan edberg	2389	stefan edberg	1.0
+-docstart- (72 tennis)	seles	2803	monica seles	1.0
+-docstart- (72 tennis)	sanchez vicario	3177	http://de.wikipedia.org/wiki/sánchez vicario	1.0
+-docstart- (72 tennis)	sampras	802	pete sampras	1.0
+-docstart- (72 tennis)	sampras	740	pete sampras	1.0
+-docstart- (72 tennis)	sampras	619	pete sampras	1.0
+-docstart- (72 tennis)	sampras	33	pete sampras	1.0
+-docstart- (72 tennis)	sampras	299	pete sampras	1.0
+-docstart- (72 tennis)	sampras	2600	pete sampras	1.0
+-docstart- (72 tennis)	sampras	1480	pete sampras	1.0
+-docstart- (72 tennis)	sampras	1366	pete sampras	1.0
+-docstart- (72 tennis)	ruxandra dragomir	3470	ruxandra dragomir	1.0
+-docstart- (72 tennis)	richey reneberg	1961	richey reneberg	1.0
+-docstart- (72 tennis)	richard krajicek	2130	richard krajicek	1.0
+-docstart- (72 tennis)	philippoussis	9	mark philippoussis	1.0
+-docstart- (72 tennis)	philippoussis	2576	mark philippoussis	1.0
+-docstart- (72 tennis)	pete sampras	105	pete sampras	1.0
+-docstart- (72 tennis)	netherlands	2154	netherlands	1.0
+-docstart- (72 tennis)	natasha zvereva	1244	natasha zvereva	1.0
+-docstart- (72 tennis)	monica seles	1756	monica seles	1.0
+-docstart- (72 tennis)	michael chang	1654	michael chang	1.0
+-docstart- (72 tennis)	martina hingis	3330	martina hingis	1.0
+-docstart- (72 tennis)	mark philippoussis	685	mark philippoussis	1.0
+-docstart- (72 tennis)	lindsay davenport	2983	lindsay davenport	1.0
+-docstart- (72 tennis)	karim alami	1590	karim alami	1.0
+-docstart- (72 tennis)	jim courier	2355	jim courier	1.0
+-docstart- (72 tennis)	jana novotna	3427	jana novotná	1.0
+-docstart- (72 tennis)	indonesia	461	indonesia	1.0
+-docstart- (72 tennis)	graf	407	steffi graf	1.0
+-docstart- (72 tennis)	graf	3207	steffi graf	1.0
+-docstart- (72 tennis)	graf	2823	steffi graf	1.0
+-docstart- (72 tennis)	graf	1036	steffi graf	1.0
+-docstart- (72 tennis)	david rikl	356	david rikl	1.0
+-docstart- (72 tennis)	daniel vacek	1716	daniel vacek	1.0
+-docstart- (72 tennis)	czech republic	374	brno	1.0
+-docstart- (72 tennis)	conchita martinez	2931	conchita martínez	1.0
+-docstart- (72 tennis)	cedric pioline	2694	cédric pioline	1.0
+-docstart- (72 tennis)	belarus	1263	byelorussian soviet socialist republic	1.0
+-docstart- (72 tennis)	arantxa sanchez vicario	1114	arantxa sánchez vicario	1.0
+-docstart- (72 tennis)	anne miller	1783	annie miller (tennis)	1.0
+-docstart- (72 tennis)	anke huber	2881	anke huber	1.0
+-docstart- (72 tennis)	andre agassi	1342	andre agassi	1.0
+-docstart- (72 tennis)	amanda coetzer	3161	amanda coetzer	1.0
+-docstart- (72 tennis)	agassi	1577	andre agassi	1.0
+-docstart- (72 tennis)	agassi	1402	andre agassi	1.0
+-docstart- (719 german)	sergei yastrzhembsky	330	sergey yastrzhembsky	1.0
+-docstart- (719 german)	interfax	571	interfax	1.0
+-docstart- (719 german)	interfax	43	interfax	1.0
+-docstart- (719 german)	interfax	288	interfax	1.0
+-docstart- (719 german)	interfax	261	interfax	1.0
+-docstart- (719 german)	boris yeltsin	125	boris yeltsin	1.0
+-docstart- (717 albania)	tritan shehu	172	tritan shehu	1.0
+-docstart- (717 albania)	koha jone	210	koha jonë	1.0
+-docstart- (716 russian)	u.s. securities and exchange commission	923	u.s. securities and exchange commission	1.0
+-docstart- (716 russian)	rostelekom	1693	rostelecom	1.0
+-docstart- (716 russian)	mosenergo	1647	mosenergo	1.0
+-docstart- (716 russian)	lukoil	1735	lukoil	1.0
+-docstart- (715 knifeman)	kotlarska	434	agnieszka kotlarska	1.0
+-docstart- (715 knifeman)	kotlarska	278	agnieszka kotlarska	1.0
+-docstart- (715 knifeman)	kotlarska	1011	agnieszka kotlarska	1.0
+-docstart- (715 knifeman)	gianni versace	601	gianni versace	1.0
+-docstart- (715 knifeman)	gazeta wyborcza	640	gazeta wyborcza	1.0
+-docstart- (715 knifeman)	agnieszka kotlarska	112	agnieszka kotlarska	1.0
+-docstart- (714 dutroux)	topolcany	485	topoľčany	1.0
+-docstart- (714 dutroux)	topolcany	1078	topoľčany	1.0
+-docstart- (714 dutroux)	topolcany	1027	topoľčany	1.0
+-docstart- (714 dutroux)	rudolf gajdos	256	http://cs.wikipedia.org/wiki/rudolf gajdoš	1.0
+-docstart- (714 dutroux)	melissa russo	1368	melissa russo	1.0
+-docstart- (714 dutroux)	mark dutroux	545	marc dutroux	1.0
+-docstart- (714 dutroux)	marc dutroux	78	marc dutroux	1.0
+-docstart- (714 dutroux)	julie lejeune	1350	marc dutroux	1.0
+-docstart- (714 dutroux)	eefje lambrecks	2382	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	993	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	962	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	757	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	319	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	2199	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	1872	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	1523	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	1228	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	1172	marc dutroux	1.0
+-docstart- (714 dutroux)	dutroux	0	marc dutroux	1.0
+-docstart- (714 dutroux)	an marchal	2362	marc dutroux	1.0
+-docstart- (713 nigeria)	academic staff union of universities	375	academic staff union of universities	1.0
+-docstart- (711 guinea)	sidia toure	191	sidya touré	1.0
+-docstart- (711 guinea)	lansana conte	1151	lansana conté	1.0
+-docstart- (710 zambia)	frederick chiluba	87	frederick chiluba	1.0
+-docstart- (71 britain)	overseas development administration	649	department for international development	1.0
+-docstart- (71 britain)	lynda chalker	881	lynda chalker	1.0
+-docstart- (708 village)	tongo field	401	tongo field	1.0
+-docstart- (708 village)	revolutionary united front	536	revolutionary united front	1.0
+-docstart- (708 village)	foindu	276	foindu	1.0
+-docstart- (708 village)	foindu	169	foindu	1.0
+-docstart- (707 ivorian)	la voie	850	notre voie	1.0
+-docstart- (707 ivorian)	la voie	705	notre voie	1.0
+-docstart- (707 ivorian)	la voie	1287	notre voie	1.0
+-docstart- (707 ivorian)	henri konan bedie	771	henri konan bédié	1.0
+-docstart- (707 ivorian)	bedie	906	henri konan bédié	1.0
+-docstart- (707 ivorian)	bedie	1308	henri konan bédié	1.0
+-docstart- (707 ivorian)	bedie	1183	henri konan bédié	1.0
+-docstart- (706 canada)	vancouver sun	245	vancouver sun (re)	1.0
+-docstart- (706 canada)	ottawa	835	ottawa	1.0
+-docstart- (706 canada)	lloyd axworthy	1165	lloyd axworthy	1.0
+-docstart- (706 canada)	hong kong	948	british hong kong	1.0
+-docstart- (706 canada)	hong kong	500	british hong kong	1.0
+-docstart- (706 canada)	hong kong	167	british hong kong	1.0
+-docstart- (706 canada)	hong kong	1524	british hong kong	1.0
+-docstart- (706 canada)	hong kong	1379	british hong kong	1.0
+-docstart- (706 canada)	hong kong	1298	british hong kong	1.0
+-docstart- (706 canada)	hong kong	1199	british hong kong	1.0
+-docstart- (706 canada)	hong kong	1040	british hong kong	1.0
+-docstart- (706 canada)	chris patten	1214	chris patten	1.0
+-docstart- (706 canada)	canada	91	toronto	1.0
+-docstart- (706 canada)	canada	795	toronto	1.0
+-docstart- (706 canada)	canada	470	toronto	1.0
+-docstart- (706 canada)	canada	1243	toronto	1.0
+-docstart- (706 canada)	canada	1128	toronto	1.0
+-docstart- (706 canada)	canada	0	toronto	1.0
+-docstart- (704 soccer)	african football confederation	83	confederation of african football	1.0
+-docstart- (702 rugby)	tom kiernan	1044	tom kiernan	1.0
+-docstart- (702 rugby)	rupert murdoch	216	rupert murdoch	1.0
+-docstart- (702 rugby)	rugby football union	496	rugby football union	1.0
+-docstart- (702 rugby)	british broadcasting corporation	881	bbc	1.0
+-docstart- (701 tennis)	philippoussis	9	mark philippoussis	1.0
+-docstart- (701 tennis)	philippoussis	353	mark philippoussis	1.0
+-docstart- (701 tennis)	pete sampras	428	pete sampras	1.0
+-docstart- (701 tennis)	mark woodforde	115	mark woodforde	1.0
+-docstart- (701 tennis)	mark philippoussis	73	mark philippoussis	1.0
+-docstart- (70 garlic)	british heart foundation	1245	british heart foundation	1.0
+-docstart- (7 bayervb)	toronto dominion	110	toronto–dominion bank	1.0
+-docstart- (699 reuters)	todor zhivkov	3369	todor zhivkov	1.0
+-docstart- (699 reuters)	skeleton canyon	1134	skeleton canyon	1.0
+-docstart- (699 reuters)	robert schuman	2276	robert schuman	1.0
+-docstart- (699 reuters)	nelson miles	1266	nelson a. miles	1.0
+-docstart- (699 reuters)	napoleon iii	1034	napoleon iii	1.0
+-docstart- (699 reuters)	mark spitz	2903	mark spitz	1.0
+-docstart- (699 reuters)	j.s. bach	2739	johann sebastian bach	1.0
+-docstart- (699 reuters)	inspector maigret	3302	jules maigret	1.0
+-docstart- (699 reuters)	georges simenon	3233	georges simenon	1.0
+-docstart- (699 reuters)	forth road bridge	2463	forth road bridge	1.0
+-docstart- (699 reuters)	european coal and steel community	2417	european coal and steel community	1.0
+-docstart- (699 reuters)	edward dmytryk	1789	edward dmytryk	1.0
+-docstart- (699 reuters)	darius milhaud	1322	darius milhaud	1.0
+-docstart- (699 reuters)	anton bruckner	840	anton bruckner	1.0

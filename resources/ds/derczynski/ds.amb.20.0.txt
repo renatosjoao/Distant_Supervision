@@ -1,0 +1,25 @@
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	ap	57	associated press	1.0
+tw_83.txt	hattiesburg	359	hattiesburg, mississippi	1.0
+tw_73.txt	pepsi	48	pepsi	1.0
+tw_71.txt	htc	88	htc	1.0
+tw_71.txt	htc	21	htc	1.0
+tw_65.txt	giles deacon	27	giles deacon	1.0
+tw_65.txt	amber le bon	0	amber le bon	1.0
+tw_62.txt	christchurch	84	christchurch	1.0
+tw_60.txt	la dodgers	40	los angeles dodgers	1.0
+tw_60.txt	don mattingly	0	don mattingly	1.0
+tw_59.txt	jessica simpson	32	jessica simpson	1.0
+tw_59.txt	jessica simpson	0	jessica simpson	1.0
+tw_56.txt	st johns	18	st johns railway station	1.0
+tw_55.txt	zac brown	23	zac brown band	1.0
+tw_53.txt	tipitina	11	tipitina	1.0
+tw_50.txt	marcus bentley	38	marcus bentley	1.0
+tw_49.txt	youtube	10	youtube	1.0
+tw_48.txt	google	0	google	1.0
+tw_47.txt	steve king	16	steve king	1.0
+tw_46.txt	pepsi	26	pepsi	1.0
+tw_40.txt	jersey shore	99	jersey shore (tv series)	1.0
+tw_36.txt	mannie fresh	18	mannie fresh	1.0

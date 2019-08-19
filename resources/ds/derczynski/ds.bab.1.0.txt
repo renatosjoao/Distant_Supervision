@@ -1,0 +1,6 @@
+tw_99.txt	ta	3	ta mok	1.0
+tw_99.txt	ll	114	l (new york city subway service)	1.0
+tw_97.txt	sta	111	standard liège	1.0
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	0	pope benedict xvi	1.0

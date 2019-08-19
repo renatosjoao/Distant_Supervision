@@ -1,0 +1,204 @@
+-docstart- (zyklon-b%20(band)_0.txt)	vegard	97	ihsahn	1.0
+-docstart- (zyklon-b%20(band)_0.txt)	samoth	40	samoth	1.0
+-docstart- (zyklon-b%20(band)_0.txt)	ihsahn	107	ihsahn	1.0
+-docstart- (zyklon-b%20(band)_0.txt)	haraldstad	157	kjetil-vidar haraldstad	1.0
+-docstart- (zero%20cipher_3.txt)	rock sound	266	rock sound	1.0
+-docstart- (zero%20cipher_3.txt)	metal hammer magazine	85	metal hammer	1.0
+-docstart- (zero%20cipher_3.txt)	metal hammer	85	metal hammer	1.0
+-docstart- (zero%20cipher_3.txt)	im	418	im dong-hyun	1.0
+-docstart- (zero%20cipher_3.txt)	hard rock hell	166	hard rock hell	1.0
+-docstart- (zero%20cipher_3.txt)	fist of the north star	43	fist of the north star (1995 film)	1.0
+-docstart- (zero%20cipher_3.txt)	european tour	347	no code tour	1.0
+-docstart- (zero%20cipher_3.txt)	cradle of filth	195	cradle of filth	1.0
+-docstart- (zero%20cipher_2.txt)	zero cipher	121	zero cipher	1.0
+-docstart- (zero%20cipher_2.txt)	uxfest	136	uxfest	1.0
+-docstart- (zero%20cipher_2.txt)	stampin' ground	58	stampin' ground	1.0
+-docstart- (zero%20cipher_2.txt)	stampin' ground	148	stampin' ground	1.0
+-docstart- (zero%20cipher_2.txt)	stampin	58	stampin	1.0
+-docstart- (zero%20cipher_2.txt)	stampin	148	stampin	1.0
+-docstart- (zero%20cipher_2.txt)	sound magazine	81	sound magazine	1.0
+-docstart- (zero%20cipher_2.txt)	skindred	48	skindred	1.0
+-docstart- (zero%20cipher_2.txt)	rock sound magazine	76	rock sound	1.0
+-docstart- (zero%20cipher_2.txt)	rock sound	76	rock sound	1.0
+-docstart- (zero%20cipher_2.txt)	knuckledust	168	knuckledust	1.0
+-docstart- (zero%20cipher_2.txt)	ken mcgrath	192	ken mcgrath	1.0
+-docstart- (zero%20cipher_2.txt)	enter shikari	261	enter shikari	1.0
+-docstart- (zero%20cipher_1.txt)	local area	74	stoke-on-trent built-up area	1.0
+-docstart- (zero%20cipher_1.txt)	october 2009	302	october 2009	1.0
+-docstart- (zero%20cipher_1.txt)	depeche	220	depeche mode	1.0
+-docstart- (zero%20cipher_0.txt)	sql	88	microsoft sql server	1.0
+-docstart- (zero%20cipher_0.txt)	amg	82	allmusic	1.0
+-docstart- (zero%20cipher_0.txt)	zero cipher	0	zero cipher	1.0
+-docstart- (zero%20cipher_0.txt)	farnham	136	farnham	1.0
+-docstart- (xenomorph%20(band)_1.txt)	jungle rot	241	jungle rot	1.0
+-docstart- (xenomorph%20(band)_1.txt)	europe	203	europe	1.0
+-docstart- (x%20japan_4.txt)	nid	206	nights into dreams...	1.0
+-docstart- (x%20japan_4.txt)	v.	339	v.	1.0
+-docstart- (x%20japan_4.txt)	january 9	55	january 9	1.0
+-docstart- (x%20japan_4.txt)	i. v.	336	x japan	1.0
+-docstart- (x%20japan_4.txt)	endless rain	319	endless rain	1.0
+-docstart- (x%20japan_4.txt)	american tour	17	no strings attached tour	1.0
+-docstart- (x%20japan_3.txt)	tribute concert	258	the freddie mercury tribute concert	1.0
+-docstart- (x%20japan_3.txt)	concert in paris	95	concert in paris	1.0
+-docstart- (x%20japan_3.txt)	x japan	196	x japan	1.0
+-docstart- (x%20japan_3.txt)	july	125	july 11	1.0
+-docstart- (x%20japan_3.txt)	dir en grey	377	dir en grey	1.0
+-docstart- (x%20japan_3.txt)	ajinomoto stadium	314	ajinomoto stadium	1.0
+-docstart- (x%20japan_3.txt)	ajinomoto	314	ajinomoto	1.0
+-docstart- (x%20japan_2.txt)	yoshiki	93	yoshiki (musician)	1.0
+-docstart- (x%20japan_2.txt)	sugizo	185	sugizo	1.0
+-docstart- (x%20japan_2.txt)	sea	171	luna sea	1.0
+-docstart- (x%20japan_2.txt)	miyavi	140	miyavi	1.0
+-docstart- (x%20japan_2.txt)	luna	166	luna sea	1.0
+-docstart- (x%20japan_2.txt)	gackt	130	gackt	1.0
+-docstart- (x%20japan_1.txt)	endless rain	117	endless rain	1.0
+-docstart- (x%20japan_1.txt)	blue blood tour bakuhatsu sunzen gig	197	blue blood tour bakuhatsu sunzen gig	1.0
+-docstart- (x%20japan_1.txt)	bakuhatsu sunzen gig	213	blue blood tour bakuhatsu sunzen gig	1.0
+-docstart- (x%20japan_1.txt)	april	48	april march	1.0
+-docstart- (x%20japan_0.txt)	vanishing vision	52	vanishing vision	1.0
+-docstart- (x%20japan_0.txt)	tokyo pop	204	tokyo pop	1.0
+-docstart- (x%20japan_0.txt)	extasy records	77	extasy records	1.0
+-docstart- (x%20japan_0.txt)	extasy	77	extasy records	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	tim christensen	323	tim christensen	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	tad morose	741	tad morose	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	morose	745	tad morose	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	moahni moahna	986	moahni moahna	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	grandin	1013	e. b. grandin	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	flyman	889	henrik flyman	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	evil masquerade	939	evil masquerade	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	evil masquerade	652	evil masquerade	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	communic	812	communic	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	pyramaze	188	pyramaze	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	audiovision	442	audiovision	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	astral doors	261	astral doors	1.0
+-docstart- (wrathchild_0.txt)	trash queens	43	trash queens	1.0
+-docstart- (wrathchild_0.txt)	release date	122	release date	1.0
+-docstart- (wolfsbane%20(band)_1.txt)	danger	78	allison danger	1.0
+-docstart- (wolfsbane%20(band)_0.txt)	whores	157	whore (in this moment song)	1.0
+-docstart- (wolfsbane%20(band)_0.txt)	robochrist	330	chris catalyst	1.0
+-docstart- (wolfsbane%20(band)_0.txt)	cardiacs	203	cardiacs	1.0
+-docstart- (wolfmother_8.txt)	heskett	68	wolfmother	1.0
+-docstart- (wolfmother_7.txt)	stockdale	33	andrew stockdale	1.0
+-docstart- (wolfmother_7.txt)	nemeth	105	ferenc nemeth	1.0
+-docstart- (wolfmother_7.txt)	aidan nemeth	99	wolfmother	1.0
+-docstart- (wolfmother_6.txt)	s groups	306	s group	1.0
+-docstart- (wolfmother_6.txt)	influences	273	influence (sister machine gun album)	1.0
+-docstart- (wolfmother_6.txt)	white stripes	449	the white stripes	1.0
+-docstart- (wolfmother_6.txt)	kings of leon	467	kings of leon	1.0
+-docstart- (wolfmother_5.txt)	triple j	42	triple j	1.0
+-docstart- (wolfmother_5.txt)	triple j	317	triple j	1.0
+-docstart- (wolfmother_5.txt)	triple j	239	triple j	1.0
+-docstart- (wolfmother_5.txt)	stockdale	218	andrew stockdale	1.0
+-docstart- (wolfmother_5.txt)	stockdale	21	andrew stockdale	1.0
+-docstart- (wolfmother_5.txt)	influences	0	influence (sister machine gun album)	1.0
+-docstart- (wolfmother_5.txt)	davenport	273	otis blackwell	1.0
+-docstart- (wolfmother_5.txt)	andrew stockdale	211	andrew stockdale	1.0
+-docstart- (wolfmother_5.txt)	andrew	211	andrew stockdale	1.0
+-docstart- (wolfmother_4.txt)	list of	548	walter lantz productions	1.0
+-docstart- (wolfmother_4.txt)	list of	52	walter lantz productions	1.0
+-docstart- (wolfmother_4.txt)	toe fat	284	toe fat	1.0
+-docstart- (wolfmother_4.txt)	age newspaper	482	the age	1.0
+-docstart- (wolfmother_3.txt)	stockdale	7	andrew stockdale	1.0
+-docstart- (wolfmother_3.txt)	october 4	94	october 4	1.0
+-docstart- (wolfmother_3.txt)	mgmt	53	mgmt	1.0
+-docstart- (wolfmother_3.txt)	joy	86	little joy	1.0
+-docstart- (wolfmother_3.txt)	binki shapiro	62	little joy	1.0
+-docstart- (wolfmother_3.txt)	banhart	44	devendra banhart	1.0
+-docstart- (wolfmother_3.txt)	andrew stockdale	0	andrew stockdale	1.0
+-docstart- (wolfmother_2.txt)	school for scoundrels	219	school for scoundrels (2006 film)	1.0
+-docstart- (wolfmother_2.txt)	rugby 06	283	rugby 06	1.0
+-docstart- (wolfmother_2.txt)	project 8	159	tony hawk's project 8	1.0
+-docstart- (wolfmother_2.txt)	nhl 07	173	nhl 07	1.0
+-docstart- (wolfmother_2.txt)	jackass number two	340	jackass number two	1.0
+-docstart- (wolfmother_2.txt)	flatout 2	268	flatout 2	1.0
+-docstart- (wolfmother_2.txt)	em	367	david em	1.0
+-docstart- (wolfmother_1.txt)	help	149	help! (song)	1.0
+-docstart- (wolfmother_1.txt)	full-length album	102	desolation of eden	1.0
+-docstart- (wolfmother_1.txt)	warhols	306	andy warhol	1.0
+-docstart- (wolfmother_1.txt)	the dandy warhols	296	the dandy warhols	1.0
+-docstart- (wolfmother_1.txt)	sardy	157	dave sardy	1.0
+-docstart- (wolfmother_1.txt)	jet	252	jet (band)	1.0
+-docstart- (wolfmother_1.txt)	dandy warhols	300	the dandy warhols	1.0
+-docstart- (wolfmother_1.txt)	dandy	300	dandy livingstone	1.0
+-docstart- (wolfmother_0.txt)	heskett	104	wolfmother	1.0
+-docstart- (wolfbrigade_0.txt)	infinity	57	infinity, inc.	1.0
+-docstart- (wolfbrigade_0.txt)	harlequin	70	harlequin (comics)	1.0
+-docstart- (wolfbrigade_0.txt)	anti cimex	37	anti cimex	1.0
+-docstart- (wolf%20(band)_2.txt)	black wings	49	wolf (band)	1.0
+-docstart- (wolf%20(band)_2.txt)	black flame	112	black flame	1.0
+-docstart- (within%20temptation_5.txt)	van haestregt	326	stephen van haestregt	1.0
+-docstart- (within%20temptation_5.txt)	westerholt	101	martijn westerholt	1.0
+-docstart- (within%20temptation_5.txt)	michiel	2	michiel huisman	1.0
+-docstart- (within%20temptation_5.txt)	jelle	60	jelle zijlstra	1.0
+-docstart- (within%20temptation_5.txt)	ciro	281	ciro terranova	1.0
+-docstart- (within%20temptation_5.txt)	bakker	66	joop bakker	1.0
+-docstart- (within%20temptation_4.txt)	den adel	9	sharon den adel	1.0
+-docstart- (within%20temptation_4.txt)	veen	157	ricky van veen	1.0
+-docstart- (within%20temptation_4.txt)	sharon den adel	2	sharon den adel	1.0
+-docstart- (within%20temptation_3.txt)	stolen babies	141	stolen babies	1.0
+-docstart- (within%20temptation_3.txt)	stolen	141	theft of the jules rimet trophy	1.0
+-docstart- (within%20temptation_3.txt)	heart of everything	56	the heart of everything	1.0
+-docstart- (within%20temptation_2.txt)	roadrunner records	0	roadrunner records	1.0
+-docstart- (within%20temptation_1.txt)	van haestregt	116	stephen van haestregt	1.0
+-docstart- (within%20temptation_1.txt)	spierenburg	204	martijn spierenburg	1.0
+-docstart- (within%20temptation_1.txt)	jolie	44	ruud jolie	1.0
+-docstart- (within%20temptation_0.txt)	veen	106	ricky van veen	1.0
+-docstart- (within%20temptation_0.txt)	michiel	130	michiel huisman	1.0
+-docstart- (within%20temptation_0.txt)	martijn westerholt	170	martijn westerholt	1.0
+-docstart- (within%20temptation_0.txt)	leeflang	209	dennis leeflang	1.0
+-docstart- (winds%20(band)_1.txt)	solefald	33	solefald	1.0
+-docstart- (winds%20(band)_1.txt)	prominence and demise	0	prominence and demise	1.0
+-docstart- (winds%20(band)_1.txt)	nedland	24	lars nedland	1.0
+-docstart- (winds%20(band)_1.txt)	madder mortem	263	madder mortem	1.0
+-docstart- (winds%20(band)_1.txt)	edge of sanity	140	edge of sanity	1.0
+-docstart- (winds%20(band)_1.txt)	age of silence	43	age of silence	1.0
+-docstart- (winds%20(band)_0.txt)	members	16	members only (band)	1.0
+-docstart- (winds%20(band)_0.txt)	tidemann	109	carl august tidemann	1.0
+-docstart- (winds%20(band)_0.txt)	sculptured	271	sculptured	1.0
+-docstart- (winds%20(band)_0.txt)	members	0	members only (band)	1.0
+-docstart- (winds%20(band)_0.txt)	kovenant	207	the kovenant	1.0
+-docstart- (winds%20(band)_0.txt)	dimmu borgir	225	dimmu borgir	1.0
+-docstart- (winds%20(band)_0.txt)	dimmu	225	dimmu borgir	1.0
+-docstart- (winds%20(band)_0.txt)	borgir	231	dimmu borgir	1.0
+-docstart- (winds%20(band)_0.txt)	blomberg	152	jan axel blomberg	1.0
+-docstart- (winds%20(band)_0.txt)	age of silence	41	age of silence	1.0
+-docstart- (winds%20(band)_0.txt)	age of silence	255	age of silence	1.0
+-docstart- (winds%20(band)_0.txt)	age of silence	177	age of silence	1.0
+-docstart- (windir_0.txt)	member	157	the members	1.0
+-docstart- (windir_0.txt)	windir	93	windir	1.0
+-docstart- (widescreen%20mode_1.txt)	myspace	55	myspace	1.0
+-docstart- (widescreen%20mode_1.txt)	children of bodom	150	children of bodom	1.0
+-docstart- (widescreen%20mode_1.txt)	bodom	162	lake bodom	1.0
+-docstart- (widescreen%20mode_0.txt)	cardigans	198	the cardigans	1.0
+-docstart- (widescreen%20mode_0.txt)	anathema	209	anathema (band)	1.0
+-docstart- (whitesnake_8.txt)	wgtn	104	wellington	1.0
+-docstart- (whitesnake_8.txt)	weta workshop	239	weta workshop	1.0
+-docstart- (whitesnake_8.txt)	march 2008	61	2008 in literature	1.0
+-docstart- (whitesnake_7.txt)	tommy aldridge	117	tommy aldridge	1.0
+-docstart- (whitesnake_7.txt)	mendoza	100	marco mendoza	1.0
+-docstart- (whitesnake_7.txt)	coverdale	8	david coverdale	1.0
+-docstart- (whitesnake_6.txt)	short tour	19	live at the fillmore east (neil young album)	1.0
+-docstart- (whitesnake_6.txt)	demartini	68	warren demartini	1.0
+-docstart- (whitesnake_6.txt)	carmassi	107	denny carmassi	1.0
+-docstart- (whitesnake_5.txt)	platinum	184	recording industry association of america	1.0
+-docstart- (whitesnake_5.txt)	coverdale	29	david coverdale	1.0
+-docstart- (whitesnake_5.txt)	coverdale	0	david coverdale	1.0
+-docstart- (whitesnake_4.txt)	quireboys	274	the quireboys	1.0
+-docstart- (whitesnake_3.txt)	saints	158	when the saints go marching in	1.0
+-docstart- (whitesnake_2.txt)	rainbow	87	rainbow (rock band)	1.0
+-docstart- (whitesnake_2.txt)	airey	53	don airey	1.0
+-docstart- (whitesnake_13.txt)	imdb	220	internet movie database	1.0
+-docstart- (whitesnake_13.txt)	world in conflict	61	world in conflict	1.0
+-docstart- (whitesnake_13.txt)	men tv	369	h2 (canada)	1.0
+-docstart- (whitesnake_13.txt)	dungeons and wagons	147	american dad! (season 3)	1.0
+-docstart- (whitesnake_13.txt)	bbc three	81	bbc three	1.0
+-docstart- (whitesnake_13.txt)	axe men	365	ax men	1.0
+-docstart- (whitesnake_13.txt)	always sunny in philadelphia	427	it's always sunny in philadelphia	1.0
+-docstart- (whitesnake_11.txt)	episode 11	18	joy to the world (house)	1.0
+-docstart- (whitesnake_11.txt)	episode 1	106	episode 1 (coronation street)	1.0
+-docstart- (whitesnake_11.txt)	part 2	147	friday the 13th part 2	1.0
+-docstart- (whitesnake_11.txt)	joey and the tonight show	66	joey (tv series)	1.0
+-docstart- (whitesnake_11.txt)	joey and the road trip	32	joey (tv series)	1.0
+-docstart- (whitesnake_11.txt)	joey and the big break	123	joey (tv series)	1.0
+-docstart- (whitesnake_10.txt)	favorite band	177	singing news fan awards for favorite band	1.0
+-docstart- (whitesnake_10.txt)	venture bros.	6	the venture bros.	1.0

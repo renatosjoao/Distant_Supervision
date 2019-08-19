@@ -1,0 +1,21 @@
+-docstart- (9 cel09)	tapes	52	tape (play)	1.0
+-docstart- (8 cel08)	husband	14	len sassaman	1.0
+-docstart- (8 cel08)	vegas	35	las vegas	1.0
+-docstart- (49 pol09)	jfk	42	john f. kennedy	1.0
+-docstart- (48 pol08)	province of greece	15	provinces of greece	1.0
+-docstart- (47 pol07)	neunkirchen	18	neunkirchen, saarland	1.0
+-docstart- (47 pol07)	erich	0	erich honecker	1.0
+-docstart- (46 pol06)	first man on the moon	18	neil armstrong	1.0
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	1.0
+-docstart- (45 pol05)	october 20	27	october 20	1.0
+-docstart- (45 pol05)	kennedy	16	john f. kennedy	1.0
+-docstart- (44 pol04)	raf	4	red army faction	1.0
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	1.0
+-docstart- (43 pol03)	second world	45	second world	1.0
+-docstart- (42 pol02)	euro	66	europe	1.0
+-docstart- (41 pol01)	watergate	21	watergate scandal	1.0
+-docstart- (41 pol01)	nixon resigned	0	watergate scandal	1.0
+-docstart- (40 spo10)	hertha	0	hertha bsc	1.0
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	1.0
+-docstart- (4 cel04)	tiger	0	tiger woods	1.0
+-docstart- (39 spo09)	yabo	0	reinhold yabo	1.0

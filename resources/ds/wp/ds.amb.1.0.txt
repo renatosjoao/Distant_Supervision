@@ -1,0 +1,54 @@
+-docstart- (zyklon-b%20(band)_0.txt)	dødheimsgard	228	dødheimsgard	1.0
+-docstart- (zero%20cipher_3.txt)	metal hammer	83	metal hammer	1.0
+-docstart- (zero%20cipher_3.txt)	kerrang	319	kerrang!	1.0
+-docstart- (zero%20cipher_3.txt)	hard rock hell	164	hard rock hell	1.0
+-docstart- (zero%20cipher_2.txt)	shikari	267	enter shikari	1.0
+-docstart- (zero%20cipher_2.txt)	knuckledust	168	knuckledust	1.0
+-docstart- (zero%20cipher_2.txt)	ken mcgrath	192	ken mcgrath	1.0
+-docstart- (x%20japan_3.txt)	t. m.	403	a. r. penck	1.0
+-docstart- (x%20japan_3.txt)	ajinomoto stadium	314	ajinomoto stadium	1.0
+-docstart- (x%20japan_2.txt)	sugizo	185	sugizo	1.0
+-docstart- (x%20japan_2.txt)	gackt	130	gackt	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	tim christensen	253	tim christensen	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	moahni moahna	816	moahni moahna	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	manticora	495	manticora (band)	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	lacrimosa	789	lacrimosa (band)	1.0
+-docstart- (wuthering%20heights%20(band)_5.txt)	communic	662	communic	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	pyramaze	163	pyramaze	1.0
+-docstart- (wuthering%20heights%20(band)_4.txt)	manticora	453	manticora (band)	1.0
+-docstart- (wuthering%20heights%20(band)_3.txt)	emily brontë	166	emily brontë	1.0
+-docstart- (wolfsbane%20(band)_0.txt)	cardiacs	203	cardiacs	1.0
+-docstart- (wolfmother_7.txt)	ian peres	137	ian peres	1.0
+-docstart- (wolfmother_7.txt)	aidan nemeth	89	wolfmother	1.0
+-docstart- (wolfmother_5.txt)	triple j	315	triple j	1.0
+-docstart- (wolfmother_3.txt)	binki shapiro	62	little joy	1.0
+-docstart- (wolfmother_3.txt)	banhart	44	devendra banhart	1.0
+-docstart- (wolfmother_0.txt)	heskett	104	ralph heskett	1.0
+-docstart- (wolfbrigade_0.txt)	anti cimex	37	anti cimex	1.0
+-docstart- (within%20temptation_3.txt)	kylesa	175	kylesa	1.0
+-docstart- (within%20temptation_2.txt)	roadrunner records	0	roadrunner records	1.0
+-docstart- (within%20temptation_1.txt)	de graaf	91	jeffrey de graaf	1.0
+-docstart- (within%20temptation_1.txt)	spierenburg	204	martijn spierenburg	1.0
+-docstart- (within%20temptation_0.txt)	van veen	102	kevin van veen	1.0
+-docstart- (within%20temptation_0.txt)	de graaf	246	edwin de graaf	1.0
+-docstart- (within%20temptation_0.txt)	martijn westerholt	170	martijn westerholt	1.0
+-docstart- (within%20temptation_0.txt)	leeflang	209	dennis leeflang	1.0
+-docstart- (winds%20(band)_1.txt)	dan swanö	106	dan swanö	1.0
+-docstart- (winds%20(band)_0.txt)	dimmu borgir	225	dimmu borgir	1.0
+-docstart- (windir_0.txt)	valfar	159	terje bakken	1.0
+-docstart- (widescreen%20mode_1.txt)	children of bodom	150	children of bodom	1.0
+-docstart- (widescreen%20mode_0.txt)	die krupps	223	die krupps	1.0
+-docstart- (whitesnake_9.txt)	whitesnake	173	whitesnake	1.0
+-docstart- (whitesnake_8.txt)	weta workshop	234	weta workshop	1.0
+-docstart- (whitesnake_7.txt)	tommy aldridge	117	tommy aldridge	1.0
+-docstart- (whitesnake_3.txt)	saints & sinners	154	saints & sinners (whitesnake album)	1.0
+-docstart- (whitesnake_10.txt)	whitesnake	188	whitesnake	1.0
+-docstart- (whitesnake_1.txt)	ian paice	139	ian paice	1.0
+-docstart- (whitesnake_1.txt)	david coverdale	5	david coverdale	1.0
+-docstart- (whitesnake_1.txt)	bernie marsden	123	bernie marsden	1.0
+-docstart- (whitesnake_0.txt)	knac	164	knac	1.0
+-docstart- (white%20spirit_0.txt)	janick gers	141	janick gers	1.0
+-docstart- (waysted_0.txt)	paul raymond	75	paul raymond (musician)	1.0
+-docstart- (waysted_0.txt)	paul chapman	232	paul chapman (musician)	1.0
+-docstart- (waysted_0.txt)	neil shepard	202	neil shepard	1.0
+-docstart- (waysted_0.txt)	motörhead	285	motörhead	1.0

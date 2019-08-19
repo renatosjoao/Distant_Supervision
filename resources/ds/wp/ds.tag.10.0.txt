@@ -1,0 +1,1232 @@
+-docstart- (judas%20priest_11.txt)	sad wings of destiny tour	390	sad wings of destiny tour	0.99805
+-docstart- (boris%20(band)_4.txt)	thing which solomon overlooked 3	52	the thing which solomon overlooked 3	0.99740005
+-docstart- (boris%20(band)_4.txt)	thing which solomon overlooked 2	6	the thing which solomon overlooked 2	0.99740005
+-docstart- (deep%20purple_7.txt)	deep purple european tour	102	deep purple european tour	0.996575
+-docstart- (judas%20priest_11.txt)	sin after sin tour	428	sin after sin tour	0.99608755
+-docstart- (judas%20priest_11.txt)	stained class tour	454	stained class tour	0.99491
+-docstart- (deep%20purple_7.txt)	in rock world tour	171	in rock world tour	0.99362504
+-docstart- (judas%20priest_11.txt)	rocka rolla tour	366	rocka rolla tour	0.98889995
+-docstart- (led%20zeppelin_27.txt)	in through the out door	173	in through the out door	0.98693335
+-docstart- (soulfly_12.txt)	soulfly	9	soulfly (album)	0.98665
+-docstart- (led%20zeppelin_27.txt)	houses of the holy	100	houses of the holy	0.9866084
+-docstart- (led%20zeppelin_27.txt)	led zeppelin iii	49	led zeppelin iii	0.98595
+-docstart- (led%20zeppelin_27.txt)	physical graffiti	128	physical graffiti	0.98397493
+-docstart- (accept_2.txt)	objection overruled	187	objection overruled	0.98152924
+-docstart- (accept_2.txt)	eat the heat	165	eat the heat	0.9812
+-docstart- (accept_2.txt)	blood of the nations	253	blood of the nations	0.980875
+-docstart- (led%20zeppelin_27.txt)	led zeppelin iv	75	led zeppelin iv	0.9794251
+-docstart- (accept_2.txt)	restless and wild	64	restless and wild	0.9786
+-docstart- (rage%20(band)_3.txt)	10 years in rage	201	10 years in rage	0.97803426
+-docstart- (rage%20(band)_3.txt)	secrets in a weird world	91	secrets in a weird world	0.97762114
+-docstart- (rage%20(band)_3.txt)	reflections of a shadow	125	reflections of a shadow	0.97762114
+-docstart- (rage%20(band)_3.txt)	welcome to the other side	328	welcome to the other side	0.9776211
+-docstart- (rage%20(band)_3.txt)	execution guaranteed	40	execution guaranteed	0.9773158
+-docstart- (rage%20(band)_3.txt)	black in mind	227	black in mind	0.97731316
+-docstart- (rage%20(band)_3.txt)	strings to a web	451	strings to a web	0.9771079
+-docstart- (rage%20(band)_3.txt)	speak of the dead	399	speak of the dead	0.9770079
+-docstart- (rage%20(band)_3.txt)	soundchaser	378	soundchaser	0.9768
+-docstart- (rush%20(band)_16.txt)	test for echo	347	test for echo	0.97368157
+-docstart- (rush%20(band)_16.txt)	roll the bones	301	roll the bones	0.97367895
+-docstart- (rush%20(band)_16.txt)	caress of steel	52	caress of steel	0.9735737
+-docstart- (rush%20(band)_16.txt)	snakes & arrows	410	snakes & arrows	0.97336316
+-docstart- (rush%20(band)_16.txt)	hold your fire	261	hold your fire	0.97243947
+-docstart- (rush%20(band)_16.txt)	farewell to kings	93	a farewell to kings	0.9724394
+-docstart- (judas%20priest_14.txt)	ram it down	287	ram it down	0.97093236
+-docstart- (judas%20priest_14.txt)	stained class	90	stained class	0.97069705
+-docstart- (judas%20priest_14.txt)	angel of retribution	367	angel of retribution	0.97069705
+-docstart- (judas%20priest_14.txt)	jugulator	328	jugulator	0.9704677
+-docstart- (judas%20priest_14.txt)	sin after sin	67	sin after sin	0.9704647
+-docstart- (judas%20priest_14.txt)	rocka rolla	16	rocka rolla	0.97000587
+-docstart- (judas%20priest_14.txt)	screaming for vengeance	207	screaming for vengeance	0.96943235
+-docstart- (judas%20priest_14.txt)	sad wings of destiny	37	sad wings of destiny	0.96943235
+-docstart- (deep%20purple_7.txt)	book of taliesyn tour	72	the book of taliesyn tour	0.9647125
+-docstart- (deep%20purple_7.txt)	shades of deep purple tour	33	shades of deep purple tour	0.9612875
+-docstart- (ac%2fdc_21.txt)	razors edge	336	the razors edge (ac/dc album)	0.95767057
+-docstart- (ac%2fdc_21.txt)	blow up your video	304	blow up your video	0.95744115
+-docstart- (ac%2fdc_21.txt)	flick of the switch	228	flick of the switch	0.9574411
+-docstart- (ac%2fdc_21.txt)	let there be rock	88	let there be rock	0.9574265
+-docstart- (ac%2fdc_21.txt)	who made who	282	who made who	0.9573264
+-docstart- (ac%2fdc_21.txt)	ballbreaker	357	ballbreaker	0.95696765
+-docstart- (aria%20(band)_2.txt)	generator zla	183	generator zla	0.95686543
+-docstart- (aria%20(band)_2.txt)	noch koroche dnia	128	noch koroche dnya	0.95656157
+-docstart- (aria%20(band)_2.txt)	night is shorter than day	154	noch koroche dnya	0.95656157
+-docstart- (aria%20(band)_2.txt)	kreshchenie ognyom	247	kreshchenie ognyom	0.9562462
+-docstart- (aria%20(band)_2.txt)	krov za krov	88	krov za krov	0.9554962
+-docstart- (ac%2fdc_21.txt)	dirty deeds done dirt cheap	51	dirty deeds done dirt cheap	0.95513237
+-docstart- (aria%20(band)_2.txt)	geroy asfalta	4	geroy asfalta	0.9548961
+-docstart- (accept_2.txt)	i' m a rebel	25	i'm a rebel (song)	0.9499959
+-docstart- (whitesnake_9.txt)	ready an' willing	74	ready an' willing	0.94992274
+-docstart- (whitesnake_9.txt)	restless heart	221	restless heart (whitesnake album)	0.9497454
+-docstart- (whitesnake_9.txt)	come an' get it	101	come an' get it	0.9497454
+-docstart- (whitesnake_9.txt)	slide it in	152	slide it in	0.94938636
+-docstart- (moonspell_7.txt)	under satan	173	under satanæ	0.9492333
+-docstart- (whitesnake_9.txt)	lovehunter	54	lovehunter	0.94901824
+-docstart- (moonspell_7.txt)	darkness and hope	106	darkness and hope	0.94858336
+-docstart- (skyclad%20(band)_8.txt)	in the... all together	93	in the... all together	0.94838333
+-docstart- (loudness%20(band)_6.txt)	soldier' s just came back	114	the soldier's just came back	0.94762856
+-docstart- (loudness%20(band)_6.txt)	loudness live 2002	149	loudness live 2002	0.94762856
+-docstart- (loudness%20(band)_6.txt)	loud' n' raw	68	loud 'n' raw	0.94762856
+-docstart- (loudness%20(band)_6.txt)	live loudest at the budokan' 91	177	live loudest at the budokan '91	0.94762856
+-docstart- (loudness%20(band)_6.txt)	eurobounds	90	eurobounds	0.94762856
+-docstart- (loudness%20(band)_6.txt)	8186 live	23	8186 live	0.94762856
+-docstart- (gotthard%20(band)_1.txt)	human zoo	44	human zoo (gotthard album)	0.9473282
+-docstart- (moonspell_7.txt)	butterfly effect	80	the butterfly effect (moonspell album)	0.94727224
+-docstart- (skyclad%20(band)_8.txt)	vintage whine	13	vintage whine	0.94706666
+-docstart- (ac%2fdc_21.txt)	highway to hell	133	highway to hell	0.9449794
+-docstart- (michael%20schenker%20group_0.txt)	be aware of scorpions	125	be aware of scorpions	0.94392
+-docstart- (michael%20schenker%20group_0.txt)	unforgiven	105	the unforgiven (album)	0.94333
+-docstart- (behemoth%20(band)_8.txt)	bewitching the pomerania	49	bewitching the pomerania	0.9431417
+-docstart- (michael%20schenker%20group_0.txt)	arachnophobiac	156	arachnophobiac	0.943135
+-docstart- (michael%20schenker%20group_0.txt)	tales of rock' n' roll	203	tales of rock'n'roll	0.94313
+-docstart- (behemoth%20(band)_8.txt)	and the forests dream eternally	8	and the forests dream eternally	0.94281673
+-docstart- (michael%20schenker%20group_0.txt)	in the midst of beauty	235	in the midst of beauty	0.94254506
+-docstart- (moonspell_7.txt)	wolfheart	16	wolfheart	0.9422611
+-docstart- (behemoth%20(band)_8.txt)	antichristian phenomenon	83	antichristian phenomenon	0.94151664
+-docstart- (behemoth%20(band)_8.txt)	ezkaton	166	ezkaton	0.9392084
+-docstart- (lunatica_0.txt)	rhapsody of fire	38	rhapsody of fire	0.9333333
+-docstart- (running%20wild%20(band)_4.txt)	branded and exiled	56	branded and exiled	0.93290716
+-docstart- (scorpions%20(band)_3.txt)	scorpions tour 2003	529	scorpions tour 2003	0.93284374
+-docstart- (running%20wild%20(band)_4.txt)	rogues en vogue	308	rogues en vogue	0.93221426
+-docstart- (running%20wild%20(band)_4.txt)	blazon stone	155	blazon stone	0.9320679
+-docstart- (ac%2fdc_21.txt)	powerage	115	powerage	0.9317744
+-docstart- (ac%2fdc_21.txt)	back in black	158	back in black	0.9315374
+-docstart- (running%20wild%20(band)_4.txt)	gates to purgatory	28	gates to purgatory	0.93053216
+-docstart- (running%20wild%20(band)_4.txt)	black hand inn	201	black hand inn	0.93039286
+-docstart- (rush%20(band)_16.txt)	clockwork angels	435	clockwork angels	0.9283427
+-docstart- (scorpions%20(band)_3.txt)	scorpions tour 2002	500	scorpions tour 2002	0.9254929
+-docstart- (meshuggah_6.txt)	obzen	146	obzen	0.92484164
+-docstart- (meshuggah_6.txt)	contradictions collapse	18	contradictions collapse	0.92484164
+-docstart- (meshuggah_6.txt)	chaosphere	82	chaosphere	0.92484164
+-docstart- (meshuggah_6.txt)	destroy erase improve	51	destroy erase improve	0.9241917
+-docstart- (scorpions%20(band)_3.txt)	unbreakable world tour	563	unbreakable world tour (scorpions tour)	0.92380714
+-docstart- (shining%20star%20(band)_1.txt)	pyramaze	11	pyramaze	0.923525
+-docstart- (scorpions%20(band)_3.txt)	humanity world tour	600	humanity world tour	0.92324996
+-docstart- (meshuggah_6.txt)	catch thirtythree	119	catch thirtythree	0.9228916
+-docstart- (judas%20priest_11.txt)	world vengeance tour	613	world vengeance tour	0.92181873
+-docstart- (lunatica_0.txt)	kamelot	56	kamelot	0.9202666
+-docstart- (raging%20speedhorn_3.txt)	before the sea was built	128	before the sea was built	0.91999
+-docstart- (dark%20moor_0.txt)	dark moor	105	dark moor (album)	0.9190429
+-docstart- (aria%20(band)_2.txt)	igra s ognyom	45	igra s ognyom	0.9184
+-docstart- (dark%20moor_0.txt)	gates of oblivion	78	the gates of oblivion	0.91764283
+-docstart- (raging%20speedhorn_3.txt)	how the great have fallen	93	how the great have fallen	0.91726005
+-docstart- (scorpions%20(band)_3.txt)	get your sting and blackout world tour	634	get your sting and blackout world tour	0.91622853
+-docstart- (ac%2fdc_21.txt)	for those about to rock	181	for those about to rock we salute you	0.91596496
+-docstart- (green%20carnation_3.txt)	blood red throne	68	blood red throne	0.9156857
+-docstart- (lunatica_0.txt)	edguy	65	edguy	0.91568327
+-docstart- (raging%20speedhorn_3.txt)	raging speedhorn	9	raging speedhorn (album)	0.91568005
+-docstart- (meshuggah_7.txt)	psykisk testbild	19	meshuggah (ep)	0.9152125
+-docstart- (meshuggah_7.txt)	true human design	82	the true human design	0.9142375
+-docstart- (meshuggah_7.txt)	selfcaged	59	selfcaged	0.9142375
+-docstart- (lacuna%20coil_9.txt)	unleashed memories	40	unleashed memories	0.91412
+-docstart- (lacuna%20coil_9.txt)	shallow life	105	shallow life	0.91412
+-docstart- (raging%20speedhorn_3.txt)	we will be dead tomorrow	35	we will be dead tomorrow	0.91411
+-docstart- (scorpions%20(band)_3.txt)	savage amusement	293	savage amusement	0.91364366
+-docstart- (mortification%20(band)_1.txt)	triumph of mercy	229	mortification (band)	0.91346
+-docstart- (mortification%20(band)_1.txt)	silver cord is severed	282	mortification (band)	0.91346
+-docstart- (mortification%20(band)_1.txt)	primitive rhythm machine	166	mortification (band)	0.91346
+-docstart- (mortification%20(band)_1.txt)	evil addiction destroying machine	389	mortification (band)	0.91346
+-docstart- (mortification%20(band)_1.txt)	erasing the goblin	357	mortification (band)	0.91346
+-docstart- (mortification%20(band)_1.txt)	brain cleaner	334	mortification (band)	0.91346
+-docstart- (lacuna%20coil_9.txt)	comalies	68	comalies	0.91334
+-docstart- (ac%2fdc_21.txt)	iron man 2	422	iron man 2 (soundtrack)	0.9125617
+-docstart- (the%20black%20league_1.txt)	place called bad	79	a place called bad	0.91254
+-docstart- (the%20black%20league_1.txt)	man' s ruin revisited	46	man's ruin revisited	0.91254
+-docstart- (lacuna%20coil_9.txt)	karmacode	86	karmacode	0.91217
+-docstart- (judas%20priest_11.txt)	metal conqueror tour	646	metal conqueror tour	0.91205
+-docstart- (scorpions%20(band)_3.txt)	lovedrive	166	lovedrive	0.91175
+-docstart- (balance%20of%20power%20(band)_3.txt)	ten more tales of grand illusion	74	ten more tales of grand illusion	0.91110003
+-docstart- (boris%20(band)_5.txt)	walrus/groon	82	walrus / groon	0.90981
+-docstart- (boris%20(band)_5.txt)	sun baked snow cave	53	sun baked snow cave	0.90981
+-docstart- (balance%20of%20power%20(band)_3.txt)	heathenology	166	heathenology	0.90947497
+-docstart- (dark%20moor_0.txt)	hall of the olden dreams	40	the hall of the olden dreams	0.9092572
+-docstart- (balance%20of%20power%20(band)_3.txt)	when the world falls down	14	when the world falls down	0.90915
+-docstart- (judas%20priest_11.txt)	world wide blitz tour	584	world wide blitz tour	0.9084834
+-docstart- (green%20carnation_3.txt)	carpathian forest	87	carpathian forest	0.9084
+-docstart- (balance%20of%20power%20(band)_3.txt)	heathen machine	141	heathen machine	0.90686667
+-docstart- (mortification%20(band)_1.txt)	scrolls of the megilloth	76	scrolls of the megilloth	0.90614665
+-docstart- (immortal%20(band)_2.txt)	sons of northern darkness	208	sons of northern darkness	0.9058834
+-docstart- (immortal%20(band)_2.txt)	damned in black	183	damned in black	0.9058834
+-docstart- (immortal%20(band)_2.txt)	at the heart of winter	151	at the heart of winter	0.9058834
+-docstart- (scorpions%20(band)_3.txt)	eye to eye tour	421	eye to eye tour	0.90587777
+-docstart- (immortal%20(band)_2.txt)	pure holocaust	72	pure holocaust	0.90545
+-docstart- (karavan_2.txt)	saara jahan	68	karavan	0.9049
+-docstart- (karavan_2.txt)	rakh aas	18	karavan	0.9049
+-docstart- (immortal%20(band)_2.txt)	blizzard beasts	126	blizzard beasts	0.9043611
+-docstart- (immortal%20(band)_2.txt)	diabolical fullmoon mysticism	33	diabolical fullmoon mysticism	0.9043555
+-docstart- (immortal%20(band)_2.txt)	all shall fall	243	all shall fall	0.9037056
+-docstart- (mortification%20(band)_1.txt)	envision evangelene	200	envision evangelene	0.9032599
+-docstart- (judas%20priest_11.txt)	british steel tour	558	british steel tour	0.9031937
+-docstart- (epica%20(band)_8.txt)	phantom agony	27	the phantom agony	0.9024625
+-docstart- (mortification%20(band)_1.txt)	post momentary affliction	110	post momentary affliction	0.90233994
+-docstart- (epica%20(band)_8.txt)	design your universe	110	design your universe	0.9019625
+-docstart- (mortification%20(band)_1.txt)	hammer of god	255	hammer of god (album)	0.9018166
+-docstart- (epica%20(band)_8.txt)	consign to oblivion	50	consign to oblivion	0.901475
+-docstart- (epica%20(band)_8.txt)	divine conspiracy	83	the divine conspiracy	0.8995125
+-docstart- (catamenia%20(band)_5.txt)	winternight tragedies	150	winternight tragedies	0.89868337
+-docstart- (catamenia%20(band)_5.txt)	morning crimson	52	morning crimson	0.89868337
+-docstart- (catamenia%20(band)_5.txt)	halls of frozen north	21	halls of frozen north	0.89868337
+-docstart- (catamenia%20(band)_5.txt)	eternal winter' s prophecy	77	eternal winter's prophecy	0.89868337
+-docstart- (sentenced_3.txt)	funeral album	177	the funeral album	0.8980389
+-docstart- (gojira_2.txt)	from mars to sirius	61	from mars to sirius	0.89802504
+-docstart- (samael%20(band)_2.txt)	solar soul	153	solar soul	0.89781666
+-docstart- (samael%20(band)_2.txt)	reign of light	129	reign of light	0.89781666
+-docstart- (anathema%20(band)_4.txt)	fine day to exit	136	a fine day to exit	0.8971556
+-docstart- (megaherz_4.txt)	kopfschuss	13	kopfschuss	0.89705
+-docstart- (anathema%20(band)_4.txt)	silent enigma	51	the silent enigma	0.8967222
+-docstart- (ac%2fdc_21.txt)	for those about to rock we salute you	181	for those about to rock we salute you	0.89609313
+-docstart- (the%20black%20league_1.txt)	ghost brothel	105	the black league	0.89530003
+-docstart- (catamenia%20(band)_5.txt)	time unchained	199	viii – the time unchained	0.8952167
+-docstart- (boris%20(band)_5.txt)	merzbow	7	merzbow	0.89453
+-docstart- (destiny%20(band)_2.txt)	atomic winter	40	atomic winter (album)	0.8945
+-docstart- (ruoska_4.txt)	alasin	170	alasin	0.8944909
+-docstart- (michael%20schenker%20group_0.txt)	built to destroy	46	built to destroy	0.89414597
+-docstart- (sentenced_3.txt)	cold white light	147	the cold white light	0.8938889
+-docstart- (green%20carnation_3.txt)	tristania	29	tristania (band)	0.8938357
+-docstart- (megaherz_4.txt)	herzwerk ii	72	herzwerk ii	0.89363754
+-docstart- (destiny%20(band)_2.txt)	nothing left to fear	63	nothing left to fear (destiny album)	0.89331996
+-docstart- (destiny%20(band)_2.txt)	beyond all sense 2005	155	beyond all sense 2005	0.89331996
+-docstart- (ruoska_4.txt)	veriura	55	veriura	0.89306366
+-docstart- (hatesphere_7.txt)	serpent smiles and killer eyes	119	hatesphere	0.893
+-docstart- (hatesphere_7.txt)	hatesphere	16	hatesphere	0.893
+-docstart- (hatesphere_7.txt)	bloodred hatred	36	hatesphere	0.893
+-docstart- (hatesphere_7.txt)	ballet of the brute	61	hatesphere	0.893
+-docstart- (ruoska_4.txt)	lihaa vasten lihaa	265	rabies (ruoska album)	0.8928591
+-docstart- (samael%20(band)_2.txt)	ceremony of opposites	64	ceremony of opposites	0.8928111
+-docstart- (judas%20priest_11.txt)	hell bent for leather	524	killing machine	0.89265895
+-docstart- (deep%20purple_7.txt)	deep purple european tour	300	deep purple european tour	0.89254
+-docstart- (anathema%20(band)_4.txt)	we' re here because we' re here	190	we're here because we're here (album)	0.89215004
+-docstart- (loudness%20(band)_5.txt)	spiritual canoe	540	spiritual canoe	0.89118576
+-docstart- (gojira_2.txt)	way of all flesh	94	the way of all flesh (album)	0.89067495
+-docstart- (tarot%20(band)_1.txt)	for the glory of nothing	126	for the glory of nothing	0.8860955
+-docstart- (tarot%20(band)_1.txt)	spell of iron	28	spell of iron	0.88574094
+-docstart- (green%20carnation_3.txt)	chain collector	107	chain collector	0.88514996
+-docstart- (tarot%20(band)_1.txt)	gravity of light	215	gravity of light	0.88414097
+-docstart- (aria%20(band)_2.txt)	hero of asphalt	26	geroy asfalta	0.88346756
+-docstart- (tarot%20(band)_1.txt)	suffer our pleasures	160	suffer our pleasures	0.88342273
+-docstart- (orphanage%20(band)_0.txt)	by time alone	27	by time alone	0.88335
+-docstart- (sigh%20(band)_3.txt)	imaginary sonicscape	106	imaginary sonicscape	0.88285
+-docstart- (gorefest_1.txt)	mindloss	28	mindloss	0.88259375
+-docstart- (loudness%20(band)_5.txt)	ghetto machine	484	ghetto machine	0.88236004
+-docstart- (sigh%20(band)_3.txt)	infidel art	50	infidel art	0.88210624
+-docstart- (tarot%20(band)_1.txt)	crows fly black	190	crows fly black	0.8818182
+-docstart- (sigh%20(band)_3.txt)	hangman' s hymn	161	hangman's hymn	0.88161874
+-docstart- (sigh%20(band)_3.txt)	hail horror hail	71	hail horror hail	0.88161874
+-docstart- (sigh%20(band)_3.txt)	gallows gallery	136	gallows gallery	0.88161874
+-docstart- (led%20zeppelin_24.txt)	ten years gone	282	ten years gone	0.8816077
+-docstart- (sigh%20(band)_3.txt)	scorn defeat	28	scorn defeat	0.8816062
+-docstart- (sigh%20(band)_3.txt)	scenes from hell	186	scenes from hell	0.8816062
+-docstart- (all%20ends_1.txt)	finntroll	22	finntroll	0.881375
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	before the bleeding sun	406	eternal tears of sorrow	0.88097
+-docstart- (gorefest_1.txt)	rise to ruin	138	rise to ruin	0.8808875
+-docstart- (ancient%20(band)_4.txt)	svartalvheim	28	ancient (band)	0.8798357
+-docstart- (judas%20priest_14.txt)	hell bent for leather	129	killing machine	0.8798207
+-docstart- (ancient%20(band)_4.txt)	proxima centauri	147	proxima centauri (album)	0.8795428
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	children of the dark waters	574	eternal tears of sorrow	0.87886107
+-docstart- (judas%20priest_14.txt)	defenders of the faith	240	defenders of the faith	0.8784647
+-docstart- (carcass%20(band)_4.txt)	symphonies of sickness	56	symphonies of sickness	0.87844
+-docstart- (carcass%20(band)_4.txt)	reek of putrefaction	9	reek of putrefaction	0.87844
+-docstart- (m.ill.ion_2.txt)	whitesnake	53	whitesnake	0.8781812
+-docstart- (scorpions%20(band)_3.txt)	face the heat	360	face the heat	0.8776875
+-docstart- (prospect%20(slovenian%20band)_0.txt)	dream theater	58	dream theater	0.87745
+-docstart- (girlschool_7.txt)	race with the devil live	93	race with the devil live	0.87713337
+-docstart- (running%20wild%20(band)_4.txt)	pile of skulls	177	pile of skulls	0.87651587
+-docstart- (girlschool_7.txt)	king biscuit flower hour presents girlschool	39	king biscuit flower hour presents girlschool	0.8764833
+-docstart- (girlschool_7.txt)	girlschool live	14	girlschool live	0.8764833
+-docstart- (ancient%20(band)_4.txt)	mad grandiose bloodfiends	81	mad grandiose bloodfiends	0.87619996
+-docstart- (ancient%20(band)_4.txt)	halls of eternity	120	the halls of eternity	0.87619996
+-docstart- (carcass%20(band)_4.txt)	heartwork	171	heartwork	0.8749
+-docstart- (m.ill.ion_2.txt)	deep purple	40	deep purple	0.8745125
+-docstart- (loudness%20(band)_5.txt)	heavy metal hippies	455	heavy metal hippies	0.87409645
+-docstart- (m.ill.ion_2.txt)	black sabbath	82	black sabbath	0.87328124
+-docstart- (riddare%20av%20koden_0.txt)	wintersun	58	wintersun	0.87290454
+-docstart- (orange%20goblin_1.txt)	thieving from the house of god	226	thieving from the house of god	0.87255
+-docstart- (all%20ends_1.txt)	after forever	33	after forever	0.87255
+-docstart- (accept_2.txt)	russian roulette	139	russian roulette (accept album)	0.87211454
+-docstart- (riddare%20av%20koden_0.txt)	ensiferum	47	ensiferum	0.8718318
+-docstart- (korpiklaani_2.txt)	voice of wilderness	51	voice of wilderness	0.87143576
+-docstart- (maximum%20the%20hormone_2.txt)	rokkinpo goroshi	73	rokkinpo goroshi	0.87107503
+-docstart- (maximum%20the%20hormone_2.txt)	mimi kajiru	35	mimi kajiru	0.87107503
+-docstart- (godflesh_2.txt)	bryan mantia	81	bryan mantia	0.87059164
+-docstart- (maximum%20the%20hormone_2.txt)	kusoban	56	kusoban	0.870575
+-docstart- (maximum%20the%20hormone_2.txt)	bu-ikikaesu	99	bu-ikikaesu	0.870575
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	sinergy	523	sinergy	0.8703778
+-docstart- (korpiklaani_2.txt)	tales along this road	80	tales along this road	0.8694643
+-docstart- (korpiklaani_2.txt)	tervaskanto	111	tervaskanto	0.8691857
+-docstart- (theatre%20of%20tragedy_3.txt)	forever is the world	163	forever is the world	0.8691786
+-docstart- (korpiklaani_2.txt)	korven kuningas	132	korven kuningas	0.86890715
+-docstart- (lake%20of%20tears_3.txt)	neonai	121	the neonai	0.86886877
+-docstart- (lake%20of%20tears_3.txt)	crimson cosmos	69	a crimson cosmos	0.86886877
+-docstart- (led%20zeppelin_24.txt)	battle of evermore	120	the battle of evermore	0.8686346
+-docstart- (theatre%20of%20tragedy_3.txt)	theatre of tragedy	21	theatre of tragedy (album)	0.86862856
+-docstart- (entwine_1.txt)	treasures within hearts	25	the treasures within hearts	0.8683357
+-docstart- (scorpions%20(band)_3.txt)	animal magnetism	190	animal magnetism (scorpions album)	0.8680147
+-docstart- (korpiklaani_2.txt)	karkelo	157	karkelo	0.86777854
+-docstart- (grip%20inc._0.txt)	power of inner strength	21	power of inner strength	0.86765003
+-docstart- (lake%20of%20tears_3.txt)	forever autumn	93	forever autumn (album)	0.8676438
+-docstart- (lake%20of%20tears_3.txt)	black brick road	137	black brick road	0.8676437
+-docstart- (lake%20of%20tears_3.txt)	moons and mushrooms	163	moons and mushrooms	0.86715627
+-docstart- (entwine_1.txt)	painstained	139	painstained	0.86693573
+-docstart- (slechtvalk_2.txt)	war that plagues the lands	36	the war that plagues the lands	0.86665
+-docstart- (slechtvalk_2.txt)	at the dawn of war	72	at the dawn of war	0.86665
+-docstart- (gotthard%20(band)_1.txt)	lipservice	63	lipservice	0.86559
+-docstart- (theatre%20of%20tragedy_3.txt)	velvet darkness they fear	49	velvet darkness they fear	0.86525
+-docstart- (all%20ends_1.txt)	die apokalyptischen reiter	55	die apokalyptischen reiter	0.86520004
+-docstart- (deep%20purple_7.txt)	machine head	256	machine head (album)	0.86469996
+-docstart- (slechtvalk_2.txt)	forlorn throne	102	a forlorn throne	0.8642
+-docstart- (entwine_1.txt)	dieversity	97	dieversity	0.86415005
+-docstart- (whitesnake_9.txt)	whitesnake	173	whitesnake	0.86379546
+-docstart- (scorpions%20(band)_3.txt)	love at first sting tour	254	scorpions (band)	0.86371875
+-docstart- (steeler%20(german%20band)_1.txt)	rulin' the earth	31	rulin' the earth	0.8637125
+-docstart- (green%20carnation_3.txt)	trail of tears	51	trail of tears (band)	0.86364037
+-docstart- (riddare%20av%20koden_0.txt)	finntroll	146	finntroll	0.8615
+-docstart- (deep%20purple_7.txt)	deep purple debut tour	2	deep purple debut tour	0.86127496
+-docstart- (boss%20(australian%20band)_0.txt)	def leppard	35	def leppard	0.86105716
+-docstart- (enslaved%20(band)_4.txt)	blodhemn	118	blodhemn	0.86077917
+-docstart- (thyrfing_3.txt)	hels vite	123	hels vite	0.8602357
+-docstart- (boss%20(australian%20band)_0.txt)	ratt	73	ratt	0.8602214
+-docstart- (boss%20(australian%20band)_0.txt)	whitesnake	92	whitesnake	0.85994285
+-docstart- (gotthard%20(band)_2.txt)	aerosmith	100	aerosmith	0.8598
+-docstart- (scorpions%20(band)_3.txt)	fly to the rainbow	42	fly to the rainbow	0.8597182
+-docstart- (thyrfing_3.txt)	thyrfing	21	thyrfing (album)	0.8596643
+-docstart- (thyrfing_3.txt)	vansinnesvisor	77	vansinnesvisor	0.85966426
+-docstart- (thyrfing_3.txt)	farsotstider	101	farsotstider	0.85966426
+-docstart- (led%20zeppelin_24.txt)	stairway to heaven	225	stairway to heaven: led zeppelin uncensored	0.8592445
+-docstart- (enslaved%20(band)_4.txt)	monumension	172	monumension	0.85849166
+-docstart- (enslaved%20(band)_4.txt)	axioma ethica odini	265	axioma ethica odini	0.8584875
+-docstart- (suidakra_1.txt)	signs for the fallen	141	signs for the fallen	0.85843503
+-docstart- (suidakra_1.txt)	lupine essence	21	lupine essence	0.85843503
+-docstart- (suidakra_1.txt)	lays from afar	69	lays from afar	0.85843
+-docstart- (girlschool_6.txt)	nightmare at maple cross	201	nightmare at maple cross	0.8583616
+-docstart- (gotthard%20(band)_2.txt)	ac/dc	44	ac/dc	0.85815835
+-docstart- (boss%20(australian%20band)_0.txt)	dokken	49	dokken	0.8579786
+-docstart- (suidakra_1.txt)	emprise to avalon	114	emprise to avalon	0.857845
+-docstart- (enslaved%20(band)_4.txt)	below the lights	193	below the lights	0.85751665
+-docstart- (tourniquet%20(band)_2.txt)	crawl to china	102	crawl to china	0.85729444
+-docstart- (tourniquet%20(band)_2.txt)	collected works of tourniquet	63	the collected works of tourniquet	0.85729444
+-docstart- (girlschool_6.txt)	screaming blue murder	98	screaming blue murder (girlschool album)	0.8571615
+-docstart- (enslaved%20(band)_4.txt)	ruun	232	ruun	0.8570292
+-docstart- (rush%20(band)_16.txt)	grace under pressure	208	grace under pressure (rush album)	0.8569579
+-docstart- (scorpions%20(band)_3.txt)	virgin killer	104	virgin killer	0.85649997
+-docstart- (seraphim%20(band)_1.txt)	equal spirit	73	the equal spirit	0.8563625
+-docstart- (behemoth%20(band)_5.txt)	bullet for my valentine	113	bullet for my valentine	0.856275
+-docstart- (tourniquet%20(band)_2.txt)	acoustic archives	126	acoustic archives	0.85599446
+-docstart- (gotthard%20(band)_2.txt)	van halen	86	van halen	0.85555005
+-docstart- (tourniquet%20(band)_2.txt)	microscopic view of a telescopic realm	153	microscopic view of a telescopic realm	0.8551111
+-docstart- (enslaved%20(band)_4.txt)	vikingligr veldi	64	vikingligr veldi	0.8549
+-docstart- (pain%20(musical%20project)_1.txt)	nothing remains the same	52	nothing remains the same	0.8543429
+-docstart- (prospect%20(slovenian%20band)_0.txt)	fates warning	43	fates warning	0.853925
+-docstart- (gotthard%20(band)_2.txt)	deep purple	63	deep purple	0.853925
+-docstart- (madder%20mortem_1.txt)	deadlands	60	deadlands (album)	0.8539125
+-docstart- (rush%20(band)_16.txt)	permanent waves	141	permanent waves	0.8536711
+-docstart- (riddare%20av%20koden_0.txt)	turisas	160	turisas	0.85365003
+-docstart- (m.ill.ion_2.txt)	thin lizzy	65	thin lizzy	0.853425
+-docstart- (susperia_0.txt)	susperia	8	susperia	0.8532667
+-docstart- (tourniquet%20(band)_2.txt)	where moth and rust destroy	201	where moth and rust destroy	0.8529445
+-docstart- (pain%20(musical%20project)_1.txt)	cynic paradise	147	cynic paradise	0.8529357
+-docstart- (karavan_2.txt)	gardish	51	karavan	0.8528167
+-docstart- (pain%20(musical%20project)_1.txt)	psalms of extinction	117	psalms of extinction	0.8526643
+-docstart- (rata%20blanca_2.txt)	rata blanca vii	176	rata blanca vii	0.85255
+-docstart- (rata%20blanca_2.txt)	magos, espadas y rosas	49	magos, espadas y rosas	0.85255
+-docstart- (rata%20blanca_2.txt)	la llave de la puerta secreta	230	la llave de la puerta secreta	0.85255
+-docstart- (therion%20(band)_8.txt)	lepaca kliffoth	61	lepaca kliffoth	0.85251427
+-docstart- (therion%20(band)_8.txt)	beyond sanctorum	26	beyond sanctorum	0.85251427
+-docstart- (therion%20(band)_8.txt)	sirius b	230	sirius b (album)	0.85237503
+-docstart- (therion%20(band)_8.txt)	sitra ahra	290	sitra ahra (album)	0.85237145
+-docstart- (rata%20blanca_2.txt)	entre el cielo y el infierno	138	entre el cielo y el infierno	0.852355
+-docstart- (therion%20(band)_8.txt)	theli	86	theli (album)	0.8522322
+-docstart- (therion%20(band)_8.txt)	secret of the runes	201	secret of the runes (album)	0.8522322
+-docstart- (therion%20(band)_8.txt)	deggial	184	deggial	0.8522322
+-docstart- (wastefall_4.txt)	fallen stars and rising scars	2	fallen stars and rising scars	0.85195
+-docstart- (rata%20blanca_2.txt)	el reino olvidado	269	el reino olvidado	0.85156
+-docstart- (therion%20(band)_8.txt)	crowning of atlantis	154	crowning of atlantis	0.85139644
+-docstart- (kmfdm_8.txt)	hau ruck	201	hau ruck	0.85098827
+-docstart- (kmfdm_8.txt)	uaioe	44	uaioe	0.8508736
+-docstart- (finntroll_4.txt)	visor om slutet	78	visor om slutet	0.8506501
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	nightwish	512	nightwish	0.85053885
+-docstart- (kmfdm_8.txt)	tohuvabohu	219	tohuvabohu (album)	0.85052943
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	amberian dawn	603	amberian dawn	0.85033333
+-docstart- (kmfdm_8.txt)	xtort	124	xtort	0.8503
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	sonata arctica	431	sonata arctica	0.85019004
+-docstart- (finntroll_4.txt)	midnattens widunder	28	midnattens widunder	0.85
+-docstart- (finntroll_4.txt)	ur jordens djup	126	ur jordens djup	0.8499917
+-docstart- (riddare%20av%20koden_0.txt)	scar symmetry	108	scar symmetry	0.8499136
+-docstart- (lux%20occulta_2.txt)	maior arcana	100	maior arcana: the words that turn flesh into light	0.84986424
+-docstart- (finntroll_4.txt)	nifelvind	151	nifelvind	0.84967506
+-docstart- (therion%20(band)_8.txt)	gothic kabbalah	265	gothic kabbalah	0.8490286
+-docstart- (i%20(band)_0.txt)	gorgoroth	85	gorgoroth	0.84880555
+-docstart- (kmfdm_8.txt)	skold vs. kmfdm	239	skold vs. kmfdm	0.8487765
+-docstart- (ac%2fdc_21.txt)	stiff upper lip	378	stiff upper lip (album)	0.8487098
+-docstart- (battlelore_2.txt)	third age of the sun	85	third age of the sun	0.84868336
+-docstart- (battlelore_2.txt)	where the shadows lie	31	...where the shadows lie	0.84804165
+-docstart- (to%2fdie%2ffor_5.txt)	wounds wide open	76	wounds wide open	0.8480333
+-docstart- (lux%20occulta_2.txt)	my guardian anger	122	my guardian anger	0.8476143
+-docstart- (bring%20me%20the%20horizon_4.txt)	bring me the horizon	0	bring me the horizon	0.84745
+-docstart- (finntroll_4.txt)	jaktens tid	57	jaktens tid	0.8473834
+-docstart- (aura%20noir_1.txt)	dreams like deserts	30	dreams like deserts	0.8473834
+-docstart- (lux%20occulta_2.txt)	forever alone, immortal	49	forever alone, immortal	0.8473357
+-docstart- (dirge%20within_0.txt)	chimaira	78	chimaira	0.8472722
+-docstart- (susperia_0.txt)	old man' s child	55	old man's child	0.84673333
+-docstart- (gotthard%20(band)_2.txt)	whitesnake	51	whitesnake	0.846725
+-docstart- (aura%20noir_1.txt)	deep tracts of hell	107	deep tracts of hell	0.84640837
+-docstart- (boss%20(australian%20band)_0.txt)	bad company	21	bad company	0.8462143
+-docstart- (rush%20(band)_16.txt)	vapor trails	370	vapor trails	0.84609044
+-docstart- (aura%20noir_1.txt)	hades rise	173	hades rise	0.8460833
+-docstart- (aura%20noir_1.txt)	black thrash attack	71	black thrash attack	0.84575
+-docstart- (peccatum_2.txt)	strangling from within	2	strangling from within	0.8457416
+-docstart- (dimmu%20borgir_5.txt)	shagrath	49	shagrath	0.8455875
+-docstart- (battlelore_2.txt)	evernight	115	evernight (album)	0.8447666
+-docstart- (orange%20goblin_2.txt)	man' s ruin records	146	man's ruin records	0.8447
+-docstart- (gotthard%20(band)_2.txt)	bon jovi	76	bon jovi	0.84444165
+-docstart- (judas%20priest_11.txt)	mercenaries of metal tour	716	mercenaries of metal tour	0.84420913
+-docstart- (susperia_0.txt)	tjodalv	32	tjodalv	0.8437916
+-docstart- (lux%20occulta_2.txt)	mother and the enemy	153	the mother and the enemy	0.8436857
+-docstart- (riddare%20av%20koden_0.txt)	symphony x	86	symphony x	0.84367275
+-docstart- (boss%20(australian%20band)_0.txt)	ac/dc	13	ac/dc	0.8431357
+-docstart- (riddare%20av%20koden_0.txt)	iced earth	134	iced earth	0.84295905
+-docstart- (riddare%20av%20koden_0.txt)	kalmah	78	kalmah	0.84242725
+-docstart- (battlelore_2.txt)	sword' s song	62	sword's song	0.84183335
+-docstart- (bring%20me%20the%20horizon_4.txt)	dir en grey	95	dir en grey	0.84157
+-docstart- (tarot%20(band)_1.txt)	follow me into madness	51	follow me into madness	0.8411773
+-docstart- (cruachan%20(band)_0.txt)	tuatha na gael	28	tuatha na gael	0.84117496
+-docstart- (force%20of%20evil%20(band)_3.txt)	give me your soul... please	109	give me your soul...please	0.8409
+-docstart- (girlschool_6.txt)	girlschool	256	girlschool	0.8404231
+-docstart- (judas%20priest_11.txt)	fuel for life tour	690	fuel for life tour	0.8403111
+-docstart- (pyramaze_2.txt)	wuthering heights	103	wuthering heights (band)	0.83986664
+-docstart- (scum%20(band)_0.txt)	samoth	10	samoth	0.8395154
+-docstart- (loudness%20(band)_5.txt)	king of pain	709	king of pain (album)	0.8393296
+-docstart- (prospect%20(slovenian%20band)_0.txt)	iron maiden	76	iron maiden	0.839225
+-docstart- (bring%20me%20the%20horizon_4.txt)	mindless self indulgence	37	mindless self indulgence	0.83922
+-docstart- (pyramaze_2.txt)	tad morose	79	tad morose	0.8392167
+-docstart- (buffalo%20(band)_5.txt)	only want you for your body	81	only want you for your body	0.8389286
+-docstart- (enslaved%20(band)_4.txt)	hordanes land	36	hordanes land	0.8387208
+-docstart- (rising%20dream_0.txt)	motorhead	13	motörhead	0.8382375
+-docstart- (cruachan%20(band)_0.txt)	morrigan' s call	118	the morrigan's call	0.8369167
+-docstart- (blackguard%20(band)_0.txt)	ensiferum	180	ensiferum	0.83655584
+-docstart- (show%20ya_3.txt)	outerlimits	143	outerlimits	0.8364111
+-docstart- (dirge%20within_0.txt)	devildriver	52	devildriver	0.83595
+-docstart- (led%20zeppelin_24.txt)	when the levee breaks	87	when the levee breaks	0.83590317
+-docstart- (helloween_2.txt)	kai hansen	188	kai hansen	0.8358923
+-docstart- (hevein_2.txt)	soilwork	33	soilwork	0.83578753
+-docstart- (behemoth%20(band)_5.txt)	cannibal corpse	147	cannibal corpse	0.834715
+-docstart- (bathory%20(band)_1.txt)	nordland ii	310	nordland ii	0.8346367
+-docstart- (gotthard%20(band)_2.txt)	led zeppelin	30	led zeppelin	0.8343166
+-docstart- (bathory%20(band)_1.txt)	blood on ice	239	blood on ice	0.8338533
+-docstart- (clandestine%20blaze_1.txt)	fist of the northern destroyer	146	clandestine blaze	0.8337667
+-docstart- (clandestine%20blaze_1.txt)	deliverers of faith	218	clandestine blaze	0.8337667
+-docstart- (buffalo%20(band)_5.txt)	average rock' n' roller	144	average rock 'n' roller	0.83305
+-docstart- (pyramaze_2.txt)	bloodbound	38	bloodbound	0.83203334
+-docstart- (blackguard%20(band)_0.txt)	moonsorrow	232	moonsorrow	0.8314911
+-docstart- (force%20of%20evil%20(band)_3.txt)	king diamond	31	king diamond	0.8313786
+-docstart- (passenger%20(swedish%20band)_2.txt)	gothenburg metal	26	melodic death metal	0.831375
+-docstart- (helloween_2.txt)	pink cream 69	113	pink cream 69	0.8312154
+-docstart- (ancient%20rites_1.txt)	deicide	58	deicide (band)	0.8311282
+-docstart- (ancient%20rites_1.txt)	mercyful fate	175	mercyful fate	0.83088124
+-docstart- (helloween_2.txt)	master of the rings	0	master of the rings	0.83076924
+-docstart- (godflesh_2.txt)	godflesh	8	godflesh	0.8307167
+-docstart- (helloween_2.txt)	time of the oath	25	the time of the oath (song)	0.8306192
+-docstart- (paradise%20lost%20(band)_2.txt)	draconian times	92	draconian times	0.8304666
+-docstart- (helloween_2.txt)	better than raw	46	better than raw	0.8304654
+-docstart- (acid%20drinkers_4.txt)	vile vicious vision	69	vile vicious vision	0.8300722
+-docstart- (acid%20drinkers_4.txt)	state of mind report	149	the state of mind report	0.8300722
+-docstart- (acid%20drinkers_4.txt)	infernal connection	116	infernal connection	0.8300722
+-docstart- (acid%20drinkers_4.txt)	high proof cosmic milk	179	high proof cosmic milk	0.8300722
+-docstart- (acid%20drinkers_4.txt)	dirty money, dirty tricks	13	dirty money, dirty tricks	0.8300722
+-docstart- (bathory%20(band)_1.txt)	blood fire death	128	blood fire death	0.82941335
+-docstart- (judas%20priest_14.txt)	nostradamus	397	nostradamus (album)	0.829342
+-docstart- (vintersorg_3.txt)	waterclime	107	andreas hedlund	0.82912856
+-docstart- (vintersorg_3.txt)	vintersorg	47	andreas hedlund	0.8291285
+-docstart- (led%20zeppelin_16.txt)	soundgarden	307	soundgarden	0.8289654
+-docstart- (nightwish_8.txt)	dark passion play	59	dark passion play	0.8287035
+-docstart- (bathory%20(band)_1.txt)	under the sign of the black mark	86	under the sign of the black mark	0.8286333
+-docstart- (asphyx_1.txt)	death... the brutal way	524	death...the brutal way	0.8284334
+-docstart- (nightwish_8.txt)	wish i had an angel	90	wish i had an angel	0.82801425
+-docstart- (apocalyptica_10.txt)	sepultura	84	sepultura	0.8274437
+-docstart- (vintersorg_3.txt)	cronian	95	cronian	0.82717144
+-docstart- (judas%20priest_11.txt)	glenn tipton	301	glenn tipton	0.82696253
+-docstart- (rising%20dream_0.txt)	hammerfall	61	hammerfall	0.82623124
+-docstart- (lion%20(band)_2.txt)	whitesnake	76	whitesnake	0.825825
+-docstart- (ancient%20(band)_4.txt)	cainian chronicle	54	the cainian chronicle	0.8257786
+-docstart- (rising%20dream_0.txt)	helloween	50	helloween	0.8255
+-docstart- (led%20zeppelin_16.txt)	guns n' roses	228	guns n' roses	0.8252
+-docstart- (ancient%20rites_1.txt)	morbid angel	137	morbid angel	0.825125
+-docstart- (blackguard%20(band)_0.txt)	voivod	224	voivod (band)	0.8251165
+-docstart- (blackguard%20(band)_0.txt)	cryptopsy	204	cryptopsy	0.8250294
+-docstart- (pink%20cream%2069_1.txt)	sonic dynamite	161	sonic dynamite	0.8248458
+-docstart- (peccatum_2.txt)	oh, my regrets	34	peccatum	0.8248333
+-docstart- (apocalyptica_10.txt)	metallica	50	metallica	0.82475626
+-docstart- (behemoth%20(band)_5.txt)	marilyn manson	97	marilyn manson (band)	0.82471
+-docstart- (children%20of%20bodom_4.txt)	mastodon	129	mastodon (band)	0.8245063
+-docstart- (mercyful%20fate_5.txt)	best of mercyful fate	108	the best of mercyful fate	0.82431
+-docstart- (vintersorg_3.txt)	otyg	59	otyg	0.82409286
+-docstart- (susperia_0.txt)	dimmu borgir	41	dimmu borgir	0.8238584
+-docstart- (carpathian%20forest_0.txt)	defending the throne of evil	168	defending the throne of evil	0.82378125
+-docstart- (ancient%20rites_1.txt)	cradle of filth	97	cradle of filth	0.823775
+-docstart- (behemoth%20(band)_5.txt)	job for a cowboy	182	job for a cowboy	0.82274497
+-docstart- (lacrimas%20profundere_0.txt)	embrace and the eclipse	124	lacrimas profundere	0.822725
+-docstart- (lacrimas%20profundere_0.txt)	and the wings embraced us	17	lacrimas profundere	0.822725
+-docstart- (vintersorg_3.txt)	borknagar	65	borknagar	0.82267857
+-docstart- (primordial%20(band)_2.txt)	spirit the earth aflame	70	spirit the earth aflame	0.82254374
+-docstart- (thyrfing_3.txt)	valdr galga	39	thyrfing	0.8224071
+-docstart- (axewitch_0.txt)	lord of flies	63	the lord of flies	0.82196
+-docstart- (peccatum_2.txt)	moribund people	113	the moribund people	0.82189167
+-docstart- (wastefall_4.txt)	sleaszy rider records	33	sleaszy rider records	0.82157505
+-docstart- (cadaver%20(band)_1.txt)	aura noir	86	aura noir	0.82157
+-docstart- (dio%20(band)_5.txt)	special from the spectrum	16	a special from the spectrum	0.8213556
+-docstart- (carpathian%20forest_0.txt)	morbid fascination of death	131	morbid fascination of death	0.82133126
+-docstart- (carpathian%20forest_0.txt)	through chasm, caves and titan woods	28	through chasm, caves and titan woods	0.821325
+-docstart- (carpathian%20forest_0.txt)	strange old brew	105	strange old brew	0.8210813
+-docstart- (rising%20dream_0.txt)	anthrax	41	anthrax (american band)	0.8209454
+-docstart- (michael%20schenker%20group_0.txt)	assault attack	22	assault attack	0.820785
+-docstart- (dio%20(band)_5.txt)	holy diver	200	holy diver	0.82048887
+-docstart- (krokus%20(band)_0.txt)	pay it in metal	75	pain killer (krokus album)	0.8202583
+-docstart- (krokus%20(band)_0.txt)	krokus	28	krokus (album)	0.8200958
+-docstart- (aria%20(band)_2.txt)	blood for blood	109	krov za krov	0.8200795
+-docstart- (krokus%20(band)_0.txt)	to rock or not to be	345	to rock or not to be	0.82001245
+-docstart- (mnemic_2.txt)	machine head	100	machine head (band)	0.81993747
+-docstart- (black%20sabbath_5.txt)	black sabbath	92	black sabbath	0.8198278
+-docstart- (rata%20blanca_2.txt)	guerrero del arco iris	81	rata blanca	0.819805
+-docstart- (carpathian%20forest_0.txt)	black shining leather	74	black shining leather	0.8196125
+-docstart- (bonfire%20(band)_0.txt)	longing for you ep	93	longing for you ep	0.81961
+-docstart- (bonfire%20(band)_0.txt)	cacumen	12	cacumen (album)	0.81961
+-docstart- (bonfire%20(band)_0.txt)	bad widow	74	bad widow	0.81961
+-docstart- (primordial%20(band)_2.txt)	to the nameless dead	164	to the nameless dead	0.8195938
+-docstart- (krokus%20(band)_0.txt)	rock the block	393	rock the block	0.81952083
+-docstart- (krokus%20(band)_0.txt)	metal rendez-vous	100	metal rendez-vous	0.8187083
+-docstart- (ancient%20rites_1.txt)	sepultura	217	sepultura	0.818625
+-docstart- (accept_2.txt)	balls to the wall	91	balls to the wall	0.81861806
+-docstart- (scum%20(band)_0.txt)	burzum	193	burzum	0.81839615
+-docstart- (scum%20(band)_0.txt)	gorgoroth	88	gorgoroth	0.8174923
+-docstart- (krokus%20(band)_0.txt)	one vice at a time	153	one vice at a time	0.81731665
+-docstart- (children%20of%20bodom_4.txt)	lamb of god	116	lamb of god (band)	0.817255
+-docstart- (primordial%20(band)_2.txt)	gathering wilderness	134	the gathering wilderness	0.81715
+-docstart- (heaven%20shall%20burn_4.txt)	whatever it may take	54	whatever it may take	0.81666875
+-docstart- (pretty%20maids_4.txt)	deep purple	97	deep purple	0.81652856
+-docstart- (show%20ya_3.txt)	masquerade show	28	masquerade show	0.81645554
+-docstart- (helloween_2.txt)	helloween	74	helloween	0.8162885
+-docstart- (led%20zeppelin_16.txt)	pearl jam	320	pearl jam	0.81624997
+-docstart- (deathchain_1.txt)	deathrash assault	108	deathrash assault	0.8162429
+-docstart- (deathchain_1.txt)	deadmeat disciples	43	deadmeat disciples	0.8162429
+-docstart- (apocalyptica_10.txt)	faith no more	34	faith no more	0.81618124
+-docstart- (children%20of%20bodom_4.txt)	unholy alliance tour	68	the unholy alliance tour	0.816175
+-docstart- (adagio%20(band)_2.txt)	archangels in black	89	archangels in black	0.81608003
+-docstart- (machines%20of%20grace_1.txt)	circle ii circle	33	circle ii circle	0.8159056
+-docstart- (scum%20(band)_0.txt)	thou shalt suffer	118	thou shalt suffer	0.81554234
+-docstart- (the%20black%20league_1.txt)	utopia a. d	24	utopia a.d.	0.81529
+-docstart- (exit%20ten_0.txt)	killswitch engage	31	killswitch engage	0.81529
+-docstart- (mnemic_2.txt)	soilwork	182	soilwork	0.81518334
+-docstart- (suidakra_1.txt)	auld lang syne	45	auld lang syne (suidakra album)	0.81514496
+-docstart- (led%20zeppelin_16.txt)	iron maiden	129	iron maiden	0.81503665
+-docstart- (airbourne%20(band)_3.txt)	nhl 09	157	nhl 09	0.8150333
+-docstart- (mnemic_2.txt)	fear factory	155	fear factory	0.8147042
+-docstart- (scum%20(band)_0.txt)	satyricon	99	satyricon (band)	0.81463075
+-docstart- (crossfire%20(band)_0.txt)	def leppard	109	def leppard	0.814515
+-docstart- (double%20dragon%20(band)_2.txt)	devildriver	136	devildriver	0.8144594
+-docstart- (riddare%20av%20koden_0.txt)	sepultura	123	sepultura	0.8142545
+-docstart- (passenger%20(swedish%20band)_2.txt)	nu metal	45	nu metal	0.8142125
+-docstart- (warmen_5.txt)	beyond abilities	46	beyond abilities	0.81412
+-docstart- (adagio%20(band)_2.txt)	sanctus ignis	28	sanctus ignis	0.81412
+-docstart- (ram-zet_7.txt)	eternal tears of sorrow	126	eternal tears of sorrow	0.81372774
+-docstart- (ram-zet_7.txt)	before the bleeding sun	165	eternal tears of sorrow	0.81372774
+-docstart- (dirge%20within_0.txt)	static-x	88	static-x	0.8132833
+-docstart- (double%20dragon%20(band)_4.txt)	judas priest	108	judas priest	0.8132292
+-docstart- (children%20of%20bodom_2.txt)	sinergy	36	sinergy	0.81315714
+-docstart- (necrodeath_0.txt)	celtic frost	55	celtic frost	0.81295
+-docstart- (led%20zeppelin_24.txt)	over the hills and far away	146	over the hills and far away (led zeppelin song)	0.81276417
+-docstart- (amebix_2.txt)	joy division	108	joy division	0.81274164
+-docstart- (kmfdm_2.txt)	kmfdm	134	kmfdm	0.8125062
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	for my pain	359	for my pain...	0.8125
+-docstart- (blackguard%20(band)_0.txt)	krisiun	215	krisiun	0.81233823
+-docstart- (children%20of%20bodom_2.txt)	therion	86	therion (band)	0.8123286
+-docstart- (blackguard%20(band)_0.txt)	therion	156	therion (band)	0.8119941
+-docstart- (deathchain_1.txt)	deathchain/deathbound split	71	deathchain / deathbound	0.81177855
+-docstart- (orange%20goblin_2.txt)	chrono. naut/nuclear guru	169	chrono.naut / nuclear guru	0.81176
+-docstart- (deep%20purple_7.txt)	deep purple secret mexican tour	747	deep purple secret mexican tour	0.81144166
+-docstart- (judas%20priest_11.txt)	judas priest	8	judas priest	0.8113333
+-docstart- (blackguard%20(band)_0.txt)	korpiklaani	244	korpiklaani	0.8113029
+-docstart- (warmen_5.txt)	japanese hospitality	97	japanese hospitality	0.81098
+-docstart- (royal%20hunt_0.txt)	land of broken hearts	14	land of broken hearts	0.81091565
+-docstart- (girlschool_0.txt)	deep purple	199	deep purple	0.810875
+-docstart- (children%20of%20bodom_2.txt)	dimmu borgir	60	dimmu borgir	0.8106429
+-docstart- (susperia_0.txt)	satyricon	84	satyricon (band)	0.81046665
+-docstart- (crossfire%20(band)_0.txt)	whitesnake	97	whitesnake	0.81039
+-docstart- (boss%20(australian%20band)_0.txt)	led zeppelin	58	led zeppelin	0.81036425
+-docstart- (deadsoul%20tribe_2.txt)	deadsoul tribe	28	deadsoul tribe	0.8101417
+-docstart- (lion%20(band)_2.txt)	burning rain	54	burning rain	0.81013334
+-docstart- (crossfire%20(band)_0.txt)	guns n' roses	76	guns n' roses	0.80980504
+-docstart- (double%20dragon%20(band)_4.txt)	iron maiden	125	iron maiden	0.80980414
+-docstart- (hatesphere_7.txt)	sickness within	94	hatesphere	0.80966663
+-docstart- (queenadreena_1.txt)	butcher and the butterfly	100	the butcher and the butterfly	0.80962276
+-docstart- (mnemic_2.txt)	meshuggah	114	meshuggah	0.8091458
+-docstart- (nazareth%20(band)_0.txt)	loud' n' proud	386	loud 'n' proud	0.80891824
+-docstart- (hevein_2.txt)	sepultura	54	sepultura	0.808825
+-docstart- (lordi_7.txt)	hard rock hallelujah	144	hard rock hallelujah	0.8086857
+-docstart- (red%20harvest%20(band)_3.txt)	internal punishment programs	175	internal punishment programs	0.808625
+-docstart- (helix%20(band)_9.txt)	long way to heaven	199	long way to heaven	0.8085658
+-docstart- (helix%20(band)_9.txt)	white lace & black leather	45	white lace & black leather	0.80846053
+-docstart- (red%20harvest%20(band)_3.txt)	there' s beauty in the purity of sadness	37	there's beauty in the purity of sadness	0.808425
+-docstart- (red%20harvest%20(band)_3.txt)	nomindsland	16	nomindsland	0.808425
+-docstart- (red%20harvest%20(band)_3.txt)	hybreed	87	hybreed	0.808425
+-docstart- (helix%20(band)_9.txt)	back for another taste	303	back for another taste	0.80835795
+-docstart- (kat%20(band)_1.txt)	deep purple	69	deep purple	0.80817497
+-docstart- (amoral%20(band)_2.txt)	reptile ride	97	reptile ride	0.80784166
+-docstart- (apocalyptica_10.txt)	black sabbath	2	black sabbath	0.8076
+-docstart- (wolfmother_3.txt)	wolfmother	111	wolfmother	0.80719167
+-docstart- (double%20dragon%20(band)_2.txt)	lacuna coil	149	lacuna coil	0.8071
+-docstart- (red%20harvest%20(band)_3.txt)	sick transit gloria mundi	140	sick transit gloria mundi	0.80647504
+-docstart- (girlschool_0.txt)	quiet riot	164	quiet riot	0.80647
+-docstart- (persian%20risk_2.txt)	quiet riot	54	quiet riot	0.80604583
+-docstart- (girlschool_0.txt)	black sabbath	102	black sabbath	0.80598253
+-docstart- (sinawe_0.txt)	shin jung-hyeon	35	shin jung-hyeon	0.80588996
+-docstart- (puya%20(band)_1.txt)	sepultura	20	sepultura	0.805875
+-docstart- (exit%20ten_0.txt)	radiohead	73	radiohead	0.8051
+-docstart- (carcass%20(band)_4.txt)	earache records	31	earache records	0.80509996
+-docstart- (double%20dragon%20(band)_4.txt)	black sabbath	93	black sabbath	0.8050708
+-docstart- (nightwish_8.txt)	angels fall first	330	angels fall first	0.80490005
+-docstart- (helix%20(band)_9.txt)	walkin' the razor' s edge	113	walkin' the razor's edge	0.80485785
+-docstart- (ram-zet_7.txt)	for my pain	77	for my pain...	0.8047889
+-docstart- (led%20zeppelin_16.txt)	black crowes	450	the black crowes	0.80478436
+-docstart- (nightwish_8.txt)	bye bye beautiful	28	bye bye beautiful	0.80462503
+-docstart- (aria%20(band)_2.txt)	baptism by fire	274	kreshchenie ognyom	0.8044605
+-docstart- (rising%20dream_0.txt)	soulfly	24	soulfly	0.8044125
+-docstart- (double%20dragon%20(band)_4.txt)	faith no more	207	faith no more	0.80424166
+-docstart- (led%20zeppelin_16.txt)	def leppard	294	def leppard	0.80422306
+-docstart- (apocalyptica_10.txt)	rammstein	72	rammstein	0.804175
+-docstart- (rata%20blanca_2.txt)	el libro oculto	113	el libro oculto	0.804125
+-docstart- (rata%20blanca_2.txt)	el camino del fuego	201	el camino del fuego	0.804125
+-docstart- (lordi_1.txt)	lordi	29	lordi	0.80392504
+-docstart- (lordi_1.txt)	finland in the eurovision song contest 2006	47	finland in the eurovision song contest 2006	0.80392504
+-docstart- (pretty%20maids_4.txt)	thin lizzy	71	thin lizzy	0.80392146
+-docstart- (airbourne%20(band)_3.txt)	nascar 09	93	nascar 09	0.80392
+-docstart- (airbourne%20(band)_3.txt)	madden nfl 09	291	madden nfl 09	0.8039187
+-docstart- (evergrey_10.txt)	dark discovery	18	the dark discovery	0.8036
+-docstart- (amoral%20(band)_2.txt)	wound creations	30	wound creations	0.8035917
+-docstart- (aura%20noir_0.txt)	satyricon	128	satyricon (band)	0.80353
+-docstart- (lordi_1.txt)	hard rock hallelujah	125	hard rock hallelujah	0.803425
+-docstart- (girlschool_0.txt)	iron maiden	132	iron maiden	0.80333495
+-docstart- (girlschool_0.txt)	twisted sister	260	twisted sister	0.8033325
+-docstart- (dirge%20within_0.txt)	bury your dead	98	bury your dead	0.80305
+-docstart- (led%20zeppelin_16.txt)	black sabbath	25	black sabbath	0.8030133
+-docstart- (evergrey_10.txt)	solitude, dominance, tragedy	42	solitude, dominance, tragedy	0.80294585
+-docstart- (sinawe_0.txt)	boohwal	25	boohwal	0.80274
+-docstart- (airbourne%20(band)_3.txt)	madden nfl 08	142	madden nfl 08	0.8026084
+-docstart- (led%20zeppelin_16.txt)	lynyrd skynyrd	243	lynyrd skynyrd	0.80252504
+-docstart- (ancient%20rites_1.txt)	rotting christ	249	rotting christ	0.802325
+-docstart- (led%20zeppelin_16.txt)	megadeth	160	megadeth	0.8020934
+-docstart- (helix%20(band)_0.txt)	quiet riot	124	quiet riot	0.80196667
+-docstart- (helloween_6.txt)	metal jukebox	147	metal jukebox	0.80195713
+-docstart- (blackguard%20(band)_0.txt)	warbringer	134	warbringer	0.8018441
+-docstart- (crossfire%20(band)_0.txt)	bon jovi	66	bon jovi	0.80176
+-docstart- (asphyx_1.txt)	asphyx	299	asphyx (album)	0.8017188
+-docstart- (ancient%20rites_1.txt)	stormtroopers of death	151	stormtroopers of death	0.80135
+-docstart- (necrodeath_0.txt)	kreator	46	kreator	0.80117
+-docstart- (evergrey_10.txt)	recreation day	108	recreation day	0.80114585
+-docstart- (within%20temptation_3.txt)	lacuna coil	88	lacuna coil	0.8009813
+-docstart- (helix%20(band)_0.txt)	whitesnake	91	whitesnake	0.80097497
+-docstart- (blackguard%20(band)_0.txt)	lacuna coil	110	lacuna coil	0.80068827
+-docstart- (black%20sabbath_5.txt)	mob rules	20	the mob rules	0.80065554
+-docstart- (angeli%20di%20pietra_3.txt)	sirenia	78	sirenia (band)	0.8005643
+-docstart- (airbourne%20(band)_3.txt)	nascar 08	268	nascar 08	0.80055
+-docstart- (evergrey_10.txt)	monday morning apocalypse	217	monday morning apocalypse	0.8004917
+-docstart- (hevein_2.txt)	apocalyptica	18	apocalyptica	0.8004875
+-docstart- (cadaver%20(band)_1.txt)	ved buens ende	51	ved buens ende	0.80001
+-docstart- (double%20dragon%20(band)_2.txt)	every time i die	177	every time i die	0.799875
+-docstart- (amebix_2.txt)	killing joke	137	killing joke	0.79966664
+-docstart- (tourniquet%20(band)_2.txt)	vanishing lessons	5	vanishing lessons	0.7995556
+-docstart- (led%20zeppelin_16.txt)	ac/dc	268	ac/dc	0.79939616
+-docstart- (ancient%20rites_1.txt)	malevolent creation	228	malevolent creation	0.7992625
+-docstart- (airbourne%20(band)_3.txt)	nhl 08	279	nhl 08	0.7991643
+-docstart- (pretty%20maids_4.txt)	led zeppelin	83	led zeppelin	0.7988786
+-docstart- (bonfire%20(band)_3.txt)	one acoustic night	47	one acoustic night (dvd)	0.79883003
+-docstart- (bonfire%20(band)_3.txt)	early days parts 1-5	17	the early days of bonfire	0.79883003
+-docstart- (bring%20me%20the%20horizon_4.txt)	black tide	80	black tide	0.7987921
+-docstart- (heavens%20basement_0.txt)	black stone cherry	102	black stone cherry	0.79878575
+-docstart- (amebix_2.txt)	gothic rock	51	gothic rock	0.79869163
+-docstart- (catamenia%20(band)_5.txt)	eskhata	113	eskhata	0.7986834
+-docstart- (led%20zeppelin_16.txt)	limp bizkit	357	limp bizkit	0.79840624
+-docstart- (skyclad%20(band)_7.txt)	wayward sons of mother earth	32	the wayward sons of mother earth	0.79839087
+-docstart- (airbourne%20(band)_3.txt)	rock band 2	209	rock band 2	0.7982875
+-docstart- (led%20zeppelin_16.txt)	queens of the stone age	464	queens of the stone age	0.7980469
+-docstart- (girlschool_0.txt)	uriah heep	90	uriah heep (band)	0.797845
+-docstart- (puya%20(band)_1.txt)	red hot chili peppers	31	red hot chili peppers	0.79754996
+-docstart- (amebix_2.txt)	public image ltd	80	public image ltd	0.7973833
+-docstart- (mnemic_2.txt)	deftones	90	deftones	0.797225
+-docstart- (hurd%20(band)_4.txt)	judas priest	84	judas priest	0.7971611
+-docstart- (diamond%20head%20(band)_4.txt)	what' s in your head	176	what's in your head?	0.79635715
+-docstart- (the%20gathering%20(band)_3.txt)	nighttime birds	151	nighttime birds	0.7963313
+-docstart- (the%20gathering%20(band)_3.txt)	how to measure a planet	204	how to measure a planet?	0.7963313
+-docstart- (hurd%20(band)_4.txt)	iron maiden	65	iron maiden	0.79630005
+-docstart- (girlschool_0.txt)	zz top	156	zz top	0.796175
+-docstart- (the%20gathering%20(band)_3.txt)	almost a dance	63	almost a dance	0.79583126
+-docstart- (heaven%20shall%20burn_4.txt)	deaf to our prayers	102	deaf to our prayers	0.79583126
+-docstart- (scum%20(band)_0.txt)	ildjarn	181	ildjarn	0.7957731
+-docstart- (machines%20of%20grace_1.txt)	trans siberian orchestra	83	trans-siberian orchestra	0.7956444
+-docstart- (heavens%20basement_0.txt)	halestorm	219	halestorm	0.79551905
+-docstart- (persian%20risk_2.txt)	ratt	66	ratt	0.79542917
+-docstart- (beto%20v%c3%a1zquez%20infinity_2.txt)	nightwish	49	nightwish	0.7954278
+-docstart- (wolfmother_3.txt)	mgmt	53	mgmt	0.79542494
+-docstart- (led%20zeppelin_16.txt)	deep purple	47	deep purple	0.79529667
+-docstart- (diamond%20head%20(band)_4.txt)	death and progress	118	death and progress	0.7952357
+-docstart- (kat%20(band)_1.txt)	black sabbath	100	black sabbath	0.7951
+-docstart- (gotthard%20(band)_4.txt)	w. a. s. p	102	w.a.s.p.	0.7950916
+-docstart- (helix%20(band)_0.txt)	w. a. s. p	136	w.a.s.p.	0.7949375
+-docstart- (double%20dragon%20(band)_4.txt)	new wave of british heavy metal	51	new wave of british heavy metal	0.79460835
+-docstart- (ancient%20rites_1.txt)	judas priest	83	judas priest	0.7944844
+-docstart- (black%20sabbath_8.txt)	black sabbath	0	black sabbath	0.7944
+-docstart- (diamond%20head%20(band)_4.txt)	lightning to the nations	9	lightning to the nations	0.7943928
+-docstart- (hurd%20(band)_4.txt)	guns n' roses	100	guns n' roses	0.79432225
+-docstart- (pink%20cream%2069_1.txt)	pink cream 69	21	pink cream 69	0.79428756
+-docstart- (grenouer_2.txt)	cradle of filth	103	cradle of filth	0.79426295
+-docstart- (grenouer_2.txt)	warbringer	314	warbringer	0.79419076
+-docstart- (loudness%20(band)_5.txt)	hurricane eyes	311	hurricane eyes	0.7932182
+-docstart- (led%20zeppelin_16.txt)	whitesnake	495	whitesnake	0.7931406
+-docstart- (hurd%20(band)_4.txt)	metallica	54	metallica	0.7930223
+-docstart- (led%20zeppelin_24.txt)	whole lotta love	181	whole lotta love	0.7926123
+-docstart- (necrodeath_4.txt)	mater of all evil	84	mater of all evil	0.7924875
+-docstart- (necrodeath_4.txt)	into the macabre	27	into the macabre	0.7924875
+-docstart- (napalm%20death_16.txt)	meathook seed	110	meathook seed	0.79235
+-docstart- (led%20zeppelin_16.txt)	kasabian	392	kasabian	0.7922781
+-docstart- (apocalyptica_8.txt)	rammstein	1100	rammstein	0.7922667
+-docstart- (necrodeath_4.txt)	100 % hell	189	100% hell	0.79216254
+-docstart- (airbourne%20(band)_3.txt)	burnout paradise	2	burnout paradise	0.79216
+-docstart- (clawfinger_2.txt)	rammstein	59	rammstein	0.79215837
+-docstart- (necrodeath_4.txt)	draculea	209	draculea (album)	0.7916666
+-docstart- (led%20zeppelin_16.txt)	aerosmith	14	aerosmith	0.79163665
+-docstart- (napalm%20death_16.txt)	venomous concept	173	venomous concept	0.791565
+-docstart- (led%20zeppelin_16.txt)	nickelback	402	nickelback	0.7913
+-docstart- (loudness%20(band)_5.txt)	metal mad	665	metal mad	0.79118574
+-docstart- (behemoth%20(band)_7.txt)	thelema. 6	142	thelema.6	0.79118574
+-docstart- (led%20zeppelin_16.txt)	stone roses	344	the stone roses	0.7910531
+-docstart- (behemoth%20(band)_7.txt)	zos kia cultus	162	zos kia cultus (here and beyond)	0.7910428
+-docstart- (behemoth%20(band)_7.txt)	sventevith	30	sventevith (storming near the baltic)	0.7910428
+-docstart- (nightwish_11.txt)	marianna pellinen	286	nightwish	0.79098
+-docstart- (led%20zeppelin_16.txt)	metallica	149	metallica	0.7908467
+-docstart- (aria%20(band)_1.txt)	rammstein	22	rammstein	0.7908417
+-docstart- (grenouer_2.txt)	tesseract	82	tesseract (band)	0.7907778
+-docstart- (raging%20speedhorn_3.txt)	live and demos	69	live and demos	0.79068005
+-docstart- (behemoth%20(band)_7.txt)	pandemonic incantations	91	pandemonic incantations	0.7906214
+-docstart- (loits_1.txt)	moonspell	44	moonspell	0.7897442
+-docstart- (iron%20maiden_2.txt)	seventh son of a seventh son	206	seventh son of a seventh son	0.789605
+-docstart- (iron%20maiden_2.txt)	live after death	149	live after death	0.789605
+-docstart- (passenger%20(swedish%20band)_2.txt)	alternative metal	56	alternative metal	0.7896018
+-docstart- (led%20zeppelin_16.txt)	judas priest	115	judas priest	0.78941
+-docstart- (acid%20drinkers_2.txt)	megadeth	68	megadeth	0.78907144
+-docstart- (double%20dragon%20(band)_3.txt)	alice in chains	59	alice in chains	0.78902
+-docstart- (deathchain_1.txt)	poltergeist	16	poltergeist (album)	0.7887105
+-docstart- (led%20zeppelin_16.txt)	smashing pumpkins	186	the smashing pumpkins	0.7886846
+-docstart- (iron%20maiden_2.txt)	powerslave	104	powerslave	0.78863
+-docstart- (behemoth%20(band)_5.txt)	trivium	138	trivium (band)	0.7884897
+-docstart- (iron%20maiden_2.txt)	piece of mind	81	piece of mind	0.788435
+-docstart- (helix%20(band)_0.txt)	aerosmith	43	aerosmith	0.7882333
+-docstart- (overload%20(chinese%20rock%20band)_1.txt)	tang dynasty	35	tang dynasty	0.7877375
+-docstart- (iron%20maiden_2.txt)	number of the beast	52	the number of the beast (song)	0.787655
+-docstart- (brown%20brigade_0.txt)	brown brigade	0	brown brigade	0.78758335
+-docstart- (amoral%20(band)_2.txt)	decrowning	66	amoral (band)	0.78758335
+-docstart- (children%20of%20bodom_7.txt)	iron maiden	61	iron maiden	0.7875062
+-docstart- (embraze_2.txt)	poisonblack	150	poisonblack	0.78742087
+-docstart- (enslaved%20(band)_5.txt)	satyricon	76	satyricon (band)	0.7872625
+-docstart- (asesino_0.txt)	fear factory	102	fear factory	0.78726
+-docstart- (grenouer_2.txt)	soilwork	252	soilwork	0.78678703
+-docstart- (grenouer_2.txt)	despised icon	190	despised icon	0.7864945
+-docstart- (moonspell_7.txt)	night eternal	200	night eternal	0.7862202
+-docstart- (led%20zeppelin_16.txt)	thin lizzy	170	thin lizzy	0.78571784
+-docstart- (grenouer_2.txt)	tiamat	290	tiamat (band)	0.78525555
+-docstart- (probot_0.txt)	probot	0	probot	0.7851
+-docstart- (mercyful%20fate_5.txt)	return of the vampire	44	return of the vampire	0.7846757
+-docstart- (judas%20priest_11.txt)	whiskey woman tour	118	whiskey woman tour	0.78456247
+-docstart- (rage%20(band)_3.txt)	end of all days	273	end of all days	0.7844924
+-docstart- (pain%20(musical%20project)_1.txt)	dancing with the dead	86	dancing with the dead	0.7843143
+-docstart- (lacuna%20coil_5.txt)	megadeth	29	megadeth	0.7843143
+-docstart- (judas%20priest_7.txt)	you' ve got another thing comin	269	you've got another thing comin'	0.7843143
+-docstart- (pyramaze_2.txt)	iced earth	51	iced earth	0.7839917
+-docstart- (double%20dragon%20(band)_3.txt)	nine inch nails	42	nine inch nails	0.78353
+-docstart- (helloween_6.txt)	better than raw	122	better than raw	0.78333926
+-docstart- (embraze_2.txt)	eternal tears of sorrow	95	eternal tears of sorrow	0.7833333
+-docstart- (helloween_6.txt)	master of the rings	63	master of the rings	0.7832
+-docstart- (asesino_0.txt)	brujeria	34	brujeria (band)	0.783135
+-docstart- (helloween_6.txt)	gambling with the devil	236	gambling with the devil	0.78305715
+-docstart- (helloween_6.txt)	7 sinners	312	7 sinners	0.7829143
+-docstart- (helloween_6.txt)	pink bubbles go ape	15	pink bubbles go ape	0.78277504
+-docstart- (helloween_6.txt)	time of the oath	96	the time of the oath (song)	0.78277147
+-docstart- (loudness%20(band)_5.txt)	law of devil' s land	81	the law of devil's land	0.78271365
+-docstart- (judas%20priest_7.txt)	victim of changes	98	victim of changes (song)	0.7824893
+-docstart- (asesino_0.txt)	sepultura	116	sepultura	0.782355
+-docstart- (airbourne%20(band)_3.txt)	too much, too young, too fast	22	too much, too young, too fast	0.78235
+-docstart- (within%20temptation_3.txt)	kylesa	175	kylesa	0.78234375
+-docstart- (skyclad%20(band)_7.txt)	burnt offering for the bone idol	72	a burnt offering for the bone idol	0.78217727
+-docstart- (heavens%20basement_0.txt)	buckcherry	73	buckcherry	0.78216904
+-docstart- (judas%20priest_7.txt)	green manalishi	214	the green manalishi	0.7820715
+-docstart- (gotthard%20(band)_1.txt)	domino effect	83	domino effect (gotthard album)	0.7818123
+-docstart- (napalm%20death_15.txt)	napalm death	33	napalm death	0.781765
+-docstart- (skyclad%20(band)_7.txt)	prince of the poverty line	136	prince of the poverty line	0.7816409
+-docstart- (skyclad%20(band)_7.txt)	jonah' s ark	114	jonah's ark	0.7816409
+-docstart- (persian%20risk_2.txt)	dokken	81	dokken	0.78153336
+-docstart- (i%20(band)_0.txt)	tc king	96	king ov hell	0.7814889
+-docstart- (gordian%20knot%20(band)_0.txt)	dream theater	238	dream theater	0.7811971
+-docstart- (skyclad%20(band)_8.txt)	semblance of normality	61	a semblance of normality	0.78105
+-docstart- (skyclad%20(band)_7.txt)	irrational anthems	212	irrational anthems	0.78093183
+-docstart- (double%20dragon%20(band)_3.txt)	dillinger escape plan	101	the dillinger escape plan	0.7808
+-docstart- (fuck%20the%20facts_4.txt)	vagina dancer	64	vagina dancer	0.78073335
+-docstart- (fuck%20the%20facts_4.txt)	fuck the facts	23	fuck the facts (album)	0.78073335
+-docstart- (fuck%20the%20facts_4.txt)	escunta	219	escunta	0.78073335
+-docstart- (grenouer_2.txt)	napalm death	130	napalm death	0.780687
+-docstart- (fuck%20the%20facts_4.txt)	mullet fever	169	mullet fever	0.7805667
+-docstart- (fuck%20the%20facts_4.txt)	discoing the dead	114	discoing the dead	0.7805667
+-docstart- (fuck%20the%20facts_4.txt)	backstabber etiquette	261	backstabber etiquette	0.78040415
+-docstart- (led%20zeppelin_16.txt)	dinosaur jr	378	dinosaur jr.	0.7803933
+-docstart- (fairyland%20(band)_1.txt)	of wars in osyrhia	47	of wars in osyrhia	0.78039
+-docstart- (skyclad%20(band)_7.txt)	silent whales of lunar sea	176	the silent whales of lunar sea	0.78020906
+-docstart- (kat%20(band)_1.txt)	led zeppelin	82	led zeppelin	0.7800583
+-docstart- (amoral%20(band)_0.txt)	dark funeral	34	dark funeral	0.77974164
+-docstart- (crossfire%20(band)_0.txt)	glam metal	46	glam metal	0.7792717
+-docstart- (asphyx_1.txt)	last one on earth	256	last one on earth	0.779225
+-docstart- (almah%20(band)_4.txt)	stratovarius	55	stratovarius	0.77896816
+-docstart- (queenadreena_1.txt)	rough trade records	73	rough trade records	0.7789637
+-docstart- (deep%20purple_7.txt)	joe satriani	709	joe satriani	0.77891874
+-docstart- (double%20dragon%20(band)_2.txt)	lamb of god	112	lamb of god (band)	0.77889884
+-docstart- (thin%20lizzy_12.txt)	thin lizzy	207	thin lizzy	0.77882004
+-docstart- (led%20zeppelin_16.txt)	cheap trick	102	cheap trick	0.7787107
+-docstart- (charred%20walls%20of%20the%20damned_0.txt)	tim \" ripper \" owens	69	tim "ripper" owens	0.77867496
+-docstart- (aura%20noir_0.txt)	ulver	139	ulver	0.77863
+-docstart- (grenouer_2.txt)	cephalic carnage	172	cephalic carnage	0.7785759
+-docstart- (whitesnake_9.txt)	good to be bad	245	good to be bad	0.778511
+-docstart- (judas%20priest_11.txt)	return of the priest tour	37	the return of the priest tour	0.7784333
+-docstart- (probot_0.txt)	foo fighters	64	foo fighters	0.77843
+-docstart- (ratt_11.txt)	aerosmith	92	aerosmith	0.77828926
+-docstart- (loudness%20(band)_5.txt)	thunder in the east	169	thunder in the east (album)	0.77821666
+-docstart- (mnemic_3.txt)	fear factory	85	fear factory	0.7780179
+-docstart- (loits_1.txt)	keep of kalessin	177	keep of kalessin	0.77791154
+-docstart- (helix%20(band)_9.txt)	wild in the streets	227	wild in the streets (helix album)	0.77789307
+-docstart- (tygers%20of%20pan%20tang_0.txt)	whitesnake	78	whitesnake	0.77787143
+-docstart- (bring%20me%20the%20horizon_1.txt)	lostprophets	48	lostprophets	0.77766
+-docstart- (within%20temptation_4.txt)	sharon den adel	2	sharon den adel	0.7775272
+-docstart- (deep%20purple_7.txt)	deep purple secret usa tour	813	deep purple secret usa tour	0.77732146
+-docstart- (iron%20mask%20(band)_0.txt)	hordes of the brave	106	hordes of the brave	0.7773143
+-docstart- (ratt_11.txt)	black sabbath	151	black sabbath	0.7771714
+-docstart- (led%20zeppelin_16.txt)	bad company	66	bad company	0.77712667
+-docstart- (thin%20lizzy_12.txt)	scott gorham	8	scott gorham	0.7769933
+-docstart- (helix%20(band)_0.txt)	night ranger	103	night ranger	0.7769667
+-docstart- (heavens%20basement_0.txt)	shinedown	122	shinedown	0.7769357
+-docstart- (godflesh_2.txt)	songs of love and hate	26	songs of love and hate (godflesh album)	0.77680004
+-docstart- (aura%20noir_0.txt)	gorgoroth	277	gorgoroth	0.776765
+-docstart- (ratt_11.txt)	van halen	110	van halen	0.77674997
+-docstart- (heavens%20basement_0.txt)	papa roach	186	papa roach	0.77674997
+-docstart- (children%20of%20bodom_7.txt)	suicidal tendencies	24	suicidal tendencies	0.77671254
+-docstart- (brown%20brigade_3.txt)	iron maiden	74	iron maiden	0.7764714
+-docstart- (venom%20(band)_3.txt)	megadeth	263	megadeth	0.77637506
+-docstart- (judas%20priest_7.txt)	judas priest	152	judas priest	0.77633214
+-docstart- (loits_1.txt)	turisas	219	turisas	0.7760192
+-docstart- (winds%20(band)_0.txt)	kovenant	207	the kovenant	0.7760024
+-docstart- (children%20of%20bodom_5.txt)	megadeth	136	megadeth	0.77580833
+-docstart- (brown%20brigade_0.txt)	sum 41	72	sum 41	0.77580833
+-docstart- (epica%20(band)_9.txt)	phantom agony	32	the phantom agony	0.7757231
+-docstart- (def%20leppard_13.txt)	ratt	86	ratt	0.77562857
+-docstart- (nightwish_7.txt)	foo fighters	54	foo fighters	0.7755
+-docstart- (byzantine%20(band)_3.txt)	meshuggah	57	meshuggah	0.7755
+-docstart- (ratt_11.txt)	led zeppelin	121	led zeppelin	0.7753464
+-docstart- (mnemic_2.txt)	metallica	79	metallica	0.77532506
+-docstart- (embryonic%20soul_0.txt)	sepultura	60	sepultura	0.77529
+-docstart- (airbourne%20(band)_3.txt)	guitar hero world tour	66	guitar hero world tour	0.77529
+-docstart- (aria%20(band)_2.txt)	chimera	230	chimera (aria album)	0.77519405
+-docstart- (behemoth%20(band)_8.txt)	slaves shall serve	138	slaves shall serve	0.77517503
+-docstart- (def%20leppard_13.txt)	guns n' roses	71	guns n' roses	0.77506423
+-docstart- (diablo%20swing%20orchestra_0.txt)	butcher' s ballroom	54	the butcher's ballroom	0.7750125
+-docstart- (witch%20cross_0.txt)	black sabbath	55	black sabbath	0.775
+-docstart- (mot%c3%b6rhead_13.txt)	metal masters tour	108	metal masters tour	0.7749875
+-docstart- (queenadreena_1.txt)	blanco y negro records	31	blanco y negro records	0.7748728
+-docstart- (venom%20(band)_5.txt)	at war with satan	82	at war with satan	0.774605
+-docstart- (lacuna%20coil_4.txt)	enjoy the silence	137	enjoy the silence	0.7745187
+-docstart- (passenger%20(swedish%20band)_2.txt)	gardenian	14	gardenian	0.7745125
+-docstart- (airbourne%20(band)_3.txt)	too much, too young, too fast	106	too much, too young, too fast	0.77450716
+-docstart- (devilish%20impressions_0.txt)	graveworm	115	graveworm	0.7745062
+-docstart- (venom%20(band)_5.txt)	tear your soul apart	240	tear your soul apart	0.774415
+-docstart- (scorpions%20(band)_3.txt)	pure instinct	393	pure instinct	0.7740649
+-docstart- (kmfdm_2.txt)	nine inch nails	35	nine inch nails	0.77401876
+-docstart- (bonfire%20(band)_4.txt)	tell me what u know	110	tell me what u know	0.77401876
+-docstart- (moonspell_7.txt)	sin/pecado	56	sin/pecado	0.7740167
+-docstart- (nightwish_11.txt)	samppa hirvonen	230	nightwish	0.7735292
+-docstart- (fleshgod%20apocalypse_0.txt)	dying fetus	78	dying fetus	0.7734278
+-docstart- (aura%20noir_0.txt)	cadaver inc	95	cadaver (band)	0.77333504
+-docstart- (iron%20mask%20(band)_2.txt)	opeth	25	opeth	0.77328753
+-docstart- (heavens%20basement_0.txt)	heaven' s basement	29	heaven's basement	0.7731095
+-docstart- (bonfire%20(band)_4.txt)	deutsche nationalhymne	162	deutsche nationalhymne	0.77304375
+-docstart- (mot%c3%b6rhead_13.txt)	judas priest	59	judas priest	0.7730375
+-docstart- (judas%20priest_11.txt)	judas priest	217	judas priest	0.7730375
+-docstart- (ancient%20rites_1.txt)	metallica	114	metallica	0.77279687
+-docstart- (dirge%20within_0.txt)	dirge within	0	the bloodline (band)	0.7727667
+-docstart- (helix%20(band)_9.txt)	it' s a business doing pleasure	390	it's a business doing pleasure	0.77274626
+-docstart- (gordian%20knot%20(band)_0.txt)	fates warning	159	fates warning	0.77266175
+-docstart- (shotgun%20messiah_1.txt)	ramones	78	ramones	0.7725556
+-docstart- (embryonic%20soul_0.txt)	alice in chains	79	alice in chains	0.77255
+-docstart- (therion%20(band)_9.txt)	therion	31	therion (band)	0.7723
+-docstart- (winds%20(band)_0.txt)	hellhammer	165	jan axel blomberg	0.7722714
+-docstart- (machines%20of%20grace_5.txt)	goo goo dolls	48	goo goo dolls	0.7722714
+-docstart- (napalm%20death_10.txt)	sepultura	111	sepultura	0.772155
+-docstart- (diamond%20head%20(band)_2.txt)	deep purple	108	deep purple	0.77195
+-docstart- (machetazo_1.txt)	saint vitus	90	saint vitus (band)	0.7718152
+-docstart- (sikth_4.txt)	guns n' roses	129	guns n' roses	0.7718125
+-docstart- (blue%20felix_0.txt)	marilyn manson	139	marilyn manson (band)	0.77167785
+-docstart- (clawfinger_2.txt)	peter tagtgren	73	peter tägtgren	0.771575
+-docstart- (sikth_4.txt)	iron maiden	80	iron maiden	0.7715688
+-docstart- (beto%20v%c3%a1zquez%20infinity_4.txt)	vision divine	80	vision divine	0.7715688
+-docstart- (gotthard%20(band)_3.txt)	manfred mann	54	manfred mann	0.77138
+-docstart- (double%20dragon%20(band)_3.txt)	bloodhound gang	80	bloodhound gang	0.77137
+-docstart- (running%20wild%20(band)_4.txt)	under jolly roger	84	under jolly roger	0.77121425
+-docstart- (queenadreena_1.txt)	one little indian records	133	one little indian records	0.7711227
+-docstart- (kmfdm_2.txt)	my life with the thrill kill kult	52	my life with the thrill kill kult	0.77108127
+-docstart- (almah%20(band)_4.txt)	kamelot	84	kamelot	0.7709454
+-docstart- (amoral%20(band)_0.txt)	endstille	85	endstille	0.77090836
+-docstart- (sikth_4.txt)	metallica	93	metallica	0.77083755
+-docstart- (whitesnake_9.txt)	saints & sinners	126	saints & sinners (whitesnake album)	0.770682
+-docstart- (soulfly_1.txt)	megadeth	65	megadeth	0.7705916
+-docstart- (lyzanxia_0.txt)	edge of sanity	46	edge of sanity	0.77059
+-docstart- (atomic%20mass%20(band)_2.txt)	led zeppelin	37	led zeppelin	0.77057
+-docstart- (embryonic%20soul_0.txt)	fear factory	97	fear factory	0.7702
+-docstart- (mot%c3%b6rhead_16.txt)	wwe raw	66	wwe raw	0.7701714
+-docstart- (bonfire%20(band)_4.txt)	schanzer herz	139	schanzer herz	0.7700938
+-docstart- (def%20leppard_13.txt)	aerosmith	96	aerosmith	0.76975
+-docstart- (the%20glasspack_1.txt)	five horse johnson	115	five horse johnson	0.7694714
+-docstart- (asphyx_1.txt)	crush the cenotaph	215	crush the cenotaph	0.7691208
+-docstart- (atomkraft_1.txt)	megadeth	113	megadeth	0.76911247
+-docstart- (loits_1.txt)	soilwork	105	soilwork	0.7690058
+-docstart- (skyclad%20(band)_10.txt)	outrageous fourtunes	26	outrageous fourtunes	0.76895
+-docstart- (skyclad%20(band)_10.txt)	classix shape	81	classix shape	0.76895
+-docstart- (devilish%20impressions_0.txt)	die apokalyptischen reiter	73	die apokalyptischen reiter	0.7688812
+-docstart- (acrassicauda_0.txt)	metallica	58	metallica	0.7688625
+-docstart- (whitesnake_2.txt)	whitesnake	137	whitesnake	0.76882
+-docstart- (venom%20(band)_3.txt)	metallica	232	metallica	0.76872754
+-docstart- (beyond%20dawn_0.txt)	we' re down with species of any kind	324	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	up through the linear shades	105	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	longing for scarlet days	150	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	in reverie	220	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	heaven' s dark reflection	63	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	frysh	309	beyond dawn	0.76863
+-docstart- (beyond%20dawn_0.txt)	far from showbiz	274	beyond dawn	0.76863
+-docstart- (ensiferum_4.txt)	ensiferum	121	ensiferum	0.76843
+-docstart- (rising%20dream_0.txt)	deep purple	0	deep purple	0.76839375
+-docstart- (angeli%20di%20pietra_3.txt)	tristania	87	tristania (band)	0.7677928
+-docstart- (fleshgod%20apocalypse_0.txt)	napalm death	118	napalm death	0.7677611
+-docstart- (double%20dragon%20(band)_2.txt)	36 crazyfists	162	36 crazyfists	0.7676531
+-docstart- (skyclad%20(band)_10.txt)	swords of a thousand men	129	swords of a thousand men	0.76765
+-docstart- (skyclad%20(band)_10.txt)	jig-a-jig	176	jig-a-jig (ep)	0.76764166
+-docstart- (cadaveria_0.txt)	far away from conformity	57	far away from conformity	0.7676375
+-docstart- (thin%20lizzy_6.txt)	thin lizzy	0	thin lizzy	0.76754445
+-docstart- (fragile%20vastness_1.txt)	helloween	138	helloween	0.767455
+-docstart- (persian%20risk_2.txt)	vinny appice	110	vinny appice	0.7673209
+-docstart- (freak%20kitchen_2.txt)	spanking hour	67	freak kitchen	0.7673167
+-docstart- (freak%20kitchen_2.txt)	land of the freaks	302	freak kitchen	0.7673167
+-docstart- (freak%20kitchen_2.txt)	freak kitchen	117	freak kitchen	0.7673167
+-docstart- (chthonic%20(band)_1.txt)	where the ancestors' souls gathered	28	where the ancestors' souls gathered	0.7669834
+-docstart- (nail%20within_10.txt)	sepultura	344	sepultura	0.76695
+-docstart- (beto%20v%c3%a1zquez%20infinity_4.txt)	nightwish	58	nightwish	0.7669188
+-docstart- (rata%20blanca_0.txt)	deep purple	72	deep purple	0.76688886
+-docstart- (embraze_2.txt)	for my pain	133	for my pain...	0.76682913
+-docstart- (paradise%20lost%20(band)_2.txt)	paradise lost	203	paradise lost (paradise lost album)	0.7666843
+-docstart- (brown%20brigade_3.txt)	megadeth	110	megadeth	0.7666714
+-docstart- (armoured%20angel_1.txt)	big day out	45	big day out	0.76633334
+-docstart- (fragile%20vastness_1.txt)	pain of salvation	67	pain of salvation	0.766275
+-docstart- (devolved%20(band)_2.txt)	lamb of god	98	lamb of god (band)	0.76627386
+-docstart- (dio%20(band)_5.txt)	sacred heart \" the video	56	sacred heart "the video"	0.7662333
+-docstart- (iron%20maiden_2.txt)	somewhere in time	175	somewhere in time (iron maiden album)	0.7661675
+-docstart- (biomechanical%20(band)_1.txt)	judas priest	95	judas priest	0.7661227
+-docstart- (deep%20purple_7.txt)	house of blue light	522	the house of blue light	0.76593745
+-docstart- (thin%20lizzy_6.txt)	reo speedwagon	81	reo speedwagon	0.7657889
+-docstart- (godflesh_2.txt)	guns n' roses	95	guns n' roses	0.76569164
+-docstart- (tygers%20of%20pan%20tang_0.txt)	thin lizzy	66	thin lizzy	0.76554286
+-docstart- (def%20leppard_13.txt)	bon jovi	38	bon jovi	0.76554286
+-docstart- (acrassicauda_0.txt)	slipknot	120	slipknot (band)	0.76545
+-docstart- (epica%20(band)_2.txt)	kamelot	166	kamelot	0.7654375
+-docstart- (epica%20(band)_2.txt)	rhapsody of fire	145	rhapsody of fire	0.76519376
+-docstart- (chthonic%20(band)_1.txt)	relentless recurrence	96	relentless recurrence	0.76503336
+-docstart- (immortal%20souls_0.txt)	once upon a time in the north	254	immortal souls	0.7649
+-docstart- (immortal%20souls_0.txt)	divine wintertime	77	immortal souls	0.7649
+-docstart- (thin%20lizzy_6.txt)	aerosmith	61	aerosmith	0.7647111
+-docstart- (deep%20purple_7.txt)	perfect strangers	452	perfect strangers (album)	0.76470625
+-docstart- (cult%20of%20luna_2.txt)	cult of luna	53	cult of luna (album)	0.76470625
+-docstart- (loits_1.txt)	katatonia	195	katatonia	0.7647058
+-docstart- (deep%20purple_7.txt)	come taste the band	401	come taste the band	0.7647
+-docstart- (chthonic%20(band)_1.txt)	seediq bale	127	seediq bale (album)	0.7647
+-docstart- (beherit%20(band)_1.txt)	oath of black blood	25	the oath of black blood	0.764375
+-docstart- (shotgun%20messiah_1.txt)	sex pistols	158	sex pistols	0.7642666
+-docstart- (diamond%20head%20(band)_2.txt)	black sabbath	152	black sabbath	0.76425004
+-docstart- (immortal%20(band)_1.txt)	wacken open air	125	wacken open air	0.764225
+-docstart- (bathory%20(band)_2.txt)	in memory of quorthon	176	in memory of quorthon	0.764225
+-docstart- (ac%2fdc_4.txt)	aerosmith	115	aerosmith	0.7641728
+-docstart- (almah%20(band)_4.txt)	nightwish	27	nightwish	0.7639909
+-docstart- (anathema%20(band)_4.txt)	alternative 4	92	alternative 4 (album)	0.7637193
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	before the bleeding sun	293	eternal tears of sorrow	0.763475
+-docstart- (manhattan%20skyline_1.txt)	dillinger escape plan	24	the dillinger escape plan	0.7633071
+-docstart- (god%20dethroned_2.txt)	christhunt	18	the christhunt	0.76328635
+-docstart- (loits_1.txt)	watain	65	watain	0.7631981
+-docstart- (fleshgod%20apocalypse_0.txt)	hate eternal	91	hate eternal	0.7631889
+-docstart- (machines%20of%20grace_1.txt)	metal church	109	metal church	0.76317775
+-docstart- (epica%20(band)_9.txt)	cry for the moon	82	epica (band)	0.76304996
+-docstart- (evergrey_10.txt)	night to remember	160	a night to remember (evergrey album)	0.7629522
+-docstart- (exit%20ten_1.txt)	soilwork	151	soilwork	0.7627409
+-docstart- (loits_1.txt)	swallow the sun	243	swallow the sun	0.7626731
+-docstart- (rata%20blanca_0.txt)	whitesnake	85	whitesnake	0.7625222
+-docstart- (sikth_4.txt)	download festival	2	download festival	0.76250005
+-docstart- (grenouer_2.txt)	all shall perish	144	all shall perish	0.7624519
+-docstart- (diamond%20head%20(band)_2.txt)	thin lizzy	140	thin lizzy	0.7621385
+-docstart- (beherit%20(band)_1.txt)	electric doom synthesis	109	electric doom synthesis	0.76208335
+-docstart- (god%20dethroned_2.txt)	passiondale	248	passiondale (album)	0.7620318
+-docstart- (god%20dethroned_2.txt)	into the lungs of hell	155	into the lungs of hell	0.7620318
+-docstart- (bonfire%20(band)_4.txt)	because it' s christmas time	72	bonfire (band)	0.7620125
+-docstart- (def%20leppard_11.txt)	led zeppelin	28	led zeppelin	0.7619071
+-docstart- (god%20dethroned_2.txt)	lair of the white worm	191	the lair of the white worm (album)	0.7618545
+-docstart- (diamond%20head%20(band)_2.txt)	judas priest	170	judas priest	0.7618423
+-docstart- (nail%20within_10.txt)	kreator	335	kreator	0.7617643
+-docstart- (warlock%20(band)_3.txt)	def leppard	0	def leppard	0.7617625
+-docstart- (double%20dragon%20(band)_2.txt)	poison the well	195	poison the well (band)	0.7617625
+-docstart- (ensiferum_6.txt)	judas priest	481	judas priest	0.761575
+-docstart- (emperor%20(band)_1.txt)	borknagar	111	borknagar	0.76152503
+-docstart- (persian%20risk_2.txt)	black sabbath	124	black sabbath	0.7614459
+-docstart- (chthonic%20(band)_1.txt)	mirror of retribution	148	mirror of retribution	0.76143336
+-docstart- (bathory%20(band)_2.txt)	jubileum volume iii	130	jubileum volume iii	0.761275
+-docstart- (cult%20of%20luna_2.txt)	somewhere along the highway	141	somewhere along the highway	0.76103747
+-docstart- (led%20zeppelin_24.txt)	my time of dying	254	in my time of dying	0.76083064
+-docstart- (aurthohin_1.txt)	notun diner michile	67	aurthohin	0.7607813
+-docstart- (aurthohin_1.txt)	biborton	49	aurthohin	0.7607813
+-docstart- (aurthohin_1.txt)	aushamapto-1	113	aurthohin	0.7607813
+-docstart- (def%20leppard_11.txt)	pink floyd	42	pink floyd	0.76077855
+-docstart- (god%20dethroned_2.txt)	toxic touch	227	the toxic touch	0.76060915
+-docstart- (running%20wild%20(band)_4.txt)	death or glory	131	death or glory (album)	0.76046455
+-docstart- (kick%20axe_0.txt)	kick axe iv	64	kick axe iv	0.7603
+-docstart- (judas%20priest_6.txt)	def leppard	45	def leppard	0.7602214
+-docstart- (acrassicauda_0.txt)	iron maiden	77	iron maiden	0.76005
+-docstart- (biomechanical%20(band)_1.txt)	metallica	109	metallica	0.7598864
+-docstart- (diamond%20head%20(band)_2.txt)	led zeppelin	121	led zeppelin	0.7597308
+-docstart- (starry%20wisdom%20cult_1.txt)	black sabbath	88	black sabbath	0.7596643
+-docstart- (venom%20(band)_3.txt)	anthrax	251	anthrax (american band)	0.75963414
+-docstart- (deep%20purple_7.txt)	stormbringer	357	stormbringer (album)	0.75961167
+-docstart- (warhorse%20(british%20band)_0.txt)	deep purple	50	deep purple (album)	0.75960004
+-docstart- (nepal%20(band)_0.txt)	pink floyd	62	pink floyd	0.7595563
+-docstart- (crematory%20(band)_3.txt)	klagebilder	200	crematory (band)	0.75928533
+-docstart- (crematory%20(band)_3.txt)	das deutsche album	100	crematory (band)	0.75928533
+-docstart- (therion%20(band)_8.txt)	lemuria	248	lemuria (album)	0.7591851
+-docstart- (chrome%20division_0.txt)	dimmu borgir	126	dimmu borgir	0.7591772
+-docstart- (lord%20(band)_0.txt)	nightwish	65	nightwish	0.75915
+-docstart- (children%20of%20bodom_5.txt)	children of bodom	0	children of bodom	0.7591417
+-docstart- (cellador_1.txt)	protest the hero	135	protest the hero	0.7591193
+-docstart- (ancient%20rites_1.txt)	impaled nazarene	190	impaled nazarene	0.7590687
+-docstart- (amebix_2.txt)	bauhaus	99	bauhaus (band)	0.75895756
+-docstart- (winds%20(band)_0.txt)	dimmu borgir	225	dimmu borgir	0.75863564
+-docstart- (adorned%20brood_1.txt)	wave gotik treffen	102	wave-gotik-treffen	0.7585
+-docstart- (cataract%20(band)_2.txt)	poison the well	52	poison the well (band)	0.7582909
+-docstart- (behemoth%20(band)_3.txt)	opeth	87	opeth	0.7581667
+-docstart- (mondo%20kane_0.txt)	black sabbath	131	black sabbath	0.75797856
+-docstart- (primordial%20(band)_2.txt)	journey' s end	46	a journey's end	0.7577516
+-docstart- (ensiferum_4.txt)	finntroll	132	finntroll	0.757645
+-docstart- (i%20(band)_2.txt)	tc king	93	king ov hell	0.75761926
+-docstart- (i%20(band)_2.txt)	king ov hell	102	king ov hell	0.75761926
+-docstart- (saxon%20(band)_0.txt)	megadeth	102	megadeth	0.75759375
+-docstart- (biomechanical%20(band)_1.txt)	iron maiden	82	iron maiden	0.75757277
+-docstart- (chain%20collector_0.txt)	carpathian forest	67	carpathian forest	0.75710624
+-docstart- (quartz%20(metal%20band)_0.txt)	iron maiden	177	iron maiden	0.75705004
+-docstart- (catamenia%20(band)_5.txt)	chaos born	130	chaos born	0.7569151
+-docstart- (angeli%20di%20pietra_3.txt)	theatre of tragedy	58	theatre of tragedy	0.7568643
+-docstart- (blue%20felix_0.txt)	hed pe	111	hed pe	0.75665003
+-docstart- (judas%20priest_11.txt)	rob halford	204	rob halford	0.7566389
+-docstart- (heavens%20basement_0.txt)	theory of a deadman	198	theory of a deadman	0.75658333
+-docstart- (venom%20(band)_5.txt)	venom' 96	324	venom (band)	0.7564675
+-docstart- (thin%20lizzy_12.txt)	brian downey	47	brian downey (drummer)	0.75634336
+-docstart- (aerosmith_6.txt)	sweet emotion	156	sweet emotion	0.7562251
+-docstart- (aura%20noir_0.txt)	ved buens ende	79	ved buens ende	0.75618
+-docstart- (acid%20drinkers_2.txt)	deep purple	55	deep purple	0.75602144
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	children of the dark waters	321	eternal tears of sorrow	0.755875
+-docstart- (blackguard%20(band)_0.txt)	catamenia	123	catamenia (band)	0.7558294
+-docstart- (children%20of%20bodom_4.txt)	thine eyes bleed	153	thine eyes bleed	0.7556375
+-docstart- (massacration_6.txt)	judas priest	47	judas priest	0.7552291
+-docstart- (thin%20lizzy_12.txt)	whitesnake	142	whitesnake	0.7551633
+-docstart- (dimmu%20borgir_5.txt)	mustis	95	mustis	0.7549
+-docstart- (rose%20tattoo_3.txt)	cold chisel	78	cold chisel	0.7548928
+-docstart- (bonfire%20(band)_1.txt)	feels like comin' home	136	feels like comin' home	0.75453746
+-docstart- (dirge%20within_0.txt)	trivium	43	trivium (band)	0.7545003
+-docstart- (mot%c3%b6rhead_16.txt)	triple h	46	triple h	0.75434285
+-docstart- (darkseed%20(band)_0.txt)	dream theater	93	dream theater	0.7542583
+-docstart- (thin%20lizzy_12.txt)	marco mendoza	161	marco mendoza	0.75424665
+-docstart- (eternal%20tears%20of%20sorrow_2.txt)	heidi parviainen	534	heidi parviainen	0.75424445
+-docstart- (iron%20maiden_7.txt)	avenged sevenfold	164	avenged sevenfold	0.7541461
+-docstart- (show%20ya_1.txt)	led zeppelin	85	led zeppelin	0.75405717
+-docstart- (lacuna%20coil_5.txt)	devildriver	39	devildriver	0.75405717
+-docstart- (gordian%20knot%20(band)_0.txt)	spastic ink	125	spastic ink	0.75375
+-docstart- (fragile%20vastness_3.txt)	pain of salvation	65	pain of salvation	0.75359166
+-docstart- (lordi_7.txt)	who' s your daddy	234	who's your daddy? (lordi song)	0.7535713
+-docstart- (angelus%20apatrida_0.txt)	megadeth	52	megadeth	0.753335
+-docstart- (fragile%20vastness_3.txt)	dream theater	33	dream theater	0.7532667
+-docstart- (machines%20of%20grace_5.txt)	butch walker	69	butch walker	0.7532214
+-docstart- (airbourne%20(band)_3.txt)	stand up for rock' n roll	308	runnin' wild (airbourne album)	0.7532214
+-docstart- (accept_1.txt)	megadeth	105	megadeth	0.7532214
+-docstart- (abstrakt%20algebra_0.txt)	candlemass	153	candlemass	0.75319374
+-docstart- (sikth_1.txt)	anthrax	55	anthrax (american band)	0.75306237
+-docstart- (emperor%20(band)_1.txt)	ihsahn	6	ihsahn	0.75294375
+-docstart- (kmfdm_2.txt)	combichrist	87	combichrist	0.7526938
+-docstart- (carcass%20(band)_6.txt)	best of carcass	63	best of carcass	0.75266427
+-docstart- (show%20ya_0.txt)	led zeppelin	157	led zeppelin	0.7526572
+-docstart- (acid%20drinkers_2.txt)	sepultura	89	sepultura	0.7526572
+-docstart- (napalm%20death_15.txt)	godflesh	91	godflesh	0.752545
+-docstart- (birthmark%20(band)_0.txt)	radiohead	77	radiohead	0.7522875
+-docstart- (i%20(band)_2.txt)	olve eikemo	18	olve eikemo	0.75218844
+-docstart- (lacuna%20coil_5.txt)	static-x	52	static-x	0.75210714
+-docstart- (blue%20felix_0.txt)	36 crazyfists	96	36 crazyfists	0.7520722
+-docstart- (iron%20maiden_7.txt)	dream theater	120	dream theater	0.7520346
+-docstart- (rammstein_1.txt)	limp bizkit	60	limp bizkit	0.7519584
+-docstart- (carcass%20(band)_6.txt)	wake up and smell the... carcass	21	wake up and smell the... carcass	0.75182855
+-docstart- (iron%20maiden_7.txt)	iron maiden	45	iron maiden	0.7517346
+-docstart- (iron%20maiden_7.txt)	metallica	95	metallica	0.75158846
+-docstart- (i%20(band)_2.txt)	demonaz doom occulta	179	harald nævdal	0.7515846
+-docstart- (venom%20(band)_5.txt)	temples of ice	275	temples of ice	0.7515725
+-docstart- (fragile%20vastness_1.txt)	fates warning	120	fates warning	0.75157
+-docstart- (pink%20cream%2069_1.txt)	games people play	71	games people play (album)	0.7515496
+-docstart- (gorky%20park%20(band)_1.txt)	bon jovi	78	bon jovi	0.751475
+-docstart- (rye%20coalition_1.txt)	fugazi	118	fugazi	0.7513
+-docstart- (judas%20priest_11.txt)	black sabbath	101	black sabbath	0.7512
+-docstart- (primordial%20(band)_2.txt)	imrama	28	imrama	0.7511152
+-docstart- (mnemic_3.txt)	napalm death	216	napalm death	0.75098574
+-docstart- (ratt_9.txt)	ratt	0	ratt	0.7508231
+-docstart- (massacration_6.txt)	sepultura	102	sepultura	0.75080836
+-docstart- (deus%20ex%20machina%20(heavy%20metal%20band)_2.txt)	meshuggah	98	meshuggah	0.7508042
+-docstart- (paradise%20lost%20(band)_2.txt)	believe in nothing	151	believe in nothing	0.7506293
+-docstart- (the%20gathering%20(band)_2.txt)	niels duffhues	162	niels duffhuës	0.7504958
+-docstart- (heavens%20basement_0.txt)	bon jovi	230	bon jovi	0.7499524
+-docstart- (heavens%20basement_0.txt)	hardcore superstar	146	hardcore superstar	0.7498619
+-docstart- (stampin%20ground_1.txt)	chimaira	47	chimaira	0.74966663
+-docstart- (iron%20maiden_10.txt)	run to the hills	526	run to the hills	0.74962306
+-docstart- (ac%2fdc_21.txt)	black ice	403	black ice (album)	0.74955666
+-docstart- (soulfly_1.txt)	system of a down	149	system of a down	0.74935
+-docstart- (deadsoul%20tribe_2.txt)	january tree	83	the january tree	0.74935
+-docstart- (wolfmother_2.txt)	guitar hero ii	98	guitar hero ii	0.74934167
+-docstart- (enthroned_0.txt)	xes haereticum	543	enthroned	0.7493
+-docstart- (sikth_4.txt)	marilyn manson	110	marilyn manson (band)	0.749025
+-docstart- (kmfdm_2.txt)	chemlab	14	chemlab	0.7490188
+-docstart- (children%20of%20bodom_5.txt)	velvet revolver	43	velvet revolver	0.74901664
+-docstart- (led%20zeppelin_24.txt)	it might get loud	0	it might get loud	0.74886924
+-docstart- (judas%20priest_11.txt)	live aid	674	live aid	0.7485834
+-docstart- (iron%20mask%20(band)_2.txt)	symphony x	13	symphony x	0.7485312
+-docstart- (cadaver%20(band)_3.txt)	in pains	77	...in pains	0.74836665
+-docstart- (ac%2fdc_4.txt)	cheap trick	186	cheap trick	0.7483091
+-docstart- (freak%20kitchen_2.txt)	dead soul men	167	dead soul men	0.74815
+-docstart- (deep%20purple_7.txt)	deep purple	611	deep purple (album)	0.74805
+-docstart- (birthmark%20(band)_0.txt)	red hot chili peppers	137	red hot chili peppers	0.7480375
+-docstart- (angtoria_0.txt)	cradle of filth	22	cradle of filth	0.7479654
+-docstart- (sonata%20arctica_3.txt)	tommy portimo	306	sonata arctica	0.7479615
+-docstart- (sonata%20arctica_3.txt)	marko paasikoski	187	sonata arctica	0.7479615
+-docstart- (cellador_1.txt)	bullet for my valentine	92	bullet for my valentine	0.7479615
+-docstart- (blue%20felix_0.txt)	primer 55	125	primer 55	0.74771667
+-docstart- (nightwish_7.txt)	kaiser chiefs	20	kaiser chiefs	0.74755
+-docstart- (bathory%20(band)_2.txt)	black mark records	37	black mark production	0.74755
+-docstart- (emperor%20(band)_1.txt)	vintersorg	125	vintersorg	0.74754375
+-docstart- (ac%2fdc_4.txt)	black sabbath	100	black sabbath	0.74741817
+-docstart- (salem%20(uk%20band)_0.txt)	iron maiden	172	iron maiden	0.74723184
+-docstart- (ratt_11.txt)	ratt	14	ratt	0.7472
+-docstart- (witch%20cross_0.txt)	deep purple	73	deep purple	0.7470625
+-docstart- (cadaver%20(band)_3.txt)	hallucinating anxiety	33	hallucinating anxiety	0.74706113
+-docstart- (gordian%20knot%20(band)_0.txt)	king crimson	73	king crimson	0.7470588
+-docstart- (nail%20within_10.txt)	dark tranquility	263	dark tranquillity	0.74705714
+-docstart- (mnemic_3.txt)	brujeria	185	brujeria (band)	0.74691784
+-docstart- (witch%20cross_0.txt)	iron maiden	143	iron maiden	0.7468188
+-docstart- (machines%20of%20grace_5.txt)	megadeth	83	megadeth	0.7467786
+-docstart- (asphyx_1.txt)	on the wings of inferno	475	on the wings of inferno	0.74674165
+-docstart- (ac%2fdc_21.txt)	fly on the wall	257	fly on the wall (ac/dc album)	0.74659777
+-docstart- (lacuna%20coil_5.txt)	gigantour	124	gigantour	0.7465
+-docstart- (napalm%20death_10.txt)	kreator	102	kreator	0.74647
+-docstart- (embraze_2.txt)	gothic metal	55	gothic metal	0.74647
+-docstart- (niceland_0.txt)	killing joke	98	killing joke	0.74640834
+-docstart- (machinemade%20god_0.txt)	as i lay dying	99	as i lay dying (band)	0.74640834
+-docstart- (black%20sabbath_7.txt)	black sabbath	88	black sabbath	0.746325
+-docstart- (paris%20keeling_0.txt)	electric light orchestra	146	electric light orchestra	0.7462214
+-docstart- (gotthard%20(band)_3.txt)	hollies	45	the hollies	0.7459973
+-docstart- (stampin%20ground_1.txt)	soulfly	102	soulfly	0.7459125
+-docstart- (grenouer_2.txt)	pro pain	62	pro-pain	0.7457301
+-docstart- (black%20sabbath_4.txt)	emerson, lake & palmer	102	emerson, lake & palmer	0.74563634
+-docstart- (lacuna%20coil_6.txt)	lamb of god	145	lamb of god (band)	0.7455238
+-docstart- (kryptos%20(band)_1.txt)	iron maiden	59	iron maiden	0.7455143
+-docstart- (apocalyptica_10.txt)	pantera	62	pantera	0.74515224
+-docstart- (therion%20(band)_0.txt)	thomas vikstrom	41	thomas vikström	0.7449333
+-docstart- (waysted_0.txt)	def leppard	136	def leppard	0.7449261
+-docstart- (angeli%20di%20pietra_3.txt)	sins of thy beloved	101	the sins of thy beloved	0.7448286
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	black sabbath	114	black sabbath	0.744825
+-docstart- (amorphis_0.txt)	amorphis	0	amorphis	0.74476665
+-docstart- (gorky%20park%20(band)_1.txt)	moscow music peace festival	40	moscow music peace festival	0.74460626
+-docstart- (the%20glasspack_1.txt)	small stone records	45	small stone records	0.7442643
+-docstart- (dio%20(band)_0.txt)	rowan robertson	92	rowan robertson	0.74425715
+-docstart- (shotgun%20messiah_1.txt)	new york dolls	107	new york dolls	0.74422777
+-docstart- (betzefer_6.txt)	ac/dc	55	ac/dc	0.7442222
+-docstart- (scorpions%20(band)_3.txt)	acoustica	476	acoustica (scorpions album)	0.7440629
+-docstart- (thin%20lizzy_12.txt)	def leppard	103	def leppard	0.74405
+-docstart- (koyi%20k%20utho_1.txt)	fear factory	62	fear factory	0.7440318
+-docstart- (children%20of%20bodom_7.txt)	andrew wk	82	andrew w.k.	0.7438812
+-docstart- (saxon%20(band)_0.txt)	metallica	91	metallica	0.743875
+-docstart- (winds%20(band)_0.txt)	age of silence	41	age of silence	0.74379045
+-docstart- (within%20temptation_0.txt)	within temptation	42	within temptation	0.7437867
+-docstart- (show%20ya_0.txt)	deep purple	171	deep purple	0.7437
+-docstart- (trust%20(band)_4.txt)	iron maiden	43	iron maiden	0.74362504
+-docstart- (orange%20goblin_2.txt)	electric wizard	52	electric wizard (album)	0.74353
+-docstart- (massacration_6.txt)	iron maiden	64	iron maiden	0.7433042
+-docstart- (ulver_7.txt)	vargnatt	41	vargnatt	0.74325585
+-docstart- (warlock%20(band)_3.txt)	bon jovi	31	bon jovi	0.7431375
+-docstart- (end%20of%20green%20(band)_0.txt)	wacken open air	121	wacken open air	0.74313337
+-docstart- (dark%20moor_0.txt)	shadowland	16	shadowland (dark moor album)	0.74310327
+-docstart- (beto%20v%c3%a1zquez%20infinity_10.txt)	judas priest	79	judas priest	0.74299645
+-docstart- (judas%20priest_11.txt)	motorhead	1037	motörhead	0.74295455
+-docstart- (ulver_7.txt)	silencing the singing	239	silencing the singing	0.7429117
+-docstart- (ulver_7.txt)	quick fix of melancholy	374	a quick fix of melancholy	0.7429117
+-docstart- (helloween_3.txt)	jethro tull	154	jethro tull (band)	0.74283844
+-docstart- (ulver_7.txt)	svidd neger	410	svidd neger (soundtrack)	0.7428
+-docstart- (black%20sabbath_4.txt)	black oak arkansas	154	black oak arkansas	0.74260455
+-docstart- (helix%20(band)_9.txt)	no rest for the wicked	81	no rest for the wicked (helix album)	0.74246645
+-docstart- (mondo%20kane_0.txt)	ac/dc	108	ac/dc	0.74230003
+-docstart- (helloween_3.txt)	helloween	104	helloween	0.7422308
+-docstart- (whitesnake_9.txt)	snakebite	18	snakebite (album)	0.74218285
+-docstart- (malefice_1.txt)	devildriver	93	devildriver	0.74215
+-docstart- (blue%20murder%20(band)_0.txt)	thin lizzy	80	thin lizzy	0.74215
+-docstart- (ulver_7.txt)	lyckantropen themes	334	lyckantropen themes	0.74199116
+-docstart- (apocalyptica_1.txt)	apocalyptica	8	apocalyptica (album)	0.7419125
+-docstart- (force%20of%20evil%20(band)_2.txt)	nuns have no fun	96	mercyful fate (ep)	0.74187857
+-docstart- (mot%c3%b6rhead_16.txt)	smackdown	81	wwe smackdown	0.74169004
+-docstart- (thin%20lizzy_12.txt)	darren wharton	87	darren wharton	0.74157
+-docstart- (emperor%20(band)_0.txt)	euronymous	55	euronymous	0.741565
+-docstart- (helloween_3.txt)	deep purple	205	deep purple	0.7411808
+-docstart- (exit%20ten_1.txt)	every time i die	100	every time i die	0.74117726
+-docstart- (judas%20priest_0.txt)	yardbirds	121	the yardbirds	0.74116874
+-docstart- (machines%20of%20grace_5.txt)	letters to cleo	103	letters to cleo	0.74090713
+-docstart- (arcturus%20(band)_3.txt)	aspera hiems symfonia	27	aspera hiems symfonia	0.74089646
+-docstart- (sikth_1.txt)	pj harvey	146	pj harvey	0.74062145
+-docstart- (bonfire%20(band)_2.txt)	29 golden bullets	122	29 golden bullets	0.74062145
+-docstart- (show%20ya_1.txt)	rolling stones	99	the rolling stones	0.74059325
+-docstart- (five%20star%20prison%20cell_2.txt)	dillinger escape plan	166	the dillinger escape plan	0.74046814
+-docstart- (kmfdm_1.txt)	f. m. einheit	63	f.m. einheit	0.7404591
+-docstart- (sikth_1.txt)	killswitch engage	67	killswitch engage	0.7403357
+-docstart- (beto%20v%c3%a1zquez%20infinity_4.txt)	beto vazquez infinity	0	beto vázquez infinity	0.7401937
+-docstart- (arcturus%20(band)_3.txt)	sideshow symphonies	226	sideshow symphonies	0.7400571
+-docstart- (antistatic%20(band)_1.txt)	shihad	53	shihad	0.7399318
+-docstart- (slechtvalk_2.txt)	falconry	14	falconry (album)	0.73980975
+-docstart- (asesino_0.txt)	static-x	147	static-x	0.739805
+-docstart- (arcturus%20(band)_3.txt)	la masquerade infernale	98	la masquerade infernale	0.7397785
+-docstart- (immortal%20(band)_0.txt)	gorgoroth	112	gorgoroth	0.73974335
+-docstart- (arcturus%20(band)_3.txt)	sham mirrors	166	the sham mirrors	0.7396357
+-docstart- (sonata%20arctica_6.txt)	iron maiden	1385	iron maiden	0.73954165
+-docstart- (force%20of%20evil%20(band)_2.txt)	mercyful fate	69	mercyful fate	0.73949647
+-docstart- (grenouer_2.txt)	berzerker	279	the berzerker	0.73933876
+-docstart- (diablo%20swing%20orchestra_0.txt)	sing along songs for the damned & delirious	83	sing along songs for the damned & delirious	0.73922503
+-docstart- (def%20leppard_11.txt)	beatles	19	the beatles	0.73922145
+-docstart- (chapter%2014_0.txt)	austrian death machine	158	austrian death machine	0.7392208
+-docstart- (kmfdm_1.txt)	skinny puppy	15	skinny puppy	0.7392136
+-docstart- (gorky%20park%20(band)_1.txt)	skid row	111	skid row (american band)	0.73907924
+-docstart- (therion%20(band)_8.txt)	vovin	139	vovin (album)	0.7390357
+-docstart- (peccatum_1.txt)	mnemosyne productions	87	mnemosyne productions	0.739
+-docstart- (machines%20of%20grace_7.txt)	savatage	11	savatage	0.73889166
+-docstart- (prime%20sth_1.txt)	blink-182	59	blink-182	0.73864996
+-docstart- (enhet%20(band)_0.txt)	madball	131	madball	0.7386154
+-docstart- (loits_1.txt)	lord belial	206	lord belial	0.73853844
+-docstart- (behemoth%20(band)_5.txt)	mayhem festival	63	mayhem festival	0.73841107
+-docstart- (sonata%20arctica_1.txt)	tommy portimo	113	sonata arctica	0.73832726
+-docstart- (sonata%20arctica_1.txt)	marko paasikoski	79	sonata arctica	0.73832726
+-docstart- (puya%20(band)_1.txt)	pantera	54	pantera	0.7382772
+-docstart- (birthmark%20(band)_0.txt)	pink floyd	93	pink floyd	0.7382333
+-docstart- (starry%20wisdom%20cult_1.txt)	metallica	129	metallica	0.7381
+-docstart- (kryptos%20(band)_1.txt)	black sabbath	27	black sabbath	0.7380965
+-docstart- (diamond%20head%20(band)_0.txt)	megadeth	61	megadeth	0.73785
+-docstart- (napalm%20death_10.txt)	cryptic slaughter	73	cryptic slaughter	0.737845
+-docstart- (seraphim%20(band)_1.txt)	soul that never dies	18	the soul that never dies	0.73773754
+-docstart- (betzefer_6.txt)	aerosmith	62	aerosmith	0.73769444
+-docstart- (manhattan%20skyline_2.txt)	dillinger escape plan	285	the dillinger escape plan	0.73758334

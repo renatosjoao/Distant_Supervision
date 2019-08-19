@@ -1,0 +1,10 @@
+-docstart- (43 pol03)	hiroshima	21	hiroshima	1.0
+-docstart- (37 spo07)	san siro	54	san siro	1.0
+-docstart- (32 spo02)	emirates	47	emirates (airline)	1.0
+-docstart- (26 bus06)	apple	6	apple inc.	1.0
+-docstart- (17 mus07)	grohl	27	dave grohl	1.0
+-docstart- (28 bus08)	pixar	0	pixar	0.9805524866127291
+-docstart- (10 cel10)	mtv	68	mtv	0.9271841457669735
+-docstart- (17 mus07)	homme	20	josh homme	0.8849096920984445
+-docstart- (34 spo04)	england	34	england	0.8416738307818578
+-docstart- (17 mus07)	caligula	69	caligula	0.8332983163419772

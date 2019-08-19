@@ -1,0 +1,30 @@
+tw_99.txt	ta	3	ta mok	1.0
+tw_99.txt	ll	114	l (new york city subway service)	1.0
+tw_97.txt	sta	111	standard liège	1.0
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	0	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_97.txt	john henry	29	john henry (horse)	1.0
+tw_97.txt	benedict xvi	71	pope benedict xvi	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	yahoo	62	yahoo! messenger	1.0
+tw_93.txt	ap	57	pspace	1.0
+tw_90.txt	nadal	91	rafael nadal	1.0
+tw_90.txt	monday	22	monday night football	1.0
+tw_9.txt	entry	53	congratulations (cliff richard song)	1.0
+tw_87.txt	years ago	91	before present	1.0
+tw_86.txt	mesa, az	81	mesa, arizona	1.0
+tw_85.txt	sept ' 9	28	september 9	1.0
+tw_81.txt	superbowl	108	super bowl	1.0
+tw_76.txt	today	54	today (u.s. tv program)	1.0
+tw_76.txt	mississippi	63	mississippi river	1.0
+tw_75.txt	syrian woman	78	women in syria	1.0
+tw_75.txt	blogger	30	blogger (service)	1.0
+tw_71.txt	october 11	43	october 11	1.0
+tw_71.txt	htc desire z	88	htc desire z	1.0
+tw_71.txt	htc desire z	21	htc desire z	1.0
+tw_71.txt	htc desire	88	htc desire	1.0
+tw_71.txt	htc desire	21	htc desire	1.0
+tw_71.txt	desire z	92	htc desire z	1.0
+tw_71.txt	desire z	25	htc desire z	1.0

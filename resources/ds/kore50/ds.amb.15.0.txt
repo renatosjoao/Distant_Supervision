@@ -1,0 +1,16 @@
+-docstart- (43 pol03)	hiroshima	21	hiroshima	1.0
+-docstart- (37 spo07)	san siro	54	san siro	1.0
+-docstart- (32 spo02)	emirates	47	emirates (airline)	1.0
+-docstart- (26 bus06)	apple	6	apple inc.	1.0
+-docstart- (17 mus07)	grohl	27	dave grohl	1.0
+-docstart- (28 bus08)	pixar	0	pixar	0.9805524866127291
+-docstart- (10 cel10)	mtv	68	mtv	0.9271841457669735
+-docstart- (17 mus07)	homme	20	josh homme	0.8849096920984445
+-docstart- (34 spo04)	england	34	england	0.8416738307818578
+-docstart- (17 mus07)	caligula	69	caligula	0.8332983163419772
+-docstart- (42 pol02)	the times	12	the times	0.8056944522191894
+-docstart- (44 pol04)	meinhof	48	ulrike meinhof	0.7414950062768051
+-docstart- (21 bus01)	apple	44	apple inc.	0.739115501711682
+-docstart- (14 mus04)	emp	18	electromagnetic pulse	0.708720502412984
+-docstart- (45 pol05)	onassis	0	jacqueline kennedy onassis	0.6334652684394813
+-docstart- (49 pol09)	jfk	42	john f. kennedy	0.6206912380328754

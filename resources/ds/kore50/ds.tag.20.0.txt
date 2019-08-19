@@ -1,0 +1,38 @@
+-docstart- (41 pol01)	ping-pong diplomacy	58	ping-pong diplomacy	0.78000003
+-docstart- (43 pol03)	enola gay	4	enola gay	0.7171625
+-docstart- (28 bus08)	pixar	0	pixar	0.7024625
+-docstart- (46 pol06)	man on the moon	24	moon landing	0.68863684
+-docstart- (20 mus10)	mayall's	59	rik mayall	0.63098
+-docstart- (37 spo07)	san siro	64	san siro	0.6293893
+-docstart- (19 mus09)	isle of wight festival	4	isle of wight festival 1969	0.6189113
+-docstart- (40 spo10)	dortmund	19	borussia dortmund	0.5907811
+-docstart- (16 mus06)	american recordings	85	american recordings (record label)	0.56350505
+-docstart- (48 pol08)	macedonia	0	macedonia (greece)	0.5578034
+-docstart- (9 cel09)	the internet	61	library	0.54925627
+-docstart- (5 cel05)	madonna	0	madonna (entertainer)	0.5419767
+-docstart- (48 pol08)	greece	27	kingdom of greece	0.53860223
+-docstart- (36 spo06)	red bull	19	red bull racing	0.5203279
+-docstart- (46 pol06)	first man on the moon	18	neil armstrong	0.5137167
+-docstart- (17 mus07)	caligula	69	raziel (wrestler)	0.5
+-docstart- (46 pol06)	armstrong	0	neil armstrong	0.488948
+-docstart- (10 cel10)	mtv	68	mtv	0.48811933
+-docstart- (6 cel06)	madonna	17	madonna (entertainer)	0.47237664
+-docstart- (34 spo04)	hattrick	27	hat-trick	0.47083256
+-docstart- (41 pol01)	watergate	21	watergate scandal	0.46856558
+-docstart- (10 cel10)	twitter	76	twitter	0.4628306
+-docstart- (43 pol03)	second world war	45	world war ii	0.462817
+-docstart- (39 spo09)	aachen	15	aachen	0.45096648
+-docstart- (43 pol03)	hiroshima	21	atomic bombings of hiroshima and nagasaki	0.4497969
+-docstart- (22 bus02)	operating system	89	operating system	0.4493194
+-docstart- (29 bus09)	mars	0	mars, incorporated	0.43994194
+-docstart- (34 spo04)	england	44	england national football team	0.43476665
+-docstart- (19 mus09)	woodstock	75	woodstock	0.43451637
+-docstart- (22 bus02)	microsoft	47	microsoft	0.42021555
+-docstart- (23 bus03)	operating system	130	operating system	0.4200194
+-docstart- (36 spo06)	haug	0	norbert haug	0.40623215
+-docstart- (48 pol08)	province of greece	15	provinces of greece	0.39875716
+-docstart- (23 bus03)	microsoft	41	microsoft	0.39452913
+-docstart- (14 mus04)	science fiction	109	science fiction film	0.39080477
+-docstart- (19 mus09)	chicago	107	chicago (band)	0.38036978
+-docstart- (35 spo05)	munich	41	munich	0.3772129
+-docstart- (4 cel04)	us open	15	u.s. open (golf)	0.37441662

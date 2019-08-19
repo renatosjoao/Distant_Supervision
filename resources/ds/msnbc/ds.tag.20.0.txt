@@ -1,0 +1,133 @@
+spo16417540.txt	san diego chargers	2714	san diego chargers	0.78941
+spo16417540.txt	tennessee titans	2805	tennessee titans	0.78324544
+spo16417540.txt	jim caldwell	2791	jim caldwell (american football)	0.767455
+spo16417540.txt	cam cameron	2755	cam cameron	0.76177
+spo16417540.txt	mike sherman	2700	mike sherman	0.75525904
+spo16417540.txt	chicago bears	2624	chicago bears	0.7292714
+spo16417540.txt	ron rivera	2660	ron rivera	0.71583843
+spo16417540.txt	pittsburgh steelers	2858	pittsburgh steelers	0.69313574
+pol16447720.txt	jimmy carter	973	jimmy carter	0.68732667
+wor13259309.txt	mahdi army	4178	peace companies	0.6777227
+spo16417540.txt	mike shula	1607	mike shula	0.67114997
+pol16447720.txt	tom brokaw	2784	tom brokaw	0.6678206
+bus3683270.txt	new york mercantile exchange	2158	new york mercantile exchange	0.66758335
+pol16452612.txt	john kerry	2864	john kerry	0.6605666
+bus3683270.txt	dow jones industrials	417	dow jones industrial average	0.65940297
+hea16451212.txt	state children�s health insurance program	1635	state children's health insurance program	0.6593591
+spo16417540.txt	don shula	2092	don shula	0.6577048
+ent16444023.txt	britney spears	822	britney spears	0.655325
+pol16452612.txt	bill clinton	2954	bill clinton	0.655225
+pol16447720.txt	henry kissinger	2826	henry kissinger	0.65233123
+spo16455207.txt	shaquille o�neal	620	shaquille o'neal	0.6513733
+wor16447201.txt	kumbh mela	426	kumbh mela	0.648875
+ent16453733.txt	barbara walters	0	barbara walters	0.644675
+pol16447720.txt	donald rumsfeld	833	donald rumsfeld	0.64190936
+spo16417540.txt	rich rodriguez	2438	rich rodriguez	0.63998055
+pol16452612.txt	richard nixon	1258	richard nixon	0.63931316
+spo16417540.txt	jimmy johnson	2134	jimmy johnson (american football coach)	0.6379929
+usn16443053.txt	american samoa	676	american samoa	0.63771474
+spo16417540.txt	atlanta falcons	3596	atlanta falcons	0.63737357
+ent16444023.txt	justin timberlake	101	justin timberlake	0.63483846
+spo16455207.txt	shaquille o'neal	1387	shaquille o'neal	0.63451004
+bus16451112.txt	home depot inc	197	the home depot	0.63445
+tvn16442287.txt	triglyceride	612	triglyceride	0.63388056
+wor16447201.txt	kumbh mela	997	kumbh mela	0.63333476
+ent16453733.txt	donald trump	240	donald trump	0.63165
+wor13259309.txt	al-jazeera television	1059	al jazeera	0.6294111
+ent16453733.txt	barbara walters	127	barbara walters	0.6265906
+ent16453733.txt	donald trump	926	donald trump	0.62637
+tec16451635.txt	giant panda	772	giant panda	0.6246344
+pol16452612.txt	jimmy carter	1379	jimmy carter	0.62375
+hea16451212.txt	highmark blue cross blue shield	3911	highmark	0.62335
+wor13259309.txt	execution of saddam hussein	355	execution of saddam hussein	0.62313664
+wor16447201.txt	kumbh mela	2761	kumbh mela	0.6228
+wor13259309.txt	msnbc	3852	msnbc	0.6198727
+usn16444287.txt	san francisco international airport	1318	san francisco international airport	0.6192167
+ent16453733.txt	rosie o�donnell	189	rosie o'donnell	0.6191413
+ent16444023.txt	cameron diaz	123	cameron diaz	0.6165885
+spo16417540.txt	arizona cardinals	3574	arizona cardinals	0.6155625
+spo16417540.txt	dan marino	4230	dan marino	0.6153478
+tvn16442287.txt	cranberries	1516	cranberry	0.614532
+ent16453733.txt	rosie o�donnell	26	rosie o'donnell	0.6143613
+spo16417540.txt	daunte culpepper	4080	daunte culpepper	0.61419284
+bus3683270.txt	nikkei stock average	4839	nikkei 225	0.61346
+pol16452612.txt	evan bayh	1908	evan bayh	0.61274445
+spo16417540.txt	norm chow	2844	norm chow	0.612325
+wor13259309.txt	muqtada al-sadr	4114	muqtada al-sadr	0.61157
+bus3683270.txt	nasdaq composite	1269	nasdaq composite	0.6097
+ent16444023.txt	n� sync	45	nsync	0.60965383
+wor16447201.txt	nirvana	1198	nirvana	0.60943055
+spo16417540.txt	russ grimm	2889	russ grimm	0.60922647
+spo16417540.txt	randy mueller	4438	randy mueller	0.6074714
+wor16447201.txt	kumbh mela	1885	kumbh mela	0.60545003
+usn16443053.txt	columbus, ohio	531	columbus, ohio	0.6052129
+wor13259309.txt	saddam hussein�s execution	227	execution of saddam hussein	0.6051308
+usn16443053.txt	american samoa	4798	american samoa	0.6050735
+ent16444023.txt	saturday night live	544	saturday night live	0.60403824
+spo16455207.txt	pat riley	136	pat riley	0.603925
+ent16453733.txt	miss teen usa	1363	miss teen usa	0.6034861
+spo16455207.txt	miami heat	119	miami heat	0.6019625
+tec16454435.txt	jet propulsion laboratory	557	jet propulsion laboratory	0.60108614
+bus3683270.txt	home depot inc	295	the home depot	0.6002026
+ent16444023.txt	lou pearlman	940	lou pearlman	0.59915715
+tec16451635.txt	shaanxi	1071	shaanxi	0.5988559
+ent16444023.txt	n' sync	383	nsync	0.59784
+ent16444023.txt	innosense	899	innosense	0.5973393
+pol16452612.txt	george w. bush	478	george w. bush	0.5968575
+wor16447201.txt	kumbh mela	2974	kumbh mela	0.5960794
+tra16444229.txt	george bush intercontinental airport	241	george bush intercontinental airport	0.5950958
+pol16447720.txt	gerald ford	3775	gerald ford	0.59484476
+pol16452612.txt	gerald ford	1203	gerald ford	0.5945881
+spo16455207.txt	los angeles clippers	442	los angeles clippers	0.5935031
+usn16443053.txt	hurricane katrina	2638	hurricane katrina	0.592719
+spo16417540.txt	nick saban	133	nick saban	0.5924405
+usn16444287.txt	mccarran international airport	1817	mccarran international airport	0.58902
+tec16451635.txt	xinhua news agency	452	xinhua news agency	0.5877732
+pol16452612.txt	charles schumer	3469	chuck schumer	0.58765
+tvn16442342.txt	mine safety and health administration	1219	mine safety and health administration	0.58641386
+usn16444287.txt	council on american-islamic relations	1207	council on american–islamic relations	0.5856769
+wor13259309.txt	the new york times	2573	the new york times	0.58478093
+bus3683270.txt	automatic data processing inc	1741	automatic data processing	0.5845441
+ent16444023.txt	veronica finn	752	innosense	0.58353
+tra16454203.txt	british airways	411	british airways	0.5822143
+tvn16442342.txt	sago mine accident	62	sago mine disaster	0.57755
+usn16443053.txt	charles schumer	1720	chuck schumer	0.5767979
+spo16455207.txt	miami heat	1013	miami heat	0.5766889
+tvn16442342.txt	randal mccloy	371	sago mine disaster	0.576475
+pol16447720.txt	gerald r. ford presidential library and museum	1764	gerald r. ford presidential museum	0.5745083
+tec16454435.txt	nasa	588	nasa	0.57326233
+pol16447720.txt	jennifer granholm	1525	jennifer granholm	0.57223684
+spo16417540.txt	miami dolphins	299	miami dolphins	0.57143915
+wor13259309.txt	nouri al-maliki	1214	nouri al-maliki	0.57080835
+wor13259309.txt	mowaffak al-rubaie	422	mowaffak al-rubaie	0.5702412
+usn16444287.txt	u.s. immigration and customs enforcement	2874	u.s. immigration and customs enforcement	0.56989413
+bus3683270.txt	standard & poor�s	1328	standard & poor's	0.5695986
+wor16447201.txt	uttar pradesh	2465	uttar pradesh	0.56884766
+pol16447720.txt	richard norton smith	1073	richard norton smith	0.56792855
+usn16444287.txt	u.s. customs and border protection	843	u.s. customs and border protection	0.5668833
+bus3683270.txt	treasury note	1559	united states treasury security	0.5667595
+tvn16442287.txt	whole wheat bread	2050	whole wheat bread	0.56596786
+usn16444287.txt	dianne feinstein	3088	dianne feinstein	0.56553423
+tec16451635.txt	chongqing	917	chongqing	0.5621809
+wor16447201.txt	madhya pradesh	1816	madhya pradesh	0.5616672
+usn16443053.txt	michael chertoff	1981	michael chertoff	0.5610147
+wor16447201.txt	ardh kumbh mela	421	kumbh mela	0.56032693
+pol16447720.txt	devos place convention center	1690	devos place convention center	0.55882305
+hea16451212.txt	university of alabama at birmingham	3521	university of alabama at birmingham	0.55863
+spo16455207.txt	pat riley	1030	pat riley	0.5581026
+bus3683270.txt	wal-mart	315	walmart	0.5575423
+bus3683270.txt	wal-mart	3411	walmart	0.5540816
+spo16455207.txt	stan van gundy	741	stan van gundy	0.5531611
+wor16447201.txt	kumbh mela	1505	kumbh mela	0.5526848
+ent16453733.txt	miss usa	1350	miss usa	0.5526664
+ent16444023.txt	2003 kids' choice awards	645	2003 kids' choice awards	0.55225
+pol16447720.txt	nbc	2772	nbc	0.55083424
+hea16384904.txt	stony brook university	1538	stony brook university	0.550195
+ent16453733.txt	tara conner	1183	tara conner	0.55005
+pol16447720.txt	norman rockwell	3155	norman rockwell	0.54957855
+spo16417540.txt	davie, fla	119	davie, florida	0.54864526
+usn16444287.txt	condor airlines	1791	condor flugdienst	0.54470664
+pol16447720.txt	university of michigan	1900	university of michigan	0.54453486
+wor13259309.txt	the internet	1085	library	0.5421
+wor16447201.txt	west bengal	1597	west bengal	0.53826004
+spo16455207.txt	espn	1301	espn	0.5382584

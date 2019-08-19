@@ -1,0 +1,5 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	spree river	231	spree	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence4	nets	7	brooklyn nets	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	mikhail d. prokhorov	152	mikhail prokhorov	1.0

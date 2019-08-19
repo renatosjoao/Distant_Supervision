@@ -1,0 +1,303 @@
+tw_99.txt	ta	3	ta mok	1.0
+tw_99.txt	ll	114	l (new york city subway service)	1.0
+tw_97.txt	sta	111	standard liège	1.0
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	66	pope benedict xvi	1.0
+tw_97.txt	pope benedict	0	pope benedict xvi	1.0
+tw_97.txt	john henry newman	29	john henry newman	1.0
+tw_97.txt	john henry	29	john henry (horse)	1.0
+tw_97.txt	benedict xvi	71	pope benedict xvi	1.0
+tw_95.txt	scooter braun	60	scooter braun	1.0
+tw_93.txt	yahoo	62	yahoo! messenger	1.0
+tw_93.txt	ap	57	pspace	1.0
+tw_90.txt	nadal	91	rafael nadal	1.0
+tw_90.txt	monday	22	monday night football	1.0
+tw_9.txt	entry	53	congratulations (cliff richard song)	1.0
+tw_87.txt	years ago	91	before present	1.0
+tw_86.txt	mesa, az	81	mesa, arizona	1.0
+tw_85.txt	sept ' 9	28	september 9	1.0
+tw_81.txt	superbowl	108	super bowl	1.0
+tw_76.txt	today	54	today (u.s. tv program)	1.0
+tw_76.txt	mississippi	63	mississippi river	1.0
+tw_75.txt	syrian woman	78	women in syria	1.0
+tw_75.txt	blogger	30	blogger (service)	1.0
+tw_71.txt	october 11	43	october 11	1.0
+tw_71.txt	htc desire z	88	htc desire z	1.0
+tw_71.txt	htc desire z	21	htc desire z	1.0
+tw_71.txt	htc desire	88	htc desire	1.0
+tw_71.txt	htc desire	21	htc desire	1.0
+tw_71.txt	desire z	92	htc desire z	1.0
+tw_71.txt	desire z	25	htc desire z	1.0
+tw_70.txt	the maine	16	the maine (band)	1.0
+tw_70.txt	maine	20	the maine (band)	1.0
+tw_68.txt	ultimate magic	42	ultimate magic	1.0
+tw_68.txt	ultimate	42	bp	1.0
+tw_68.txt	monday	81	monday night football	1.0
+tw_66.txt	xbox 360	0	xbox 360	1.0
+tw_66.txt	playstation network	55	playstation network	1.0
+tw_66.txt	enslaved: odyssey to the west	10	enslaved: odyssey to the west	1.0
+tw_66.txt	enslaved	10	enslaved: odyssey to the west	1.0
+tw_65.txt	monday	42	monday night football	1.0
+tw_65.txt	le	6	le mans	1.0
+tw_65.txt	giles deacon	27	giles deacon	1.0
+tw_65.txt	giles	27	giles deacon	1.0
+tw_65.txt	amber le bon	0	amber le bon	1.0
+tw_65.txt	amber	0	amber le bon	1.0
+tw_64.txt	plano balloon festival	84	plano balloon festival	1.0
+tw_64.txt	plano balloon festival	60	plano balloon festival	1.0
+tw_64.txt	plano balloon festival	0	plano balloon festival	1.0
+tw_64.txt	balloon festival	90	northampton balloon festival	1.0
+tw_64.txt	balloon festival	66	northampton balloon festival	1.0
+tw_64.txt	balloon festival	6	northampton balloon festival	1.0
+tw_62.txt	south-west	70	south west england	1.0
+tw_62.txt	september 18	26	september 18	1.0
+tw_60.txt	la dodgers	40	los angeles dodgers	1.0
+tw_60.txt	joe torre	27	joe torre	1.0
+tw_60.txt	don mattingly	0	don mattingly	1.0
+tw_59.txt	jessica simpson	32	jessica simpson	1.0
+tw_59.txt	jessica simpson	0	jessica simpson	1.0
+tw_58.txt	r.	74	r. kelly	1.0
+tw_58.txt	kindle edition	16	amazon kindle	1.0
+tw_58.txt	kindle	16	amazon kindle	1.0
+tw_58.txt	customer	65	customer (song)	1.0
+tw_57.txt	last night	72	last night (1998 film)	1.0
+tw_57.txt	snooth	0	snooth	1.0
+tw_56.txt	aspen	34	aspen, colorado	1.0
+tw_55.txt	days	41	green day	1.0
+tw_55.txt	zac brown band	23	zac brown band	1.0
+tw_55.txt	zac brown	23	zac brown band	1.0
+tw_55.txt	zac	23	zac brown band	1.0
+tw_55.txt	september 21	75	september 21	1.0
+tw_55.txt	brown band	27	brown university band	1.0
+tw_51.txt	s.	103	s. (dorst novel)	1.0
+tw_51.txt	tour 2010	15	music saved my life tour	1.0
+tw_51.txt	n.j.	59	new jersey	1.0
+tw_50.txt	marcus bentley	38	marcus bentley	1.0
+tw_49.txt	youtube video	10	youtube	1.0
+tw_49.txt	youtube	10	youtube	1.0
+tw_49.txt	songs	40	kate micucci	1.0
+tw_49.txt	girl	60	afghan girl	1.0
+tw_48.txt	techland	62	techland	1.0
+tw_48.txt	google music	0	google play music	1.0
+tw_47.txt	obamacare	30	patient protection and affordable care act	1.0
+tw_47.txt	day	69	assassination of john f. kennedy	1.0
+tw_46.txt	nokia 5800	70	nokia 5800 xpressmusic	1.0
+tw_45.txt	tonight	63	the tonight show	1.0
+tw_45.txt	miner	36	tim miner	1.0
+tw_43.txt	sun	68	sun	1.0
+tw_43.txt	brae	119	brazil	1.0
+tw_43.txt	aberdeen	124	aberdeen	1.0
+tw_41.txt	mar adentro	95	the sea inside	1.0
+tw_40.txt	tonight	33	the tonight show with conan o'brien	1.0
+tw_40.txt	fun	67	fun home	1.0
+tw_4.txt	last film	0	the misfits (film)	1.0
+tw_38.txt	wait	5	wait (earshot song)	1.0
+tw_38.txt	tomorrow	30	tomorrow never dies (video game)	1.0
+tw_38.txt	rice	50	ray rice	1.0
+tw_38.txt	ray rice	46	ray rice	1.0
+tw_38.txt	ray	46	ray rice	1.0
+tw_36.txt	sept 26	10	september 26	1.0
+tw_36.txt	mannie fresh	18	mannie fresh	1.0
+tw_36.txt	jermaine dupri	35	jermaine dupri	1.0
+tw_36.txt	dupri	44	jermaine dupri	1.0
+tw_35.txt	official	50	uk singles chart	1.0
+tw_34.txt	ky	120	kentucky	1.0
+tw_32.txt	tonight	33	tonight (tobymac album)	1.0
+tw_32.txt	lingerie football league	0	legends football league	1.0
+tw_32.txt	lingerie football	0	legends football league	1.0
+tw_31.txt	uk	14	united kingdom	1.0
+tw_30.txt	tonight with	53	tonight (tv programme)	1.0
+tw_30.txt	tasty	40	tasty (kelis album)	1.0
+tw_3.txt	t4	60	t4 (channel 4)	1.0
+tw_3.txt	good weekend	126	the sydney morning herald	1.0
+tw_28.txt	ed miliband	71	ed miliband	1.0
+tw_25.txt	ak	134	alaska	1.0
+tw_24.txt	pg	41	parental guidance (film)	1.0
+tw_23.txt	choice	120	tashard choice	1.0
+tw_23.txt	birthday	27	martin luther king, jr. day	1.0
+tw_23.txt	brett favre	128	brett favre	1.0
+tw_22.txt	tim	14	tim hartman	1.0
+tw_21.txt	paris	58	france	1.0
+tw_19.txt	limits	83	bdsm	1.0
+tw_19.txt	piranha 3d	54	piranha 3d	1.0
+tw_19.txt	glad	107	emil glad	1.0
+tw_181.txt	september 1	87	september 1	1.0
+tw_181.txt	lady gaga	44	lady gaga	1.0
+tw_181.txt	kid cudi	0	kid cudi	1.0
+tw_181.txt	cudi	4	kid cudi	1.0
+tw_181.txt	concepcion	70	concepcion picciotto	1.0
+tw_180.txt	time i	20	time i	1.0
+tw_180.txt	lost for words	54	the division bell	1.0
+tw_18.txt	kings of leon	30	kings of leon	1.0
+tw_179.txt	rd	46	r (new york city subway service)	1.0
+tw_178.txt	t.i	77	t.i.	1.0
+tw_177.txt	tonight with	14	tonight (tv programme)	1.0
+tw_177.txt	mood	60	mood (band)	1.0
+tw_176.txt	sour patch kids	85	sour patch kids	1.0
+tw_176.txt	sour patch	85	sour patch kids	1.0
+tw_174.txt	larry bird	99	larry bird	1.0
+tw_171.txt	samuel	37	samuel king allison	1.0
+tw_171.txt	potbelly	68	potbelly sandwich works	1.0
+tw_170.txt	pdf	92	portable document format	1.0
+tw_170.txt	october 2010	49	october 2010	1.0
+tw_170.txt	october 2010	13	october 2010	1.0
+tw_169.txt	uk	67	united kingdom	1.0
+tw_169.txt	october 18	73	october 18	1.0
+tw_169.txt	october	73	october 18	1.0
+tw_164.txt	night	27	gazpacho (band)	1.0
+tw_163.txt	quidditch	36	quidditch	1.0
+tw_163.txt	eyeopener	14	eyeopener	1.0
+tw_162.txt	ride or die	81	ride (ace hood song)	1.0
+tw_161.txt	shreveport	22	shreveport, louisiana	1.0
+tw_160.txt	warner cable	5	time warner cable	1.0
+tw_160.txt	netflix	75	netflix	1.0
+tw_160.txt	epix	29	epix (tv network)	1.0
+tw_160.txt	deal	65	frank deal	1.0
+tw_158.txt	server 2008 r2	77	windows server 2008 r2	1.0
+tw_158.txt	server 2008	77	windows server 2008	1.0
+tw_158.txt	server 2008	62	windows server 2008	1.0
+tw_158.txt	r2	89	r2	1.0
+tw_158.txt	hyper v	41	hyper-v	1.0
+tw_157.txt	wake up	70	three days grace (album)	1.0
+tw_157.txt	justin bieber	42	justin bieber	1.0
+tw_156.txt	serie	29	serie a	1.0
+tw_155.txt	tour	2	coaches tour	1.0
+tw_155.txt	tonight	59	tonight (jeremy camp song)	1.0
+tw_154.txt	tonight with	33	tonight (tv programme)	1.0
+tw_154.txt	tonight	33	tonight (tv programme)	1.0
+tw_154.txt	hi	105	jan hus	1.0
+tw_152.txt	bust	91	bust, bas-rhin	1.0
+tw_152.txt	rt	0	rt (tv network)	1.0
+tw_151.txt	wow	27	wow (inna song)	1.0
+tw_151.txt	facebook	70	facebook	1.0
+tw_150.txt	vma	13	mtv video music award	1.0
+tw_15.txt	excuses	115	so-called chaos	1.0
+tw_15.txt	cherry and whites	41	wigan warriors	1.0
+tw_149.txt	juicy	92	juicy (the notorious b.i.g. song)	1.0
+tw_149.txt	biggie	101	the notorious b.i.g.	1.0
+tw_148.txt	time	57	next time	1.0
+tw_148.txt	mac	47	macedonia (terminology)	1.0
+tw_146.txt	years ago	107	before present	1.0
+tw_143.txt	boxer	58	barbara boxer	1.0
+tw_143.txt	barbara boxer	50	barbara boxer	1.0
+tw_140.txt	a7x	114	avenged sevenfold	1.0
+tw_14.txt	tonight	88	bad boy (ringo starr album)	1.0
+tw_14.txt	throwbacks	65	underground luxury	1.0
+tw_14.txt	ga	10	georgia (u.s. state)	1.0
+tw_139.txt	omg	0	sabrina washington	1.0
+tw_139.txt	miley cyrus	69	miley cyrus	1.0
+tw_139.txt	miley cyrus	5	miley cyrus	1.0
+tw_138.txt	hdcp	87	high-bandwidth digital content protection	1.0
+tw_137.txt	lol	0	lol	1.0
+tw_137.txt	fall out boy	52	fall out boy	1.0
+tw_136.txt	set list	42	set list	1.0
+tw_136.txt	berkeley in	66	university of california, berkeley	1.0
+tw_132.txt	songs	18	mr. bojangles (song)	1.0
+tw_131.txt	kaufman	39	philip kaufman	1.0
+tw_131.txt	joaquin phoenix	3	joaquin phoenix	1.0
+tw_131.txt	joaquin	3	joaquin phoenix	1.0
+tw_131.txt	andy	34	andy warhol	1.0
+tw_130.txt	deandre way	38	soulja boy	1.0
+tw_130.txt	boy	7	drumma boy	1.0
+tw_128.txt	shoot	35	the shoot	1.0
+tw_127.txt	october 10	43	october 10	1.0
+tw_125.txt	tonight	26	the tonight show with conan o'brien	1.0
+tw_125.txt	halo reach	0	halo: reach	1.0
+tw_124.txt	margaret hamburg	90	margaret hamburg	1.0
+tw_124.txt	margaret	90	margaret hamburg	1.0
+tw_124.txt	fda commissioner	73	commissioner of food and drugs	1.0
+tw_122.txt	york	16	toronto	1.0
+tw_121.txt	plenty	78	plenty (film)	1.0
+tw_120.txt	la	31	louisiana	1.0
+tw_119.txt	october 1	78	october 1	1.0
+tw_118.txt	facebook	4	facebook	1.0
+tw_118.txt	branchout	29	branchout	1.0
+tw_117.txt	ibgp	45	border gateway protocol	1.0
+tw_117.txt	ebgp	54	border gateway protocol	1.0
+tw_116.txt	chin	105	larry wu-tai chin	1.0
+tw_116.txt	@justinbieber	0	justin bieber	1.0
+tw_115.txt	la	26	la la anthony	1.0
+tw_114.txt	rt	0	rt (tv network)	1.0
+tw_114.txt	dry	74	dry, loiret	1.0
+tw_112.txt	rt	0	rt (tv network)	1.0
+tw_112.txt	miami 2 ibiza	95	miami 2 ibiza	1.0
+tw_111.txt	beyer	5	adam beyer	1.0
+tw_111.txt	adam beyer	0	adam beyer	1.0
+tw_110.txt	mail today	89	mail today	1.0
+tw_110.txt	cody	70	cody lundin	1.0
+tw_11.txt	time	14	the new york times	1.0
+tw_11.txt	shoot	90	shoot (film)	1.0
+tw_11.txt	locations	96	south africa	1.0
+tw_11.txt	today	107	today (u.s. tv program)	1.0
+tw_11.txt	ross	37	rick ross	1.0
+tw_105.txt	love	22	courtney love	1.0
+tw_105.txt	balloon	0	seasick (album)	1.0
+tw_104.txt	today	32	today (u.s. tv program)	1.0
+tw_102.txt	today	50	scotland today	1.0
+tw_101.txt	sept 25	42	september 25	1.0
+tw_1.txt	tonight	63	mac tonight	1.0
+tw_1.txt	costa	50	peter costa	1.0
+tw_0.txt	keppinger	28	jeff keppinger	1.0
+tw_97.txt	henry newman	34	john henry newman	0.9940828402366864
+tw_139.txt	cal	111	california	0.991304347826087
+tw_149.txt	super nintendo	0	super nintendo entertainment system	0.9859154929577465
+tw_171.txt	il	102	illinois	0.9848024316109423
+tw_7.txt	sun	59	sun	0.9811320754716981
+tw_60.txt	mattingly	4	don mattingly	0.9782608695652174
+tw_153.txt	america	46	united states	0.9714285714285714
+tw_68.txt	ca	89	california	0.9696969696969697
+tw_53.txt	free	88	france	0.9655172413793104
+tw_38.txt	ravens	18	baltimore ravens	0.9655172413793104
+tw_23.txt	first draft	108	1996 mls inaugural player draft	0.9642857142857143
+tw_173.txt	st. mary	122	mary (mother of jesus)	0.9642857142857143
+tw_86.txt	az	87	arizona	0.96
+tw_40.txt	shore	106	jersey shore	0.9523809523809523
+tw_50.txt	hls	23	harvard law school	0.9473684210526315
+tw_149.txt	sega genesis	15	sega genesis	0.9459459459459459
+tw_181.txt	ny	82	new york city	0.9440559440559441
+tw_181.txt	lady	44	lady gaga	0.9428571428571428
+tw_23.txt	american professional football association	43	national football league	0.9397024275646045
+tw_60.txt	torre	31	joe torre	0.935064935064935
+tw_40.txt	jersey	99	new jersey	0.9322033898305084
+tw_117.txt	america	92	united states	0.9239766081871345
+tw_55.txt	date	69	september 11 attacks	0.9230769230769231
+tw_41.txt	agora	38	agora (film)	0.9230769230769231
+tw_167.txt	michael kraus	66	michael kraus (minister)	0.9230769230769231
+tw_89.txt	heat	72	miami heat	0.9210526315789473
+tw_81.txt	cowboy	0	dallas cowboys	0.9166666666666666
+tw_171.txt	chicago, il	93	windy city (musical)	0.916030534351145
+tw_51.txt	america	95	united states	0.9135691894312584
+tw_167.txt	california	17	united states	0.9081081081081082
+tw_149.txt	sega	15	sega	0.9032258064516129
+tw_143.txt	desert	35	arizona	0.9
+tw_93.txt	ne	104	nebraska	0.8888888888888888
+tw_76.txt	portland, or	30	portland, oregon	0.8888888888888888
+tw_47.txt	tea	41	boston tea party	0.8888888888888888
+tw_11.txt	rick	32	rick ross	0.8888888888888888
+tw_6.txt	ny	114	new york city	0.883495145631068
+tw_181.txt	gaga	49	lady gaga	0.8823529411764706
+tw_111.txt	swedish	12	sweden	0.8762886597938144
+tw_66.txt	odyssey	20	windows xp	0.875
+tw_11.txt	rick ross	32	rick ross	0.875
+tw_70.txt	parade	7	mayday parade	0.8695652173913043
+tw_13.txt	home	56	new york city	0.865979381443299
+tw_36.txt	jermaine	35	jermaine dupri	0.8648648648648649
+tw_149.txt	genesis	20	sega genesis	0.8620689655172413
+tw_18.txt	tonight	44	the tonight show	0.8571428571428571
+tw_133.txt	acc	28	atlantic coast conference	0.8571428571428571
+tw_5.txt	kingdom	135	united kingdom	0.8533333333333334
+tw_117.txt	isp	119	internet service provider	0.8513513513513513
+tw_173.txt	p.m.	27	paul mccartney	0.8484848484848485
+tw_97.txt	newman	40	john henry newman	0.8421052631578947
+tw_181.txt	kid	0	kid cudi	0.8421052631578947
+tw_81.txt	da bears	26	chicago bears	0.8387096774193549
+tw_37.txt	jfk	43	john f. kennedy	0.8333333333333334
+tw_126.txt	marvin gaye	14	marvin gaye	0.8333333333333334
+tw_48.txt	google	0	google	0.8181818181818182
+tw_47.txt	constitution day	56	constitution day (united states)	0.8181818181818182
+tw_11.txt	drake	46	drake (rapper)	0.8181818181818182
+tw_167.txt	home	28	new york city	0.8170347003154574
+tw_23.txt	favre	134	brett favre	0.8166351606805293
+tw_178.txt	rose	118	england	0.8063241106719368
+tw_95.txt	braun	68	scooter braun	0.8
+tw_76.txt	bamba	5	la bamba (song)	0.8

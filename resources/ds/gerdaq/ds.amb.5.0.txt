@@ -1,0 +1,58 @@
+http:__gerdaq_gerdaq_trainingb.xml_99	singapore	34	singapore dollar	1.0
+http:__gerdaq_gerdaq_trainingb.xml_99	electricity consumption	4	electric energy consumption	1.0
+http:__gerdaq_gerdaq_trainingb.xml_97	merchandise	0	merchandising	1.0
+http:__gerdaq_gerdaq_trainingb.xml_96	exams	15	test (assessment)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	golf tournament	4	golf	1.0
+http:__gerdaq_gerdaq_trainingb.xml_9	hotels	8	hotel	1.0
+http:__gerdaq_gerdaq_trainingb.xml_89	rogers	0	rogers department store	1.0
+http:__gerdaq_gerdaq_trainingb.xml_86	wayland	0	wayland (display server protocol)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_83	birth control	14	birth control	1.0
+http:__gerdaq_gerdaq_trainingb.xml_78	lasik surgery	0	lasik	1.0
+http:__gerdaq_gerdaq_trainingb.xml_77	parts	17	south hampton roads	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	throwback	21	throwback uniform	1.0
+http:__gerdaq_gerdaq_trainingb.xml_76	landy	15	landy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_75	epoxide	0	epoxide	1.0
+http:__gerdaq_gerdaq_trainingb.xml_74	tavern	0	tavern	1.0
+http:__gerdaq_gerdaq_trainingb.xml_71	song lyrics	7	lyrics	1.0
+http:__gerdaq_gerdaq_trainingb.xml_70	cliff	6	cliff	1.0
+http:__gerdaq_gerdaq_trainingb.xml_67	wages	18	wage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_63	cottages	0	cottage	1.0
+http:__gerdaq_gerdaq_trainingb.xml_57	tv show	10	television show	1.0
+http:__gerdaq_gerdaq_trainingb.xml_51	home health care	12	home care	1.0
+http:__gerdaq_gerdaq_trainingb.xml_44	dance connection	0	connection (dance)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_42	county school	5	community school (england and wales)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_41	commercial building	0	commercial building	1.0
+http:__gerdaq_gerdaq_trainingb.xml_4	houston	0	river oaks international tennis tournament	1.0
+http:__gerdaq_gerdaq_trainingb.xml_38	tgp	11	thumbnail gallery post	1.0
+http:__gerdaq_gerdaq_trainingb.xml_37	calender	9	calender	1.0
+http:__gerdaq_gerdaq_trainingb.xml_35	newspaper	10	newspaper	1.0
+http:__gerdaq_gerdaq_trainingb.xml_32	chad	0	chad (paper)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_31	rental	10	renting	1.0
+http:__gerdaq_gerdaq_trainingb.xml_29	clothing	0	clothing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_27	regency	0	subdivisions of indonesia	1.0
+http:__gerdaq_gerdaq_trainingb.xml_245	uzi	16	uzi	1.0
+http:__gerdaq_gerdaq_trainingb.xml_244	computer memory	0	computer memory	1.0
+http:__gerdaq_gerdaq_trainingb.xml_243	cattery	5	cattery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_242	radio frequency	0	radio frequency	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	subordinate	26	hierarchy	1.0
+http:__gerdaq_gerdaq_trainingb.xml_240	recommendation letter	0	recommendation letter	1.0
+http:__gerdaq_gerdaq_trainingb.xml_24	bahia	0	brasil open	1.0
+http:__gerdaq_gerdaq_trainingb.xml_237	miles	0	knight	1.0
+http:__gerdaq_gerdaq_trainingb.xml_233	shaolin temple	8	shaolin monastery	1.0
+http:__gerdaq_gerdaq_trainingb.xml_232	highschool	17	high school (north america)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_227	unsigned artist	0	unsigned artist	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	wichita	27	wichita language	1.0
+http:__gerdaq_gerdaq_trainingb.xml_226	marriott	13	marriott, saskatchewan	1.0
+http:__gerdaq_gerdaq_trainingb.xml_225	silkscreens	16	screen printing	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	danger	23	risk	1.0
+http:__gerdaq_gerdaq_trainingb.xml_222	air purifier	0	air purifier	1.0
+http:__gerdaq_gerdaq_trainingb.xml_215	planes	0	plane (geometry)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_214	valkyrie	8	valkyrie	1.0
+http:__gerdaq_gerdaq_trainingb.xml_21	media buyer	0	media buying	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	motor vehicles	30	motor vehicle	1.0
+http:__gerdaq_gerdaq_trainingb.xml_209	dept	22	dept (medicine)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_205	weather station	22	weather station	1.0
+http:__gerdaq_gerdaq_trainingb.xml_204	driving	6	driving (horse)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_202	chainsaw	24	chainsaw	1.0
+http:__gerdaq_gerdaq_trainingb.xml_199	year	26	year	1.0

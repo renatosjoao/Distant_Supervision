@@ -1,0 +1,107 @@
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence5	terrace	153	michael terrace	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	den	78	denmark	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	german capital	36	berlin	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence3	dance troupe	37	dance troupe	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	space	159	space (ibiza nightclub)	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	brick gothic	195	brick gothic	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	waltz	6	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha waltz	0	sasha waltz	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	proud	92	proud truth	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	delight	144	rapper's delight	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	dancer	7	gate dancer	1.0
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster keaton	78	buster keaton	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence3	young russians	123	mladorossi	1.0
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	mikhail d. prokhorov	152	mikhail prokhorov	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	part of	123	russian partition	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	web language	135	web language	1.0
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence3	html 5	183	html5	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	timothy f. geithner	61	timothy geithner	1.0
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	geithner	72	timothy geithner	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence5	scars	84	scars (papa roach song)	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	tha carter	83	tha carter	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	rikers	261	rikers island	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	lil wayne	236	lil wayne	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	carter iv	87	tha carter iv	1.0
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence0	lil wayne	0	lil wayne	1.0
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence1	years ago	82	before present	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	roof	162	phil roof	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	cylinder	146	cyrus cylinder	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	toyota	106	toyota	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	prius	113	toyota prius	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	francisco	51	san francisco	1.0
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	angeles	69	los angeles	1.0
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	jennifer cole	32	jennifer cole	1.0
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	alice roosevelt longworth	71	alice roosevelt longworth	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence4	turku	196	turku	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	turku	128	turku	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	central terminal	207	buffalo central terminal	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	yellow house	30	beit beirut	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	southern finland	94	southern finland province	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	turku	85	turku	1.0
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	new	227	united states	0.98005698005698
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence2	new	0	united states	0.9777777777777777
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence2	international	51	europe	0.975609756097561
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence3	berliners	12	berlin	0.96
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	canada	117	canada	0.9545454545454546
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	central	207	united states	0.9545199326221224
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence1	rikers	90	rikers island	0.9473684210526315
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence5	italian renaissance	104	italy	0.9469387755102041
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	japan	128	japan	0.9301675977653632
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	obama administration	175	barack obama	0.9230769230769231
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	berlin	246	berlin	0.9166666666666666
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	collection	179	akon	0.9166666666666666
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	york	231	toronto	0.9149560117302052
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence5	period	98	soviet union	0.8974358974358975
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	lombard street	27	lombard street (san francisco)	0.8888888888888888
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	canadian	37	canada	0.8719723183391004
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	nation	108	united states	0.8699472759226714
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	timothy	61	timothy geithner	0.8571428571428571
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	grand central terminal	201	grand central terminal	0.8571428571428571
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	obama	175	barack obama	0.8524590163934426
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	wayne	240	lil wayne	0.8475336322869955
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	landmark	110	national historic landmark	0.8333333333333334
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	world war i	74	the war to end war	0.8283378746594006
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	china	151	cathay	0.8184818481848185
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence5	wave	193	waves (mono band song)	0.8
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	twists	19	the alarm	0.8
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	september	21	september 7	0.8
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	harbor	136	great egg harbor river	0.8
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence2	september	24	september 7	0.8
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence4	europe	87	europe	0.7808219178082192
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	sasha	0	sasha waltz	0.7692307692307693
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence3	advance	193	strange advance	0.75
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	tha carter iv	83	lil wayne	0.7388059701492538
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	los	65	los angeles dodgers	0.7377049180327869
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	francisco	49	san francisco	0.7344262295081967
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence2	nets	83	netherlands	0.7228915662650602
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence0	nets	4	netherlands	0.7206405693950177
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	europe	109	europe	0.7164179104477612
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	tha	83	thailand	0.7142857142857143
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence4	lombard	27	lombard street (san francisco)	0.7128712871287128
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence1	buster	78	buster keaton	0.7096774193548387
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence4	grand boulevard	53	grand boulevard (budapest)	0.7058823529411765
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	finland	103	finland	0.7
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence1	grand central	201	grand central terminal	0.6996466431095406
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence4	version	28	dr-dos	0.6923076923076923
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	toyota prius	106	toyota prius	0.6896551724137931
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	carter	87	jay-z	0.6842105263157895
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence3	lil	236	lil wayne	0.6778242677824268
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence5	renaissance	112	the renaissance	0.6739130434782609
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence5	rick	123	ricky nelson	0.6666666666666666
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence0	wayne	4	lil wayne	0.6666666666666666
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence5	father	4	god	0.6666666666666666
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence3	take control	33	take control (horse)	0.6666666666666666
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence3	jennifer	32	jennifer cole	0.6666666666666666
+http:__www.nytimes.com_2010_10_11_arts_design_11chaos.html?ref=arts_sentence1	germany	146	germany	0.6639784946236559
+http:__www.nytimes.com_2010_10_10_us_10pot.html?src=me&ref=general_sentence1	illinois	33	windy city (musical)	0.6627906976744186
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	los angeles	65	california	0.6450617283950617
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence1	recovery	282	recovery (eminem album)	0.6428571428571429
+http:__www.nytimes.com_2010_10_10_science_10google.html?src=me&ref=general_sentence0	san	47	san francisco giants	0.625
+http:__www.nytimes.com_interactive_2010_10_10_travel_20101010-offbeatculture-interactive.html?ref=travel_sentence2	brick	195	brick gothic	0.6
+http:__www.nytimes.com_2010_10_11_arts_music_11choice.html?ref=arts_sentence1	idea	166	idea (album)	0.6
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	alice roosevelt	71	alice roosevelt longworth	0.6
+http:__travel.nytimes.com_2010_10_10_travel_10turku.html?ref=travel_sentence0	park	65	urban park	0.6
+http:__www.nytimes.com_2010_10_10_fashion_10studied.html?ref=style_sentence0	alice	71	alice roosevelt longworth	0.5919282511210763
+http:__www.nytimes.com_2010_10_11_sports_basketball_11nets.html?ref=sports_sentence3	aim	148	army institute of management, kolkata	0.5714285714285714
+http:__www.nytimes.com_2010_10_11_business_economy_11currency.html?ref=business_sentence0	canadian embassy	37	embassy of canada, washington, d.c.	0.5555555555555556
+http:__www.nytimes.com_2010_10_11_business_media_11privacy.html?_r=1&hp_sentence2	suite	38	mozilla application suite	0.5454545454545454

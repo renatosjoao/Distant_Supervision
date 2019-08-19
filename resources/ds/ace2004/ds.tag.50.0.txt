@@ -1,0 +1,747 @@
+apw20001207.2118.0838	origin of birds	978	origin of birds	0.73126113
+chtb_165.eng	tokyo mitsubishi bank	445	the bank of tokyo-mitsubishi ufj	0.7299454
+apw20001207.2118.0838	archaeopteryx	1919	archaeopteryx	0.7257375
+voa20001223.2000.0139	slobodan milosevic	325	slobodan milošević	0.72344565
+apw20001207.2118.0838	archaeopteryx	3731	archaeopteryx	0.72167003
+apw20001127.1346.0419	chicago white sox	1332	chicago white sox	0.71961
+apw20001127.1346.0419	los angeles dodgers	1351	los angeles dodgers	0.7196033
+apw20001001.2021.0521	hosni mubarak	120	hosni mubarak	0.71895665
+apw20001203.1456.0329	al gore	146	al gore	0.70480454
+nyt20001002.1754.0290	plankton	1120	plankton	0.69836664
+apw20001203.1456.0329	george w. bush	171	george w. bush	0.69547695
+20001115_afp_arb.0217.eng	boris yeltsin	716	boris yeltsin	0.69532305
+apw20001207.2118.0838	dino-bird	883	origin of birds	0.69466114
+20001115_afp_arb.0217.eng	asia-pacific economic cooperation	510	asia-pacific economic cooperation	0.692781
+apw20001207.2118.0838	microraptor	2086	microraptor	0.6911038
+apw20001127.1346.0419	new york mets	1372	new york mets	0.68954664
+nyt20001217.2241.0165	john wayne airport	1736	john wayne airport	0.6880964
+apw20001202.0257.0120	dallas cowboys	1912	dallas cowboys	0.68459284
+apw20001127.1346.0419	texas rangers	127	texas rangers (baseball)	0.6840944
+20001115_afp_arb.0089.eng	yasser arafat	829	yasser arafat	0.6812
+apw20001127.1346.0419	alex rodriguez	71	alex rodriguez	0.6808278
+20001115_afp_arb.0184.eng	yasser arafat	582	yasser arafat	0.67915523
+20001115_afp_arb.0212.eng	madeleine albright	136	madeleine albright	0.678925
+apw20001001.2021.0521	gaza strip	485	gaza strip	0.67451
+apw20001127.1346.0419	atlanta braves	1390	atlanta braves	0.6735967
+pri20001122.2000.0320	yasser arafat	35	yasser arafat	0.6722229
+apw20001202.0257.0120	dirk koetter	35	dirk koetter	0.6713423
+apw20001202.0257.0120	arena football league	1979	arena football league	0.67002857
+apw20001120.1450.0376	mohammed omar	512	mohammed omar	0.6688342
+nyt20001109.1946.0315	al gore	1378	al gore	0.66701174
+20001115_afp_arb.0089.eng	palestinian flag	856	palestinian flag	0.666775
+20001115_afp_arb.0184.eng	gaza strip	1296	gaza strip	0.66542894
+apw20001218.2221.0727	nws.noaa.gov	1956	national weather service	0.66392
+apw20001207.2118.0838	origin of birds	1562	origin of birds	0.66388685
+apw20001207.2118.0838	protopteryx	2019	protopteryx	0.663725
+20001115_afp_arb.0030.eng	gaza strip	175	gaza strip	0.663725
+20001115_afp_arb.0060.eng	asia-pacific economic cooperation	662	asia-pacific economic cooperation	0.66372085
+apw20001127.1346.0419	tom hicks	317	tom hicks	0.6622028
+nyt20001123.1511.0062	spin city	391	spin city	0.66209
+20001115_afp_arb.0013.eng	bill clinton	56	bill clinton	0.6613067
+nyt20001217.2241.0165	westchester county airport	1788	westchester county airport	0.6611083
+apw20001017.1313.0396	george w. bush	33	george w. bush	0.6610725
+apw20001001.2021.0521	golan heights	1975	golan heights	0.66069
+20001115_afp_arb.0093.eng	gaza strip	1750	gaza strip	0.6599765
+apw20001218.2221.0727	www.weather.com	2071	the weather channel	0.6594833
+20001115_afp_arb.0212.eng	bill clinton	599	bill clinton	0.6584
+voa20001129.2000.0364	george w bush	3664	george w. bush	0.65824705
+apw20001207.2118.0838	microraptor	1516	microraptor	0.65727365
+apw20001017.1313.0396	al gore	61	al gore	0.65647
+20001115_afp_arb.0093.eng	yasser arafat	120	yasser arafat	0.65612817
+apw20001208.1126.0362	vladimir lenin	530	vladimir lenin	0.6556674
+apw20001202.0257.0120	danny white	1870	danny white	0.6554321
+voa20001223.2000.0139	vojislav kostunica	40	vojislav koštunica	0.6548174
+apw20001017.1313.0396	joseph lieberman	1234	joe lieberman	0.65469736
+20001115_afp_arb.0089.eng	yasser arafat	1933	yasser arafat	0.65460384
+20001115_afp_arb.0217.eng	vladimir putin	430	vladimir putin	0.65451
+20001115_afp_arb.0060.eng	vladimir putin	189	vladimir putin	0.6543555
+20001115_afp_arb.0013.eng	al gore	507	al gore	0.6539684
+20001115_afp_arb.0061.eng	ehud barak	597	ehud barak	0.65335524
+20001115_afp_arb.0061.eng	yasser arafat	139	yasser arafat	0.6518528
+nyt20001124.2050.0257	international monetary fund	552	international monetary fund	0.6505643
+pri20001122.2000.0320	ehud barak	296	ehud barak	0.6503271
+20001115_afp_arb.0184.eng	ehud barak	370	ehud barak	0.65010834
+20001115_afp_arb.0013.eng	al gore	1159	al gore	0.650095
+20001115_afp_arb.0093.eng	asia-pacific economic cooperation	748	asia-pacific economic cooperation	0.6484765
+apw20001001.2021.0521	ehud barak	1798	ehud barak	0.64749163
+apw20001208.1126.0362	yabloko	1537	yabloko	0.64561844
+nyt20001106.1705.0187	al gore	940	al gore	0.64437366
+pri20001031.2000.1824	singapore airlines	62	singapore airlines	0.64357775
+apw20001225.2035.0477	america online	4347	aol	0.6404804
+apw20001203.1456.0329	strom thurmond	822	strom thurmond	0.64045525
+20001115_afp_arb.0060.eng	bill clinton	148	bill clinton	0.6395588
+apw20001127.1346.0419	scott boras	257	scott boras	0.63830334
+apw20001127.1346.0419	johnny oates	386	johnny oates	0.6378353
+chtb_267.eng	steam turbine	1151	steam turbine	0.63783234
+voa20001220.2000.0060	jeb bush	822	jeb bush	0.63778
+pri20001201.2000.1828	george w. bush	317	george w. bush	0.6376
+voa20001208.2000.1275	pittsburgh penguins	138	pittsburgh penguins	0.63641787
+20001115_afp_arb.0060.eng	sultanate of brunei	751	brunei	0.6360555
+apw20001207.2118.0838	thomas r. holtz jr	1002	thomas r. holtz jr.	0.63528824
+apw20001208.1126.0362	1991 soviet collapse	1196	dissolution of the soviet union	0.634925
+apw20001218.2221.0727	weather channel	2047	the weather channel	0.634792
+apw20001207.2118.0838	enantiornithine	4656	enantiornithes	0.6345737
+nyt20001123.1511.0062	james l. brooks	2172	james l. brooks	0.63450503
+nyt20001123.1511.0062	drew carey show	367	the drew carey show	0.63160294
+apw20001120.1450.0376	taliban	480	taliban	0.6310664
+apw20001102.1223.0376	yasser arafat	396	yasser arafat	0.6301864
+nyt20001123.1511.0062	jack nicholson	2127	jack nicholson	0.6295577
+voa20001220.2000.0060	george w bush	45	george w. bush	0.62955713
+apw20001218.2221.0727	national weather service	1918	national weather service	0.6287896
+apw20001207.2118.0838	protopteryx	3659	protopteryx	0.628725
+nyt20001129.2040.0383	george w. bush	1044	george w. bush	0.6284318
+apw20001017.1313.0396	commission on presidential debates	2691	commission on presidential debates	0.6273133
+apw20001203.1456.0329	yasser arafat	421	yasser arafat	0.6272421
+apw20001216.2012.0590	national weather service	547	national weather service	0.626682
+apw20001208.1126.0362	vladimir putin	371	vladimir putin	0.6263158
+nyt20001217.2241.0165	federal aviation administration	2704	federal aviation administration	0.62623334
+nyt20001109.1946.0315	george w. bush	1324	george w. bush	0.62570834
+pri20001201.2000.1828	al gore	1204	al gore	0.6254912
+apw20001207.2118.0838	enantiornithine	291	enantiornithes	0.62480253
+voa20001220.2000.0060	mel martinez	672	mel martínez	0.6246632
+voa20001223.2000.0139	democratic opposition of serbia	138	democratic opposition of serbia	0.6243826
+pri20001201.2000.1828	sandra day o'connor	776	sandra day o'connor	0.6226269
+apw20001001.2021.0521	yemen	2309	yemen	0.62246746
+20001115_afp_arb.0093.eng	yasser arafat	1255	yasser arafat	0.621879
+apw20001225.2035.0477	icq	2185	icq	0.62168825
+20001115_afp_arb.0061.eng	yasser arafat	310	yasser arafat	0.62043154
+apw20001208.1126.0362	union of right forces	1597	union of right forces	0.620375
+apw20001207.2118.0838	theropod	2955	theropoda	0.6198185
+20001115_afp_arb.0093.eng	bill clinton	466	bill clinton	0.61936563
+apw20001202.0257.0120	arizona rattlers	1955	arizona rattlers	0.6191857
+20001115_afp_arb.0093.eng	bill clinton	846	bill clinton	0.61882335
+nyt20001123.1511.0062	greg kinnear	2155	greg kinnear	0.61878335
+pri20001031.2000.1824	singapore airlines	373	singapore airlines	0.6183896
+apw20001127.1346.0419	steve phillips	2217	steve phillips	0.61775
+20001115_afp_arb.0093.eng	yasser arafat	1457	yasser arafat	0.61699283
+apw20001127.1346.0419	doug melvin	365	doug melvin	0.61645
+nyt20001106.1705.0187	george w. bush	441	george w. bush	0.6163381
+apw20001102.1223.0376	ehud barak	362	ehud barak	0.6162803
+nyt20001123.1511.0062	helen hunt	2143	helen hunt	0.61508816
+20001115_afp_arb.0217.eng	yoshiro mori	473	yoshirō mori	0.6148667
+apw20001207.2118.0838	ornithurae	4937	ornithurae	0.6140583
+20001115_afp_arb.0089.eng	oslo peace accords	2126	oslo accords	0.61351854
+nyt20001123.1511.0062	avaya	3632	avaya	0.61265236
+chtb_267.eng	xinhua news agency	2	xinhua news agency	0.61209655
+pri20001031.2000.1824	flight sq006	132	singapore airlines flight 006	0.611971
+apw20001208.1126.0362	mikhail glinka	1139	mikhail glinka	0.6106316
+pri20001201.2000.1828	al gore	345	al gore	0.60845625
+apw20001208.1126.0362	grigory yavlinsky	1494	grigory yavlinsky	0.60805
+apw20001208.1126.0362	boris yeltsin	2073	boris yeltsin	0.60749704
+voa20001129.2000.0364	harvard law school	790	harvard law school	0.6074472
+nyt20001129.2040.0383	al gore	370	al gore	0.6069176
+20001015_afp_arb.0229.eng	riyadh international airport	370	king khalid international airport	0.6063412
+apw20001130.2108.0849	jack straw	1102	jack straw	0.605
+pri20001128.2000.0055	al gore	863	al gore	0.6041119
+nyt20001124.2050.0257	joseph estrada	1195	joseph estrada	0.6040533
+20001115_afp_arb.0089.eng	palestinian national council	198	palestinian national council	0.6028929
+chtb_165.eng	dai-ichi kangyo bank	607	dai-ichi kangyo bank	0.6025654
+apw20001002.0615.0146	suharto	60	suharto	0.6019625
+chtb_165.eng	japan industrial bank	1933	industrial bank of japan	0.601825
+apw20001207.2118.0838	protopteryx	851	protopteryx	0.6014139
+20000715_afp_arb.0072.eng	shahab 3	723	shahab-3	0.6013725
+20000715_afp_arb.0072.eng	shahab 3	2150	shahab-3	0.60117334
+voa20001208.2000.1275	stanley cup	685	stanley cup	0.6010569
+apw20001208.1126.0362	state duma	256	state duma	0.6009844
+apw20001203.1456.0329	j.c. watts	54	j. c. watts	0.5991875
+20001115_afp_arb.0093.eng	bandar seri begawan	381	bandar seri begawan	0.5983625
+20000715_afp_arb.0072.eng	shahab 3	966	shahab-3	0.5970611
+nyt20001109.1946.0315	ralph nader	101	ralph nader	0.596925
+20001115_afp_arb.0060.eng	bandar seri begawan	2	bandar seri begawan	0.59688234
+20001115_afp_arb.0093.eng	sultanate of brunei	421	brunei	0.59664285
+apw20001225.2035.0477	federal communications commission	870	federal communications commission	0.59587634
+nyt20001002.1754.0290	menhaden	2435	menhaden	0.59580684
+chtb_165.eng	xinhua news agency	2	xinhua news agency	0.5957327
+apw20001130.2108.0849	house of lords	43	house of lords	0.59424776
+apw20001120.1450.0376	taliban	1168	taliban	0.5938878
+apw20001207.2118.0838	protopteryx	2475	protopteryx	0.59378886
+nyt20001109.1946.0315	ralph nader	748	ralph nader	0.5937647
+apw20001127.1346.0419	dallas cowboys	1867	dallas cowboys	0.592745
+apw20001130.2108.0849	peter tatchell	1582	peter tatchell	0.5926652
+20000815_afp_arb.0071.eng	agence france presse	823	agence france-presse	0.59225
+chtb_165.eng	lujiazui	158	lujiazui	0.59205526
+chtb_267.eng	weir group	3128	weir group	0.5918118
+apw20001203.1456.0329	al gore	1279	al gore	0.59153634
+chtb_267.eng	weir group	1427	weir group	0.58950883
+20001115_afp_arb.0060.eng	bandar seri begawan	712	bandar seri begawan	0.5887805
+20001115_afp_arb.0030.eng	rafah	153	rafah	0.58870304
+20001115_afp_arb.0184.eng	fatah	1446	fatah	0.58806056
+20001115_afp_arb.0217.eng	bandar seri begawan	2	bandar seri begawan	0.587745
+20000715_afp_arb.0072.eng	iran	1319	iran	0.5874596
+apw20001023.2100.0686	washington capitals	2561	washington capitals	0.5870853
+20001115_afp_arb.0013.eng	asia-pacific economic cooperation	413	asia-pacific economic cooperation	0.5865202
+nyt20001123.1511.0062	american airlines theater	2421	american airlines theatre	0.5857107
+nyt20001123.1511.0062	saturday night live	1175	saturday night live	0.58542395
+nyt20001123.1511.0062	super bowl xxxv	4308	super bowl xxxv	0.5852091
+apw20001225.2035.0477	america online	310	aol	0.58510184
+chtb_227.eng	baltic sea	1028	baltic sea	0.5849048
+chtb_267.eng	weir group	2316	weir group	0.58317083
+20001115_afp_arb.0089.eng	algeria	2018	algeria	0.5829496
+nyt20001106.1705.0187	our nation's capitol	1734	united states capitol	0.58261335
+chtb_165.eng	lujiazui	803	lujiazui	0.5819
+chtb_227.eng	lithuania	586	lithuania	0.580782
+apw20001207.2118.0838	protopteryx	239	protopteryx	0.58056307
+nyt20001123.1511.0062	roundabout theater company	2346	roundabout theatre company	0.58039093
+chtb_267.eng	jiangsu	155	jiangsu	0.5802646
+apw20001202.0257.0120	bruce snyder	477	bruce snyder	0.58
+nyt20001124.2050.0257	chen shui-bian	1242	chen shui-bian	0.57947356
+apw20001023.2100.0686	terry sawchuk	2607	terry sawchuk	0.57854706
+chtb_267.eng	weir group	1731	weir group	0.57802105
+apw20001202.0257.0120	terry don phillips	198	terry don phillips	0.57753634
+nyt20001002.1754.0290	gulf of mexico	1961	gulf of mexico	0.5768772
+apw20001001.2021.0521	hafez assad	2777	hafez al-assad	0.5767841
+chtb_171.eng	alberto fujimori	73	alberto fujimori	0.5763286
+apw20001120.1450.0376	taliban	39	taliban	0.57567954
+apw20001202.0257.0120	arizona state university	393	arizona state university	0.57540274
+apw20001207.2118.0838	chinese academy of sciences	448	chinese academy of sciences	0.5747184
+apw20001120.1450.0376	taliban	800	taliban	0.5744989
+20001115_afp_arb.0093.eng	palestinian authority	1707	palestinian national authority	0.57377434
+apw20001001.2021.0521	1967. israel	2032	1967 in israel	0.57301664
+nyt20001002.1754.0290	spanish mackerel	2360	spanish mackerel	0.5727494
+apw20001001.2021.0521	bashar assad	72	bashar al-assad	0.5721843
+chtb_227.eng	baltic sea	202	baltic sea	0.5706732
+apw20001127.1346.0419	dallas stars	157	dallas stars	0.5704806
+20000715_afp_arb.0072.eng	shahab 3	1855	shahab-3	0.57002854
+20001115_afp_arb.0093.eng	bandar seri begawan	2	bandar seri begawan	0.5694875
+nyt20001123.1511.0062	lucent technologies	3595	lucent	0.56885046
+apw20001127.1346.0419	mike modano	931	mike modano	0.56884724
+20001115_afp_arb.0089.eng	fatah	785	fatah	0.5674025
+20001015_afp_arb.0053.eng	agence france presse	895	agence france-presse	0.5671816
+apw20001001.2021.0521	syria	53	syria	0.56707406
+chtb_267.eng	jingcai	58	beijing cuisine	0.56679666
+apw20001102.1223.0376	mahane yehuda market	171	mahane yehuda market	0.56654847
+chtb_165.eng	lujiazui	1046	lujiazui	0.56627333
+chtb_267.eng	weir group	2104	weir group	0.5656861
+apw20001130.2108.0849	house of lords	570	house of lords	0.5653828
+chtb_227.eng	latvia	696	latvia	0.56509453
+apw20001120.1450.0376	bamyan province	1214	bamyan province	0.5649222
+20001115_afp_arb.0093.eng	palestinian authority	171	palestinian national authority	0.56478316
+chtb_165.eng	citibank	409	citibank	0.5647239
+20001115_afp_arb.0089.eng	first palestinian intifada	2035	first intifada	0.56414473
+chtb_227.eng	estonia	755	estonia	0.5640741
+20001115_afp_arb.0089.eng	fatah	1000	fatah	0.563906
+chtb_227.eng	baltic sea countries	1028	baltic states	0.5637556
+apw20001016.1325.0321	gaston caperton	2042	gaston caperton	0.5633658
+apw20001219.1316.0416	denver broncos	20	denver broncos	0.5632059
+nyt20001002.1754.0290	gulf of mexico	302	gulf of mexico	0.5628656
+20001115_afp_arb.0212.eng	dennis ross	683	dennis ross	0.5622233
+nyt20001123.1511.0062	pepsico	1985	pepsico	0.56206197
+apw20001130.2108.0849	age of consent	342	age of consent	0.56184375
+nyt20001123.1511.0062	sun microsystems	790	sun microsystems	0.56182355
+apw20001202.0257.0120	dennis franchione	1577	dennis franchione	0.5604737
+nyt20001123.1511.0062	gristede's	1249	gristedes	0.56016845
+nyt20001101.2212.0429	america online	3154	aol	0.5601661
+nyt20001109.1946.0315	sierra club	4003	sierra club	0.55982333
+chtb_267.eng	xinhua news agency	424	xinhua news agency	0.5597111
+chtb_227.eng	xinhua news agency	2	xinhua news agency	0.55920845
+apw20001218.2221.0727	brownsville, texas	1822	brownsville, texas	0.5587393
+nyt20001101.2212.0429	america online	570	aol	0.5580854
+apw20001218.2221.0727	cuming county	557	cuming county, nebraska	0.5579857
+nyt20001101.2212.0429	america online	154	aol	0.557246
+apw20001208.1126.0362	josef stalin	549	joseph stalin	0.5570619
+20001115_afp_arb.0184.eng	fatah	1584	fatah	0.5569306
+apw20001002.0615.0146	suharto	652	suharto	0.55668634
+nyt20001101.2212.0429	the internet	2430	library	0.5566762
+apw20001002.0615.0146	suharto	1794	suharto	0.5565857
+apw20001002.0615.0146	hutomo ``tommy'' mandala putra	167	tommy suharto	0.5564675
+apw20001002.0615.0146	abdurrahman wahid	1457	abdurrahman wahid	0.5564542
+apw20001207.2118.0838	protopteryx	1119	protopteryx	0.55612814
+apw20001023.2100.0686	ray bourque	1764	ray bourque	0.5560559
+apw20001218.2221.0727	oceanside, calif	1799	oceanside, california	0.5556577
+apw20001001.2021.0521	baghdad	2330	baghdad	0.5543722
+apw20001225.2035.0477	imunified	4400	imunified	0.55432355
+nyt20001002.1754.0290	phyllorhiza punctata	1530	phyllorhiza punctata	0.55359334
+apw20001130.2108.0849	royal assent	438	royal assent	0.5535418
+chtb_227.eng	baltic sea countries	202	baltic states	0.552985
+apw20001023.2100.0686	patrick roy	38	patrick roy	0.55208915
+apw20001002.0615.0146	suharto	1290	suharto	0.55075574
+nyt20001123.1511.0062	sex and the city	3897	sex and the city (film)	0.5498781
+nyt20001109.1946.0315	university of florida	4289	university of florida	0.5496481
+20001115_afp_arb.0089.eng	palestinian territories	1216	palestinian territories	0.5494966
+nyt20001101.2212.0429	time warner cable	3200	time warner cable	0.54940164
+apw20001208.1126.0362	komsomolskaya pravda	2201	komsomolskaya pravda	0.5484043
+20001015_afp_arb.0229.eng	riyadh	164	riyadh	0.54807466
+apw20001127.1346.0419	dallas morning news	1978	the dallas morning news	0.54805166
+chtb_227.eng	baltic sea	81	baltic sea	0.54734105
+20001115_afp_arb.0089.eng	the twelfth	122	the twelfth	0.546865
+20001115_afp_arb.0089.eng	algeria	230	algeria	0.5449314
+apw20001207.2118.0838	microraptor zhaoianus	1516	microraptor	0.5443737
+20001115_afp_arb.0089.eng	the twelfth	1827	the twelfth	0.54339665
+apw20001211.0507.0196	joseph conrad	28	joseph conrad	0.5430033
+20000715_afp_arb.0072.eng	ephraim sneh	1749	efraim sneh	0.5409167
+nyt20001123.1511.0062	fidelity investments	932	fidelity investments	0.5402523
+apw20001207.2118.0838	protopteryx	1303	protopteryx	0.5399088
+nyt20001101.2212.0429	gerald levin	655	gerald m. levin	0.53979117
+20001115_afp_arb.0217.eng	brunei	553	brunei	0.5387251
+nyt20001129.2040.0383	david boies	2321	david boies	0.538125
+pri20001122.2000.0320	corey flintoff	332	corey flintoff	0.5374187
+apw20001130.2108.0849	angela mason	1237	angela mason	0.536865
+nyt20001123.1511.0062	john corbett	3879	john corbett	0.53633237
+apw20001202.0257.0120	kmvp	1495	kmvp (am)	0.53611845
+apw20001225.2035.0477	aol	4390	aol	0.53542227
+chtb_227.eng	baltic sea countries	81	baltic states	0.53540355
+chtb_267.eng	south korea	2711	south korea	0.5352679
+pri20001201.2000.1828	florida supreme court	1144	supreme court of florida	0.5340236
+apw20001017.1313.0396	play it	4009	play.it	0.5337
+apw20001017.1313.0396	mel carnahan	185	mel carnahan	0.53227085
+20000715_afp_arb.0072.eng	iran	817	iran	0.5317738
+chtb_165.eng	lujiazui	2075	lujiazui	0.53137
+apw20001001.2021.0521	hafez assad	859	hafez al-assad	0.53120816
+20000715_afp_arb.0072.eng	iran	106	iran	0.53101265
+apw20001023.2100.0686	colorado avalanche	476	colorado avalanche	0.53052175
+nyt20001109.1946.0315	a bad	291	aurangabad, maharashtra	0.5301342
+nyt20001124.2050.0257	mark landler	30	mark landler	0.53006333
+apw20001120.1450.0376	kabul	2	kabul	0.5294547
+nyt20001109.1946.0315	ralph nader	491	ralph nader	0.5289659
+nyt20001106.1705.0187	davenport, iowa	47	davenport, iowa	0.5286643
+apw20001016.1325.0321	consumer price index	1737	consumer price index	0.5279913
+nyt20001002.1754.0290	dauphin island sea lab	1342	dauphin island sea lab	0.52797335
+apw20001001.2021.0521	amr mussa	375	amr moussa	0.52738214
+apw20001120.1450.0376	to show	609	the t.o. show	0.52657
+apw20001207.2118.0838	paleobiologist	1048	paleontology	0.5264097
+nyt20001124.2050.0257	south korea	1371	south korea	0.5261134
+pri20001128.2000.0055	corey flintoff	46	corey flintoff	0.52560586
+apw20001130.2108.0849	age of consent	159	age of consent	0.5251498
+20001115_afp_arb.0013.eng	bandar seri begawan	2	bandar seri begawan	0.52496666
+apw20001225.2035.0477	jonathan sacks	2096	jonathan sacks	0.5246476
+chtb_267.eng	jiangsu	3255	jiangsu	0.52438796
+nyt20001124.2050.0257	indonesia	1944	indonesia	0.5239727
+nyt20001125.1558.0117	grosse pointe park, mich	55	grosse pointe park, michigan	0.52379
+apw20001208.1126.0362	russia	692	russian empire	0.52214885
+chtb_267.eng	jiangsu	1935	jiangsu	0.52182156
+apw20001208.1126.0362	gennady seleznyov	2952	gennadiy seleznyov	0.5215688
+apw20001001.2021.0521	kuwait	2409	kuwait	0.52095574
+chtb_267.eng	weir group	74	weir group	0.5205233
+nyt20001106.1705.0187	frank bruni	236	frank bruni	0.5189176
+chtb_267.eng	the power	2261	the power (snap! song)	0.5187917
+apw20001017.1313.0396	mel carnahan	456	mel carnahan	0.5185848
+nyt20001125.1558.0117	hunting blind	2444	hunting blind	0.51856333
+apw20001216.2012.0590	dale county	991	dale county, alabama	0.51835835
+20000715_afp_arb.0072.eng	iran	368	iran	0.5180512
+apw20001001.2021.0521	palestinian territories	195	palestinian territories	0.5166299
+pri20001201.2000.1828	florida supreme court	541	supreme court of florida	0.5152879
+apw20001218.2221.0727	low pressure area	263	low-pressure area	0.51522154
+nyt20001002.1754.0290	menhaden	1220	menhaden	0.51485884
+nyt20001124.2050.0257	david robinson	883	david robinson (basketball)	0.5146308
+pri20001122.2000.0320	npr	348	npr	0.51453483
+apw20001208.1126.0362	the anthem	2135	the anthem (good charlotte song)	0.5139559
+apw20001211.0507.0196	los angeles times	252	los angeles times	0.51386553
+nyt20001002.1754.0290	mississippi sound	1934	mississippi sound	0.51372606
+apw20001001.2021.0521	syria	2646	syria	0.5136484
+apw20001207.2118.0838	the day after	1438	the day after	0.51362103
+20001015_afp_arb.0229.eng	baghdad	123	baghdad	0.51250863
+nyt20001123.1511.0062	arthur godfrey	3487	arthur godfrey	0.51191264
+apw20001017.1313.0396	to show	3310	the t.o. show	0.51099783
+apw20001130.2108.0849	age of consent	2262	age of consent	0.51082456
+apw20001001.2021.0521	baghdad	2694	baghdad	0.5105495
+nyt20001002.1754.0290	national marine fisheries service	672	national marine fisheries service	0.5103885
+nyt20001101.2212.0429	roger mcnamee	2128	roger mcnamee	0.5103643
+nyt20001101.2212.0429	america online	3919	aol	0.5102578
+nyt20001124.2050.0257	indonesia	1101	indonesia	0.5100529
+nyt20001002.1754.0290	bony fish	1245	osteichthyes	0.509711
+nyt20001124.2050.0257	south korea	1371	south korea	0.5090085
+apw20001017.1313.0396	cnn	1275	cnn	0.50886315
+apw20001218.2221.0727	rockwell, iowa	177	rockwell, iowa	0.50820935
+apw20001218.2221.0727	south dakota	1330	south dakota	0.5081233
+nyt20001101.2212.0429	alex berenson	16	alex berenson	0.5081033
+nyt20001123.1511.0062	houston grand opera	4040	houston grand opera	0.50708055
+nyt20001109.1946.0315	very bad things	1132	very bad things	0.50701845
+apw20001208.1126.0362	double-headed eagle	823	double-headed eagle	0.5067419
+apw20001120.1450.0376	afghanistan	9	war in afghanistan (2001–2014)	0.5066916
+20001015_afp_arb.0229.eng	baghdad	430	baghdad	0.5061447
+apw20001127.1346.0419	arlington, texas	2	arlington, texas	0.50565547
+20001115_afp_arb.0065.eng	to show	986	the t.o. show	0.50519115
+apw20001023.2100.0686	to return	975	volver	0.5050646
+pri20001128.2000.0055	npr	18	npr	0.50393504
+nyt20001125.1558.0117	michigan department of natural resources	895	michigan department of natural resources	0.5033504
+apw20001207.2118.0838	alan feduccia	1199	alan feduccia	0.5013412
+nyt20001123.1511.0062	wall street journal	569	the wall street journal	0.50037694
+20001115_afp_arb.0089.eng	fatah	1592	fatah	0.50033194
+pri20001201.2000.1828	when we	624	when we on	0.5
+pri20001128.2000.0055	s process	2355	s-process	0.5
+pri20001031.2000.1824	chezan	957	chizan	0.5
+pri20001031.2000.1824	chezan	336	chizan	0.5
+nyt20001217.2241.0165	www.dot	1169	wysiwyg (album)	0.5
+nyt20001129.2040.0383	the decision	3928	voices of animals and men	0.5
+nyt20001129.2040.0383	the decision	3225	voices of animals and men	0.5
+nyt20001129.2040.0383	the decision	3225	voices of animals and men	0.5
+nyt20001124.2050.0257	the price	737	the price (angel)	0.5
+nyt20001109.1946.0315	dorothy byrne	3463	dorothy byrne (mezzo-soprano)	0.5
+nyt20001106.1705.0187	to win	3976	tołwin	0.5
+nyt20001106.1705.0187	identical note	510	identical note	0.5
+nyt20001106.1705.0187	i'll be that	1844	do you believe me now (album)	0.5
+nyt20001002.1754.0290	water of	2973	water of aven	0.5
+apw20001225.2035.0477	roelands	48	roelands, western australia	0.5
+apw20001225.2035.0477	roelands	417	roelands, western australia	0.5
+apw20001219.1316.0416	the sign	1206	the sign (song)	0.5
+apw20001218.2221.0727	phillips, wis	1755	phillips, wisconsin	0.5
+apw20001216.2012.0590	debbie watson	219	debbie watson (water polo)	0.5
+apw20001211.0507.0196	john parkhurst	1980	john parkhurst	0.5
+apw20001211.0507.0196	don brown	455	don brown (american football coach)	0.5
+apw20001127.1346.0419	to win	199	tołwin	0.5
+apw20001016.1325.0321	acenet	3461	acenet	0.5
+apw20001016.1325.0321	the price	18	the price (angel)	0.5
+apw20001002.0615.0146	the decision	1774	voices of animals and men	0.5
+20001115_afp_arb.0217.eng	the decision	344	voices of animals and men	0.5
+20001115_afp_arb.0072.eng	the price	747	the price (angel)	0.5
+20001115_afp_arb.0065.eng	abdulbasit	1852	mohammed abdulbasit	0.5
+20001115_afp_arb.0060.eng	the decision	1793	voices of animals and men	0.5
+20001115_afp_arb.0013.eng	when we	1452	when we on	0.5
+20001015_afp_arb.0053.eng	to win	1536	tołwin	0.5
+20001015_afp_arb.0053.eng	the decision	976	voices of animals and men	0.5
+nyt20001123.1511.0062	coffee-mate	1670	coffee-mate	0.4995104
+nyt20001129.2040.0383	florida supreme court	585	supreme court of florida	0.4994754
+nyt20001123.1511.0062	vitamin c	2081	vitamin c	0.49913472
+20001115_afp_arb.0217.eng	world war ii	1119	world war ii	0.49875513
+apw20001127.1346.0419	jerry jones	1888	jerry jones	0.4984177
+nyt20001124.2050.0257	malaysia	1955	malaysia	0.49832207
+apw20001202.0257.0120	las vegas bowl	589	las vegas bowl	0.49797222
+20001115_afp_arb.0060.eng	iran	2438	iran	0.49763894
+chtb_267.eng	jiangsu	1750	jiangsu	0.4967527
+voa20001208.2000.1275	ice hockey	97	ice hockey	0.49656692
+apw20001017.1313.0396	pbs	2585	pbs	0.49648103
+20001115_afp_arb.0217.eng	russia	888	russian empire	0.4952877
+nyt20001124.2050.0257	hong kong general chamber of commerce	2673	hong kong general chamber of commerce	0.49519232
+pri20001128.2000.0055	npr	282	npr	0.4947688
+apw20001001.2021.0521	syria	1870	syria	0.49387962
+apw20001022.1735.0376	po river	252	po (river)	0.4935755
+apw20001001.2021.0521	iraq	2377	iraq	0.4934951
+20001115_afp_arb.0089.eng	palestinian territories	537	palestinian territories	0.49274457
+apw20001120.1450.0376	sunni muslim	914	sunni islam	0.4926591
+voa20001020.2100.1853	yemen	93	yemen	0.49174368
+apw20001001.2021.0521	egypt	9	egypt	0.49167126
+nyt20001129.2040.0383	electoral college	2896	electoral college	0.49113208
+voa20001220.2000.0060	i am david	1	i am david (film)	0.4909028
+apw20001120.1450.0376	afghanistan	745	war in afghanistan (2001–2014)	0.48837513
+nyt20001124.2050.0257	philippines	1076	philippines	0.4875319
+apw20001208.1126.0362	russia	89	russian empire	0.4871601
+apw20001120.1450.0376	afghanistan	1192	war in afghanistan (2001–2014)	0.48668793
+20001115_afp_arb.0089.eng	lebanon	731	lebanon	0.48621166
+nyt20001129.2040.0383	florida supreme court	4157	supreme court of florida	0.4857796
+nyt20001129.2040.0383	new york times	45	the new york times	0.48566046
+nyt20001101.2212.0429	mutual fund	2767	mutual fund	0.48515183
+apw20001211.0507.0196	larry little	806	larry little	0.48489815
+apw20001130.2108.0849	european union	905	european union	0.48474032
+20000815_afp_arb.0071.eng	marjayoun	1506	marjayoun	0.48397797
+nyt20001129.2040.0383	florida supreme court	2653	supreme court of florida	0.48334292
+apw20001001.2021.0521	syria	1658	syria	0.48327687
+pri20001128.2000.0055	miami dade county	513	miami-dade county, florida	0.48308966
+chtb_267.eng	taiwan	2727	taiwan	0.48296824
+20001115_afp_arb.0093.eng	palestinian territories	1628	palestinian territories	0.48273617
+20001115_afp_arb.0072.eng	baghdad	2	baghdad	0.4822222
+20001115_afp_arb.0212.eng	yale university	236	yale university	0.4812675
+nyt20001123.1511.0062	cranberries	1447	the cranberries	0.48061022
+nyt20001109.1946.0315	green party	2756	green party of the united states	0.48033023
+apw20001211.0507.0196	cycle world	1344	cycle world	0.4799291
+20001115_afp_arb.0093.eng	brunei	798	brunei	0.4798851
+apw20001211.0507.0196	cycle world	519	cycle world	0.47970197
+nyt20001101.2212.0429	nbc	2665	nbc	0.47891757
+20001115_afp_arb.0089.eng	beirut	330	beirut	0.4788868
+nyt20001124.2050.0257	taiwan	1089	taiwan	0.4787466
+chtb_171.eng	peru	104	peru	0.47840157
+apw20001207.2118.0838	dinosaur	969	dinosaur	0.47814772
+nyt20001101.2212.0429	merrill lynch	2465	merrill lynch	0.47699642
+chtb_267.eng	liquefied natural gas	2536	liquefied natural gas	0.4756137
+chtb_165.eng	hsbc	431	hsbc	0.4752587
+nyt20001124.2050.0257	taiwan	1275	taiwan	0.4744973
+chtb_267.eng	liquefied natural gas	672	liquefied natural gas	0.47444284
+20001115_afp_arb.0065.eng	richard keen	499	richard keen, baron keen of elie	0.47368422
+nyt20001002.1754.0290	national marine fisheries service	4042	national marine fisheries service	0.47326073
+chtb_267.eng	liquefied natural gas	2862	liquefied natural gas	0.47266287
+apw20001211.0507.0196	cycle world	293	cycle world	0.4725237
+20001115_afp_arb.0217.eng	russia	651	russian empire	0.47236684
+apw20001218.2221.0727	wyoming	1313	wyoming	0.4722064
+20001015_afp_arb.0053.eng	saudi arabia	368	saudi arabia	0.47197682
+20000715_afp_arb.0072.eng	tehran	1388	tehran	0.47154546
+apw20001017.1313.0396	edt	350	eastern time zone	0.47132388
+apw20001127.1346.0419	fort worth star-telegram	726	fort worth star-telegram	0.47111323
+nyt20001123.1511.0062	citibank	1049	citibank	0.47085813
+apw20001120.1450.0376	ramadan	351	ramadan	0.4708346
+apw20001211.0507.0196	cycle world	519	cycle world	0.47078454
+chtb_267.eng	liquefied natural gas	255	liquefied natural gas	0.47054285
+nyt20001124.2050.0257	bloomberg news	2128	bloomberg l.p.	0.4705003
+apw20001211.0507.0196	cycle world	89	cycle world	0.47025242
+20000815_afp_arb.0071.eng	beirut	2	beirut	0.46998945
+apw20001001.2021.0521	cairo	2	cairo	0.46911043
+apw20001225.2035.0477	aol.com	4390	aol	0.46910828
+apw20001001.2021.0521	russia	2282	russia	0.46891722
+apw20001203.1456.0329	gridiron club	335	gridiron club	0.46855727
+apw20001001.2021.0521	iraq	317	iraq	0.4683957
+apw20001216.2012.0590	limestone county	1297	limestone county, alabama	0.46839026
+apw20001225.2035.0477	aol	2363	aol	0.46699488
+20001115_afp_arb.0061.eng	palestinian territories	476	palestinian territories	0.46684453
+apw20001208.1126.0362	but not	461	for but not with	0.46666667
+apw20001203.1456.0329	house republican conference	221	republican conference of the united states house of representatives	0.46624756
+nyt20001101.2212.0429	comcast	3974	comcast	0.4656918
+apw20001001.2021.0521	bashar assad	1063	bashar al-assad	0.46505436
+apw20001203.1456.0329	orange bowl	1110	orange bowl	0.46459377
+apw20001225.2035.0477	aol	3210	aol	0.46428198
+pri20001128.2000.0055	npr	1824	npr	0.46331397
+apw20001002.0615.0146	indonesia	11	indonesia	0.46239614
+apw20001127.1346.0419	shortstop	224	shortstop	0.4609236
+nyt20001123.1511.0062	times square	2404	times square	0.46076614
+pri20001122.2000.0320	hadera	222	hadera	0.4596185
+apw20001002.0615.0146	south jakarta	1516	south jakarta	0.4592312
+nyt20001002.1754.0290	nitrogen pollution	1055	nutrient pollution	0.45895842
+voa20001220.2000.0060	paul o' neil	127	paul o'neill (baseball)	0.45856804
+20001115_afp_arb.0212.eng	stewart talbot	28	stewart talbot	0.45833334
+pri20001128.2000.0055	palm beach county	667	palm beach county, florida	0.45823434
+apw20001016.1325.0321	american council on education	1426	american council on education	0.45749733
+apw20001207.2118.0838	paleontologist	3466	paleontology	0.45655075
+pri20001128.2000.0055	npr	2814	npr	0.45616868
+20001115_afp_arb.0093.eng	james stewart	335	james stewart	0.4559244
+nyt20001109.1946.0315	green party	154	green party of the united states	0.4556145
+20001115_afp_arb.0217.eng	japan	899	empire of japan	0.4548645
+20000815_afp_arb.0071.eng	lebanon	23	lebanon	0.45454413
+20001015_afp_arb.0053.eng	machala	1251	machala	0.4540261
+20001115_afp_arb.0089.eng	lebanon	9	lebanon	0.45316917
+voa20001129.2000.0364	us supreme court	168	supreme court of the united states	0.45295075
+apw20001016.1325.0321	collegeboard	3400	college board	0.45245
+apw20001207.2118.0838	dinosaur	1740	dinosaur	0.45236105
+20001115_afp_arb.0093.eng	sharm el-sheikh	306	sharm el sheikh	0.4519089
+chtb_267.eng	liquefied natural gas	2369	liquefied natural gas	0.45188618
+chtb_267.eng	liquefied natural gas	960	liquefied natural gas	0.45098454
+nyt20001123.1511.0062	stuart elliott	26	stuart elliott (drummer)	0.45089287
+nyt20001125.1558.0117	rob williams	2330	rob williams (basketball)	0.45033112
+20001115_afp_arb.0060.eng	russia	982	russia	0.44958225
+20001015_afp_arb.0053.eng	beirut	2	beirut	0.44916445
+apw20001208.1126.0362	russia	1170	russian empire	0.44891858
+nyt20001101.2212.0429	aol	200	aol	0.44872135
+apw20001218.2221.0727	arkansas	1072	arkansas	0.44786403
+apw20001002.0615.0146	jakarta	2	jakarta	0.44725484
+apw20001207.2118.0838	dinosaur	1553	dinosaur	0.4467847
+chtb_267.eng	gross national product	2643	gross national product	0.44662267
+apw20001225.2035.0477	instant messaging	1262	instant messaging	0.4465441
+nyt20001109.1946.0315	green party	3514	green party of the united states	0.4464102
+apw20001203.1456.0329	university of oklahoma	1079	university of oklahoma	0.44538814
+20000715_afp_arb.0072.eng	tehran	636	tehran	0.4450377
+apw20001202.0257.0120	daily oklahoman	611	the oklahoman	0.44470572
+apw20001127.1346.0419	shortstop	1215	shortstop	0.44447425
+apw20001023.2100.0686	arapahoe county	2283	arapahoe county, colorado	0.443309
+20001115_afp_arb.0060.eng	russia	2318	russia	0.44298768
+apw20001218.2221.0727	alabama	1185	alabama	0.44216865
+apw20001016.1325.0321	american council on education	3419	american council on education	0.44202727
+apw20001001.2021.0521	egypt	2656	egypt	0.44197172
+chtb_267.eng	gross national product	2893	gross national product	0.44140184
+20001015_afp_arb.0053.eng	bangkok	1700	bangkok	0.44095767
+apw20001225.2035.0477	instant messaging	2386	instant messaging	0.43964922
+apw20001002.0615.0146	indonesia	1228	indonesia	0.4384107
+nyt20001124.2050.0257	malaysia	1358	malaysia	0.4382642
+apw20001130.2108.0849	queen elizabeth ii	454	elizabeth ii	0.4382081
+chtb_227.eng	russia	934	russian empire	0.438116
+apw20001225.2035.0477	aol	2951	aol	0.4379609
+20001115_afp_arb.0013.eng	elections in the united states	968	elections in the united states	0.4376937
+nyt20001123.1511.0062	cream of mushroom soup	2247	cream of mushroom soup	0.437625
+pri20001031.2000.1824	taiwan	97	taiwan	0.43735284
+apw20001218.2221.0727	freezing rain	953	freezing rain	0.4365171
+20000815_afp_arb.0071.eng	lebanon	1062	lebanon	0.43643373
+nyt20001109.1946.0315	green party	670	green party	0.4364127
+chtb_165.eng	sanwa bank	663	sanwa bank	0.43623188
+apw20001207.2118.0838	dinosaur	2537	dinosaur	0.436208
+20000715_afp_arb.0072.eng	scud	1271	scud	0.43572646
+nyt20001109.1946.0315	green party	3115	green party	0.43529466
+20001115_afp_arb.0217.eng	world war ii	328	world war ii	0.4346686
+chtb_165.eng	hsbc	1900	hsbc	0.4342873
+20000715_afp_arb.0072.eng	tehran	2237	tehran	0.43408465
+apw20001218.2221.0727	nebraska	345	nebraska	0.43375665
+nyt20001124.2050.0257	singapore	1969	singapore	0.4329839
+20001115_afp_arb.0013.eng	brunei	456	brunei	0.4317351
+apw20001202.0257.0120	boise state	17	boise state university	0.4313187
+apw20001202.0257.0120	college football	1708	college football	0.43028077
+apw20001225.2035.0477	aol	2132	aol	0.4301342
+apw20001120.1450.0376	shiite muslim	78	shia islam	0.43007976
+20001115_afp_arb.0217.eng	russia	98	russian empire	0.42929268
+20001015_afp_arb.0053.eng	machala	88	machala	0.4292431
+apw20001216.2012.0590	tuscaloosa county	254	tuscaloosa county, alabama	0.42889652
+20000715_afp_arb.0072.eng	israel	1352	israel	0.42855656
+apw20001218.2221.0727	wind chill	1853	wind chill	0.42722842
+apw20001202.0257.0120	humanitarian bowl	1299	famous idaho potato bowl	0.42701545
+chtb_267.eng	natural gas	1337	natural gas	0.42699075
+apw20001207.2118.0838	bird evolution	1082	origin of birds	0.42537057
+chtb_227.eng	russia	161	russian empire	0.42511624
+nyt20001002.1754.0290	jellyfish	1004	jellyfish	0.424733
+nyt20001101.2212.0429	aol	2960	aol	0.42467695
+apw20001225.2035.0477	instant messaging	620	instant messaging	0.42460126
+apw20001218.2221.0727	louisiana	1099	louisiana	0.42453218
+apw20001002.0615.0146	jakarta	1964	jakarta	0.42450702
+apw20001130.2108.0849	house of commons	207	house of commons of the united kingdom	0.42432863
+nyt20001123.1511.0062	sprint pcs	3744	sprint corporation	0.42390296
+20001115_afp_arb.0217.eng	last september	1155	the last september	0.42346922
+apw20001203.1456.0329	presidential election of 1876	691	united states presidential election, 1876	0.4233405
+apw20001216.2012.0590	geneva county	815	geneva county, alabama	0.42237997
+20001115_afp_arb.0089.eng	israel	1051	israel	0.42198884
+apw20001001.2021.0521	israel	2038	israel	0.42100996
+apw20001225.2035.0477	aol	1139	aol	0.42077225
+20001115_afp_arb.0089.eng	last september	1077	the last september	0.42
+nyt20001123.1511.0062	abc	285	american broadcasting company	0.41905224
+20001115_afp_arb.0013.eng	brunei	1242	brunei	0.41899222
+apw20001208.1126.0362	soviet anthem	72	state anthem of the soviet union	0.41886693
+apw20001202.0257.0120	quarterback	1927	quarterback	0.4186073
+apw20001225.2035.0477	microsoft	4455	microsoft	0.41837943
+20001115_afp_arb.0212.eng	soviet union	1039	soviet union	0.4177515
+20001015_afp_arb.0053.eng	machala	574	machala	0.41742718
+apw20001211.0507.0196	jonesboro, ark	949	jonesboro, arkansas	0.41699168
+pri20001128.2000.0055	tallahassee, florida	1858	tallahassee, florida	0.4166509
+20001115_afp_arb.0065.eng	stockholm	896	stockholm	0.41597265
+20001015_afp_arb.0053.eng	lebanon	1089	lebanon	0.41582805
+apw20001225.2035.0477	aol	915	aol	0.4151896
+20001115_afp_arb.0060.eng	russia	2722	russia	0.4150127
+20001015_afp_arb.0053.eng	machala	930	machala	0.41448554
+chtb_267.eng	natural gas	3053	natural gas	0.41421777
+nyt20001002.1754.0290	redfish	2319	sebastes	0.41421753
+nyt20001101.2212.0429	time warner	1870	time warner	0.41405627
+apw20001001.2021.0521	west bank	474	west bank	0.41373062
+chtb_267.eng	beijing	22	beijing	0.41352296
+apw20001207.2118.0838	university of kansas	3445	university of kansas	0.4129564
+chtb_267.eng	centigrade	1066	celsius	0.41285306
+apw20001225.2035.0477	http	4378	hypertext transfer protocol	0.4124273
+nyt20001123.1511.0062	cbs	4238	cbs	0.41237026
+apw20001218.2221.0727	nebraska	1386	nebraska	0.41230038
+pri20001031.2000.1824	bbc news	6	bbc news	0.41155422
+pri20001201.2000.1828	us supreme court	1013	supreme court of the united states	0.41076246
+20001115_afp_arb.0212.eng	richard levin	295	rick levin	0.41063204
+nyt20001101.2212.0429	capital cities/abc	1921	disney–abc television group	0.4096855
+chtb_165.eng	hong kong	419	hong kong	0.40964234
+20001115_afp_arb.0065.eng	malta	1912	malta	0.4094869
+nyt20001101.2212.0429	aol	1863	aol	0.40912816
+chtb_165.eng	shanghai	497	shanghai	0.40895173
+voa20001220.2000.0060	governor of texas	876	governor of texas	0.4083296
+apw20001225.2035.0477	aol	3513	aol	0.40821198
+nyt20001002.1754.0290	jellyfish	478	jellyfish	0.40791196
+20001115_afp_arb.0030.eng	egypt	490	egypt	0.40691727
+20001115_afp_arb.0089.eng	jerusalem	1318	jerusalem	0.4067226
+apw20001218.2221.0727	kentucky	992	kentucky	0.40647233
+20001115_afp_arb.0072.eng	iraq	128	iraq	0.4061607
+nyt20001101.2212.0429	time warner	4101	time warner	0.404508
+apw20001211.0507.0196	old boy network	858	old boy network	0.4044111
+apw20001208.1126.0362	old russian	896	old east slavic	0.4042881
+apw20001017.1313.0396	janet brown	1436	janet brown	0.40390813
+20000715_afp_arb.0072.eng	israel	90	israel	0.40383106
+apw20001207.2118.0838	dinosaur	4081	dinosaur	0.40349114
+chtb_165.eng	shanghai	22	shanghai	0.40340063
+nyt20001123.1511.0062	placebo	2997	placebo	0.4029678
+apw20001207.2118.0838	evolutionary biologist	1217	evolutionary biology	0.40227038
+nyt20001123.1511.0062	aiden shaw	3999	aiden shaw	0.40210295
+pri20001201.2000.1828	us supreme court	63	supreme court of the united states	0.40102106
+apw20001218.2221.0727	georgia	1194	georgia (u.s. state)	0.4004304
+chtb_165.eng	pudong	151	pudong	0.400336
+pri20001128.2000.0055	inski	294	ińsko landscape park	0.4
+apw20001225.2035.0477	tribal voice	3612	tribal voice	0.4
+nyt20001101.2212.0429	aol	1142	aol	0.39962107
+voa20001129.2000.0364	johns hopkins university	412	johns hopkins university	0.39914984
+apw20001130.2108.0849	michael martin	232	michael martin, baron martin of springburn	0.39875847
+chtb_165.eng	shanghai	312	shanghai	0.3986897
+chtb_165.eng	pudong	1008	pudong	0.39846945
+nyt20001123.1511.0062	sprint communications	3698	sprint corporation	0.39814723
+chtb_165.eng	hsbc	79	hsbc	0.39790595
+nyt20001002.1754.0290	jellyfish	247	jellyfish	0.3974369
+20000815_afp_arb.0071.eng	lebanon	780	lebanon	0.39723557
+apw20001218.2221.0727	area of low pressure	255	low-pressure area	0.39705917
+pri20001031.2000.1824	bbc news	965	bbc news	0.39697975
+20001115_afp_arb.0013.eng	republican	1082	republican party (united states)	0.39694154
+apw20001022.1735.0376	fenis	686	fénis	0.39675
+nyt20001123.1511.0062	land rover	3278	land rover	0.39672127
+apw20001001.2021.0521	israel	2857	israel	0.39661807
+nyt20001002.1754.0290	jellyfish	1162	jellyfish	0.39653015
+nyt20001123.1511.0062	reader's digest	2519	reader's digest	0.3963394
+nyt20001101.2212.0429	aol	681	aol	0.39603975
+chtb_165.eng	pudong	733	pudong	0.39602768
+apw20001017.1313.0396	jim lehrer	2571	jim lehrer	0.39564088
+nyt20001101.2212.0429	time warner	183	time warner	0.39521024
+chtb_165.eng	hong kong	1888	hong kong	0.39520317
+chtb_171.eng	andes	13	andes	0.3947814
+20001115_afp_arb.0065.eng	copenhagen	881	copenhagen	0.394077
+apw20001022.1735.0376	the city	716	carole king	0.3932762
+pri20001201.2000.1828	bbc news	6	bbc news	0.39302924
+20001115_afp_arb.0184.eng	israel	611	israel	0.39300492
+apw20001225.2035.0477	instant messaging	3955	instant messaging	0.39249828
+20000815_afp_arb.0071.eng	israel	140	israel	0.39208385
+apw20001218.2221.0727	iowa	355	iowa	0.39171934
+apw20001001.2021.0521	invasion of kuwait	2397	invasion of kuwait	0.39145887
+20001115_afp_arb.0217.eng	russian president	698	president of russia	0.3913623
+nyt20001109.1946.0315	florida green party	3506	green party of florida	0.39133334
+nyt20001002.1754.0290	jellyfish	721	jellyfish	0.39128137
+apw20001202.0257.0120	oklahoma	98	oklahoma sooners football	0.39044392
+apw20001207.2118.0838	american museum of natural history	4104	american museum of natural history	0.39040464
+apw20001208.1126.0362	soviet anthem	1321	state anthem of the soviet union	0.39039898
+20001115_afp_arb.0060.eng	apec	697	asia-pacific economic cooperation	0.39001954
+nyt20001217.2241.0165	dot.gov	1173	.gov	0.3898794
+nyt20001101.2212.0429	aol	2186	aol	0.3898
+20000715_afp_arb.0072.eng	scud missile	1271	scud	0.3887747
+20000715_afp_arb.0072.eng	israel	2500	israel	0.3881309
+nyt20001124.2050.0257	hong kong	2016	hong kong	0.38774827
+apw20001202.0257.0120	bowl game	562	bowl game	0.38765958
+20001115_afp_arb.0093.eng	west bank	1736	west bank	0.38748503
+20001115_afp_arb.0065.eng	soviet union	574	soviet union	0.38697585
+20001115_afp_arb.0013.eng	elections in the united states	227	elections in the united states	0.38636723
+nyt20001101.2212.0429	abc	1936	american broadcasting company	0.3861241
+apw20001207.2118.0838	utexas	5095	university of texas at austin	0.38476008
+chtb_165.eng	shanghai	1910	shanghai	0.38374388
+nyt20001002.1754.0290	jellyfish	1994	jellyfish	0.3836307
+apw20001218.2221.0727	mississippi	1082	mississippi	0.382577
+apw20001225.2035.0477	spamming	3140	spamming	0.38164216
+apw20001218.2221.0727	wisconsin	372	wisconsin	0.38138518
+nyt20001002.1754.0290	australian spotted jellyfish	1555	phyllorhiza punctata	0.38062158
+20000715_afp_arb.0072.eng	israel	275	israel	0.37982503
+20001115_afp_arb.0184.eng	jerusalem	2	jerusalem	0.3783105
+chtb_165.eng	rmb	879	renminbi	0.37809473
+apw20001208.1126.0362	alexander alexandrov	440	alexander vasilyevich alexandrov	0.37734154
+voa20001129.2000.0364	johns hopkins university	3371	johns hopkins university	0.37718874
+apw20001002.0615.0146	playboy	592	playboy	0.37650844
+apw20001001.2021.0521	jerusalem	500	jerusalem	0.37639844
+apw20001002.0615.0146	the city	1994	carole king	0.3760297
+20001115_afp_arb.0072.eng	iraq	128	iraq	0.37576824
+20000715_afp_arb.0072.eng	israel	584	israel	0.3756157
+nyt20001123.1511.0062	as m	2296	asım gündüz	0.375
+apw20001202.0257.0120	boise state	860	boise state university	0.37472975
+nyt20001101.2212.0429	time warner	3200	time warner	0.3746322
+nyt20001002.1754.0290	jellyfish	3063	jellyfish	0.37419558
+apw20001022.1735.0376	italian alps	637	alps	0.37379646
+nyt20001002.1754.0290	estuaries	2600	estuary	0.3733439
+apw20001218.2221.0727	tennessee	1005	tennessee	0.373109
+apw20001202.0257.0120	gene smith	998	gene smith (athletic director)	0.3730408
+apw20001130.2108.0849	house of commons	737	house of commons of the united kingdom	0.37191042
+20001115_afp_arb.0060.eng	working lunch	798	working lunch	0.37185186
+20001115_afp_arb.0060.eng	clinton administration	2010	bill clinton	0.37173125
+apw20001002.0615.0146	judicial review	1641	judicial review	0.37123114
+apw20001102.1223.0376	jerusalem	2	jerusalem	0.37093928
+apw20001218.2221.0727	missouri	392	missouri	0.3708312
+apw20001016.1325.0321	west virginia	2206	west virginia university	0.37047222
+20001115_afp_arb.0065.eng	contempt of court	1425	contempt of court	0.3704437
+apw20001225.2035.0477	time warner	1302	time warner	0.3702528
+nyt20001106.1705.0187	washington, d.c	3939	washington, d.c.	0.37013775
+nyt20001109.1946.0315	white house	1548	white house	0.3693333
+20000715_afp_arb.0072.eng	jerusalem	2	jerusalem	0.36916983
+nyt20001217.2241.0165	washington, dc	4882	washington, d.c.	0.3690413
+20001115_afp_arb.0065.eng	contempt of court	1166	contempt of court	0.36848217
+nyt20001123.1511.0062	ocean spray	1435	ocean spray (cooperative)	0.36818588
+apw20001130.2108.0849	house of commons	493	house of commons of the united kingdom	0.3674747
+nyt20001101.2212.0429	time warner	956	time warner	0.3674612
+nyt20001123.1511.0062	avaya communication	3632	avaya	0.36745924
+20001115_afp_arb.0072.eng	iraq	879	iraq	0.3674221
+apw20001022.1735.0376	alps	645	alps	0.36710656
+apw20001219.1316.0416	jack'' hanlon	195	jack hanlon	0.36666667
+apw20001022.1735.0376	italy	552	kingdom of italy	0.36653894
+20001115_afp_arb.0184.eng	west bank	1282	west bank	0.36645287
+nyt20001101.2212.0429	time warner	2795	time warner	0.36633375
+pri20001031.2000.1824	a man	821	military intelligence directorate (israel)	0.36612502
+20001115_afp_arb.0217.eng	japan	39	empire of japan	0.36599594
+chtb_165.eng	rmb	261	renminbi	0.36537272
+apw20001127.1346.0419	boras	2291	scott boras	0.36496013
+20001115_afp_arb.0093.eng	white house	354	white house	0.3646175
+apw20001225.2035.0477	time warner	1018	time warner	0.3642732
+nyt20001217.2241.0165	orange county	1758	orange county, california	0.36419594
+apw20001022.1735.0376	switzerland	571	switzerland	0.36373138
+pri20001128.2000.0055	republican	2145	republican party (united states)	0.3636505
+apw20001225.2035.0477	yahoo	4143	yahoo!	0.3623333
+apw20001017.1313.0396	republican	22	republican party (united states)	0.3621493
+apw20001202.0257.0120	wide-open	1106	wideopen	0.3611111
+apw20001120.1450.0376	shiite muslims	1076	shia islam	0.36097005
+20000715_afp_arb.0072.eng	israel	945	israel	0.3596456
+nyt20001123.1511.0062	microsoft	3128	microsoft	0.35918787
+apw20001023.2100.0686	aaron miller	1854	aaron miller	0.3589155
+20000815_afp_arb.0071.eng	israel	792	israel	0.35806385
+apw20001218.2221.0727	colorado	1352	colorado	0.3577507
+pri20001201.2000.1828	republican	306	republican party (united states)	0.3570386
+20001115_afp_arb.0093.eng	apec	789	asia-pacific economic cooperation	0.35657513
+apw20001219.1316.0416	coldwell banker	212	coldwell banker	0.35614732

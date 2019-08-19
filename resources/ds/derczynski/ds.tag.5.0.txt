@@ -1,0 +1,19 @@
+tw_60.txt	joe torre	27	joe torre	0.7346417
+tw_117.txt	ebgp	54	border gateway protocol	0.69847775
+tw_169.txt	pretty little liars	31	pretty little liars	0.69528997
+tw_41.txt	sea inside	116	the sea inside	0.6918539
+tw_126.txt	marvin gaye	14	marvin gaye	0.6902
+tw_60.txt	don mattingly	0	don mattingly	0.6882333
+tw_160.txt	netflix	75	netflix	0.6827047
+tw_66.txt	xbox 360	0	xbox 360	0.68158
+tw_37.txt	yhoo.it	124	yahoo!	0.67560554
+tw_70.txt	mayday parade	0	mayday parade	0.66863
+tw_66.txt	playstation network	55	playstation network	0.66275
+tw_41.txt	rachel weisz	133	rachel weisz	0.65475
+tw_160.txt	time warner cable	0	time warner cable	0.65450996
+tw_139.txt	paris hilton	51	paris hilton	0.643135
+tw_18.txt	kings of leon	30	kings of leon	0.631375
+tw_47.txt	steve king	16	steve king	0.6279286
+tw_160.txt	epix	29	epix	0.6271545
+tw_117.txt	ibgp	45	border gateway protocol	0.6270492
+tw_36.txt	jermaine dupri	35	jermaine dupri	0.62656367

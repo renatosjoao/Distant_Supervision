@@ -1,0 +1,46 @@
+http:__gerdaq_gerdaq_traininga.xml_92	bugs life	2	a bug's life	1.0
+http:__gerdaq_gerdaq_test.xml_236	memphis ;tennessee	8	memphis, tennessee	0.92399913
+http:__gerdaq_gerdaq_test.xml_203	triangle towne center	0	triangle town center	0.8588
+http:__gerdaq_gerdaq_traininga.xml_124	fibre channel	7	fibre channel	0.8549
+http:__gerdaq_gerdaq_devel.xml_161	corolla north carolina	0	corolla, north carolina	0.83134997
+http:__gerdaq_gerdaq_devel.xml_52	university of santo tomas	0	university of santo tomas	0.8304
+http:__gerdaq_gerdaq_trainingb.xml_231	carriage return	8	carriage return	0.8088
+http:__gerdaq_gerdaq_traininga.xml_164	highland high school	0	highland high school (bakersfield, california)	0.8039
+http:__gerdaq_gerdaq_trainingb.xml_213	kddi	8	kddi	0.79366976
+http:__gerdaq_gerdaq_traininga.xml_223	randy jackson	0	randy jackson	0.791175
+http:__gerdaq_gerdaq_devel.xml_73	celeron m	0	celeron	0.78824997
+http:__gerdaq_gerdaq_traininga.xml_223	american idol	18	american idol	0.781375
+http:__gerdaq_gerdaq_devel.xml_35	peterborough petes	0	peterborough petes	0.78040004
+http:__gerdaq_gerdaq_traininga.xml_50	troublesome trucks	0	list of thomas & friends rolling stock	0.7765955
+http:__gerdaq_gerdaq_traininga.xml_227	jefferson texas	25	jefferson, texas	0.7716485
+http:__gerdaq_gerdaq_test.xml_184	promissory note	12	promissory note	0.76448095
+http:__gerdaq_gerdaq_trainingb.xml_127	golden retriever	8	golden retriever	0.762725
+http:__gerdaq_gerdaq_traininga.xml_237	purple rain	0	purple rain (album)	0.75295
+http:__gerdaq_gerdaq_traininga.xml_89	martina mcbride	0	martina mcbride	0.74771667
+http:__gerdaq_gerdaq_traininga.xml_86	us goverment	0	federal government of the united states	0.736275
+http:__gerdaq_gerdaq_devel.xml_33	pink sapphire	0	sapphire	0.73405004
+http:__gerdaq_gerdaq_devel.xml_23	shih tsu	11	shih tzu	0.7287667
+http:__gerdaq_gerdaq_traininga.xml_127	american kennel club	0	american kennel club	0.726475
+http:__gerdaq_gerdaq_devel.xml_8	girl scout cookie	0	girl scout cookies	0.726475
+http:__gerdaq_gerdaq_devel.xml_123	led zeppelin	0	led zeppelin	0.71895
+http:__gerdaq_gerdaq_test.xml_59	mv agusta	0	mv agusta	0.7177565
+http:__gerdaq_gerdaq_trainingb.xml_231	line feed	24	newline	0.71704173
+http:__gerdaq_gerdaq_devel.xml_166	clyde auditorium	19	clyde auditorium	0.7147
+http:__gerdaq_gerdaq_devel.xml_136	cabela's	0	cabela's	0.70851636
+http:__gerdaq_gerdaq_devel.xml_100	les miserables	0	les misérables (musical)	0.70785
+http:__gerdaq_gerdaq_traininga.xml_165	lake powell	0	lake powell	0.70550454
+http:__gerdaq_gerdaq_devel.xml_165	acadamy awards	27	academy awards	0.701975
+http:__gerdaq_gerdaq_traininga.xml_52	lake crescent	0	crescent lake (florida)	0.70195
+http:__gerdaq_gerdaq_traininga.xml_240	bennett iowa	8	bennett, iowa	0.6941
+http:__gerdaq_gerdaq_test.xml_116	enzyme	3	enzyme	0.6773094
+http:__gerdaq_gerdaq_trainingb.xml_75	epoxide	0	epoxide	0.67674285
+http:__gerdaq_gerdaq_test.xml_219	killeen texas	24	killeen, texas	0.67516667
+http:__gerdaq_gerdaq_traininga.xml_175	page az	22	page, arizona	0.6745
+http:__gerdaq_gerdaq_traininga.xml_160	olusegun obasanjo	7	olusegun obasanjo	0.67254996
+http:__gerdaq_gerdaq_trainingb.xml_71	alice in wonderland	19	alice in wonderland (1951 film)	0.6681375
+http:__gerdaq_gerdaq_traininga.xml_246	simple plan	19	simple plan	0.66798335
+http:__gerdaq_gerdaq_test.xml_4	downtown disney	16	downtown disney	0.66739535
+http:__gerdaq_gerdaq_test.xml_2	elton john	19	elton john	0.666
+http:__gerdaq_gerdaq_test.xml_18	volkischer beobachter	0	völkischer beobachter	0.66275
+http:__gerdaq_gerdaq_devel.xml_50	that's so raven	0	that's so raven	0.658825
+http:__gerdaq_gerdaq_test.xml_20	kc and the sunshine band	0	kc and the sunshine band	0.6588

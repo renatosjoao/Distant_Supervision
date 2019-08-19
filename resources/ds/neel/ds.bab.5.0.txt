@@ -1,0 +1,704 @@
+99997752259383296	richard dent	37	richard dent	1.0
+99997752259383296	rt	0	rt (tv network)	1.0
+99994149322883072	warren jeffs	0	warren jeffs	1.0
+99994149322883072	warren	0	warren jeffs	1.0
+99987249726373888	saint-germain	80	saint-germain-en-laye	1.0
+99954453586780161	lot	107	lot jones	1.0
+99954453586780161	u.s. economy	37	economy of the united states	1.0
+99954453586780161	arsene wenger	3	arsène wenger	1.0
+99893326660116481	horn of africa	28	horn of africa	1.0
+99885981905321985	bin laden	68	osama bin laden	1.0
+99885981905321985	usama bin laden	62	osama bin laden	1.0
+99861223440527360	night	75	disco demolition night	1.0
+99861223440527360	mariano rivera	0	mariano rivera	1.0
+99810287129067521	years ago	3	before present	1.0
+99810287129067521	wide	30	web integrated development environment	1.0
+99810287129067521	insider	54	the insider (tv series)	1.0
+99686731250532352	tampa 2	44	tampa 2	1.0
+99670130161745920	s&p	0	standard & poor's	1.0
+99661771735969792	obama	21	barack obama	1.0
+99660443492171776	leadoff	21	batting order (baseball)	1.0
+99659141890576384	miami beach police	86	miami beach police department	1.0
+99659141890576384	miami beach police	0	miami beach police department	1.0
+99653392141533184	s&p	4	standard & poor's	1.0
+99642970789261313	s&p	4	standard & poor's	1.0
+99641382926434304	leadership	42	speaker of the united states house of representatives	1.0
+99641044160872449	us economy	33	economy of the united states	1.0
+99641044160872449	s&p	4	standard & poor's	1.0
+99637899405955072	s&p	6	standard & poor's	1.0
+99614658503245824	camera	54	yodobashi camera	1.0
+99611423281393664	co mayo	120	county mayo	1.0
+99598183302299648	officials	3	uk singles chart	1.0
+99594637676789760	neighborhoods	18	niterói	1.0
+99594637676789760	takbeer	98	takbir	1.0
+99556024939331584	houston business journal	50	american city business journals	1.0
+99556024939331584	business journal	58	american city business journals	1.0
+99545215618129921	midnight runs	76	midnight run	1.0
+99538840863252480	zliten	38	zliten	1.0
+99517187496214528	adventure	67	hms aid (1809)	1.0
+99517187496214528	jupiter	118	hms jupiter (f85)	1.0
+99510126662254594	moon	47	apollo 14	1.0
+99510126662254594	neil armstrong	0	neil armstrong	1.0
+99510126662254594	neil	0	neil armstrong	1.0
+99510126662254594	armstrong	5	neil armstrong	1.0
+99480036737957888	gadhafi	31	muammar gaddafi	1.0
+99437770719768576	philippine airlines	67	philippine airlines	1.0
+99437770719768576	philippine airlines	0	philippine airlines	1.0
+99437770719768576	philippine	67	philippines	1.0
+99437770719768576	philippine	0	philippines	1.0
+99437770719768576	los	106	ricky lo	1.0
+99437770719768576	la	30	louisiana	1.0
+99437770719768576	ap	62	krasue	1.0
+99437770719768576	ap	57	krasue	1.0
+99357694883930112	philippine dragon	0	bakunawa	1.0
+99350755709956096	university of ulster	36	ulster university	1.0
+99350755709956096	university of	36	university of ljubljana	1.0
+99288973943390209	nicki minaj	89	nicki minaj	1.0
+99288973943390209	minaj	95	nicki minaj	1.0
+99288973943390209	lineup	111	line-up (graham bonnet album)	1.0
+99288973943390209	fox animation	29	fox animation studios	1.0
+99288973943390209	blue sky studios	45	blue sky studios	1.0
+99287434281484288	cases	34	richard case	1.0
+99273520994992130	wall	24	wall street	1.0
+99273520994992130	street	29	nassau street (manhattan)	1.0
+99252118250201089	weekend	34	weekend players	1.0
+99227803861516288	rt	0	rt (tv network)	1.0
+99226394587971585	xcode	15	xcode	1.0
+99226394587971585	mac app store	31	mac app store	1.0
+99200989688643584	threat	53	uss threat (am-124)	1.0
+99200989688643584	rt	0	rt (tv network)	1.0
+99200989688643584	nbc miami	98	wtvj	1.0
+99195943936724992	victory	98	2008 fa cup final	1.0
+99195943936724992	stoke city	19	stoke city f.c.	1.0
+99195943936724992	hajduk split	111	hnk hajduk split	1.0
+99147499725529088	spell	51	warm spell	1.0
+99147499725529088	spell	5	warm spell	1.0
+99147499725529088	southern u.s.	34	southern united states	1.0
+99144320430518274	time in	49	dave brubeck	1.0
+99144320430518274	second time	42	1956 summer olympics	1.0
+99136380634017792	chinese city	99	guilin	1.0
+99136380634017792	chinese city	0	guilin	1.0
+99129277999611906	s&p 500	36	s&p 500	1.0
+99129277999611906	s&p	36	standard & poor's	1.0
+99121683209785344	update	0	red state update	1.0
+99117732745854976	euro zone	17	eurozone	1.0
+99117732745854976	bank acted	83	bank act (canada)	1.0
+99117434937679872	york	55	toronto	1.0
+99113051927752704	vt	0	vermont	1.0
+99106033695342593	raila odinga	13	raila odinga	1.0
+99106033695342593	raila	13	raila odinga	1.0
+99106033695342593	odinga	19	raila odinga	1.0
+99106033695342593	miguna miguna	44	miguna miguna	1.0
+99106033695342593	iiec	63	interim independent electoral commission of kenya	1.0
+99102712934834176	west belfast	49	belfast	1.0
+99097306468581376	juno spacecraft	92	juno (spacecraft)	1.0
+99097306468581376	complex 41	34	cape canaveral air force station space launch complex 41	1.0
+99097306468581376	atlas 5	0	atlas v	1.0
+99087290470629376	christine lagarde	62	christine lagarde	1.0
+99029732041031680	iyenemi furo	16	iyenemi furo	1.0
+98980998422859776	ssi	0	statens serum institut	1.0
+98980998422859776	mass	57	massachusetts	1.0
+98960098117943296	ground	42	earth	1.0
+98960098117943296	cargill	0	cargill	1.0
+98932393993449472	uk	36	united kingdom	1.0
+98932393993449472	irish sea	25	irish sea	1.0
+98924387897585664	scotland	24	united kingdom	1.0
+98888035881586691	bubba' smith	40	bubba smith	1.0
+98881761181827072	japanese government	76	japan	1.0
+98875041139265536	page	11	tom page	1.0
+98869744505073665	gains	118	charles gain	1.0
+98838837832327168	kyle orton	54	kyle orton	1.0
+98838837832327168	kyle	54	kyle orton	1.0
+98836567585595392	mexico	48	mexico	1.0
+98836567585595392	ihs cera	19	cambridge energy research associates	1.0
+98836567585595392	ihs	19	ihs inc.	1.0
+98836567585595392	gulf	40	gulf of mexico	1.0
+98836567585595392	cera	23	cambridge energy research associates	1.0
+98836567585595392	bureau	94	édouard bureau	1.0
+98836567585595392	bromwich	5	michael r. bromwich	1.0
+98833944732106752	marg	124	marg helgenberger	1.0
+98833944732106752	george eads	0	george eads	1.0
+98743218979618817	sea	43	black sea	1.0
+98743218979618817	rov	33	real oviedo	1.0
+98743218979618817	black	37	black sea	1.0
+98591066583871488	moondogs	62	cleveland cavaliers	1.0
+98530236588761088	conflicts	76	the war to end war	1.0
+98530236588761088	mexico	45	mexico	1.0
+98518238442434560	president barack obama	0	barack obama	1.0
+98518238442434560	president barack	0	barack obama	1.0
+98501375574544385	tennis tournament	87	tennis at the 2008 summer olympics	1.0
+98501375574544385	vinci	76	roberta vinci	1.0
+98501375574544385	roberta vinci	68	roberta vinci	1.0
+98501052613140480	son	66	saviour (comics)	1.0
+98501052613140480	rt	0	rt (tv network)	1.0
+98488599707779072	new drug application	47	new drug application	1.0
+98446576988585984	shuttle columbia	6	space shuttle columbia	1.0
+98403761524981760	sequel to	14	tubular bells ii	1.0
+98403761524981760	martin campbell	81	martin campbell	1.0
+98355416865587200	news international	40	news uk	1.0
+98336270253694977	qof	48	quality and outcomes framework	1.0
+98336270253694977	pulse	0	pulse (2006 film)	1.0
+98336270253694977	nice	18	harry nice	1.0
+98291102519537664	august 17	40	august 17	1.0
+98267224351055872	ultrabook	87	ultrabook	1.0
+98234895133970433	org	57	open rights group	1.0
+98182828684087296	gabrielle giffords	0	gabrielle giffords	1.0
+98174256785010688	first time	32	first time (maya simantov album)	1.0
+98174256785010688	rep.	9	south korea	1.0
+98174256785010688	gabrielle giffords	0	gabrielle giffords	1.0
+98173600703582208	deal	22	kim deal	1.0
+98116519757742080	u20 world cup	97	fifa u-20 world cup	1.0
+98101823776374784	randy moss	12	randy moss	1.0
+98094627499941888	u.s.	69	united states	1.0
+98094627499941888	spectacor	21	comcast spectacor	1.0
+98094627499941888	snider	43	ed snider	1.0
+98094627499941888	hockey hall of fame	0	hockey hall of fame	1.0
+98094627499941888	ed snider	40	ed snider	1.0
+98094627499941888	ed	40	ed snider	1.0
+98094167196049409	randy moss	25	randy moss	1.0
+98084172337397760	sehr	45	sehr mahmood	1.0
+98060650676363264	ifas	92	independent financial adviser	1.0
+98060650676363264	ifas	14	independent financial adviser	1.0
+98054026175848448	scott walker	66	scott walker (politician)	1.0
+98053644682936321	recovery	32	recovery (novel)	1.0
+98052883123146752	casey anthony	13	death of caylee anthony	1.0
+98041931526971392	plaxico	16	plaxico burress	1.0
+98039658222583809	revisions	20	mass of paul vi	1.0
+98039628522725378	transfer list	29	transfer market	1.0
+98039628522725378	list	38	john list	1.0
+98039628522725378	joey barton	14	joey barton	1.0
+98037368111640576	uk	18	united kingdom	1.0
+98037368111640576	lauren pope	88	lauren pope	1.0
+98037368111640576	lauren pope	0	lauren pope	1.0
+98029817156468736	klinsmann	57	jürgen klinsmann	1.0
+98029817156468736	jurgen klinsmann	50	jürgen klinsmann	1.0
+98026194481577984	good sign	49	good sign	1.0
+98026194481577984	breakingviews	0	breakingviews	1.0
+98017591959896064	arsenal	11	arsenal f.c.	1.0
+98017591959896064	mata	36	juan mata	1.0
+98000454033739778	thar	35	thar desert	1.0
+97981764223504384	world intellectual property organization	49	world intellectual property organization	1.0
+97981764223504384	wipo	91	world intellectual property organization	1.0
+97969923694931968	al jazeera english	0	al jazeera english	1.0
+97939393377075200	tottenham	36	tottenham hotspur f.c.	1.0
+97939393377075200	modric	58	luka modrić	1.0
+97939393377075200	luka modric	53	luka modrić	1.0
+97939393377075200	chelsea	0	chelsea f.c.	1.0
+97853032653529089	peabody energy	83	peabody energy	1.0
+97853032653529089	macarthur coal	37	macarthur coal	1.0
+97853032653529089	macarthur coal	0	macarthur coal	1.0
+97835664019697664	fall	26	fall (1997 film)	1.0
+97829869311901696	president obama	10	barack obama	1.0
+97827522871443457	july 30	57	july 30	1.0
+97827245397254145	deal	36	deal, new jersey	1.0
+97827245397254145	john nolen	98	john nolen	1.0
+97826342103564289	president obama	7	barack obama	1.0
+97826342103564289	et	0	e.t. the extra-terrestrial	1.0
+97822384853233665	clash	24	clash (band)	1.0
+97815160516919296	p.m.	63	prime minister of canada	1.0
+97794908630425600	travis pastrana	0	travis pastrana	1.0
+97794908630425600	advances	0	lines in my face	1.0
+97771581320867840	kuhn	5	john kuhn	1.0
+97771581320867840	john kuhn	0	john kuhn	1.0
+97771581320867840	john	0	john kuhn	1.0
+97759293780144128	erik  bedard	14	érik bédard	1.0
+97751607852273664	face	22	facebook	1.0
+97748876177575937	apple	0	fiona apple	1.0
+97733882346078208	dublin super cup	71	2011 dublin super cup	1.0
+97732251214823424	ministry of magic	44	ministry of magic	1.0
+97732251214823424	ministry	44	ministry of magic	1.0
+97732251214823424	magic	56	magic in harry potter	1.0
+97725147255029760	feat	35	far eastern air transport	1.0
+97725147255029760	no.1	80	freeway 1 (taiwan)	1.0
+97676628594929664	sun yang	0	sun yang	1.0
+97668537476317184	plaxico burress	12	plaxico burress	1.0
+97668537476317184	plaxico	12	plaxico burress	1.0
+97665015968047104	fil-am	0	filipino american	1.0
+97665015968047104	erik spoelstra	24	erik spoelstra	1.0
+97665015968047104	erik	24	erik spoelstra	1.0
+97633884463824896	ron burke	112	ron burke (sportscaster)	1.0
+97632189948231680	pocono	21	pocono raceway	1.0
+97599499534475264	mycitydeal	81	groupon mycitydeal	1.0
+97599499534475264	groupon mycitydeal	73	groupon mycitydeal	1.0
+97599499534475264	groupon	73	groupon	1.0
+97574950189281280	splendour in the grass	60	splendour in the grass	1.0
+97569036308709376	alaska	34	territory of alaska	1.0
+97500470293168128	el	0	el greco	1.0
+97476128305979392	run	31	run (baseball)	1.0
+97462622781321216	amobi okoye	54	amobi okoye	1.0
+97457198254407681	goodbye	63	na na hey hey kiss him goodbye	1.0
+97457198254407681	cesc fabregas	15	cesc fàbregas	1.0
+97439276295397376	jason marquis	30	jason marquis	1.0
+97416715666849792	broderick bunkley	35	brodrick bunkley	1.0
+97408964903448576	john calipari	0	john calipari	1.0
+97379561582497792	aviation administration	89	maryland aviation administration	1.0
+97373690815197184	mother of	38	mary (mother of jesus)	1.0
+97373690815197184	errors	25	the comedy of errors	1.0
+97373690815197184	amanda	48	amanda palmer	1.0
+97345214657732608	day of	31	day of ashura	1.0
+97345214657732608	al arabiya	48	al arabiya	1.0
+97339570164731904	ed	110	ed muransky	1.0
+97339570164731904	asia	6	europe	1.0
+97311289960968192	rosicky	24	tomáš rosický	1.0
+97296020681142272	jul 29	59	july 29	1.0
+97296020681142272	chandigarh	47	chandigarh	1.0
+97292216472580096	fenelon falls	54	fenelon falls	1.0
+97292216472580096	fenelon	54	fenelon township	1.0
+97248713143099392	burgan bank	52	burgan bank	1.0
+97248713143099392	burgan bank	0	burgan bank	1.0
+97248713143099392	burgan	52	burgan bank	1.0
+97248713143099392	burgan	0	burgan bank	1.0
+97247127679410176	natural history museum at tring	79	natural history museum at tring	1.0
+97240098038489089	obama	20	barack obama	1.0
+97187748938661888	plouffe	0	trevor plouffe	1.0
+97129896891006976	khap	15	khap (film)	1.0
+97096475271634944	sam bradford	111	sam bradford	1.0
+97096475271634944	sam	111	sam bradford	1.0
+97096475271634944	newton	4	cam newton	1.0
+97096475271634944	bradford	115	sam bradford	1.0
+97092676620533761	asomugha	18	nnamdi asomugha	1.0
+97081523962003456	second day	62	august 12	1.0
+97079031924666368	beard	68	mark beard (footballer)	1.0
+97079031924666368	lee	8	sheffield wednesday f.c.	1.0
+97079031924666368	johnnie lee higgins	0	johnnie lee higgins	1.0
+97079031924666368	johnnie	0	johnnie lee higgins	1.0
+97079031924666368	eagles	33	philadelphia eagles	1.0
+97079031924666368	asomugha	47	nnamdi asomugha	1.0
+97074481746550785	time in	18	dave brubeck	1.0
+97070990114308097	boehner	13	john boehner	1.0
+97029301207175169	redone	29	red digital cinema camera company	1.0
+97028520554938368	bernie ecclestone	4	bernie ecclestone	1.0
+97027268685213696	camp	44	shawn camp	1.0
+97027268685213696	nate irving	40	nate irving	1.0
+97027268685213696	3rd round	27	2006 lamar hunt u.s. open cup	1.0
+97025714552971264	day one	71	day one (tv series)	1.0
+97025714552971264	derbyshire	102	high sheriff of derbyshire	1.0
+97017783145070592	boehner	67	john boehner	1.0
+97016893931667456	cash	15	johnny cash	1.0
+97002463147720705	eff	0	electronic frontier foundation	1.0
+97002463147720705	case	2	john case (novelist)	1.0
+96997663056207872	sony alpha	44	sony alpha	1.0
+96992650850344961	windows phone 7.5	18	windows phone 7	1.0
+96992650850344961	windows phone	18	windows phone	1.0
+96988012839317504	old record	42	and their name was treason	1.0
+96985217134366720	mcgahee	0	willis mcgahee	1.0
+96985217134366720	denver	19	denver broncos	1.0
+96984991245942784	henne	5	chad henne	1.0
+96984991245942784	chad henne	0	chad henne	1.0
+96984948635992065	klinsmann	7	jürgen klinsmann	1.0
+96984948635992065	jurgen klinsmann	0	jürgen klinsmann	1.0
+96984948635992065	bob bradley	96	bob bradley	1.0
+96984206416158720	obama	10	barack obama	1.0
+96979327224266752	klinsmann	17	jürgen klinsmann	1.0
+96979327224266752	jurgen klinsmann	10	jürgen klinsmann	1.0
+96976835820269568	willis mcgahee	3	willis mcgahee	1.0
+96976835820269568	denver	41	denver broncos	1.0
+96966781851271169	capitol	0	washington, d.c.	1.0
+96956789559537665	aim	21	aim (motorcycle)	1.0
+96956789559537665	house rules committee	79	united states house committee on rules	1.0
+96956789559537665	dreier	110	david dreier	1.0
+96956789559537665	committee chairman	91	democratic national committee	1.0
+96956379297882112	day	54	darren day	1.0
+96945755121659904	ravens	7	baltimore ravens	1.0
+96945755121659904	landry	22	dawan landry	1.0
+96945755121659904	jaguars	75	jacksonville jaguars	1.0
+96945755121659904	dawan landry	16	dawan landry	1.0
+96945755121659904	dawan	16	dawan landry	1.0
+96924850878287872	sources	20	virgin records	1.0
+96924850878287872	marcell jansen	104	marcell jansen	1.0
+96924850878287872	marcell	104	marcell jansen	1.0
+96924850878287872	lfc	33	liverpool f.c.	1.0
+96924850878287872	cissokho	77	aly cissokho	1.0
+96924850878287872	alvaro pereira	87	álvaro pereira	1.0
+96917937746739200	newzbin	38	newzbin	1.0
+96882667848613888	steps	48	iso 10303	1.0
+96879263122337792	cameron	6	david cameron	1.0
+96839068029169664	discovery	18	space shuttle discovery	1.0
+96817005998510080	sia	16	singapore airlines	1.0
+96799092142907392	saints	89	new orleans saints	1.0
+96782542702780416	pup list	45	physically unable to perform	1.0
+96782542702780416	michael crabtree	18	michael crabtree	1.0
+96772240854630400	tomorrow	58	tom tomorrow	1.0
+96688125719486464	kristin cavallari	24	kristin cavallari	1.0
+96688125719486464	hollywood reporter	0	the hollywood reporter	1.0
+96677269535334400	winehouse	52	amy winehouse	1.0
+96665996416397313	kolb	84	kevin kolb	1.0
+96665996416397313	kevin kolb	78	kevin kolb	1.0
+96665996416397313	kevin	78	kevin kolb	1.0
+96657103237816320	jannik hansen	19	jannik hansen	1.0
+96651234517323776	air	27	art international radio	1.0
+96651234517323776	polanski	0	roman polanski	1.0
+96651090807894017	kolb	10	kevin kolb	1.0
+96651090807894017	kevin kolb	4	kevin kolb	1.0
+96650493178290176	pick	14	52 pickup	1.0
+96650493178290176	denarius moore	22	denarius moore	1.0
+96628362977607681	suburb	79	kensington	1.0
+96628362977607681	corinth	61	corinth, texas	1.0
+96622402867441664	boehner	42	john boehner	1.0
+96587380278050816	babies	52	tyler perry's house of payne	1.0
+96566158613938178	reggie bush	71	reggie bush	1.0
+96565555221368832	rt	0	aec regent iii rt	1.0
+96565555221368832	jim washburn	106	jim washburn	1.0
+96565555221368832	jason babin	49	jason babin	1.0
+96565555221368832	babin	55	jason babin	1.0
+96542543348637697	lightsquared	11	lightsquared	1.0
+96542543348637697	lte network	61	lte advanced	1.0
+96473651876077568	h.	101	h. (noble)	1.0
+96473651876077568	royal dutch shell	22	royal dutch shell	1.0
+96455331181375488	rt	0	rt (tv network)	1.0
+96455331181375488	maruti suzuki india	14	maruti suzuki	1.0
+96455331181375488	maruti suzuki	14	maruti suzuki	1.0
+96427426464284673	reuters	84	reuters	1.0
+96427426464284673	july 28	75	july 28	1.0
+96410979562291200	eric bledsoe	51	eric bledsoe	1.0
+96410979562291200	demarcus cousins	76	demarcus cousins	1.0
+96410979562291200	demarcus	76	tank tyler	1.0
+96405737714098176	air canada flight	23	air canada flight 797	1.0
+96405737714098176	air canada	23	air canada	1.0
+96404114954661888	update	0	framework programmes for research and technological development	1.0
+96404114954661888	canada	12	air canada	1.0
+96404114954661888	air canada	8	air canada	1.0
+96402182710104065	air canada flight	3	air canada flight 797	1.0
+96402182710104065	air canada	3	air canada	1.0
+96369935135158272	july 27th	57	july 27	1.0
+96360636384157696	cairns	15	cairnryan	1.0
+96354439341936640	deal	47	rufus deal	1.0
+96354439341936640	ryan longwell	7	ryan longwell	1.0
+96354439341936640	longwell	12	ryan longwell	1.0
+96324653890539521	nhc	0	national hurricane center	1.0
+96314478047662080	munich	20	olympiastadion (munich)	1.0
+96314478047662080	bayern	13	fc bayern munich	1.0
+96314478047662080	bar	0	fc barcelona	1.0
+96309990792507392	vinatieri	5	adam vinatieri	1.0
+96309990792507392	adam vinatieri	0	adam vinatieri	1.0
+96309990792507392	adam	0	adam vinatieri	1.0
+96276255372091392	uk	25	united kingdom	1.0
+96276255372091392	ipo	48	israel philharmonic orchestra	1.0
+96276025083822080	guard	46	guard (american and canadian football)	1.0
+96276025083822080	tom cable	12	tom cable	1.0
+96276025083822080	tom	12	tom cable	1.0
+96276025083822080	seattle	0	seattle seahawks	1.0
+96276025083822080	robert gallery	52	robert gallery	1.0
+96276025083822080	robert	52	robert gallery	1.0
+96276025083822080	raiders	38	oakland raiders	1.0
+96276025083822080	gallery	59	robert gallery	1.0
+96273919115403264	dana gas	0	dana gas	1.0
+96258902395584512	sergio aguero	25	sergio agüero	1.0
+96258902395584512	etihad	59	etihad airways	1.0
+96258798611734529	sergio aguero	0	sergio agüero	1.0
+96255867585966080	topiary	57	topiary (hacktivist)	1.0
+96229136179281920	end of august	83	august 31	1.0
+96228351936692224	noynoy aquino	0	benigno aquino iii	1.0
+96228351936692224	noynoy	0	benigno aquino iii	1.0
+96227712355667969	santonio	49	santonio holmes	1.0
+96222040377393152	vikings	52	minnesota vikings	1.0
+96222040377393152	donovan mcnabb	22	donovan mcnabb	1.0
+96217501540683776	edge	10	thomas edge	1.0
+96217501540683776	jens stoltenberg	55	jens stoltenberg	1.0
+96208102097031168	september	44	september (earth, wind & fire song)	1.0
+96203693912891394	probe	67	probe records	1.0
+96191043862663169	marco bueno	61	marco bueno	1.0
+96190924983508992	wikileaks	68	wikileaks	1.0
+96190924983508992	paypal	23	paypal	1.0
+96185595470159873	redskins	47	washington redskins	1.0
+96185595470159873	cofield	19	barry cofield	1.0
+96185595470159873	barry cofield	13	barry cofield	1.0
+96145938346811393	sergio aguero	43	sergio agüero	1.0
+96145938346811393	man city	105	manchester city f.c.	1.0
+96113851828940800	reuters	120	reuters	1.0
+96113851828940800	police in norway	0	norwegian police service	1.0
+96064326309384192	steve hutchinson	9	steve hutchinson (american football)	1.0
+96064326309384192	ryan longwell	27	ryan longwell	1.0
+96064326309384192	ryan	27	ryan longwell	1.0
+96039621137399809	us senior open	43	united states senior open	1.0
+96039621137399809	senior open	46	united states senior open	1.0
+96024488075997184	cheer	39	cheer chen	1.0
+96024488075997184	july 26	79	july 26	1.0
+96008818168832001	long island, ny	110	long island	1.0
+96004045017321473	haryana	71	haryana	1.0
+95984772718927873	deal	33	cot deal	1.0
+95984772718927873	santonio holmes	53	santonio holmes	1.0
+95984772718927873	santonio	53	santonio holmes	1.0
+95984772718927873	holmes	62	santonio holmes	1.0
+95984772718927873	holmes	26	tommy holmes	1.0
+95974630371758080	landslide	0	landslide (heroes)	1.0
+95969501367111680	raiders	32	oakland raiders	1.0
+95969501367111680	moss	54	jarvis moss	1.0
+95969501367111680	jarvis moss	47	jarvis moss	1.0
+95969501367111680	jarvis	47	jarvis moss	1.0
+95962079915290624	hospital	21	johns hopkins hospital	1.0
+95962079915290624	blue bombers	46	winnipeg blue bombers	1.0
+95953148530790400	boehner	38	john boehner	1.0
+95923363402362880	market crash of 1929	73	wall street crash of 1929	1.0
+95922572083990528	poll	118	jon poll	1.0
+95916316975824898	winehouse	18	amy winehouse	1.0
+95910369452769280	david wu	0	david wu	1.0
+95910369452769280	david	0	david wu	1.0
+95906544255897600	andre villas-boas	43	andré villas-boas	1.0
+95906498089189376	l.	108	carl linnaeus	1.0
+95903901823414272	chancellor george osborne	33	george osborne	1.0
+95900827423735808	subash	17	subash (film)	1.0
+95900827423735808	kumar	24	ajith kumar	1.0
+95898503749963777	view	75	acornsoft	1.0
+95898503749963777	citizens	10	lerner newspapers	1.0
+95895148315164673	rt	0	rt (tv network)	1.0
+95895148315164673	lady gaga	20	lady gaga	1.0
+95871789216972800	priority	55	priority (album)	1.0
+95802517128089601	indian air force	62	indian air force	1.0
+95724083647488000	blister	105	budgie (musician)	1.0
+95647738900922368	new post	0	new post, wisconsin	1.0
+95646136685174834	butt heads	82	butt-head	1.0
+95645142622539776	microsoft azure	19	microsoft azure	1.0
+95645142622539776	excellence	45	excellence (software)	1.0
+95645142622539776	capgemini	67	capgemini	1.0
+95645142622539776	capgemini	0	capgemini	1.0
+95645142622539776	azure	29	microsoft azure	1.0
+95640744055939072	adaptation of	41	the lord of the rings (1981 radio series)	1.0
+95640744055939072	max allan collins	55	max allan collins	1.0
+95640744055939072	max	55	max allan collins	1.0
+95640744055939072	earp	30	wyatt earp	1.0
+95640744055939072	black hats	82	max allan collins	1.0
+95629074516549632	longhorn network	73	longhorn network	1.0
+95629074516549632	big 12	93	big 12 conference	1.0
+95602793385177088	show	70	show (the cure album)	1.0
+95555792912134144	september	61	september (earth, wind & fire song)	1.0
+95555757415743488	jack layton	10	jack layton	1.0
+95553711010619393	seal	32	jimmy seal	1.0
+95553711010619393	news	7	news corporation	1.0
+95552444322430977	incidents	75	september 11 attacks	1.0
+95535998452240384	wagoner county	84	wagoner county, oklahoma	1.0
+95535998452240384	rural water	99	national rural water association	1.0
+95506152313470976	boehner	3	john boehner	1.0
+95502045565562880	borno state	29	borno state	1.0
+95502045565562880	bombs	18	turkey	1.0
+95489982260723712	death of amy winehouse	53	amy winehouse	1.0
+95489982260723712	circumstances	27	context	1.0
+95489982260723712	winehouse	66	amy winehouse	1.0
+95489083136155649	gunman	11	seung-hui cho	1.0
+95489083136155649	breivik	18	marit breivik	1.0
+95434223678263297	truong tan sang	85	trương tấn sang	1.0
+95434223678263297	truong tan	85	trương tân	1.0
+95430079714299904	wigan	63	wigan athletic f.c.	1.0
+95430079714299904	aston	19	aston villa f.c.	1.0
+95396113888194560	aljazeera.net	110	al jazeera	1.0
+95396113888194560	misr	30	cairo	1.0
+95396113888194560	al	19	al taqwa bank	1.0
+95289511801663488	hot	0	billboard hot 100	1.0
+95269953741144066	update	16	update (anouk album)	1.0
+95236847910912000	bank of america	0	bank of america	1.0
+95236847910912000	america	8	united states	1.0
+95235611476234240	suarez	32	francisco suárez	1.0
+95235611476234240	suarez	27	ken suarez	1.0
+95235611476234240	forlan	44	diego forlán	1.0
+95222918291783680	martin guptill	9	martin guptill	1.0
+95222918291783680	guptill	16	martin guptill	1.0
+95188303338422272	newlyweds	20	newlyweds (film)	1.0
+95188303338422272	ny	33	new york city	1.0
+95182527685337089	youtube video	89	youtube	1.0
+95182527685337089	youtube	89	youtube	1.0
+95182527685337089	thai police	35	royal thai police	1.0
+95128487727349760	race	40	2005 chinese grand prix	1.0
+95127529593122816	orwell prize	47	orwell prize	1.0
+95127529593122816	orwell	47	orwell prize	1.0
+95127529593122816	johann hari	17	johann hari	1.0
+95127529593122816	johann	17	johann hari	1.0
+95127529593122816	hari	24	johann hari	1.0
+95072342140653568	talks	42	2009 united nations climate change conference	1.0
+95072342140653568	collapse	48	bankruptcy of lehman brothers	1.0
+95072342140653568	brink	13	brink lindsey	1.0
+95072342140653568	obama	0	barack obama	1.0
+95069213244399617	norwegian police	6	norwegian police service	1.0
+95069213244399617	fri	57	fractionation research inc.	1.0
+95056222239211520	steven gerrard	12	steven gerrard	1.0
+95056222239211520	steven	12	steven gerrard	1.0
+95026054955155456	tottenham	62	tottenham hotspur f.c.	1.0
+95026054955155456	modric	95	luka modrić	1.0
+95026054955155456	luka modric	90	luka modrić	1.0
+95026054955155456	luka	90	luka bloom	1.0
+94934958866579456	good news	0	russell howard's good news	1.0
+94899638661951488	terror	39	urban terror	1.0
+94899638661951488	scenes	29	bdsm	1.0
+94899638661951488	norway	13	norge (airship)	1.0
+94884467910512640	girl	32	danger girl	1.0
+94884467910512640	linda christian	0	linda christian	1.0
+94884467910512640	linda	0	linda christian	1.0
+94884467910512640	christian	6	linda christian	1.0
+94884467910512640	bond	27	james bond	1.0
+94867896928448513	dc	33	dc comics	1.0
+94845125288665088	winehouse	5	amy winehouse	1.0
+94845125288665088	facebook	46	facebook	1.0
+94829178528075776	winehouse	39	amy winehouse	1.0
+94828031247515648	winehouse	17	amy winehouse	1.0
+94823264559431683	winehouse	19	amy winehouse	1.0
+94823247807393792	winehouse	50	amy winehouse	1.0
+94823247807393792	winehouse	4	amy winehouse	1.0
+94820869603471360	winehouse	8	amy winehouse	1.0
+94818647805140993	solidarity	56	pope john paul ii	1.0
+94816578838872066	winehouse	4	amy winehouse	1.0
+94813064473481216	winehouse	19	amy winehouse	1.0
+94812166439452672	winehouse	25	amy winehouse	1.0
+94811470172393472	winehouse	29	amy winehouse	1.0
+94811470172393472	kurt	102	kurt cobain	1.0
+94811470172393472	joplin	94	janis joplin	1.0
+94811470172393472	jimmi hendrix	117	jimi hendrix	1.0
+94811470172393472	janis joplin	88	janis joplin	1.0
+94811470172393472	janis	88	janis joplin	1.0
+94811470172393472	hendrix	123	jimi hendrix	1.0
+94811470172393472	amy winehouse	25	amy winehouse	1.0
+94811470172393472	amy	25	amy winehouse	1.0
+94811470172393472	rip	21	poppy z. brite	1.0
+94811470172393472	dead	67	grateful dead	1.0
+94811433027633152	home	39	new york city	1.0
+94811433027633152	winehouse	4	amy winehouse	1.0
+94811433027633152	amy	0	amy winehouse	1.0
+94811243692568577	member of the	35	member of the legislative assembly	1.0
+94811243692568577	winehouse	4	amy winehouse	1.0
+94810610474295297	lady	34	lady gaga	1.0
+94810610474295297	winehouse	8	amy winehouse	1.0
+94810397047132161	death and	9	crucifixion of jesus	1.0
+94810397047132161	winehouse	8	amy winehouse	1.0
+94810322493390848	winehouse	8	amy winehouse	1.0
+94810322493390848	rip	0	rip hunter	1.0
+94810268923736064	amy whinehouse	14	amy winehouse	1.0
+94810268923736064	amy	14	amy winehouse	1.0
+94809680999759872	winehouse	4	amy winehouse	1.0
+94808169984954368	winehouse	8	amy winehouse	1.0
+94807440419332097	winehouse	33	amy winehouse	1.0
+94807286882635776	winehouse	42	amy winehouse	1.0
+94807286882635776	met	0	metropolitan police service	1.0
+94776543078912000	israel	0	israel	1.0
+94775708471144448	youtube	63	youtube	1.0
+94775708471144448	lady gaga	0	lady gaga	1.0
+94775708471144448	lady	0	lady gaga	1.0
+94767948295700480	kyodo	55	kyodo news	1.0
+94764774340046849	arsenal	12	arsenal f.c.	1.0
+94759766982799360	su	110	soviet union	1.0
+94646227211272192	alaska	63	alaska highway	1.0
+94586689342816256	killings	21	killing floor (video game)	1.0
+94586689342816256	norwegian police	0	norwegian police service	1.0
+94575922270838784	u.s.	33	united states	1.0
+94575922270838784	progressive field	59	progressive field	1.0
+94575922270838784	progressive	59	progressive corporation	1.0
+94575922270838784	field	71	josh fields (infielder)	1.0
+94575922270838784	dunn	26	adam dunn	1.0
+94563016393232384	verizon	0	verizon communications	1.0
+94563016393232384	july 25	36	july 25	1.0
+94542412994711552	profile	20	profile (microsoft service)	1.0
+94542412994711552	facebook	11	facebook	1.0
+94542412994711552	breivik	57	breivik (surname)	1.0
+94542412994711552	anders behring breivik	42	anders behring breivik	1.0
+94542412994711552	anders behring	42	anders behring breivik	1.0
+94539178125176833	p.m.	51	paul mccartney	1.0
+94539178125176833	speaker boehner	0	john boehner	1.0
+94539178125176833	speaker	0	speaker of the united states house of representatives	1.0
+94539178125176833	et	0	entertainment tonight	1.0
+94539178125176833	boehner	8	john boehner	1.0
+94526163174690817	et	0	e.t. the extra-terrestrial	1.0
+94524421292834816	president obama	0	barack obama	1.0
+94524421292834816	et	0	e.t. the extra-terrestrial	1.0
+94523757728776192	facebook	0	facebook	1.0
+94523757728776192	boston	29	boston	1.0
+94510033202724865	world report	68	world report	1.0
+94510033202724865	us news and world report	56	u.s. news & world report	1.0
+94510033202724865	us news	56	u.s. news & world report	1.0
+94502159269363712	jets	9	winnipeg jets	1.0
+94499737323057152	sept 20	24	september 20	1.0
+94493514397790208	police in norway	0	norwegian police service	1.0
+94481646916603904	rt	0	rt (tv network)	1.0
+94481646916603904	norwegian police	13	norwegian police service	1.0
+94480845791956993	rt	0	rt (tv network)	1.0
+94464484923539456	norway	0	norge (airship)	1.0
+94462178547077123	oslo	74	oslo	1.0
+94462178547077123	nrk	24	nrk	1.0
+94460960584105984	stepping hill hospital	79	stepping hill hospital	1.0
+94456468476137472	ut	83	utah	1.0
+94453092074008577	strathclyde police	34	strathclyde police	1.0
+94442234325381120	man	2	lee wai man	1.0
+94442234325381120	labour party conference	57	labour party (uk) conference	1.0
+94441788412133377	norway	0	norge (airship)	1.0
+94441243634962432	norwegian police	0	norwegian police service	1.0
+94441232654278656	training camp	107	camp cody	1.0
+94441232654278656	cesc fabregas	0	cesc fàbregas	1.0
+94441232654278656	cesc	0	cesc fàbregas	1.0
+94440137878020096	camp	85	campbell county, wyoming	1.0
+94440137878020096	island	104	irish republic	1.0
+94429050306707456	darren criss	21	darren criss	1.0
+94429050306707456	daniel radcliffe	54	daniel radcliffe	1.0
+94421647397888000	new	88	united states	1.0
+94421647397888000	bethenny frankel	15	bethenny frankel	1.0
+94408737305018369	struggle	6	vietnam war	1.0
+94408737305018369	prince	86	house of saud	1.0
+94404324922363904	rt	0	rt (tv network)	1.0
+94398791322578944	mayo clinic	0	mayo clinic	1.0
+94386507481219072	damascus	62	syria	1.0
+94376906727763968	today	40	today (bbc radio 4)	1.0
+94376906727763968	msl	99	mars science laboratory	1.0
+94303538561290240	indus	3	indus (constellation)	1.0
+94303538561290240	sun on sunday	46	the sun (united kingdom)	1.0
+94209038987952128	third studio album	18	here i am (kelly rowland album)	1.0
+94209038987952128	september 20th	71	september 20	1.0
+94209038987952128	demi	11	demi (album)	1.0
+94201131856707584	world	113	earth	1.0
+94198829171216384	lawrence booth	56	lawrence booth	1.0
+94195086182723585	hubble space telescope	4	edwin hubble	1.0
+94195086182723585	good news	0	russell howard's good news	1.0
+94194936869683200	nflpa	28	national football league players association	1.0
+94181439586828288	android market	0	google play	1.0
+94156730929381376	fodor	59	eugene fodor (writer)	1.0
+94153790718099456	paypal	48	paypal	1.0
+94142968830758913	copies	28	disk copy	1.0
+94138194685210624	nyt	66	the new york times	1.0
+94137483159281664	microsoft	0	microsoft	1.0
+94135082436132864	bailout package	59	emergency economic stabilization act of 2008	1.0
+94135082436132864	eurozone	15	eurozone	1.0
+94120019432181760	zack snyder	33	zack snyder	1.0
+94115609981358080	news international	35	news uk	1.0
+94103364815699969	s&p	0	standard & poor's	1.0
+94084505031282688	trax	75	trax (nightclub)	1.0
+94079773847986177	wa	110	washington (state)	1.0
+94079773847986177	superquinn	76	superquinn	1.0
+94079773847986177	superquinn	0	superquinn	1.0
+94070517031636997	mirror	64	daily mirror	1.0
+94070517031636997	cnn	17	cnn	1.0
+94017622659710976	mp	51	house of representatives (netherlands)	1.0
+93999585655140352	third doctor	85	third doctor	1.0
+93999585655140352	alastair reynolds	49	alastair reynolds	1.0
+93983936493010944	sts-135	118	sts-135	1.0
+93983936493010944	kennedy space center	31	kennedy space center	1.0
+93983936493010944	earth	76	earth	1.0
+93960668197289984	scottish power	67	scottish power	1.0
+93942339093004288	msnbc	36	msnbc	1.0
+93942339093004288	al sharpton	0	al sharpton	1.0
+93942339093004288	al	0	al sharpton	1.0
+93923166950395904	interview	65	interview (magazine)	1.0
+93905391481651200	yuri	25	kwon yuri	1.0
+93905391481651200	wave	74	wave (cnblue album)	1.0
+93905391481651200	snsd	13	girls' generation	1.0
+93905391481651200	korean music	61	music of korea	1.0
+93905391481651200	incheon korean music wave	53	incheon korean music wave	1.0
+93899167105167360	delays	66	tom delay	1.0
+93878998903431168	winnepeg	35	winnipeg	1.0
+93878998903431168	comic-con	6	san diego comic-con international	1.0
+93843835846803456	international	6	europe	1.0
+93800424825565184	wa	115	ka hsaw wa	1.0
+93800424825565184	albuquerque, nm	57	albuquerque, new mexico	1.0
+93794603127410688	tubular bells	37	tubular bells	1.0
+93794603127410688	bells	45	andy bell (singer)	1.0
+93794603127410688	andrew weatherall	12	andrew weatherall	1.0
+93794603127410688	andrew	12	andrew weatherall	1.0
+93788792196050945	friends	18	friends	1.0
+93788792196050945	ayn rand	31	ayn rand	1.0
+93788792196050945	ayn	31	ayn rand	1.0
+93786420036108288	jeff francoeur	66	jeff francoeur	1.0
+93783806972149761	starbucks	107	phil starbuck	1.0
+93783806972149761	harley	26	les harley	1.0
+93783806972149761	ct	19	connecticut	1.0
+93777976876998656	dc	60	dc comics	1.0
+93772654351351808	face	125	facebook	1.0
+93772654351351808	alexa	27	alexa internet	1.0
+93770706759843840	pay attention	0	pay attention	1.0
+93766255764439041	taylor lautner	54	taylor lautner	1.0
+93766255764439041	facebook	84	facebook	1.0
+93761496332517376	brotha	129	brotha lynch hung	1.0
+93755852032454656	woods	6	tiger woods	1.0
+93755852032454656	williams	44	steve williams (caddy)	1.0

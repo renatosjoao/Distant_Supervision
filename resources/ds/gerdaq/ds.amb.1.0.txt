@@ -1,0 +1,11 @@
+http:__gerdaq_gerdaq_trainingb.xml_99	singapore	34	singapore dollar	1.0
+http:__gerdaq_gerdaq_trainingb.xml_99	electricity consumption	4	electric energy consumption	1.0
+http:__gerdaq_gerdaq_trainingb.xml_97	merchandise	0	merchandising	1.0
+http:__gerdaq_gerdaq_trainingb.xml_96	exams	15	test (assessment)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	sbc	0	sandusky bay conference	1.0
+http:__gerdaq_gerdaq_trainingb.xml_93	golf tournament	4	golf	1.0
+http:__gerdaq_gerdaq_trainingb.xml_9	hotels	8	hotel	1.0
+http:__gerdaq_gerdaq_trainingb.xml_89	rogers	0	rogers department store	1.0
+http:__gerdaq_gerdaq_trainingb.xml_86	wayland	0	wayland (display server protocol)	1.0
+http:__gerdaq_gerdaq_trainingb.xml_83	birth control	14	birth control	1.0
+http:__gerdaq_gerdaq_trainingb.xml_78	lasik surgery	0	lasik	1.0

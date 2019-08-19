@@ -1,0 +1,355 @@
+tw_60.txt	joe torre	27	joe torre	0.7346417
+tw_117.txt	ebgp	54	border gateway protocol	0.69847775
+tw_169.txt	pretty little liars	31	pretty little liars	0.69528997
+tw_41.txt	sea inside	116	the sea inside	0.6918539
+tw_126.txt	marvin gaye	14	marvin gaye	0.6902
+tw_60.txt	don mattingly	0	don mattingly	0.6882333
+tw_160.txt	netflix	75	netflix	0.6827047
+tw_66.txt	xbox 360	0	xbox 360	0.68158
+tw_37.txt	yhoo.it	124	yahoo!	0.67560554
+tw_70.txt	mayday parade	0	mayday parade	0.66863
+tw_66.txt	playstation network	55	playstation network	0.66275
+tw_41.txt	rachel weisz	133	rachel weisz	0.65475
+tw_160.txt	time warner cable	0	time warner cable	0.65450996
+tw_139.txt	paris hilton	51	paris hilton	0.643135
+tw_18.txt	kings of leon	30	kings of leon	0.631375
+tw_47.txt	steve king	16	steve king	0.6279286
+tw_160.txt	epix	29	epix	0.6271545
+tw_117.txt	ibgp	45	border gateway protocol	0.6270492
+tw_36.txt	jermaine dupri	35	jermaine dupri	0.62656367
+tw_28.txt	ed miliband	71	ed miliband	0.625885
+tw_130.txt	soulja boy	0	soulja boy	0.62380713
+tw_130.txt	deandre way	38	soulja boy	0.62380713
+tw_97.txt	john henry newman	29	john henry newman	0.6217833
+tw_97.txt	pope benedict xvi	66	pope benedict xvi	0.6204778
+tw_139.txt	miley cyrus	5	miley cyrus	0.620395
+tw_24.txt	fb.me	120	facebook	0.61911875
+tw_23.txt	brett favre	128	brett favre	0.61904997
+tw_181.txt	lady gaga	44	lady gaga	0.618235
+tw_115.txt	fb.me	45	facebook	0.611775
+tw_159.txt	30stm	29	thirty seconds to mars	0.61117
+tw_49.txt	family guy	27	family guy	0.61046666
+tw_11.txt	rick ross	32	rick ross	0.608815
+tw_124.txt	margaret hamburg	90	margaret hamburg	0.60653335
+tw_80.txt	fb.me	125	facebook	0.60412
+tw_66.txt	enslaved: odyssey to the west	10	enslaved: odyssey to the west	0.6
+tw_157.txt	justin bieber	42	justin bieber	0.599675
+tw_181.txt	kid cudi	0	kid cudi	0.59862
+tw_36.txt	mannie fresh	18	mannie fresh	0.59714997
+tw_44.txt	tell ' em steve dave	24	tell 'em steve-dave!	0.5941167
+tw_89.txt	miami heat	66	miami heat	0.59058
+tw_35.txt	three days grace	24	three days grace	0.5864889
+tw_131.txt	joaquin phoenix	3	joaquin phoenix	0.58645
+tw_41.txt	mar adentro	95	the sea inside	0.58209777
+tw_1.txt	fb.me	125	facebook	0.5819357
+tw_71.txt	htc desire z	21	htc desire z	0.58088124
+tw_143.txt	barbara boxer	50	barbara boxer	0.5796773
+tw_137.txt	fall out boy	52	fall out boy	0.57961
+tw_38.txt	ray rice	46	ray rice	0.57745
+tw_172.txt	sky news	41	sky news	0.5730926
+tw_55.txt	amzn	121	amazon.com	0.5728
+tw_118.txt	branchout	29	branchout	0.5707286
+tw_156.txt	serie a	29	serie a	0.5705875
+tw_55.txt	you get what you give	0	you get what you give (album)	0.56470627
+tw_158.txt	hyper v	41	hyper-v	0.5645512
+tw_55.txt	zac brown band	23	zac brown band	0.5644625
+tw_121.txt	ufc	112	ultimate fighting championship	0.5639539
+tw_7.txt	sun, sand, surf	59	surf culture	0.5632375
+tw_19.txt	piranha 3d	54	piranha 3d	0.55995
+tw_105.txt	fb.me	120	facebook	0.55918634
+tw_127.txt	fb.me	126	facebook	0.55902
+tw_57.txt	zinfandel	13	zinfandel	0.5579819
+tw_111.txt	adam beyer	0	adam beyer	0.5570418
+tw_163.txt	quidditch	36	quidditch	0.55359167
+tw_87.txt	chris_daughtry	4	chris daughtry	0.5509818
+tw_166.txt	winter's bone	42	winter's bone	0.55097854
+tw_42.txt	crown college	17	crown college (minnesota)	0.5482
+tw_112.txt	miami 2 ibiza	95	miami 2 ibiza	0.5476214
+tw_147.txt	wildcat stadium	39	abilene christian university	0.5464577
+tw_174.txt	larry bird	99	larry bird	0.5419125
+tw_27.txt	give me	18	give in to me	0.5414571
+tw_15.txt	london irish	67	london irish	0.5404242
+tw_26.txt	christine o'donnell	63	christine o'donnell	0.53961
+tw_131.txt	andy kaufman	34	andy kaufman	0.53743184
+tw_16.txt	cathedral of learning	71	cathedral of learning	0.53415
+tw_53.txt	tipitina	11	tipitina	0.53226364
+tw_49.txt	youtube	10	youtube	0.5316679
+tw_88.txt	ow.ly	125	hootsuite	0.5313727
+tw_176.txt	sour patch kids	85	sour patch kids	0.53083634
+tw_47.txt	constitution day	56	constitution day (united states)	0.5307126
+tw_119.txt	stephen fry	27	stephen fry	0.5306375
+tw_108.txt	ow.ly	105	hootsuite	0.5303937
+tw_21.txt	deau	82	thierry déau	0.5302
+tw_103.txt	goo.gl	77	url shortening	0.52954644
+tw_119.txt	sky 3d	12	sky 3d	0.52598125
+tw_62.txt	nzst	57	time in new zealand	0.52584696
+tw_27.txt	4sq.com	62	foursquare	0.52577144
+tw_149.txt	sega genesis	15	sega genesis	0.5252933
+tw_151.txt	twitter	98	twitter	0.5247906
+tw_34.txt	pumpkin moonshine	38	jack-o'-lantern	0.5230944
+tw_152.txt	growhouse	81	grow house	0.517255
+tw_138.txt	hdcp	87	high-bandwidth digital content protection	0.5159782
+tw_140.txt	a7x	114	avenged sevenfold	0.51215667
+tw_95.txt	scooter braun	60	scooter braun	0.51154447
+tw_123.txt	boston* accent	65	boston accent	0.50870657
+tw_94.txt	nxt	55	wwe nxt	0.50276005
+tw_95.txt	tinyurl.com	121	tinyurl	0.5
+tw_90.txt	ow.ly	125	hootsuite	0.5
+tw_86.txt	com 4	129	μcom-4	0.5
+tw_77.txt	beat us	79	shocking blue (album)	0.5
+tw_76.txt	com/a	101	alpha comae berenices	0.5
+tw_69.txt	life. one day	33	life in one day	0.5
+tw_65.txt	giles deacon	27	giles deacon	0.5
+tw_65.txt	amber le bon	0	amber le bon	0.5
+tw_64.txt	tinyurl.com	119	tinyurl	0.5
+tw_64.txt	plano balloon festival	0	plano balloon festival	0.5
+tw_62.txt	tinyurl.com	105	tinyurl	0.5
+tw_59.txt	jessica simpson	0	jessica simpson	0.5
+tw_58.txt	tinyurl.com	86	tinyurl	0.5
+tw_57.txt	snooth	0	snooth	0.5
+tw_51.txt	tinyurl.com	115	tinyurl	0.5
+tw_50.txt	marcus bentley	38	marcus bentley	0.5
+tw_36.txt	at me	75	at or with me	0.5
+tw_32.txt	lingerie football league	0	legends football league	0.5
+tw_25.txt	friday news dump	69	document dump	0.5
+tw_157.txt	tinyurl.com	120	tinyurl	0.5
+tw_143.txt	tinyurl.com	87	tinyurl	0.5
+tw_129.txt	boy you	58	boy for you	0.5
+tw_114.txt	hurricane earl	27	hurricane earl (2010)	0.5
+tw_11.txt	time you	14	in time with you	0.5
+tw_109.txt	tinyurl.com	75	tinyurl	0.5
+tw_12.txt	antipsychotic	39	antipsychotic	0.49927396
+tw_47.txt	tenth amendment	95	tenth amendment to the united states constitution	0.4952848
+tw_134.txt	vh1	79	vh1	0.49323493
+tw_164.txt	merlot	8	merlot	0.4896514
+tw_81.txt	da bears	26	chicago bears	0.4841788
+tw_92.txt	barbados	65	barbados	0.47730383
+tw_151.txt	facebook	70	facebook	0.47372007
+tw_12.txt	adhd	21	attention deficit hyperactivity disorder	0.47074735
+tw_142.txt	tmz	46	tmz	0.47058937
+tw_63.txt	panic attack	73	panic attack	0.47056836
+tw_102.txt	bit.ly	63	bitly	0.46936667
+tw_46.txt	nokia	70	nokia	0.46348268
+tw_170.txt	slovenia	26	slovenia	0.46327314
+tw_76.txt	la bamba	2	list of dance dance revolution video games	0.46296385
+tw_40.txt	jersey shore	99	jersey shore (tv series)	0.4622165
+tw_138.txt	gigaom	1	gigaom	0.4615368
+tw_130.txt	t.co	80	twitter	0.46078336
+tw_48.txt	techland	62	techland	0.45454547
+tw_63.txt	st john's wort	13	hypericum perforatum	0.45196217
+tw_75.txt	bit.ly	125	bitly	0.4473762
+tw_35.txt	t.co	84	twitter	0.4466278
+tw_35.txt	youtube	102	youtube	0.4385262
+tw_138.txt	bit.ly	125	bitly	0.4352288
+tw_77.txt	kilkenny	59	kilkenny gaa	0.43266976
+tw_170.txt	bit.ly	114	bitly	0.4325262
+tw_77.txt	youtube	19	youtube	0.4324379
+tw_49.txt	youtu.be	72	youtube	0.4309607
+tw_90.txt	caption contest	74	caption contest	0.42857143
+tw_57.txt	bit.ly	124	bitly	0.4279396
+tw_111.txt	bit.ly	125	bitly	0.42681333
+tw_70.txt	all time low	55	all time low	0.4258389
+tw_138.txt	drm	9	digital rights management	0.4236309
+tw_53.txt	tipitina's	11	tipitina's	0.42092866
+tw_5.txt	polydactyl	75	polydactyl cat	0.41967857
+tw_48.txt	itunes	40	itunes store	0.41854
+tw_71.txt	bit.ly	125	bitly	0.41764584
+tw_117.txt	isp	119	internet service provider	0.41411406
+tw_48.txt	bit.ly	90	bitly	0.4137
+tw_15.txt	before i forget	3	before i forget (song)	0.41129032
+tw_28.txt	ladbrokes	14	ladbrokes coral	0.41099486
+tw_124.txt	bit.ly	125	bitly	0.40999445
+tw_60.txt	la dodgers	40	los angeles dodgers	0.40898332
+tw_181.txt	bit.ly	109	bitly	0.40465835
+tw_154.txt	livemusic	12	livemusic	0.4
+tw_171.txt	lincoln park	77	lincoln park, chicago	0.39832303
+tw_145.txt	doha	54	doha	0.3976117
+tw_97.txt	bit.ly	125	bitly	0.39583334
+tw_96.txt	bit.ly	104	bitly	0.39583334
+tw_94.txt	bit.ly	115	bitly	0.39583334
+tw_79.txt	bit.ly	69	bitly	0.39583334
+tw_66.txt	bit.ly	98	bitly	0.39583334
+tw_59.txt	bit.ly	125	bitly	0.39583334
+tw_47.txt	bit.ly	124	bitly	0.39583334
+tw_46.txt	bit.ly	7	bitly	0.39583334
+tw_28.txt	bit.ly	57	bitly	0.39583334
+tw_26.txt	bit.ly	96	bitly	0.39583334
+tw_171.txt	bit.ly	112	bitly	0.39583334
+tw_167.txt	bit.ly	106	bitly	0.39583334
+tw_166.txt	bit.ly	125	bitly	0.39583334
+tw_141.txt	bit.ly	124	bitly	0.39583334
+tw_139.txt	bit.ly	125	bitly	0.39583334
+tw_131.txt	bit.ly	124	bitly	0.39583334
+tw_119.txt	bit.ly	125	bitly	0.39583334
+tw_0.txt	bit.ly	94	bitly	0.39583334
+tw_17.txt	blogspot	68	blogger (service)	0.3943625
+tw_17.txt	http	47	hypertext transfer protocol	0.38809863
+tw_37.txt	yahoo	0	yahoo!	0.38784635
+tw_117.txt	cisco	62	cisco systems	0.38740298
+tw_167.txt	michael kraus	66	michael kraus (soccer)	0.3857143
+tw_118.txt	facebook	4	facebook	0.38371864
+tw_37.txt	twitter	20	twitter	0.3835306
+tw_161.txt	lake charles	38	lake charles, louisiana	0.37991983
+tw_12.txt	t.co	65	twitter	0.37899047
+tw_62.txt	christchurch	84	christchurch	0.37845355
+tw_138.txt	http	118	hypertext transfer protocol	0.37752247
+tw_53.txt	twitter	70	twitter	0.37637603
+tw_75.txt	http	118	hypertext transfer protocol	0.37637183
+tw_79.txt	wwrn	52	renewfm	0.375
+tw_170.txt	http	107	hypertext transfer protocol	0.3749718
+tw_161.txt	shreveport	22	shreveport, louisiana	0.3645358
+tw_17.txt	html	126	html	0.36181632
+tw_70.txt	maine	20	the maine (band)	0.35962218
+tw_69.txt	maccabees	4	the maccabees (band)	0.35947955
+tw_55.txt	http	114	hypertext transfer protocol	0.35942987
+tw_141.txt	http	117	hypertext transfer protocol	0.3594261
+tw_37.txt	jfk campaign	43	khojaly massacre	0.3586111
+tw_47.txt	obamacare	30	patient protection and affordable care act	0.35808474
+tw_122.txt	blakehurst	35	blakehurst, new south wales	0.35714287
+tw_168.txt	cebu	75	cebu city	0.35687155
+tw_48.txt	google music	0	google play music	0.35545
+tw_117.txt	juniper	72	juniper networks	0.35410658
+tw_99.txt	fayette county	34	fayette county, tennessee	0.35312632
+tw_122.txt	trave	81	french frigate trave (1812)	0.3529412
+tw_48.txt	time. com	73	time (magazine)	0.3511111
+tw_109.txt	http	68	hypertext transfer protocol	0.35032183
+tw_102.txt	http	56	hypertext transfer protocol	0.34896946
+tw_101.txt	canwest	50	canwest	0.3482825
+tw_138.txt	copy protection	31	copy protection	0.3471019
+tw_43.txt	flook	14	flook (band)	0.34536082
+tw_37.txt	http	117	hypertext transfer protocol	0.34406945
+tw_94.txt	jupiter	0	jupiter	0.3437762
+tw_163.txt	eyeopener	14	the eyeopener	0.34182966
+tw_71.txt	http	118	hypertext transfer protocol	0.3415361
+tw_46.txt	http	0	hypertext transfer protocol	0.34112778
+tw_22.txt	ypf	62	ypf	0.33921552
+tw_79.txt	israel	0	israel	0.33737275
+tw_66.txt	http	91	hypertext transfer protocol	0.3364861
+tw_177.txt	wb	80	the wb	0.33569014
+tw_93.txt	yahoo	62	yahoo!	0.3309341
+tw_93.txt	http	110	hypertext transfer protocol	0.33020943
+tw_4.txt	kick-ass	61	kick-ass (film)	0.33017895
+tw_179.txt	whl	113	western hockey league	0.329651
+tw_135.txt	lincoln park	19	lincoln park	0.32844576
+tw_51.txt	http	108	hypertext transfer protocol	0.3279361
+tw_43.txt	http	43	hypertext transfer protocol	0.32778612
+tw_71.txt	amazon u.k	0	amazon.com	0.32726842
+tw_160.txt	http	83	hypertext transfer protocol	0.32675278
+tw_130.txt	http	73	hypertext transfer protocol	0.32595038
+tw_92.txt	manchester	23	manchester	0.32549402
+tw_178.txt	mcdonalds	46	mcdonald's	0.32522035
+tw_46.txt	nokia 5800	70	nokia 5800 xpressmusic	0.32328624
+tw_101.txt	father's day	19	father's day (2011 film)	0.32248333
+tw_41.txt	agora	38	agora (film)	0.32190832
+tw_17.txt	blogspot.com	68	blogger (service)	0.3208331
+tw_73.txt	pepsi	48	pepsi	0.31959903
+tw_181.txt	cocaine	24	cocaine	0.31774238
+tw_178.txt	lmao	125	lol	0.31731945
+tw_43.txt	aberdeen	1	university of aberdeen	0.31651622
+tw_151.txt	tweeted	8	twitter	0.31414708
+tw_29.txt	blackberry	21	blackberry limited	0.3136216
+tw_170.txt	playboy	0	playboy	0.3129607
+tw_77.txt	http	8	hypertext transfer protocol	0.3115861
+tw_175.txt	all time low	20	all time low	0.3089689
+tw_54.txt	starwars	94	star wars	0.30751666
+tw_119.txt	http	118	hypertext transfer protocol	0.30746737
+tw_77.txt	hurling	115	hurling	0.30711138
+tw_177.txt	brittany	50	brittany pierce	0.30582446
+tw_58.txt	http	79	hypertext transfer protocol	0.30526114
+tw_47.txt	tea party	41	tea party movement	0.30431622
+tw_118.txt	http	115	hypertext transfer protocol	0.30354685
+tw_17.txt	gucci	9	gucci	0.302586
+tw_1.txt	http	118	hypertext transfer protocol	0.3024254
+tw_79.txt	yom kippur	28	yom kippur	0.3020221
+tw_35.txt	http	77	hypertext transfer protocol	0.30158055
+tw_83.txt	hattiesburg	48	hattiesburg, mississippi	0.30008712
+tw_44.txt	podcast	45	podcast	0.29924905
+tw_48.txt	http	83	hypertext transfer protocol	0.29788056
+tw_117.txt	routers	80	router (computing)	0.29653943
+tw_103.txt	http	70	hypertext transfer protocol	0.29635277
+tw_57.txt	http	117	hypertext transfer protocol	0.29619238
+tw_128.txt	at t	4	at&t	0.29608735
+tw_111.txt	techno	20	techno	0.29574448
+tw_139.txt	omg	0	yahoo! news	0.29443127
+tw_162.txt	route 66	35	route 66 (tv series)	0.2926275
+tw_80.txt	http	118	hypertext transfer protocol	0.29119113
+tw_167.txt	http	99	hypertext transfer protocol	0.29106793
+tw_36.txt	holla at me	69	holla at me	0.29104915
+tw_95.txt	http	114	hypertext transfer protocol	0.28720278
+tw_28.txt	http	50	hypertext transfer protocol	0.2870711
+tw_49.txt	http	65	hypertext transfer protocol	0.28687778
+tw_125.txt	halo reach	0	halo: reach	0.2857143
+tw_179.txt	yxe	100	saskatoon john g. diefenbaker international airport	0.2854625
+tw_149.txt	nintendo	6	nintendo	0.28478357
+tw_26.txt	http	89	hypertext transfer protocol	0.28236613
+tw_27.txt	http	55	hypertext transfer protocol	0.28225756
+tw_160.txt	movie channel	34	the movie channel	0.28223574
+tw_139.txt	http	118	hypertext transfer protocol	0.28217113
+tw_131.txt	http	117	hypertext transfer protocol	0.28197703
+tw_79.txt	http	62	hypertext transfer protocol	0.2808861
+tw_115.txt	http	38	hypertext transfer protocol	0.28034446
+tw_102.txt	social media	37	social media	0.2802075
+tw_104.txt	aintree	24	aintree	0.28019062
+tw_76.txt	portland	30	portland, oregon	0.28008842
+tw_108.txt	http	98	hypertext transfer protocol	0.27927986
+tw_96.txt	yom kippur	41	yom kippur	0.277086
+tw_96.txt	http	97	hypertext transfer protocol	0.27641946
+tw_24.txt	http	113	hypertext transfer protocol	0.27634236
+tw_52.txt	fes	49	iron(ii) sulfide	0.27582067
+tw_8.txt	http	65	hypertext transfer protocol	0.27576944
+tw_166.txt	http	118	hypertext transfer protocol	0.27497184
+tw_178.txt	t.i	77	t.i.	0.27496144
+tw_30.txt	metallurgy	92	metallurgy	0.27454317
+tw_76.txt	http	83	hypertext transfer protocol	0.2738861
+tw_12.txt	http	58	hypertext transfer protocol	0.27357182
+tw_111.txt	http	118	hypertext transfer protocol	0.27354613
+tw_124.txt	http	118	hypertext transfer protocol	0.27348056
+tw_143.txt	bono	5	bono	0.2722213
+tw_175.txt	maine	43	the maine (band)	0.27217218
+tw_88.txt	http	118	hypertext transfer protocol	0.27145883
+tw_104.txt	table tennis	46	table tennis	0.27090165
+tw_127.txt	http	119	hypertext transfer protocol	0.27080113
+tw_62.txt	http	98	hypertext transfer protocol	0.27056792
+tw_1.txt	salsa	89	salsa music	0.27018133
+tw_105.txt	http	113	hypertext transfer protocol	0.26949975
+tw_153.txt	http	54	hypertext transfer protocol	0.2690361
+tw_171.txt	chicago	93	chicago	0.26896676
+tw_11.txt	when the last time	0	when the last time	0.26881737
+tw_84.txt	ms-paint	65	microsoft paint	0.26853
+tw_116.txt	webcam	38	webcam	0.26760167
+tw_86.txt	mesa, az	81	mesa, arizona	0.26722223
+tw_135.txt	russian navy	54	russian navy	0.26566213
+tw_123.txt	new jersey	10	new jersey	0.2621197
+tw_143.txt	http	80	hypertext transfer protocol	0.26147702
+tw_94.txt	http	108	hypertext transfer protocol	0.2608011
+tw_154.txt	breaking & entering	60	burglary	0.25945872
+tw_181.txt	http	102	hypertext transfer protocol	0.25903612
+tw_53.txt	mac n ' cheese	99	macaroni and cheese	0.25864547
+tw_97.txt	http	118	hypertext transfer protocol	0.25648612
+tw_91.txt	http	71	hypertext transfer protocol	0.25648612
+tw_90.txt	http	118	hypertext transfer protocol	0.25648612
+tw_64.txt	http	112	hypertext transfer protocol	0.25648612
+tw_59.txt	http	118	hypertext transfer protocol	0.25648612
+tw_47.txt	http	117	hypertext transfer protocol	0.25648612
+tw_171.txt	http	105	hypertext transfer protocol	0.25648612
+tw_157.txt	http	113	hypertext transfer protocol	0.25648612
+tw_0.txt	http	87	hypertext transfer protocol	0.25648612
+tw_21.txt	paris	58	paris	0.25593555
+tw_61.txt	birmingham	34	birmingham	0.25466612
+tw_108.txt	early decision	14	early decision	0.25182566
+tw_179.txt	seattle	30	seattle	0.25047252
+tw_3.txt	avin	24	sigal avin	0.25
+tw_150.txt	good show	54	ktcu-fm	0.25
+tw_11.txt	drake	46	drake (musician)	0.24929
+tw_51.txt	s... http	103	secure hypertext transfer protocol	0.24712947
+tw_180.txt	lost for words	54	lost for words (mach one album)	0.24603175
+tw_150.txt	lol	32	lol (2012 film)	0.24503092
+tw_145.txt	seconds	43	second	0.24471176
+tw_23.txt	football	65	american football	0.24447688
+tw_110.txt	ipod	77	ipod	0.24365076
+tw_141.txt	s... http	112	secure hypertext transfer protocol	0.24311072
+tw_117.txt	wireless isp	110	wireless internet service provider	0.23860556
+tw_46.txt	pepsi	26	pepsi	0.23773652
+tw_67.txt	champagne	53	champagne	0.23735175
+tw_145.txt	mins	31	minute	0.23723698
+tw_154.txt	denver	26	denver	0.2346459
